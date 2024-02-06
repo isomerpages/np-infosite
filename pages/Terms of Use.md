@@ -6,9 +6,9 @@ description: ""
 ---
 <h2><strong>DISCLAIMER</strong></h2>
 <p>Ngee Ann Polytechnic owns and maintains this website as a service to its
-students and staff. We invite you to visit frequently to browse through
-our pages and download and copy materials for your personal use, subject
-to the restrictions outlined below.</p>
+students, staff and members of public. We invite you to visit frequently
+to browse through our pages and download and copy materials for your personal
+use, subject to the restrictions outlined below.</p>
 <h3><strong>Links to Third Party Information</strong></h3>
 <p>This website has links to many third party information providers who are
 not affiliated with the Polytechnic. The Polytechnic does not endorse any
