@@ -10,7 +10,7 @@ notification: Notebook registration starts from 25 Mar 2024 onwards. After
 sections:
   - hero:
       title: Software Portal
-      background: /images/header_students_banner.jpg
+      background: /images/Banner and Logo/header_students_banner.jpg
       key_highlights:
         - title: Year 1
           description: Software download
@@ -26,7 +26,13 @@ sections:
           url: /privacy/
       variant: image
       subtitle: Bridging your curriculum needs with the right software!
-  - infobar:
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: Software Download Client Program
+      subtitle: Add an image and text
+      id: infopic
+      description: Windows & Mac
+      button: Download
+      url: /clientprogram
+      image: /images/SWD_students.jpg
+      alt: students using digital devices
 ---
