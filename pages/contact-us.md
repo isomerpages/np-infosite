@@ -18,18 +18,15 @@ locations:
       - Off-site Service Desk
       - ""
       - ""
-    title: ITCare /DST
     operating_hours:
       - days: Mon - Fri
         time: 8.00am - 6.00pm
         description: ""
-      - days: Weekends
-        time: 9.00am - 6.00pm
-        description: ""
-      - days: Public Holidays
+      - days: Weekends - Public Holidays
         time: 9.00am - 6.00pm
         description: ""
     maps_link: https://www.google.com.sg/maps/place/Ngee+Ann+Polytechnic/@1.3328773,103.773027,17z/data=!3m1!4b1!4m5!3m4!1s0x31da107d8eb4e359:0x75d2e7ffdeeb0c43!8m2!3d1.3328719!4d103.7752157
+    title: ITCare /DST
 contacts:
   - content:
       - phone: +65 6460 8111
