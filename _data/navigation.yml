@@ -2,8 +2,8 @@ logo: /images/Banner and Logo/logo.png
 links:
   - title: About
     url: /about
-  - title: IT Services
-    collection: it-services
+  - title: Useful Links
+    collection: useful-links
   - title: Software Lists
     collection: software-lists
   - title: Frequently Asked Questions
