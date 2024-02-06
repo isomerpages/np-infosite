@@ -21,8 +21,8 @@ sections:
         - title: Email guide
           description: Access your connect email
           url: /email-guide
-        - title: Notebook specifications
-          description: What should I buy?
+        - title: Specifications
+          description: Notebook requirements
           url: /notebook-specs
       variant: image
       subtitle: Bridging your curriculum needs with the right software!
