@@ -5,9 +5,9 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
-<h3>Download software onto your notebook with effect from 25 Mar 2024</h3>
+<h3>Download software onto your notebook with effect from 25 March 2024</h3>
 </blockquote>
-<p><strong>​​​​​​​​​​​​​<br></strong>After enrolment, wait for <strong><u>ONE</u></strong> business
+<p><strong>​​​​​​​​​​​</strong>After enrolment, wait for <strong><u>ONE</u></strong> business
 day before registering your notebook and installing software.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Pages/SWD_students.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Identify a suitable notebook and ensure that it meets the minimum specifications for your course.</div><div class="isomer-card-description">Select your course from the list.</div><div class="isomer-card-link">Notebook specifications</div></div></a>
 </div>
@@ -29,5 +29,4 @@ software that is not compatible with the Apple Mac operating system.</p>
 </div>
 </a>
 </div>
-<p>Refer to the <a href="https://swd.np.edu.sg/Guides/SoftwareList-Year1.pdf" rel="noopener noreferrer nofollow" target="_blank">list of software</a> required
-for Year 1 students.</p>
+<p>Refer to the list of software required for <a href="https://swd.np.edu.sg/Guides/SoftwareList-Year1.pdf" rel="noopener noreferrer nofollow" target="_blank">Year 1</a> students.</p>
