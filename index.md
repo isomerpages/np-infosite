@@ -24,6 +24,8 @@ sections:
         - title: Notebook specifications
           description: What should I buy?
           url: /privacy/
+      variant: image
+      subtitle: Bridging your curriculum needs with the right software!
   - infobar:
       button: Button text
       url: /faq/
