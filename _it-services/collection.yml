@@ -2,9 +2,9 @@ collections:
   it-services:
     output: true
     order:
-      - POLITEMall.md
       - NPNet Account.md
       - Wireless Setup.md
       - Connect Email.md
       - NPal Student.md
+      - POLITEMall.md
       - IT Policies & Practices.md
