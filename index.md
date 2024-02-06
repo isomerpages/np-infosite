@@ -14,16 +14,16 @@ sections:
       key_highlights:
         - title: Year 1
           description: Software download
-          url: https://google.com
+          url: /year1
         - title: Year 2 and 3
           description: Software download
-          url: https://gmail.com
+          url: /year2-3
         - title: Email guide
           description: Access your connect email
-          url: ""
+          url: /email-guide
         - title: Notebook specifications
           description: What should I buy?
-          url: /privacy/
+          url: /notebook-specs
       variant: image
       subtitle: Bridging your curriculum needs with the right software!
   - infopic:
