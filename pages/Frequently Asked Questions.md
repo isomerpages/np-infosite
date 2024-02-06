@@ -7,7 +7,7 @@ description: ""
 <h3><strong>FAQ</strong></h3>
 <ol>
 <li>
-<p><strong>Do I have to pay for the software? </strong>
+<p><strong>Do I have to pay for the software?</strong>
 </p>
 <p>You do not have to pay for the software. Ngee Ann Polytechnic provides
 licensed software to students throughout their course of study.</p>
@@ -58,10 +58,30 @@ in your email.</p>
 <p></p>
 </li>
 <li>
+<p><strong>How long will it take for me to download the software required for my course?</strong>
+</p>
+<p>This will depend on various factors such as the speed of your Internet
+connection, the type of software required for your course and the speed
+of your notebook's processor, RAM and hard drive capabilities. Typically,
+it may take you anywhere from 30 minutes to a few hours to get the software
+downloaded and installed.</p>
+<p></p>
+</li>
+<li>
 <p><strong>Is there a deadline for me to download the software?</strong>
 </p>
 <p>You are strongly encouraged to download and install the software on your
 own before the start of April semester.</p>
+<p></p>
+</li>
+<li>
+<p><strong>I misplaced the notebook that I initially registered with. How do I register my replacement notebook?</strong>
+</p>
+<p>Please submit an <a href="https://portal.np.edu.sg/Lists/notebook/AllItems.aspx" rel="noopener noreferrer nofollow" target="_blank">online declaration</a>.
+Once done, email the screenshot of your submission to <a href="mailto:itcare@connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">itcare@connect.np.edu.sg</a>.
+Upon verification by the Service Desk staff, your old notebook will be
+de-registered. Proceed to register and install the required software on
+your new notebook.</p>
 <p></p>
 </li>
 <li>
