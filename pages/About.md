@@ -4,15 +4,18 @@ permalink: /about/
 variant: tiptap
 description: ""
 ---
+<blockquote>
 <p>Welcome to the Software Portal, a dedicated platform for Ngee Ann Polytechnic
 students. Our aim is to assist you in finding the right software for your
 specific year of study and course.</p>
+</blockquote>
 <hr>
 <h2>Software Licensing</h2>
 <p>We provide licensed software to NP students throughout their course of
 study, free of charge. Each student can register and install software on <strong>one notebook only</strong>.
-You are strongly encouraged to equip your notebook with the necessary software
-for your course before the start of semester in April.</p>
+By downloading the software, you accept that any attempts to duplicate,
+transfer, install or use the software on notebooks other than your own
+constitute a violation of NP’s software licensing terms and conditions.</p>
 <h2>Notebook Requirements</h2>
 <p>Whether you choose to purchase a notebook from our authorised suppliers
 or your preferred supplier, please ensure that it's the correct type of
@@ -30,6 +33,11 @@ email.</p>
 your Acceptance of Offer letter. To view your Acceptance of Offer letter,
 download the mStudent App (<a href="https://apps.apple.com/sg/app/mstudent/id1065511743" rel="noopener noreferrer nofollow" target="_blank">iOS</a> / <a href="https://play.google.com/store/apps/details?id=sg.edu.np.student" rel="noopener noreferrer nofollow" target="_blank">Android</a>)
 and tap on “Get Started”.</p>
+<p></p>
+<p></p>
 <hr>
+<blockquote>
 <p>We hope this portal serves as a valuable resource for your academic journey
 at Ngee Ann Polytechnic. Happy studying!</p>
+</blockquote>
+<p></p>
