@@ -4,3 +4,33 @@ permalink: /year1/
 variant: tiptap
 description: ""
 ---
+<blockquote>
+<h3>Download software onto your notebook with effect from 25 Mar 2024</h3>
+</blockquote>
+<p><strong>​​​​​​​​​​​​​<br></strong>After enrolment, please wait for <strong><u>ONE</u></strong> business
+day before registering your notebook.</p>
+<hr>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Pages/SWD_students.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Identify a suitable notebook and ensure that it meets the minimum specifications for your course.</div><div class="isomer-card-description">Select your course from the list.</div><div class="isomer-card-link">Notebook specifications</div></div></a>
+</div>
+<p><strong>Important:</strong>&nbsp;Apple macbooks with M1/M2 chipset do&nbsp;<strong><u>NOT</u></strong>&nbsp;support
+Bootcamp or Or​acle's VirtualBox to run Windows operating system. Please&nbsp;buy
+a suitable notebook for your course of study as you may be using Windows-based
+software that is not compatible with the Apple Mac operating system.</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/windows_notebook.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Windows notebook</div><div class="isomer-card-description">Click here if your course requires a Windows notebook.</div><div class="isomer-card-link">Guide to register and install software</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/apple_notebook.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Apple macbook</div>
+<div class="isomer-card-description">Click here if your course requires an Apple macbook.</div>
+<div class="isomer-card-link">Guide to register and install software</div>
+</div>
+</a>
+</div>
+<p></p>
+<p></p>
