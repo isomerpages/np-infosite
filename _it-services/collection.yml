@@ -2,5 +2,6 @@ collections:
   it-services:
     output: true
     order:
+      - Wireless Setup.md
       - IT Policies & Practices.md
       - Student Systems.md
