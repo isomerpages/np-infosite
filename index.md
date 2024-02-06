@@ -10,7 +10,7 @@ notification: Notebook registration starts from 25 Mar 2024 onwards. After
 sections:
   - hero:
       title: Software Portal
-      background: /images/Banner and Logo/header_students_banner.jpg
+      background: /images/Banner and Logo/banner_students.jpg
       key_highlights:
         - title: Year 1
           description: Software download
