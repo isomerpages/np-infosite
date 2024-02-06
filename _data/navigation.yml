@@ -2,10 +2,10 @@ logo: /images/Banner and Logo/logo.png
 links:
   - title: About
     url: /about
-  - title: Useful Links
-    collection: useful-links
   - title: Software Lists
     collection: software-lists
+  - title: Useful Links
+    collection: useful-links
   - title: Frequently Asked Questions
     url: /faq
   - title: Contact Us
