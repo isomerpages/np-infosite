@@ -25,7 +25,6 @@ sections:
           description: What should I buy?
           url: /privacy/
   - infobar:
-      title: Software Portal
       button: Button text
       url: /faq/
 ---
