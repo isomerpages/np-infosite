@@ -34,7 +34,6 @@ your Acceptance of Offer letter. To view your Acceptance of Offer letter,
 download the mStudent App (<a href="https://apps.apple.com/sg/app/mstudent/id1065511743" rel="noopener noreferrer nofollow" target="_blank">iOS</a> / <a href="https://play.google.com/store/apps/details?id=sg.edu.np.student" rel="noopener noreferrer nofollow" target="_blank">Android</a>)
 and tap on “Get Started”.</p>
 <p></p>
-<p></p>
 <hr>
 <blockquote>
 <p>We hope this portal serves as a valuable resource for your academic journey
