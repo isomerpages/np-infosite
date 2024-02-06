@@ -5,9 +5,9 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
-<p>Welcome to the Software Portal, a dedicated platform for Ngee Ann Polytechnic
-students. Our aim is to assist you in finding the right software for your
-specific year of study and course.</p>
+<p>Welcome to the Software Portal, a dedicated platform for NP students.
+Our aim is to assist you in finding the right notebook and software for
+your specific year of study and course.</p>
 </blockquote>
 <hr>
 <h2>Software Licensing</h2>
@@ -23,7 +23,7 @@ notebook and that it meets the minimum specifications for your course.
 You can select your course on the Software Download page to view these
 the notebook specifications. If you have an old notebook and are unsure
 if it can be used for your course, you can use the same method to check.</p>
-<h2>Support</h2>
+<h2>Technical Support</h2>
 <p>If you encounter any difficulties with software installation or have any
 technical queries, please write to <a href="mailto:itcare@connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">itcare@connect.np.edu.sg</a>.&nbsp;Include
 your name, course, student ID and screenshots of the error message in your
@@ -35,8 +35,6 @@ download the mStudent App (<a href="https://apps.apple.com/sg/app/mstudent/id106
 and tap on “Get Started”.</p>
 <p></p>
 <hr>
-<blockquote>
 <p>We hope this portal serves as a valuable resource for your academic journey
 at Ngee Ann Polytechnic. Happy studying!</p>
-</blockquote>
 <p></p>
