@@ -2,9 +2,9 @@ logo: /images/Banner and Logo/logo.png
 links:
   - title: About
     url: /about
-  - title: It Services
+  - title: IT Services
     collection: it-services
   - title: Frequently Asked Questions
     url: /faq
   - title: Contact Us
-    url: /contact-us/
+    url: /contact-us
