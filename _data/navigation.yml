@@ -2,10 +2,10 @@ logo: /images/NP_Logo_Transparent_BG.png
 links:
   - title: About
     url: /example-page/
-  - title: Software Requirements
-    collection: example-folder
-  - title: IT Services
-    collection: example-folder
+  - title: It Services
+    collection: it-services
+  - title: It Services
+    collection: it-services
   - title: FREQUENTLY ASKED QUESTIONS
     url: /permalink
   - title: Contact Us
