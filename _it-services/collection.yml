@@ -2,6 +2,7 @@ collections:
   it-services:
     output: true
     order:
+      - NPal Student.md
       - Student Systems/POLITEMall.md
       - Student Systems/.keep
       - NPNet Account.md
