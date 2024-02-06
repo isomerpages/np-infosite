@@ -2,7 +2,6 @@ collections:
   it-services:
     output: true
     order:
-      - Student Systems/.keep
       - NPNet Account.md
       - Wireless Setup.md
       - IT Policies & Practices.md
