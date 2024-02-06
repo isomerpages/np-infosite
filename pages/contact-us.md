@@ -28,7 +28,7 @@ contacts:
   - content:
       - phone: +65 6460 8111
       - email: itcare@connect.np.edu.sg
-      - other: Please select option "2" for Ngee Ann Polytechnic.
+      - other: ""
     title: General Enquiries & Support
 feedback: ""
 ---
