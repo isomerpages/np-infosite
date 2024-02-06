@@ -53,11 +53,11 @@ downloaded and installed.</p>
 own before the start of April semester.</p>
 <p></p>
 <h3><strong>11. I misplaced the notebook that I initially registered with. How do I register my replacement notebook?</strong></h3>
-<p>Please submit an <a href="https://portal.np.edu.sg/Lists/notebook/AllItems.aspx" rel="noopener noreferrer nofollow" target="_blank">online declaration</a>.
-Once done, email the screenshot of your submission to <a href="mailto:itcare@connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">itcare@connect.np.edu.sg</a>.
-Upon verification by the Service Desk staff, your old notebook will be
-de-registered. Proceed to register and install the required software on
-your new notebook.</p>
+<p>Please submit an <a href="https://portal.np.edu.sg/Lists/notebook/AllItems.aspx" rel="noopener noreferrer nofollow" target="_blank">online declaration</a> for
+replacement and indicate the reason. Once done, email the screenshot of
+your submission to <a href="mailto:itcare@connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">itcare@connect.np.edu.sg</a>. Upon
+verification by the Service Desk staff, your old notebook will be de-registered.
+Proceed to register and install the required software on your new notebook.</p>
 <p></p>
 <h3><strong>12. I wish to drop by at the IT Helpdesk for technical assistance. What are their opening hours?</strong></h3>
 <p>Please refer to the <a href="/contact-us" rel="noopener noreferrer nofollow" target="_blank">Contact Us</a> page.</p>
