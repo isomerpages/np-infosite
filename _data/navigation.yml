@@ -1,7 +1,7 @@
 logo: /images/Banner and Logo/logo.png
 links:
   - title: About
-    url: /example-page/
+    url: /about
   - title: It Services
     collection: it-services
   - title: FREQUENTLY ASKED QUESTIONS
