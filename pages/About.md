@@ -22,8 +22,8 @@ old notebook and are unsure if it can be used for your course, you can
 use the same method to check.</p>
 <h2>Support</h2>
 <p>If you encounter any difficulties with software installation or have any
-technical queries, please write to <a href="mailto:Dora.ITcare@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">itcare@connect.np.edu.sg</a>. Include
-your name, course, and student ID in your email.</p>
+technical queries, please write to <a href="mailto:itcare@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">itcare@connect.np.edu.sg</a>. Include your
+name, course, and student ID in your email.</p>
 <h2>NPNet Password</h2>
 <p>The NPNet password mentioned on the software guides refers to the Course
 Registration password on the Acceptance of Offer letter.</p>
