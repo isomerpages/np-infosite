@@ -12,8 +12,8 @@ licensed software to students throughout their course of study.</p>
 <p>The setup.exe<em> </em>program allows you to register your notebook. After
 registering, you can view the software required for your course along with
 the installation guides. As such, you do not have to download multiple
-installers from various sites as everything will be embedded within the
-program for your convenience.</p>
+installers from various sites as everything is embedded within the program
+for your convenience.</p>
 <p></p>
 <h3><strong>3. What is NPNet password?</strong></h3>
 <p>The NPNet password mentioned on the software guides refer to the Course
