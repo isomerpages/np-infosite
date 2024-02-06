@@ -2,4 +2,5 @@ collections:
   it-services:
     output: true
     order:
+      - IT Policies & Practices.md
       - Student Systems.md
