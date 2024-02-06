@@ -12,7 +12,7 @@ sections:
       title: Software Portal
       background: /images/header_students_banner.jpg
       key_highlights:
-        - title: "Year 1 "
+        - title: Year 1
           description: Software download
           url: https://google.com
         - title: Year 2 and 3
@@ -25,9 +25,7 @@ sections:
           description: What should I buy?
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
+      title: Software Portal
       button: Button text
       url: /faq/
 ---
