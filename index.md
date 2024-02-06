@@ -33,6 +33,6 @@ sections:
       description: Windows & Mac
       button: Download
       url: /clientprogram
-      image: /images/SWD_students.jpg
+      image: /images/Pages/SWD_students.jpg
       alt: students using digital devices
 ---
