@@ -2,7 +2,6 @@ collections:
   it-services:
     output: true
     order:
-      - NPal Student.md
       - Student Systems/Connect Email.md
       - Student Systems/POLITEMall.md
       - Student Systems/.keep
