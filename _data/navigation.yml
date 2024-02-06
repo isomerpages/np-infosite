@@ -4,6 +4,8 @@ links:
     url: /about
   - title: IT Services
     collection: it-services
+  - title: Software Lists
+    collection: software-lists
   - title: Frequently Asked Questions
     url: /faq
   - title: Contact Us
