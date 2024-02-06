@@ -2,6 +2,7 @@ collections:
   it-services:
     output: true
     order:
+      - NPal Student.md
       - Connect Email.md
       - NPNet Account.md
       - Wireless Setup.md
