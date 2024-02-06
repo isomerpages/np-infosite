@@ -1,0 +1,6 @@
+collections:
+  software-lists:
+    output: true
+    order:
+      - Year 1.md
+      - Year 2 and 3.md

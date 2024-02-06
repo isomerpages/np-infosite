@@ -1,0 +1,12 @@
+collections:
+  useful-links:
+    output: true
+    order:
+      - NPNet Account.md
+      - Wireless Setup.md
+      - Connect Email.md
+      - mStudent App.md
+      - NPal Student.md
+      - POLITEMall.md
+      - Student VPN.md
+      - IT Policies & Practices.md
