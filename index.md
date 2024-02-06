@@ -43,12 +43,12 @@ sections:
           description: ""
           linktext: Learn more
           url: https://swd.np.edu.sg/Guides/Win-Registration.pdf
-        - title: Card
-          description: Card description
+        - title: How to run the setup.exe as administrator?
+          description: ""
           linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
+          url: https://swd.np.edu.sg/Guides/Win-Registration.pdf
+        - title: How to run the setup.exe as administrator?
+          description: ""
           linktext: Learn more
-          url: ""
+          url: https://swd.np.edu.sg/Guides/Win-Registration.pdf
 ---
