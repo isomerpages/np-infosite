@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - mStudent App.md
       - NPNet Account.md
       - Wireless Setup.md
       - Connect Email.md
