@@ -46,40 +46,29 @@ NPNet password or are connecting on a new device.&nbsp;</p>
 <th rowspan="1" colspan="1">
 <p>Operating System</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Guide</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Windows OS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www2.np.edu.sg/dst/Documents/NPWirelessx%20Setup%20Guide%20for%20Win%20OS.pdf" rel="noopener noreferrer nofollow" target="_blank">Windows OS</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mac OS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www2.np.edu.sg/dst/Documents/NPWirelessx%20Setup%20Guide%20for%20Mac%20OS.pdf" rel="noopener noreferrer nofollow" target="_blank">Mac OS</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>iOS (iPhone/iPad)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www2.np.edu.sg/dst/Documents/NPWirelessx%20Setup%20Guide%20for%20iOS.pdf" rel="noopener noreferrer nofollow" target="_blank">iOS (iPhone/iPad)</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Android (Phone/Tablet)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www2.np.edu.sg/dst/Documents/NPWirelessx%20Setup%20Guide%20for%20Android.pdf" rel="noopener noreferrer nofollow" target="_blank">Android (Phone/Tablet)</a>
+</p>
 </td>
 </tr>
 </tbody>
