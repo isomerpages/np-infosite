@@ -2,4 +2,4 @@ collections:
   it-services:
     output: true
     order:
-      - folder-page.md
+      - Student Systems.md
