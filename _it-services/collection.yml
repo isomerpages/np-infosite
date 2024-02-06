@@ -2,8 +2,8 @@ collections:
   it-services:
     output: true
     order:
-      - POLITEMall.md
       - Student Systems.md
+      - POLITEMall.md
       - NPNet Account.md
       - Wireless Setup.md
       - IT Policies & Practices.md
