@@ -19,10 +19,7 @@ constitute a violation of NP’s software licensing terms and conditions.</p>
 <h2>Notebook Requirements</h2>
 <p>Whether you choose to purchase a notebook from our authorised suppliers
 or your preferred supplier, please ensure that it's the correct type of
-notebook and that it meets the minimum specifications for your course.
-You can select your course on the Software Download page to view these
-the notebook specifications. If you have an old notebook and are unsure
-if it can be used for your course, you can use the same method to check.</p>
+notebook and that it meets the minimum specifications for your course.</p>
 <h2>Technical Support</h2>
 <p>If you encounter any difficulties with software installation or have any
 technical queries, please write to <a href="mailto:itcare@connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">itcare@connect.np.edu.sg</a>.&nbsp;Include
