@@ -16,7 +16,7 @@ locations:
     title: IT Helpdesk
   - address:
       - Off-site Service Desk
-      - ""
+      - IT Hotline & Email Support
       - ""
     operating_hours:
       - days: Mon - Fri
