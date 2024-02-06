@@ -28,7 +28,6 @@ sections:
       subtitle: Bridging your curriculum needs with the right software!
   - infopic:
       title: Software Download Client Program
-      subtitle: Add an image and text
       id: infopic
       description: Windows & Mac
       button: Download
