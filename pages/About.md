@@ -6,8 +6,8 @@ description: ""
 ---
 <blockquote>
 <p>Welcome to the Software Portal, a dedicated platform for NP students.
-Our aim is to assist you in finding the right notebook and software for
-your specific year of study and course.</p>
+Our aim is to assist you in finding the right type of notebook and software
+for your specific year of study and course.</p>
 </blockquote>
 <hr>
 <h3>Software Licensing</h3>
