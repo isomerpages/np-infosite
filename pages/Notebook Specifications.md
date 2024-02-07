@@ -60,15 +60,15 @@ Tourism &amp; Resort Management</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="course-des" rel="noopener noreferrer nofollow" target="_blank">DES</a> -
+<p><a href="/courses/des" rel="noopener noreferrer nofollow" target="_blank">DES</a> -
 Design</p>
 </li>
 <li>
-<p><a href="course-hlfm" rel="noopener noreferrer nofollow" target="_blank">HLFM</a> -
+<p><a href="/courses/hlfm" rel="noopener noreferrer nofollow" target="_blank">HLFM</a> -
 Hotel &amp; Leisure Facilities Management</p>
 </li>
 <li>
-<p><a href="course-reb" rel="noopener noreferrer nofollow" target="_blank">REB</a> -
+<p><a href="/courses/reb" rel="noopener noreferrer nofollow" target="_blank">REB</a> -
 Real Estate Business</p>
 </li>
 </ul>
@@ -81,15 +81,15 @@ Real Estate Business</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="course-fsv" rel="noopener noreferrer nofollow" target="_blank">FSV</a> -
+<p><a href="/courses/fsv" rel="noopener noreferrer nofollow" target="_blank">FSV</a> -
 Film, Sound &amp; Video</p>
 </li>
 <li>
-<p><a href="course-mcm" rel="noopener noreferrer nofollow" target="_blank">MCM</a> -
+<p><a href="/courses/mcm" rel="noopener noreferrer nofollow" target="_blank">MCM</a> -
 Mass Communication</p>
 </li>
 <li>
-<p><a href="course-mpp" rel="noopener noreferrer nofollow" target="_blank">MPP</a> -
+<p><a href="/courses/mpp" rel="noopener noreferrer nofollow" target="_blank">MPP</a> -
 Media Post-Production</p>
 </li>
 </ul>
@@ -102,19 +102,19 @@ Media Post-Production</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="course-abm" rel="noopener noreferrer nofollow" target="_blank">ABM</a> -
+<p><a href="/courses/abm" rel="noopener noreferrer nofollow" target="_blank">ABM</a> -
 Arts Business Management</p>
 </li>
 <li>
-<p><a href="course-cdt" rel="noopener noreferrer nofollow" target="_blank">CDT</a> -
+<p><a href="/courses/cdt" rel="noopener noreferrer nofollow" target="_blank">CDT</a> -
 Community Development</p>
 </li>
 <li>
-<p><a href="course-chs" rel="noopener noreferrer nofollow" target="_blank">CHS</a> -
+<p><a href="/courses/chs" rel="noopener noreferrer nofollow" target="_blank">CHS</a> -
 Chinese Studies</p>
 </li>
 <li>
-<p><a href="course-cmc" rel="noopener noreferrer nofollow" target="_blank">CMC</a> -
+<p><a href="/courses/cmc" rel="noopener noreferrer nofollow" target="_blank">CMC</a> -
 Chinese Media &amp; Communications</p>
 </li>
 <li>
@@ -122,11 +122,11 @@ Chinese Media &amp; Communications</p>
 Common Media Programme</p>
 </li>
 <li>
-<p><a href="course-ecde" rel="noopener noreferrer nofollow" target="_blank">ECDE</a> -
+<p><a href="/courses/ecde" rel="noopener noreferrer nofollow" target="_blank">ECDE</a> -
 Early Childhood Development and Education</p>
 </li>
 <li>
-<p><a href="course-tse" rel="noopener noreferrer nofollow" target="_blank">TSE</a> -
+<p><a href="/courses/tse" rel="noopener noreferrer nofollow" target="_blank">TSE</a> -
 Tamil Studies with Early Education</p>
 </li>
 </ul>
@@ -139,11 +139,11 @@ Tamil Studies with Early Education</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="course-nsg" rel="noopener noreferrer nofollow" target="_blank">NSG</a> -
+<p><a href="/courses/nsg" rel="noopener noreferrer nofollow" target="_blank">NSG</a> -
 Nursing</p>
 </li>
 <li>
-<p><a href="course-opt" rel="noopener noreferrer nofollow" target="_blank">OPT</a> -
+<p><a href="/courses/opt" rel="noopener noreferrer nofollow" target="_blank">OPT</a> -
 Optometry</p>
 </li>
 </ul>
@@ -156,23 +156,23 @@ Optometry</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="course-cictp" rel="noopener noreferrer nofollow" target="_blank">CICTP</a> -
+<p><a href="/courses/cictp" rel="noopener noreferrer nofollow" target="_blank">CICTP</a> -
 Common ICT Programme</p>
 </li>
 <li>
-<p><a href="course-csf" rel="noopener noreferrer nofollow" target="_blank">CSF</a> -
+<p><a href="/courses/csf" rel="noopener noreferrer nofollow" target="_blank">CSF</a> -
 CyberSecurity &amp; Digital Forensics</p>
 </li>
 <li>
-<p><a href="course-ds" rel="noopener noreferrer nofollow" target="_blank">DS</a> -
+<p><a href="/courses/ds" rel="noopener noreferrer nofollow" target="_blank">DS</a> -
 Data Science</p>
 </li>
 <li>
-<p><a href="course-im" rel="noopener noreferrer nofollow" target="_blank">IM</a> -
+<p><a href="/courses/im" rel="noopener noreferrer nofollow" target="_blank">IM</a> -
 Immersive Media</p>
 </li>
 <li>
-<p><a href="course-it" rel="noopener noreferrer nofollow" target="_blank">IT</a> -
+<p><a href="/courses/it" rel="noopener noreferrer nofollow" target="_blank">IT</a> -
 Information Technology</p>
 </li>
 </ul>
