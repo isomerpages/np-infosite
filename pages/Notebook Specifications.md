@@ -1,6 +1,8 @@
 ---
 title: Notebook Specifications
 permalink: /notebook-specs/
-variant: markdown
+variant: tiptap
 description: ""
 ---
+<p></p>
+<p></p>
