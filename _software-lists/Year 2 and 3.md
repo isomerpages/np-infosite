@@ -8,7 +8,7 @@ description: ""
 <h3>Download software onto your notebook with effect from 8 April 2024</h3>
 </blockquote>
 <p>​​​​​​​​​​​Refer to the list of software required for <a href="https://swd.np.edu.sg/Guides/SoftwareList-Year2.pdf" rel="noopener noreferrer nofollow" target="_blank">Year 2</a> and
-<a href="https://swd.np.edu.sg/Guides/SoftwareList-Year3.pdf" rel="noopener noreferrer nofollow" target="_blank">Year 3</a>students.</p>
+for <a href="https://swd.np.edu.sg/Guides/SoftwareList-Year3.pdf" rel="noopener noreferrer nofollow" target="_blank">Year 3</a> students.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/notebook-specs" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Pages/SWD_students.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Identify a suitable notebook and ensure it meets the minimum specifications for your course.</div><div class="isomer-card-description">Select your course from the list.</div><div class="isomer-card-link">Notebook specifications</div></div></a>
 </div>
 <p><strong>Important:</strong>&nbsp;Apple macbooks with M1/M2 chipset do&nbsp;<strong><u>NOT</u></strong>&nbsp;support
