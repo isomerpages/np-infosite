@@ -2,6 +2,7 @@ collections:
   courses:
     output: true
     order:
+      - Biomedical Science.md
       - Information Technology.md
       - Immersive Media.md
       - Data Science.md
