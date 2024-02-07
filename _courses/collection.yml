@@ -2,6 +2,7 @@ collections:
   courses:
     output: true
     order:
+      - Biomedical Engineering.md
       - Mechatronics & Robotics.md
       - Aerospace Engineering.md
       - Pharmaceutical Science.md
