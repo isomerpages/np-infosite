@@ -2,6 +2,7 @@ collections:
   courses:
     output: true
     order:
+      - Chinese Media & Communication.md
       - Chinese Studies.md
       - Community Development.md
       - Arts Business Management.md
