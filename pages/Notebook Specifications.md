@@ -4,6 +4,11 @@ permalink: /notebook-specs/
 variant: tiptap
 description: ""
 ---
+<blockquote>
+<p>Please buy a suitable notebook for your course of study as you may be
+required to use Windows-based software that is not compatible with Apple's
+Mac operating system.</p>
+</blockquote>
 <table>
 <tbody>
 <tr>
