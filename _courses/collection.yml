@@ -2,6 +2,7 @@ collections:
   courses:
     output: true
     order:
+      - Hotel & Leisure Facilities Management.md
       - Design.md
       - Accountancy.md
       - Banking & Finance.md
