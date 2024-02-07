@@ -11,11 +11,8 @@ notebook is required.</p>
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>Minimum Specifications</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
@@ -44,7 +41,7 @@ notebook is required.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Screen Size:</p>
+<p>Screen:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>14 inch and above with 1280 x 800 resolution</p>
