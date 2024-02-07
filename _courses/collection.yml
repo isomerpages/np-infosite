@@ -2,5 +2,6 @@ collections:
   courses:
     output: true
     order:
+      - Business Studies.md
       - Banking & Finance.md
       - Accountancy.md
