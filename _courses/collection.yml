@@ -2,6 +2,7 @@ collections:
   courses:
     output: true
     order:
+      - Early Childhood & Education.md
       - Common Media Programme.md
       - Chinese Media & Communication.md
       - Chinese Studies.md
