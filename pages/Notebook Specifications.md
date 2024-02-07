@@ -5,9 +5,10 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
-<p>Please buy a suitable notebook for your course of study as you may be
-required to use Windows-based software that is not compatible with Apple's
-Mac operating system.</p>
+<p>If your course requires a Windows notebook, you may be required to use
+Windows-based software that is not compatible with Apple's Mac operating
+system.</p>
+<p></p>
 </blockquote>
 <table>
 <tbody>
