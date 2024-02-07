@@ -2,19 +2,22 @@ collections:
   courses:
     output: true
     order:
+      - Arts Business Management.md
+      - Accountancy.md
+      - Aerospace Engineering.md
+      - Banking & Finance.md
+      - Biomedical Engineering.md
+      - Biomedical Science.md
       - Marine & Offshore Technology.md
       - Mechanical Engineering.md
       - Electronic & Computer Engineering.md
       - Common Engineering Programme.md
-      - Biomedical Engineering.md
       - Mechatronics & Robotics.md
-      - Aerospace Engineering.md
       - Pharmaceutical Science.md
       - Landscape Design & Horticulture.md
       - Environmental & Water Technology.md
       - Common Science Programme.md
       - Chemical & Biomolecular Engineering.md
-      - Biomedical Science.md
       - Information Technology.md
       - Immersive Media.md
       - Data Science.md
@@ -28,15 +31,12 @@ collections:
       - Chinese Media & Communication.md
       - Chinese Studies.md
       - Community Development.md
-      - Arts Business Management.md
       - Media Post Production.md
       - Mass Communication.md
       - Film, Sound & Video.md
       - Real Estate Business.md
       - Hotel & Leisure Facilities Management.md
       - Design.md
-      - Accountancy.md
-      - Banking & Finance.md
       - Business Studies.md
       - Common Business Programme.md
       - International Trade & Business.md
