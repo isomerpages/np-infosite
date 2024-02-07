@@ -2,9 +2,9 @@ collections:
   useful-links:
     output: true
     order:
-      - NPNet Account.md
-      - Wireless Setup.md
       - mStudent App.md
+      - NPNet Account.md
       - NPal Student.md
       - POLITEMall.md
+      - Wireless Setup.md
       - Student VPN.md
