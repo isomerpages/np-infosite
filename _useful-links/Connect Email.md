@@ -45,7 +45,6 @@ minutes if you download the full suite of Microsoft Office apps.</p>
 <p>Login to <a href="https://outlook.office365.com" rel="noopener noreferrer nofollow" target="_blank">https://outlook.office365.com </a>with
 your email address and password. You should see the following screens appear
 prior to login.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="web login" src="/images/web_browser_login.png">
 </div>
