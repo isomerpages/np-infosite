@@ -26,7 +26,8 @@ Mac operating system.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>ACC - Accountancy</p>
+<p><a href="/course-acc" rel="noopener noreferrer nofollow" target="_blank">ACC</a> -
+Accountancy</p>
 </li>
 <li>
 <p>BF - Banking &amp; Finance</p>
