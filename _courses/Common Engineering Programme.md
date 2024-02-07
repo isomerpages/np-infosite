@@ -52,7 +52,7 @@ notebook is required.</p>
 <p>Screen:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1024 x 768 display (1280 x 1024 recommended) with 16-bit color and 512
+<p>1024 x 900 display (1280 x 1024 recommended) with 16-bit color and 512
 MB VRAM, OpenGL 2.0 capable, HDMI to VGA Adapter or Display Port to VGA
 Adapter for non VGA notebook, Microsoft Direct3D, DirectX9 with WDDM 1.0
 or higher driver</p>
