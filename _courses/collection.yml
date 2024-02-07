@@ -2,6 +2,7 @@ collections:
   courses:
     output: true
     order:
+      - Tourism & Resort Management.md
       - International Trade & Business.md
       - Common Business Programme.md
       - Business Studies.md
