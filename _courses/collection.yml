@@ -2,6 +2,7 @@ collections:
   courses:
     output: true
     order:
+      - Pharmaceutical Science.md
       - Landscape Design & Horticulture.md
       - Environmental & Water Technology.md
       - Common Science Programme.md
