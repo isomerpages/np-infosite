@@ -34,23 +34,6 @@ sections:
       url: /clientprogram
       image: /images/Pages/SWD_students.jpg
       alt: students using digital devices
-  - textcards:
-      title: Troubleshooting Steps
-      subtitle: Common Issues
-      id: textcards
-      cards:
-        - title: How to run the setup.exe as an administrator?
-          description: ""
-          linktext: Learn more
-          url: /run-as-admin/
-        - title: How to run the setup.exe as administrator?
-          description: ""
-          linktext: Learn more
-          url: https://swd.np.edu.sg/Guides/Win-Registration.pdf
-        - title: How to run the setup.exe as administrator?
-          description: ""
-          linktext: Learn more
-          url: https://swd.np.edu.sg/Guides/Win-Registration.pdf
   - resources:
       title: Troubleshooting Steps
       subtitle: Common issues
