@@ -2,6 +2,7 @@ collections:
   courses:
     output: true
     order:
+      - Common Business Programme.md
       - Business Studies.md
       - Banking & Finance.md
       - Accountancy.md
