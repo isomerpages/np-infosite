@@ -78,7 +78,9 @@ Real Estate Business</p>
 <p>School of Film &amp; Media Studies (FMS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>FSV - Film, Sound &amp; Video</p>
+<p>MCM - Mass Communication</p>
+<p>MPP - Media Post-Production</p>
 </td>
 </tr>
 <tr>
@@ -86,7 +88,12 @@ Real Estate Business</p>
 <p>School of Humanities &amp; Social Sciences (HMS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ABM - Arts Business Management</p>
+<p>CDT - Community Development</p>
+<p>CHS - Chinese Studies</p>
+<p>CMC - Chinese Media &amp; Communications</p>
+<p>ECDE - Early Childhood Development and Education</p>
+<p>TSE - Tamil Studies with Early Education</p>
 </td>
 </tr>
 <tr>
@@ -94,7 +101,8 @@ Real Estate Business</p>
 <p>School of Health Sciences (HS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>NSG - Nursing</p>
+<p>OPT - Optometry</p>
 </td>
 </tr>
 <tr>
@@ -102,7 +110,10 @@ Real Estate Business</p>
 <p>School of InfoComm Technology (ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>CSF - CyberSecurity &amp; Digital Forensics</p>
+<p>DS - Data Science</p>
+<p>IM - Immersive Media</p>
+<p>IT - Information Technology</p>
 </td>
 </tr>
 <tr>
@@ -110,7 +121,11 @@ Real Estate Business</p>
 <p>School of Life Sciences &amp; Chemical Technology (LSCT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>BMS - Biomedical Science</p>
+<p>CBE - Chemical &amp; Biomolecular Engineering</p>
+<p>EWT - Environmental &amp; Water Technology</p>
+<p>LDH - Landscape Design &amp; Horticulture</p>
+<p>PHARM - Pharmaceutical Science</p>
 </td>
 </tr>
 <tr>
@@ -118,6 +133,9 @@ Real Estate Business</p>
 <p>School of Engineering (SOE)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>AG - Aerospace Engineering</p>
+<p>MR - Mechatronics &amp; Robotics</p>
+<p>BME - Biomedical Engineering</p>
 <p></p>
 </td>
 </tr>
