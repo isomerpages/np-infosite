@@ -185,27 +185,27 @@ Information Technology</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="course-bms" rel="noopener noreferrer nofollow" target="_blank">BMS</a> -
+<p><a href="/courses/bms" rel="noopener noreferrer nofollow" target="_blank">BMS</a> -
 Biomedical Science</p>
 </li>
 <li>
-<p><a href="course-cbe" rel="noopener noreferrer nofollow" target="_blank">CBE</a> -
+<p><a href="/courses/cbe" rel="noopener noreferrer nofollow" target="_blank">CBE</a> -
 Chemical &amp; Biomolecular Engineering</p>
 </li>
 <li>
-<p><a href="course-csp" rel="noopener noreferrer nofollow" target="_blank">CSP</a> -
+<p><a href="/courses/csp" rel="noopener noreferrer nofollow" target="_blank">CSP</a> -
 Common Science Programme</p>
 </li>
 <li>
-<p><a href="course-ewt" rel="noopener noreferrer nofollow" target="_blank">EWT</a> -
+<p><a href="/courses/ewt" rel="noopener noreferrer nofollow" target="_blank">EWT</a> -
 Environmental &amp; Water Technology</p>
 </li>
 <li>
-<p><a href="course-ldh" rel="noopener noreferrer nofollow" target="_blank">LDH</a> -
+<p><a href="/courses/ldh" rel="noopener noreferrer nofollow" target="_blank">LDH</a> -
 Landscape Design &amp; Horticulture</p>
 </li>
 <li>
-<p><a href="course-pharm" rel="noopener noreferrer nofollow" target="_blank">PHARM</a> -
+<p><a href="/courses/pharm" rel="noopener noreferrer nofollow" target="_blank">PHARM</a> -
 Pharmaceutical Science</p>
 </li>
 </ul>
@@ -218,15 +218,15 @@ Pharmaceutical Science</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="course-ag" rel="noopener noreferrer nofollow" target="_blank">AG</a> -
+<p><a href="/courses/ag" rel="noopener noreferrer nofollow" target="_blank">AG</a> -
 Aerospace Engineering</p>
 </li>
 <li>
-<p><a href="courses/mr" rel="noopener noreferrer nofollow" target="_blank">MR</a> -
+<p><a href="/courses/mr" rel="noopener noreferrer nofollow" target="_blank">MR</a> -
 Mechatronics &amp; Robotics</p>
 </li>
 <li>
-<p><a href="courses/bme" rel="noopener noreferrer nofollow" target="_blank">BME</a> -
+<p><a href="/courses/bme" rel="noopener noreferrer nofollow" target="_blank">BME</a> -
 Biomedical Engineering</p>
 </li>
 <li>
@@ -234,19 +234,19 @@ Biomedical Engineering</p>
 Common Engineering Programme</p>
 </li>
 <li>
-<p><a href="course-ece" rel="noopener noreferrer nofollow" target="_blank">ECE</a> -
+<p><a href="/courses/ece" rel="noopener noreferrer nofollow" target="_blank">ECE</a> -
 Electronic &amp; Computer Engineering</p>
 </li>
 <li>
-<p><a href="course-ee" rel="noopener noreferrer nofollow" target="_blank">EE</a> -
+<p><a href="/courses/ee" rel="noopener noreferrer nofollow" target="_blank">EE</a> -
 Electrical Engineering</p>
 </li>
 <li>
-<p><a href="course-me" rel="noopener noreferrer nofollow" target="_blank">ME</a> -
+<p><a href="/courses/me" rel="noopener noreferrer nofollow" target="_blank">ME</a> -
 Mechanical Engineering</p>
 </li>
 <li>
-<p><a href="course-mot" rel="noopener noreferrer nofollow" target="_blank">MOT</a> -
+<p><a href="/courses/mot" rel="noopener noreferrer nofollow" target="_blank">MOT</a> -
 Marine &amp; Offshore Technology</p>
 </li>
 </ul>
