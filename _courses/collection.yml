@@ -2,6 +2,7 @@ collections:
   courses:
     output: true
     order:
+      - BA/Common Business Programme.md
       - BA/Business Studies.md
       - BA/Banking & Finance.md
       - BA/Accountancy.md
