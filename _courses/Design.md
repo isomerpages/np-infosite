@@ -40,7 +40,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Screen Size:</p>
+<p>Screen:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>14 inch and above with 1920 x 1080 resolution</p>
