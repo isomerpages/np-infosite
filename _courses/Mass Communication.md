@@ -75,6 +75,7 @@ for non VGA notebook, DirectX9 with WDDM 1.0 or higher driver</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <table>
 <tbody>
 <tr>
