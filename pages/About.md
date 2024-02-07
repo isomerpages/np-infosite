@@ -11,10 +11,10 @@ for your specific year of study and course.</p>
 </blockquote>
 <h3>Software Licensing</h3>
 <p>We provide licensed software to NP students throughout their course of
-study, free of charge. Each student can register and install software on <strong>one notebook only</strong>.
+study, free of charge. Each student can register and install software on <strong><u>one</u> notebook only</strong>.
 By downloading the software, you accept that any attempts to duplicate,
 transfer, install or use the software on notebooks other than your own
-constitute a violation of NP’s software licensing terms and conditions.</p>
+constitutes a violation of NP’s software licensing terms and conditions.</p>
 <h3>Notebook Requirements</h3>
 <p>Whether you choose to purchase a notebook from our authorised suppliers
 or your preferred supplier, please ensure that it's the correct type of
