@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: Ngee Ann Polytechnic Software Portal
 permalink: none
 baseurl: ""
 exclude:
@@ -53,7 +53,7 @@ staging: https://staging-lite.d2n20hb5wi6675.amplifyapp.com
 prod: https://master.d2uc18hc4h2ycw.amplifyapp.com
 facebook-pixel: ""
 shareicon: /images/isomer-logo.svg
-is_government: false
+is_government: true
 google_analytics_ga4: ""
 linkedin-insights: ""
 resources_name: site
