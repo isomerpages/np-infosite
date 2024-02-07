@@ -1,5 +1,5 @@
 collections:
-  courses:
+  course:
     output: true
     order:
       - Common Business Programme.md
