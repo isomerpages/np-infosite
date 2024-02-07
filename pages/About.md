@@ -9,7 +9,6 @@ description: ""
 Our aim is to assist you in finding the right type of notebook and software
 for your specific year of study and course.</p>
 </blockquote>
-<hr>
 <h3>Software Licensing</h3>
 <p>We provide licensed software to NP students throughout their course of
 study, free of charge. Each student can register and install software on <strong>one notebook only</strong>.
