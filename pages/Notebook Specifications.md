@@ -31,23 +31,23 @@ incompatible with Apple's Mac operating system.</p>
 Accountancy</p>
 </li>
 <li>
-<p><a href="course-bf" rel="noopener noreferrer nofollow" target="_blank">BF</a> -
+<p><a href="/courses/bf" rel="noopener noreferrer nofollow" target="_blank">BF</a> -
 Banking &amp; Finance</p>
 </li>
 <li>
-<p><a href="course-bs" rel="noopener noreferrer nofollow" target="_blank">BS</a> -
+<p><a href="/courses/bs" rel="noopener noreferrer nofollow" target="_blank">BS</a> -
 Business Studies</p>
 </li>
 <li>
-<p><a href="course-cbp" rel="noopener noreferrer nofollow" target="_blank">CBP</a> -
+<p><a href="/courses/cbp" rel="noopener noreferrer nofollow" target="_blank">CBP</a> -
 Common Business Programme</p>
 </li>
 <li>
-<p><a href="course-itb" rel="noopener noreferrer nofollow" target="_blank">ITB</a> -
+<p><a href="/courses/itb" rel="noopener noreferrer nofollow" target="_blank">ITB</a> -
 International Trade &amp; Business</p>
 </li>
 <li>
-<p><a href="course-trm" rel="noopener noreferrer nofollow" target="_blank">TRM</a> -
+<p><a href="/courses/trm" rel="noopener noreferrer nofollow" target="_blank">TRM</a> -
 Tourism &amp; Resort Management</p>
 </li>
 </ul>
@@ -222,15 +222,15 @@ Pharmaceutical Science</p>
 Aerospace Engineering</p>
 </li>
 <li>
-<p><a href="course-mr" rel="noopener noreferrer nofollow" target="_blank">MR</a> -
+<p><a href="courses/mr" rel="noopener noreferrer nofollow" target="_blank">MR</a> -
 Mechatronics &amp; Robotics</p>
 </li>
 <li>
-<p><a href="course-bme" rel="noopener noreferrer nofollow" target="_blank">BME</a> -
+<p><a href="courses/bme" rel="noopener noreferrer nofollow" target="_blank">BME</a> -
 Biomedical Engineering</p>
 </li>
 <li>
-<p><a href="course-cep" rel="noopener noreferrer nofollow" target="_blank">CEP</a> -
+<p><a href="courses/cep" rel="noopener noreferrer nofollow" target="_blank">CEP</a> -
 Common Engineering Programme</p>
 </li>
 <li>
