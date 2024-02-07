@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
-<p>For your Diploma in Arts Business Management (ABM) course, a Windows notebook
+<p>For your Diploma in Community Development (CDT) course, a Windows notebook
 is required.</p>
 </blockquote>
 <table>
