@@ -2,6 +2,7 @@ collections:
   courses:
     output: true
     order:
+      - Design.md
       - Accountancy.md
       - Banking & Finance.md
       - Business Studies.md
