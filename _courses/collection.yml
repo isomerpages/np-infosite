@@ -2,6 +2,7 @@ collections:
   courses:
     output: true
     order:
+      - Common Science Programme.md
       - Chemical & Biomolecular Engineering.md
       - Biomedical Science.md
       - Information Technology.md
