@@ -2,6 +2,7 @@ collections:
   courses:
     output: true
     order:
+      - Immersive Media.md
       - Data Science.md
       - Cybersecurity & Digital Forensics.md
       - Common ICT Programme.md
