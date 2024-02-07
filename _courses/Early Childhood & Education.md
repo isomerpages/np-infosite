@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
-<p>For your Diploma in Early Childhood &amp; Education (ECDE) course, a Windows
-notebook is required.</p>
+<p>For your Diploma in Early Childhood Development &amp; Education (ECDE)
+course, a Windows notebook is required.</p>
 </blockquote>
 <table>
 <tbody>
