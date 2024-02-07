@@ -2,6 +2,7 @@ collections:
   courses:
     output: true
     order:
+      - Nursing.md
       - Tamil Studies with Early Education.md
       - Early Childhood Development & Education.md
       - Common Media Programme.md
