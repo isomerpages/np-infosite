@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
-<p>An official communication channel for you and your lecturers or NP clubs
-and societies. Check your email daily to stay connected!</p>
+<p>The official communication channel between you and your lecturers. Check
+your email daily to stay connected!</p>
 </blockquote>
 <h3>How to access Connect Email?</h3>
 <p>There are 3 ways to access, firstly via the Outlook mobile app, secondly
@@ -29,7 +29,7 @@ via the Outlook desktop client on a computer and thirdly via the browser.</p>
 <h3>What is the email address format?</h3>
 <p>The email address will have a "s" + student ID (no alphabet behind) +
 @<a href="http://connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">connect.np.edu.sg.</a> An
-example would be <a href="s12345678@connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">s12345678@connect.np.edu.sg </a>
+example would be <a href="s12345678@connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">s12345678@connect.np.edu.sg</a>
 </p>
 <p></p>
 <h3>2. Using your notebook computer</h3>
@@ -47,6 +47,6 @@ your email address and password. You should see the following screens appear
 prior to login.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="web login" src="/images/web_browser_login.png">
+<img style="width: 90%;" height="auto" width="100%" alt="web login" src="/images/web_browser_login.png">
 </div>
 <p></p>
