@@ -2,6 +2,7 @@ collections:
   courses:
     output: true
     order:
+      - Electronic & Computer Engineering.md
       - Common Engineering Programme.md
       - Biomedical Engineering.md
       - Mechatronics & Robotics.md
