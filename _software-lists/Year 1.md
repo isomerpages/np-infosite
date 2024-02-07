@@ -16,16 +16,16 @@ registering your notebook and installing software.</p>
 Bootcamp or Or​acle's VirtualBox to run Windows operating system. Please&nbsp;buy
 a suitable notebook for your course of study as you may be using Windows-based
 software that is not compatible with the Apple Mac operating system.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://swd.np.edu.sg/Guides/Win-Registration.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/windows_notebook.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Windows notebook</div><div class="isomer-card-description">Click here if your course requires a Windows notebook.</div><div class="isomer-card-link">Guide to register and install software</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://swd.np.edu.sg/Guides/Win-Registration.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="windows" src="/images/windows_notebook.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Windows notebook</div><div class="isomer-card-description">Click here if your course requires a Windows notebook.</div><div class="isomer-card-link">Guide to register and install software</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://swd.np.edu.sg/Guides/Mac-Registration.pdf" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/apple_notebook.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="apple" src="/images/apple_notebook.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Apple macbook</div>
-<div class="isomer-card-description">Click here if your course requires an Apple macbook.</div>
+<div class="isomer-card-title">Apple MacBook</div>
+<div class="isomer-card-description">Click here if your course requires an Apple MacBook.</div>
 <div class="isomer-card-link">Guide to register and install software</div>
 </div>
 </a>
