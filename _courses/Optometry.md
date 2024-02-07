@@ -6,7 +6,7 @@ description: ""
 ---
 <blockquote>
 <p>For your Diploma in Optometry (OPT) course, you may use either a Windows
-notebook or an Apple Macbook. Please refrain from using Chromebook or Android-based
+notebook or an Apple MacBook. Please refrain from using Chromebook or Android-based
 tablet PC as they are NOT compatible for this course.</p>
 </blockquote>
 <table>
