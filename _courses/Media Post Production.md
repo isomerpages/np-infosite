@@ -20,7 +20,7 @@ a Windows notebook or an Apple MacBook.</p>
 <p>Processor:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Intel Core i5 4xxx or equivalent (Intel i7 recommended)</p>
+<p>Intel Core i7</p>
 </td>
 </tr>
 <tr>
@@ -28,7 +28,7 @@ a Windows notebook or an Apple MacBook.</p>
 <p>RAM:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 GB (16 GB recommended)</p>
+<p>32 GB</p>
 </td>
 </tr>
 <tr>
@@ -36,15 +36,7 @@ a Windows notebook or an Apple MacBook.</p>
 <p>Storage:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>256 GB</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Optical Device:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>DVD-ROM Drive (Optional)</p>
+<p>1 TB (SSD)</p>
 </td>
 </tr>
 <tr>
@@ -52,17 +44,16 @@ a Windows notebook or an Apple MacBook.</p>
 <p>Screen:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1024 x 768 display (1280 x 800 recommended) with 16-bit color and 512
-MB VRAM, OpenGL 2.0, HDMI to VGA Adapter or Display Port to VGA Adapter
-for non VGA notebook, DirectX9 with WDDM 1.0 or higher driver</p>
+<p>Full HD 1920 x 1080 pixels minimum, Dedicated GPU - NVIDIA GeForce RTX
+Range 3060 to 3080i</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Communication:</p>
+<p>Essential Ports required for Projection Mapping &amp; Delivery Module:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Integrated or external IEEE 802.11b or equivalent</p>
+<p>HDMI, USB-C, USB 3.0, SD Card Reader, 3.5mm Headphone Jack</p>
 </td>
 </tr>
 <tr>
@@ -70,7 +61,7 @@ for non VGA notebook, DirectX9 with WDDM 1.0 or higher driver</p>
 <p>OS:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Microsoft Windows 10</p>
+<p>Microsoft Windows 10 or later</p>
 </td>
 </tr>
 </tbody>
@@ -95,7 +86,7 @@ for non VGA notebook, DirectX9 with WDDM 1.0 or higher driver</p>
 <p>RAM:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 GB</p>
+<p>16 GB</p>
 </td>
 </tr>
 <tr>
