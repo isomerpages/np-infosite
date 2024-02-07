@@ -1,4 +1,5 @@
 collections:
   courses:
     output: true
-    order: []
+    order:
+      - Accountancy.md
