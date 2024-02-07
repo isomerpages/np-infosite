@@ -2,6 +2,7 @@ collections:
   courses:
     output: true
     order:
+      - Film, Sound & Video.md
       - Real Estate Business.md
       - Hotel & Leisure Facilities Management.md
       - Design.md
