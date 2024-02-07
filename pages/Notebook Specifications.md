@@ -27,7 +27,7 @@ incompatible with Apple's Mac operating system.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/course-acc" rel="noopener noreferrer nofollow" target="_blank">ACC</a> -
+<p><a href="/courses/acc" rel="noopener noreferrer nofollow" target="_blank">ACC</a> -
 Accountancy</p>
 </li>
 <li>
