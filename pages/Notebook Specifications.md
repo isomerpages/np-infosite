@@ -118,7 +118,7 @@ Chinese Studies</p>
 Chinese Media &amp; Communications</p>
 </li>
 <li>
-<p><a href="course-cmp" rel="noopener noreferrer nofollow" target="_blank">CMP</a> -
+<p><a href="/courses/cmp" rel="noopener noreferrer nofollow" target="_blank">CMP</a> -
 Common Media Programme</p>
 </li>
 <li>
@@ -218,7 +218,7 @@ Pharmaceutical Science</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/courses/ag" rel="noopener noreferrer nofollow" target="_blank">AG</a> -
+<p><a href="/courses/aeg" rel="noopener noreferrer nofollow" target="_blank">AEG</a> -
 Aerospace Engineering</p>
 </li>
 <li>
@@ -230,7 +230,7 @@ Mechatronics &amp; Robotics</p>
 Biomedical Engineering</p>
 </li>
 <li>
-<p><a href="courses/cep" rel="noopener noreferrer nofollow" target="_blank">CEP</a> -
+<p><a href="/courses/cep" rel="noopener noreferrer nofollow" target="_blank">CEP</a> -
 Common Engineering Programme</p>
 </li>
 <li>
