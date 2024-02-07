@@ -2,6 +2,7 @@ collections:
   courses:
     output: true
     order:
+      - Arts Business Management.md
       - Media Post Production.md
       - Mass Communication.md
       - Film, Sound & Video.md
