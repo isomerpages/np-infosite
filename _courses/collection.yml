@@ -2,6 +2,7 @@ collections:
   courses:
     output: true
     order:
+      - BA/Tourism & Resort Management.md
       - BA/International Trade & Business.md
       - BA/Common Business Programme.md
       - BA/Business Studies.md
