@@ -2,4 +2,5 @@ collections:
   courses:
     output: true
     order:
+      - Banking & Finance.md
       - Accountancy.md
