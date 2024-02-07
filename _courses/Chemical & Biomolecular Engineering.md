@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
-<p>For your Diploma in Biomedical Science (BMS) course, a Windows notebook
-is required.</p>
+<p>For your Diploma in Chemical &amp; Biomolecular Engineering (CBE) course,
+a Windows notebook is required.</p>
 </blockquote>
 <table>
 <tbody>
