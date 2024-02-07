@@ -81,4 +81,4 @@ above</p>
 </tr>
 </tbody>
 </table>
-<p>0</p>
+<p></p>
