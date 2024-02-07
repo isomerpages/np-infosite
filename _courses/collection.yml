@@ -2,6 +2,7 @@ collections:
   courses:
     output: true
     order:
+      - Optometry.md
       - Nursing.md
       - Tamil Studies with Early Education.md
       - Early Childhood Development & Education.md
