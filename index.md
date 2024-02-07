@@ -24,7 +24,7 @@ sections:
         - title: Email guide
           description: Access your connect email
           url: /email-guide
-      variant: image
+      variant: center
       subtitle: Bridging your curriculum needs with the right software!
   - infopic:
       title: Software Download Client Program
