@@ -2,7 +2,6 @@ collections:
   courses:
     output: true
     order:
-      - Electrical Engineering.md
       - Accountancy.md
       - Aerospace Engineering.md
       - Arts Business Management.md
@@ -23,6 +22,7 @@ collections:
       - Data Science.md
       - Design.md
       - Early Childhood Development & Education.md
+      - Electrical Engineering.md
       - Electronic & Computer Engineering.md
       - Environmental & Water Technology.md
       - Film, Sound & Video.md
