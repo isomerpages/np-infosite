@@ -31,7 +31,7 @@ sections:
       id: infopic
       description: Windows & Mac
       button: Download
-      url: /clientprogram
+      url: /year1
       image: /images/Pages/SWD_students.jpg
       alt: students using digital devices
   - resources:
