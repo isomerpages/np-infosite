@@ -39,10 +39,10 @@ sections:
       subtitle: Common Issues
       id: textcards
       cards:
-        - title: How to run the setup.exe as administrator?
+        - title: How to run the setup.exe as an administrator?
           description: ""
           linktext: Learn more
-          url: https://swd.np.edu.sg/Guides/Win-Registration.pdf
+          url: /run-as-admin/
         - title: How to run the setup.exe as administrator?
           description: ""
           linktext: Learn more
