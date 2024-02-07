@@ -18,12 +18,12 @@ sections:
         - title: Year 2 and 3
           description: Software download
           url: /year2-3
-        - title: Email guide
-          description: Access your connect email
-          url: /email-guide
         - title: Specifications
           description: Notebook requirements
           url: /notebook-specs
+        - title: Email guide
+          description: Access your connect email
+          url: /email-guide
       variant: image
       subtitle: Bridging your curriculum needs with the right software!
   - infopic:
