@@ -6,7 +6,7 @@ description: ""
 ---
 <blockquote>
 <p>For your Diploma in Chinese Media &amp; Communication (CMC) course, you
-may use either a Windows notebook or an Apple Macbook.</p>
+may use either a Windows notebook or an Apple MacBook.</p>
 </blockquote>
 <table>
 <tbody>
@@ -81,7 +81,7 @@ or higher driver</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>Minimum Specifications (Apple Macbook)</p>
+<p>Minimum Specifications (Apple MacBook)</p>
 </th>
 </tr>
 <tr>
