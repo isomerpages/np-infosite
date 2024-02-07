@@ -136,6 +136,10 @@ Real Estate Business</p>
 <p>AG - Aerospace Engineering</p>
 <p>MR - Mechatronics &amp; Robotics</p>
 <p>BME - Biomedical Engineering</p>
+<p>ECE - Electronic &amp; Computer Engineering</p>
+<p>EE - Electrical Engineering</p>
+<p>ME - Mechanical Engineering</p>
+<p>MOT - Marine &amp; Offshore Technology</p>
 <p></p>
 </td>
 </tr>
