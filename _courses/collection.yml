@@ -2,6 +2,7 @@ collections:
   courses:
     output: true
     order:
+      - Banking & Finance.md
       - Accountancy.md
       - BA/.keep
       - BA/Business Studies.md
