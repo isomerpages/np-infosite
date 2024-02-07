@@ -123,7 +123,7 @@ Common Media Programme</p>
 </li>
 <li>
 <p><a href="/courses/ecde" rel="noopener noreferrer nofollow" target="_blank">ECDE</a> -
-Early Childhood Development and Education</p>
+Early Childhood Development &amp; Education</p>
 </li>
 <li>
 <p><a href="/courses/tse" rel="noopener noreferrer nofollow" target="_blank">TSE</a> -
