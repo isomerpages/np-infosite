@@ -18,8 +18,8 @@ sections:
         - title: Year 2 and 3
           description: Software download
           url: /year2-3
-        - title: Specifications
-          description: Notebook requirements
+        - title: Notebook
+          description: Minimum Specifications
           url: /notebook-specs
         - title: Email guide
           description: Access your connect email
