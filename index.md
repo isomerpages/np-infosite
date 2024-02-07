@@ -15,7 +15,7 @@ sections:
         - title: Year 1
           description: Software download
           url: /year1
-        - title: Year 2 and 3
+        - title: Year 2 & 3
           description: Software download
           url: /year2-3
         - title: Notebook
