@@ -51,4 +51,9 @@ sections:
           description: ""
           linktext: Learn more
           url: https://swd.np.edu.sg/Guides/Win-Registration.pdf
+  - resources:
+      title: Troubleshooting Steps
+      subtitle: Common issues
+      id: resources
+      button: More resources
 ---
