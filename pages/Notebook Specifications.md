@@ -5,9 +5,9 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
-<p>If your course requires a Windows notebook, you may be required to use
-Windows-based software that is not compatible with Apple's Mac operating
-system.</p>
+<p>If your course requires a Windows notebook, you should NOT purchase an
+Apple MacBook. Your course's Windows-based software may not be compatible
+with Apple's Mac Operating System.</p>
 <p></p>
 </blockquote>
 <table>
