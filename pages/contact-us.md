@@ -30,5 +30,5 @@ contacts:
       - email: itcare@connect.np.edu.sg
       - other: ""
     title: General Enquiries & Support
-feedback: ""
+feedback: mailto:itcare@connect.np.edu.sg
 ---

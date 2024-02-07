@@ -15,15 +15,15 @@ sections:
         - title: Year 1
           description: Software download
           url: /year1
-        - title: Year 2 and 3
+        - title: Year 2 & 3
           description: Software download
           url: /year2-3
-        - title: Email guide
-          description: Access your connect email
-          url: /email-guide
-        - title: Specifications
-          description: Notebook requirements
+        - title: Notebook
+          description: Minimum Specifications
           url: /notebook-specs
+        - title: Email Guide
+          description: Access your connect email
+          url: /useful-links/email-guide/
       variant: image
       subtitle: Bridging your curriculum needs with the right software!
   - infopic:
@@ -31,24 +31,12 @@ sections:
       id: infopic
       description: Windows & Mac
       button: Download
-      url: /clientprogram
+      url: /year1
       image: /images/Pages/SWD_students.jpg
       alt: students using digital devices
-  - textcards:
+  - resources:
       title: Troubleshooting Steps
-      subtitle: Common Issues
-      id: textcards
-      cards:
-        - title: How to run the setup.exe as administrator?
-          description: ""
-          linktext: Learn more
-          url: https://swd.np.edu.sg/Guides/Win-Registration.pdf
-        - title: How to run the setup.exe as administrator?
-          description: ""
-          linktext: Learn more
-          url: https://swd.np.edu.sg/Guides/Win-Registration.pdf
-        - title: How to run the setup.exe as administrator?
-          description: ""
-          linktext: Learn more
-          url: https://swd.np.edu.sg/Guides/Win-Registration.pdf
+      subtitle: Common issues
+      id: resources
+      button: More resources
 ---
