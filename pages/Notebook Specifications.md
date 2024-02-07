@@ -80,13 +80,16 @@ Real Estate Business</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>FSV - Film, Sound &amp; Video</p>
+<p><a href="course-fsv" rel="noopener noreferrer nofollow" target="_blank">FSV</a> -
+Film, Sound &amp; Video</p>
 </li>
 <li>
-<p>MCM - Mass Communication</p>
+<p><a href="course-mcm" rel="noopener noreferrer nofollow" target="_blank">MCM</a> -
+Mass Communication</p>
 </li>
 <li>
-<p>MPP - Media Post-Production</p>
+<p><a href="course-mpp" rel="noopener noreferrer nofollow" target="_blank">MPP</a> -
+Media Post-Production</p>
 </li>
 </ul>
 </td>
@@ -98,22 +101,32 @@ Real Estate Business</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>ABM - Arts Business Management</p>
+<p><a href="course-abm" rel="noopener noreferrer nofollow" target="_blank">ABM</a> -
+Arts Business Management</p>
 </li>
 <li>
-<p>CDT - Community Development</p>
+<p><a href="course-cdt" rel="noopener noreferrer nofollow" target="_blank">CDT</a> -
+Community Development</p>
 </li>
 <li>
-<p>CHS - Chinese Studies</p>
+<p><a href="course-chs" rel="noopener noreferrer nofollow" target="_blank">CHS</a> -
+Chinese Studies</p>
 </li>
 <li>
-<p>CMC - Chinese Media &amp; Communications</p>
+<p><a href="course-cmc" rel="noopener noreferrer nofollow" target="_blank">CMC</a> -
+Chinese Media &amp; Communications</p>
 </li>
 <li>
-<p>ECDE - Early Childhood Development and Education</p>
+<p><a href="course-cmp" rel="noopener noreferrer nofollow" target="_blank">CMP</a> -
+Common Media Programme</p>
 </li>
 <li>
-<p>TSE - Tamil Studies with Early Education</p>
+<p><a href="course-ecde" rel="noopener noreferrer nofollow" target="_blank">ECDE</a> -
+Early Childhood Development and Education</p>
+</li>
+<li>
+<p><a href="course-tse" rel="noopener noreferrer nofollow" target="_blank">TSE</a> -
+Tamil Studies with Early Education</p>
 </li>
 </ul>
 </td>
@@ -125,10 +138,12 @@ Real Estate Business</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>NSG - Nursing</p>
+<p><a href="course-nsg" rel="noopener noreferrer nofollow" target="_blank">NSG</a> -
+Nursing</p>
 </li>
 <li>
-<p>OPT - Optometry</p>
+<p><a href="course-opt" rel="noopener noreferrer nofollow" target="_blank">OPT</a> -
+Optometry</p>
 </li>
 </ul>
 </td>
@@ -140,16 +155,24 @@ Real Estate Business</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>CSF - CyberSecurity &amp; Digital Forensics</p>
+<p><a href="course-cictp" rel="noopener noreferrer nofollow" target="_blank">CICTP</a> -
+Common ICT Programme</p>
 </li>
 <li>
-<p>DS - Data Science</p>
+<p><a href="course-csf" rel="noopener noreferrer nofollow" target="_blank">CSF</a> -
+CyberSecurity &amp; Digital Forensics</p>
 </li>
 <li>
-<p>IM - Immersive Media</p>
+<p><a href="course-ds" rel="noopener noreferrer nofollow" target="_blank">DS</a> -
+Data Science</p>
 </li>
 <li>
-<p>IT - Information Technology</p>
+<p><a href="course-im" rel="noopener noreferrer nofollow" target="_blank">IM</a> -
+Immersive Media</p>
+</li>
+<li>
+<p><a href="course-it" rel="noopener noreferrer nofollow" target="_blank">IT</a> -
+Information Technology</p>
 </li>
 </ul>
 </td>
@@ -161,19 +184,28 @@ Real Estate Business</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>BMS - Biomedical Science</p>
+<p><a href="course-bms" rel="noopener noreferrer nofollow" target="_blank">BMS</a> -
+Biomedical Science</p>
 </li>
 <li>
-<p>CBE - Chemical &amp; Biomolecular Engineering</p>
+<p><a href="course-cbe" rel="noopener noreferrer nofollow" target="_blank">CBE</a> -
+Chemical &amp; Biomolecular Engineering</p>
 </li>
 <li>
-<p>EWT - Environmental &amp; Water Technology</p>
+<p><a href="course-csp" rel="noopener noreferrer nofollow" target="_blank">CSP</a> -
+Common Science Programme</p>
 </li>
 <li>
-<p>LDH - Landscape Design &amp; Horticulture</p>
+<p><a href="course-ewt" rel="noopener noreferrer nofollow" target="_blank">EWT</a> -
+Environmental &amp; Water Technology</p>
 </li>
 <li>
-<p>PHARM - Pharmaceutical Science</p>
+<p><a href="course-ldh" rel="noopener noreferrer nofollow" target="_blank">LDH</a> -
+Landscape Design &amp; Horticulture</p>
+</li>
+<li>
+<p><a href="course-pharm" rel="noopener noreferrer nofollow" target="_blank">PHARM</a> -
+Pharmaceutical Science</p>
 </li>
 </ul>
 </td>
@@ -185,25 +217,36 @@ Real Estate Business</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>AG - Aerospace Engineering</p>
+<p><a href="course-ag" rel="noopener noreferrer nofollow" target="_blank">AG</a> -
+Aerospace Engineering</p>
 </li>
 <li>
-<p>MR - Mechatronics &amp; Robotics</p>
+<p><a href="course-mr" rel="noopener noreferrer nofollow" target="_blank">MR</a> -
+Mechatronics &amp; Robotics</p>
 </li>
 <li>
-<p>BME - Biomedical Engineering</p>
+<p><a href="course-bme" rel="noopener noreferrer nofollow" target="_blank">BME</a> -
+Biomedical Engineering</p>
 </li>
 <li>
-<p>ECE - Electronic &amp; Computer Engineering</p>
+<p><a href="course-cep" rel="noopener noreferrer nofollow" target="_blank">CEP</a> -
+Common Engineering Programme</p>
 </li>
 <li>
-<p>EE - Electrical Engineering</p>
+<p><a href="course-ece" rel="noopener noreferrer nofollow" target="_blank">ECE</a> -
+Electronic &amp; Computer Engineering</p>
 </li>
 <li>
-<p>ME - Mechanical Engineering</p>
+<p><a href="course-ee" rel="noopener noreferrer nofollow" target="_blank">EE</a> -
+Electrical Engineering</p>
 </li>
 <li>
-<p>MOT - Marine &amp; Offshore Technology</p>
+<p><a href="course-me" rel="noopener noreferrer nofollow" target="_blank">ME</a> -
+Mechanical Engineering</p>
+</li>
+<li>
+<p><a href="course-mot" rel="noopener noreferrer nofollow" target="_blank">MOT</a> -
+Marine &amp; Offshore Technology</p>
 </li>
 </ul>
 <p></p>
