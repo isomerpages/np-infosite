@@ -2,10 +2,10 @@ collections:
   courses:
     output: true
     order:
-      - BA/Tourism & Resort Management.md
-      - BA/International Trade & Business.md
-      - BA/Common Business Programme.md
-      - BA/Business Studies.md
-      - BA/Banking & Finance.md
-      - BA/Accountancy.md
       - BA/.keep
+      - BA/Accountancy.md
+      - BA/Banking & Finance.md
+      - BA/Business Studies.md
+      - BA/Common Business Programme.md
+      - BA/International Trade & Business.md
+      - BA/Tourism & Resort Management.md
