@@ -2,6 +2,7 @@ collections:
   courses:
     output: true
     order:
+      - Landscape Design & Horticulture.md
       - Environmental & Water Technology.md
       - Common Science Programme.md
       - Chemical & Biomolecular Engineering.md
