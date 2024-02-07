@@ -21,9 +21,9 @@ sections:
         - title: Notebook
           description: Minimum Specifications
           url: /notebook-specs
-        - title: Email guide
+        - title: Email Guide
           description: Access your connect email
-          url: /email-guide
+          url: /useful-links/email-guide/
       variant: image
       subtitle: Bridging your curriculum needs with the right software!
   - infopic:
