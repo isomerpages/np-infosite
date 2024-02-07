@@ -82,7 +82,7 @@ or higher driver</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>Minimum Specifications (Apple Macbook)</p>
+<p>Minimum Specifications (Apple MacBook)</p>
 </th>
 </tr>
 <tr>
