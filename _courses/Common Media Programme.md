@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
-<p>For your Diploma in Common Media Programme (CMP) course, a Windows notebook
-is required.</p>
+<p>For your Diploma in Common Media Programme (CMP) course, you may use either
+a Windows notebook or an Apple MacBook.</p>
 </blockquote>
 <table>
 <tbody>
