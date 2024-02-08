@@ -13,16 +13,16 @@ sections:
       background: /images/Banner and Logo/banner_students.jpg
       key_highlights:
         - title: Year 1
-          description: Software download
+          description: Software Download
           url: /year1
         - title: Year 2 & 3
-          description: Software download
+          description: Software Download
           url: /year2-3
         - title: Notebook
           description: Minimum Specifications
           url: /notebook-specs
         - title: Email Guide
-          description: Access your connect email
+          description: Access your Connect Email
           url: /useful-links/email-guide/
       variant: center
   - infopic:
