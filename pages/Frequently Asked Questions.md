@@ -8,12 +8,11 @@ description: ""
 <p>You do not have to pay for the software. Ngee Ann Polytechnic provides
 licensed software to students throughout their course of study.</p>
 <p></p>
-<h3><strong>2. Why must I download the "setup.exe" program to install software? Can't I just download the software installers directly?</strong></h3>
-<p>The setup.exe<em> </em>program allows you to register your notebook. After
-registering, you can view the software required for your course along with
-the installation guides. As such, you do not have to download multiple
-installers from various sites as everything is embedded within the program
-for your convenience.</p>
+<h3><strong>2. Why must I download the "setup.exe" client program to install software? Can't I just download the software installers directly?</strong></h3>
+<p>The client program allows you to register your notebook. After registering,
+you can view the software required for your course along with the installation
+guides. As such, you do not have to download multiple installers from various
+sites as everything is embedded within the program for your convenience.</p>
 <p></p>
 <h3><strong>3. What is NPNet password?</strong></h3>
 <p>The NPNet password mentioned on the software guides refer to the Course
@@ -56,7 +55,7 @@ own before the start of April semester.</p>
 <p>Please submit an <a href="https://portal.np.edu.sg/Lists/notebook/AllItems.aspx" rel="noopener noreferrer nofollow" target="_blank">online declaration</a> for
 replacement and indicate the reason. Once done, email the screenshot of
 your submission to <a href="mailto:itcare@connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">itcare@connect.np.edu.sg</a>. Upon
-verification by the Service Desk staff, your old notebook will be de-registered.
+verification by the ServiceDesk, your old notebook will be de-registered.
 Proceed to register and install the required software on your new notebook.</p>
 <p></p>
 <h3><strong>12. I wish to drop by at the IT Helpdesk for technical assistance. What are their opening hours?</strong></h3>
