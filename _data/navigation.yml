@@ -2,8 +2,8 @@ logo: /images/Banner and Logo/logo.png
 links:
   - title: About
     url: /about
-  - title: Software Lists
-    collection: software-lists
+  - title: Software
+    collection: software
   - title: Notebook
     url: /notebook-specs
   - title: Useful Links

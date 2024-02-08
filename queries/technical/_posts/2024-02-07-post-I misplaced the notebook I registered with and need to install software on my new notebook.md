@@ -1,7 +1,7 @@
 ---
 title: I misplaced the notebook I registered with and need to install software
   on my new notebook
-permalink: /site/technical-query/re-register-notebook/
+permalink: /queries/technical/re-register-notebook/
 date: 2024-02-07
 layout: post
 description: ""
@@ -18,7 +18,6 @@ replacement and start by clicking on new item.</p>
 <img style="width: 95%;" height="auto" width="100%" alt="fill in details and click save" src="/images/Pages/reregister_step2.png">
 </div>
 <p>Once done click on Save and email the screenshot of your submission to
-<a href="https://portal.np.edu.sg/Lists/notebook/AllItems.aspx" rel="noopener noreferrer nofollow" target="_blank"><u>itcare@connect.np.edu.sg</u>
-</a>. Upon verification by the Service Desk staff, your old notebook will
-be de-registered.</p>
-<p>Proceed to register and install the required software on your new notebook.</p>
+<a href="https://portal.np.edu.sg/Lists/notebook/AllItems.aspx" rel="noopener noreferrer nofollow" target="_blank"><u>itcare@connect.np.edu.sg</u> 
+</a>. Upon verification by the ServiceDesk, your old notebook will be de-registered.
+Proceed to register and install the required software on your new notebook.</p>

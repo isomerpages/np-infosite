@@ -9,8 +9,8 @@ description: ""
 your email daily to stay connected!</p>
 </blockquote>
 <h3>How to access Connect Email?</h3>
-<p>There are 3 ways to access, firstly via the Outlook mobile app, secondly
-via the Outlook desktop client on a computer and thirdly via the browser.</p>
+<p>There are 3 ways to access, namely via the Outlook mobile app, via the
+Outlook desktop client on a computer and via a web browser.</p>
 <h3>1. Using your mobile app</h3>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://apps.apple.com/us/app/microsoft-outlook/id951937596" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="outlook ios" src="/images/outlook_app.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Outlook app (iOS device)</div><div class="isomer-card-link">Click here if you are using iOS device</div></div></a>
@@ -34,16 +34,17 @@ example would be <a href="s12345678@connect.np.edu.sg" rel="noopener noreferrer 
 <p></p>
 <h3>2. Using your notebook computer</h3>
 <p>Login to <a href="https://portal.office.com" rel="noopener noreferrer nofollow" target="_blank">https://portal.office.com</a> with
-your email address and password. Click on Install Office -&gt; Office 365
+your NPNet account and password. Click on Install Office -&gt; Office 365
 Apps. A file will download (.exe file). Launch the file and follow instructions
 on screen to complete installation. The installation may take up to 30
-minutes if you download the full suite of Microsoft Office apps.</p>
+minutes if you download the full suite of Microsoft Office apps. Launch
+Outlook app and sign in using your NPNet account and password.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="office" src="/images/install_office.png">
 </div>
 <h3>3. Using your web browser</h3>
 <p>Login to <a href="https://outlook.office365.com" rel="noopener noreferrer nofollow" target="_blank">https://outlook.office365.com </a>with
-your email address and password. You should see the following screens appear
+your NPNet account and password. You should see the following screens appear
 prior to login.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="web login" src="/images/web_browser_login.png">

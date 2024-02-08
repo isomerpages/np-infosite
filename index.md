@@ -13,23 +13,22 @@ sections:
       background: /images/Banner and Logo/banner_students.jpg
       key_highlights:
         - title: Year 1
-          description: Software download
+          description: Software Download
           url: /year1
         - title: Year 2 & 3
-          description: Software download
+          description: Software Download
           url: /year2-3
         - title: Notebook
           description: Minimum Specifications
           url: /notebook-specs
         - title: Email Guide
-          description: Access your connect email
+          description: Access your Connect Email
           url: /useful-links/email-guide/
-      variant: image
-      subtitle: Bridging your curriculum needs with the right software!
+      variant: center
   - infopic:
       title: Get the right software for your course
       id: infopic
-      description: Windows & Mac
+      description: Windows & Mac (Client Program)
       button: Download
       url: /year1
       image: /images/Pages/SWD_students.jpg
