@@ -1,5 +1,5 @@
 collections:
-  software-lists:
+  software:
     output: true
     order:
       - Year 1.md
