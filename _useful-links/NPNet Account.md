@@ -20,5 +20,5 @@ date of birth and personal email address registered in NPal Student.</p>
 <h3>I need further assistance</h3>
 <p>Alternatively, you may visit the IT Helpdesk at Blk 27 #01-01 or email
 to <a href="mailto:itcare@connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">itcare@connect.np.edu.sg</a> if
-you have not registered or cannot remember the registered personal ​email
-address in NPal Student.</p>
+you have not registered your personal email address in NPal Student or
+cannot remember the registered personal ​email address.</p>
