@@ -22,7 +22,7 @@ for students to access IT services and network resources.</p>
 </ol>
 <p>After you have successfully login, you can surf the internet and access
 network resources. Please note that you will be required to enter your
-NPNet ID and password each time you access NPWireless.</p>
+NPNet account and password each time you access NPWireless.</p>
 <h3>NPWirelessx</h3>
 <ol data-tight="true" class="tight">
 <li>
@@ -32,7 +32,7 @@ NPNet ID and password each time you access NPWireless.</p>
 <p>Select NPWirelessx and click Connect.</p>
 </li>
 <li>
-<p>Key in your NPNet ID and password when prompted.</p>
+<p>Key in your NPNet account and password when prompted.</p>
 </li>
 </ol>
 <p>NPWirelessx provides you seamless access to the wireless network on campus.
