@@ -8,9 +8,9 @@ image: ""
 variant: tiptap
 ---
 <blockquote>
-<p>The setup.exe client program file needs to be run as an administrator
-for it work properly. Temporarily disable the anti-virus software installed
-on your notebook to prevent any unexpected error during installation.</p>
+<p>The "setup.exe" client program needs to be run as an administrator to
+work properly. Temporarily disable the anti-virus software installed on
+your notebook to prevent any unexpected errors during installation.</p>
 <p></p>
 </blockquote>
 <p>After downloading the <a href="https://swd.np.edu.sg/Softwares/ClientSetup/setup.exe" rel="noopener noreferrer nofollow" target="_blank">setup.exe</a> client
