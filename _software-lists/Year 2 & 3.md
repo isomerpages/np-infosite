@@ -1,5 +1,5 @@
 ---
-title: Year 2 and 3
+title: Year 2 & 3
 permalink: /year2-3/
 variant: tiptap
 description: ""
@@ -23,11 +23,10 @@ software that is not compatible with the Apple Mac operating system.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Apple macbook</div>
-<div class="isomer-card-description">Click here if your course requires an Apple macbook.</div>
+<div class="isomer-card-title">Apple MacBook</div>
+<div class="isomer-card-description">Click here if your course requires an Apple MacBook.</div>
 <div class="isomer-card-link">Guide to register and install software</div>
 </div>
 </a>
 </div>
-<p></p>
 <p></p>

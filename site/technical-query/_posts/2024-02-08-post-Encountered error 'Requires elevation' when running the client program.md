@@ -1,7 +1,7 @@
 ---
-title: Encountered error 'Requires elevation' when installing software
-permalink: /run-as-admin/
-date: 2024-02-07
+title: Encountered error 'Requires elevation' when running the client program
+permalink: /site/technical-query/run-as-admin/
+date: 2024-02-08
 layout: post
 description: ""
 image: ""

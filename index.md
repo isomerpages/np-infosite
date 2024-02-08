@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: NP Software Portal
-description: An Isomer site of the Singapore Government
+description: Ngee Ann Polytechnic Software Portal
 image: /images/isomer-logo.svg
 permalink: /
 notification: Notebook registration starts from 25 Mar 2024 onwards. After
@@ -27,7 +27,7 @@ sections:
       variant: image
       subtitle: Bridging your curriculum needs with the right software!
   - infopic:
-      title: Software Download Client Program
+      title: Get the right software for your course
       id: infopic
       description: Windows & Mac
       button: Download

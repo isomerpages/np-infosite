@@ -6,9 +6,9 @@ links:
     collection: software-lists
   - title: Notebook
     url: /notebook-specs
-  - title: Frequently Asked Questions
-    url: /faq
   - title: Useful Links
     collection: useful-links
+  - title: Faq
+    url: /faq
   - title: Contact Us
     url: /contact-us
