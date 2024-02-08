@@ -17,12 +17,12 @@ for students to access IT services and network resources.</p>
 <p>Select NPWireless and click Connect.</p>
 </li>
 <li>
-<p>Launch a web browser and log in using your Student ID and Password.</p>
+<p>Launch a web browser and log in using your NPNet ID and Password.</p>
 </li>
 </ol>
 <p>After you have successfully login, you can surf the internet and access
 network resources. Please note that you will be required to enter your
-student ID and password each time you access NPWireless.</p>
+NPNet ID and password each time you access NPWireless.</p>
 <h3>NPWirelessx</h3>
 <ol data-tight="true" class="tight">
 <li>
@@ -32,7 +32,7 @@ student ID and password each time you access NPWireless.</p>
 <p>Select NPWirelessx and click Connect.</p>
 </li>
 <li>
-<p>Key in your student ID and password when prompted.</p>
+<p>Key in your NPNet ID and password when prompted.</p>
 </li>
 </ol>
 <p>NPWirelessx provides you seamless access to the wireless network on campus.
