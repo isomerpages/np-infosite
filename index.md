@@ -25,7 +25,6 @@ sections:
           description: Access your connect email
           url: /useful-links/email-guide/
       variant: center
-      subtitle: Bridging your curriculum needs with the right software!
   - infopic:
       title: Get the right software for your course
       id: infopic
