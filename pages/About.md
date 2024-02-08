@@ -24,9 +24,9 @@ notebook and that it meets the minimum specifications for your course.</p>
 technical queries, please write to <a href="mailto:itcare@connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">itcare@connect.np.edu.sg</a>.&nbsp;Include
 your name, course, student ID and screenshots of the error message in your
 email.</p>
-<h3>Student ID and Password</h3>
-<p>Your student ID and password for notebook registration can be found in
-your Acceptance of Offer letter. To view your Acceptance of Offer letter,
+<h3>NPNet Account and Password</h3>
+<p>Your NPNet Account and password for notebook registration can be found
+in your Acceptance of Offer letter. To view your Acceptance of Offer letter,
 download the mStudent App (<a href="https://apps.apple.com/sg/app/mstudent/id1065511743" rel="noopener noreferrer nofollow" target="_blank">iOS</a> / <a href="https://play.google.com/store/apps/details?id=sg.edu.np.student" rel="noopener noreferrer nofollow" target="_blank">Android</a>)
 and tap on “Get Started”.</p>
 <p></p>
