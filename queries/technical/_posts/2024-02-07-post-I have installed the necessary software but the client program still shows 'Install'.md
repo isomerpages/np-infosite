@@ -17,7 +17,6 @@ has installed successfully. If this happens, try quitting the setup.exe
 file and launch it again as an administrator. If you have checked that
 the software has installed successfully and able to run properly, you may <strong><u>IGNORE</u></strong> the
 “Install” button status.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="install button showing installed" src="/images/Pages/install_button.png">
 </div>
