@@ -34,17 +34,17 @@ example would be <a href="s12345678@connect.np.edu.sg" rel="noopener noreferrer 
 <p></p>
 <h3>2. Using your notebook computer</h3>
 <p>Login to <a href="https://portal.office.com" rel="noopener noreferrer nofollow" target="_blank">https://portal.office.com</a> with
-your email address and password. Click on Install Office -&gt; Office 365
+your NPNet account and password. Click on Install Office -&gt; Office 365
 Apps. A file will download (.exe file). Launch the file and follow instructions
 on screen to complete installation. The installation may take up to 30
 minutes if you download the full suite of Microsoft Office apps. Launch
-Outlook app and sign in using your email address and password.</p>
+Outlook app and sign in using your NPNet account and password.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="office" src="/images/install_office.png">
 </div>
 <h3>3. Using your web browser</h3>
 <p>Login to <a href="https://outlook.office365.com" rel="noopener noreferrer nofollow" target="_blank">https://outlook.office365.com </a>with
-your email address and password. You should see the following screens appear
+your NPNet account and password. You should see the following screens appear
 prior to login.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="web login" src="/images/web_browser_login.png">
