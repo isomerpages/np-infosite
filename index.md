@@ -27,7 +27,7 @@ sections:
       variant: image
       subtitle: Bridging your curriculum needs with the right software!
   - infopic:
-      title: Get the right software
+      title: Get the right software for your course
       id: infopic
       description: Windows & Mac
       button: Download
