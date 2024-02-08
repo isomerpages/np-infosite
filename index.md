@@ -28,7 +28,7 @@ sections:
   - infopic:
       title: Get the right software for your course
       id: infopic
-      description: Windows & Mac
+      description: Windows & Mac (Client Program)
       button: Download
       url: /year1
       image: /images/Pages/SWD_students.jpg
