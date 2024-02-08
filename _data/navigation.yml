@@ -2,7 +2,7 @@ logo: /images/Banner and Logo/logo.png
 links:
   - title: About
     url: /about
-  - title: Software Lists
+  - title: Software
     collection: software-lists
   - title: Notebook
     url: /notebook-specs
