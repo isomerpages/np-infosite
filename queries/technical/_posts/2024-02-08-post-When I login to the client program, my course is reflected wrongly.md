@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <blockquote>
-<p>If you have changed course after enrolment, there is a possiblity that
+<p>If you have changed course after enrolment, there is a possibility that
 the client program is still showing your previous course.</p>
 </blockquote>
 <p>Please email your new course along with your name, student ID to <a href="mailto:itcare@connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">itcare@connect.np.edu.sg</a> for
