@@ -13,7 +13,7 @@ your email daily to stay connected!</p>
 Outlook desktop client on a computer and via a web browser.</p>
 <h3>1. Using your mobile app</h3>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://apps.apple.com/us/app/microsoft-outlook/id951937596" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="outlook ios" src="/images/outlook_app.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Outlook app (iOS device)</div><div class="isomer-card-link">Click here if you are using iOS device</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://apps.apple.com/us/app/microsoft-outlook/id951937596" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="outlook ios" src="/images/outlook_app.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Outlook app (iOS device)</div><div class="isomer-card-link">I'm using an iOS device</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://play.google.com/store/apps/details?id=com.microsoft.office.outlook&amp;pcampaignid=web_share" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -22,7 +22,7 @@ Outlook desktop client on a computer and via a web browser.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Outlook app (Android)</div>
-<div class="isomer-card-link">Click here if you are using Android device</div>
+<div class="isomer-card-link">I'm using an Android device</div>
 </div>
 </a>
 </div>
