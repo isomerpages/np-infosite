@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: NP Software Portal
-description: Ngee Ann Polytechnic Software Portal
+title: NP Information Portal
+description: Ngee Ann Polytechnic Information Portal
 image: /images/isomer-logo.svg
 permalink: /
 notification: Notebook registration starts from 25 Mar 2024 onwards. After
