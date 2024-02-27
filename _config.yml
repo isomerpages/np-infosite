@@ -1,6 +1,6 @@
 title: NP Information Portal
 url: https://www2.np.edu.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/Banner and Logo/favicon_isomer.ico
 colors:
   primary-color: "#6031b6"
   secondary-color: "#4372d6"
@@ -53,7 +53,7 @@ staging: https://staging-lite.d2n20hb5wi6675.amplifyapp.com
 prod: https://master.d2uc18hc4h2ycw.amplifyapp.com
 facebook-pixel: ""
 shareicon: /images/isomer-logo.svg
-is_government: true
+is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
 resources_name: queries
