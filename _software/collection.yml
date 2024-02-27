@@ -2,5 +2,6 @@ collections:
   software:
     output: true
     order:
+      - Software Portal.md
       - Year 1.md
       - Year 2 & 3.md
