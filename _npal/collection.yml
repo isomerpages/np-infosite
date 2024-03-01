@@ -1,4 +1,5 @@
 collections:
   npal:
     output: true
-    order: []
+    order:
+      - NPal Student Help FAQ.md
