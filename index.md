@@ -28,8 +28,8 @@ sections:
   - infopic:
       title: Get the right software for your course
       id: infopic
-      description: We provide licensed software to NP students throughout their course
-        of study, free of charge.
+      description: Licensed software to NP students throughout their course of study,
+        free of charge.
       button: Download
       url: /year1
       image: /images/Pages/SWD_students.jpg
