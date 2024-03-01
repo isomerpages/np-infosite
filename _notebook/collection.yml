@@ -1,4 +1,5 @@
 collections:
   notebook:
     output: true
-    order: []
+    order:
+      - Notebook Specifications.md
