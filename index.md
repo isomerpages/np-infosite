@@ -12,14 +12,14 @@ sections:
       title: Digital Services
       background: /images/Banner and Logo/banner_students.jpg
       key_highlights:
-        - title: Year 1
-          description: Software Download
+        - title: Software
+          description: Freshmen, Year 2 and 3
           url: /year1
-        - title: Year 2 & 3
-          description: Software Download
-          url: /year2-3
         - title: Notebook
           description: Minimum Specifications
+          url: /year2-3
+        - title: IT Services
+          description: For Students and Staff
           url: /notebook-specs
         - title: Email Guide
           description: Access your Connect Email
