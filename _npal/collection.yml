@@ -1,0 +1,4 @@
+collections:
+  npal:
+    output: true
+    order: []
