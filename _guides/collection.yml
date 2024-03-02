@@ -2,4 +2,5 @@ collections:
   guides:
     output: true
     order:
+      - Wireless Setup.md
       - Student VPN.md
