@@ -2,4 +2,5 @@ collections:
   npal:
     output: true
     order:
+      - Clear cache.md
       - Student Help FAQ.md
