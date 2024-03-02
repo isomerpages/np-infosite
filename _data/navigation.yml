@@ -5,10 +5,15 @@ links:
   - title: Software
     collection: software
   - title: Notebook
-    url: /notebook-specs/
+    collection: notebook
   - title: Quick Links
-    collection: quick-links
-  - title: Faq
-    url: /faq
+    url: /quicklinks
+    sublinks:
+      - title: Students
+        url: /quicklinks-students
+      - title: Staff
+        url: /quicklinks-staff
+  - title: Guides
+    collection: courses
   - title: Contact Us
     url: /contact-us
