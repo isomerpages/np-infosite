@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - Student/Wireless Setup.md
       - Student/POLITEMall.md
       - Student/NPal Student.md
       - Student/mStudent App.md
