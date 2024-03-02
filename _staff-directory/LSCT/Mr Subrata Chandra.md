@@ -1,10 +1,330 @@
 ---
 title: Mr Subrata Chandra
 permalink: /staff-directory/lsct/subrata-chanda/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: LSCT
 ---
-<p>​​​​</p>  
-
-<table style="border-width: 0px; border-style: none; border-collapse: collapse; color: rgb(68, 68, 68); font-family: &quot;Segoe UI&quot;, Segoe, Tahoma, Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" cellspacing="0" id="profile&quot;" class="ms-rteTable-0" width="100%"><tbody><tr class="ms-rteTableEvenRow-0"><td style="vertical-align: top; padding: 7px 5px 6px; width: 283.7px; height: 242px;" class="ms-rteTableEvenCol-0">​<img style="border: none; -webkit-tap-highlight-color: transparent; margin: 5px;" src="https://www2.np.edu.sg/staffdirectory/lsct/PublishingImages/Subrata_Chanda.jpg" alt="Subrata_Chanda.jpg">​​​​​​​​<br><br></td><td style="vertical-align: top; padding: 7px 5px 6px; width: 3.5625px; height: 242px;" colspan="1" class="ms-rteTableOddCol-0">​</td><td style="vertical-align: top; padding: 7px 5px 6px; width: 418px; height: 242px;" class="ms-rteTableEvenCol-0">​<table style="border-width: 0px; border-style: none; border-collapse: collapse; height: 149px;" cellspacing="0" class="ms-rteTable-0" width="100%"><tbody><tr class="ms-rteTableEvenRow-0"><td style="vertical-align: top; padding: 7px 5px 6px; width: 124px;" rowspan="1" class="ms-rteTableEvenCol-0"><strong>​Name</strong>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td style="vertical-align: top; padding: 7px 5px 6px; width: 312px;" rowspan="1" class="ms-rteTableOddCol-0">​Subrata Chanda​​</td></tr><tr class="ms-rteTableOddRow-0"><td style="vertical-align: top; padding: 7px 5px 6px; width: 124px;" rowspan="1" class="ms-rteTableEvenCol-0">​<span aria-hidden="true"></span><strong>Designation</strong>:</td><td style="vertical-align: top; padding: 7px 5px 6px;" rowspan="1" class="ms-rteTableOddCol-0">​Director &amp; Principal Technology Strategist​<br></td></tr><tr class="ms-rteTableEvenRow-0"><td style="vertical-align: top; padding: 7px 5px 6px; width: 124px;" class="ms-rteTableEvenCol-0"><strong>Address</strong>: ​</td><td style="vertical-align: top; padding: 7px 5px 6px;" class="ms-rteTableOddCol-0">School of Life Sciences and Chemical Technology<br>Blk 83, #04-00, Singapore 599489​</td></tr><tr class="ms-rteTableOddRow-0"><td style="vertical-align: top; padding: 7px 5px 6px; width: 124px;" class="ms-rteTableEvenCol-0"><strong>Tel</strong>: &nbsp;&nbsp;&nbsp; ​</td><td style="vertical-align: top; padding: 7px 5px 6px;" class="ms-rteTableOddCol-0">(65) 6460 6809</td></tr><tr class="ms-rteTableEvenRow-0"><td style="vertical-align: top; padding: 7px 5px 6px; width: 124px;" class="ms-rteTableEvenCol-0"><strong>Email</strong>: ​</td><td style="vertical-align: top; padding: 7px 5px 6px;" class="ms-rteTableOddCol-0"><a style="color: rgb(0, 114, 198); text-decoration: none;" href="mailto:Subrata_CHANDA@np.edu.sg">Subrata_CHANDA@np.edu.sg​</a></td></tr></tbody></table></td><td style="vertical-align: top; padding: 7px 5px 6px; width: 1px; height: 242px;" colspan="1" class="ms-rteTableOddCol-0">​</td></tr><tr class="ms-rteTableOddRow-0"><td style="vertical-align: top; padding: 7px 5px 6px; width: 283.7px; height: 109px;" class="ms-rteTableEvenCol-0"><div><table style="border-width: 0px; border-style: none; border-collapse: collapse; width: 283.7px;" cellspacing="0" class="ms-rteTable-0"><tbody><tr class="ms-rteTableEvenRow-0"><td style="vertical-align: top; padding: 7px 5px 6px; width: 8.85px;" rowspan="1" class="ms-rteTableEvenCol-0">&nbsp;​•​</td><td style="vertical-align: top; padding: 7px 5px 6px; width: 192px;" rowspan="1" class="ms-rteTableOddCol-0">M. Eng. (Yokohama National University, Japan)​​</td></tr><tr class="ms-rteTableOddRow-0"><td style="vertical-align: top; padding: 7px 5px 6px; width: 8.85px;" rowspan="1" class="ms-rteTableEvenCol-0">&nbsp;•​</td><td style="vertical-align: top; padding: 7px 5px 6px; width: 192px;" rowspan="1" class="ms-rteTableOddCol-0">​B. Tech. (Hons.) (IIT Kharagpur, India)​<br></td></tr><tr class="ms-rteTableEvenRow-0"><td style="vertical-align: top; padding: 7px 5px 6px; width: 8.85px;" rowspan="1" class="ms-rteTableEvenCol-0">​ •</td><td style="vertical-align: top; padding: 7px 5px 6px; width: 192px;" rowspan="1" class="ms-rteTableOddCol-0">​Executive Certificate in Management and Leadership (MIT, USA)​<br></td></tr></tbody></table><br></div>​​​<br></td><td style="vertical-align: top; padding: 7px 5px 6px; width: 3.5625px; height: 109px;" colspan="1" class="ms-rteTableOddCol-0">​</td><td style="vertical-align: top; padding: 7px 5px 6px; width: 418px; height: 109px;" class="ms-rteTableEvenCol-0"><p style="margin: 0px 0px 10px; line-height: 1.3 !important; text-align: justify;"></p><p style="margin: 0px 0px 10px; line-height: 1.3 !important;"><strong>My favorite quote:</strong>&nbsp;</p><p style="margin: 0px 0px 10px; line-height: 1.3 !important; text-align: justify;"><em>“<span style="text-decoration: underline;">Yesterday</span><span>&nbsp;</span>is the reality;<br><span style="text-decoration: underline;">Today</span><span>&nbsp;</span>is the opportunity;<br><span style="text-decoration: underline;">Tomorrow</span><span>&nbsp;</span>is just a possibility.<br><br>Learn from the reality;<br>Grab the opportunity to turn a possibility into the best reality.​”</em><br></p></td><td style="vertical-align: top; padding: 7px 5px 6px; width: 1px; height: 109px;" colspan="1" class="ms-rteTableOddCol-0">​</td></tr><tr class="ms-rteTableEvenRow-0"><td style="vertical-align: top; padding: 7px 5px 6px; width: 283.7px;" class="ms-rteTableEvenCol-0">​<strong>Professional Expertise​</strong></td><td style="vertical-align: top; padding: 7px 5px 6px; width: 3.5625px;" colspan="1" class="ms-rteTableOddCol-0"><br></td><td style="vertical-align: top; padding: 7px 5px 6px; width: 418px;" class="ms-rteTableEvenCol-0"><p style="margin: 0px 0px 10px; line-height: 1.3 !important;">​Naval Architecture, Fluid dynamics, Marine Propulsion, Design, Innovation, Teaching &amp; Learning, Management ​<br></p></td><td style="vertical-align: top; padding: 7px 5px 6px; width: 1px;" colspan="1" class="ms-rteTableOddCol-0"><br></td></tr><tr class="ms-rteTableOddRow-0"><td style="vertical-align: top; padding: 7px 5px 6px; width: 283.7px; height: 21px;" class="ms-rteTableEvenCol-0">​<br><strong>​Awards &amp; Achievements​</strong></td><td style="vertical-align: top; padding: 7px 5px 6px; width: 3.5625px; height: 21px;" colspan="1" class="ms-rteTableOddCol-0"><div><br>&nbsp;</div><div>​</div></td><td style="vertical-align: top; padding: 7px 5px 6px; width: 418px; height: 21px;" class="ms-rteTableEvenCol-0">​<table style="border-width: 0px; border-style: none; border-collapse: collapse;" cellspacing="0" class="ms-rteTable-0" width="100%"><tbody><tr class="ms-rteTableEvenRow-0"><td style="vertical-align: top; padding: 7px 5px 6px; width: 10.45px;" class="ms-rteTableEvenCol-0">​•​</td><td style="vertical-align: top; padding: 7px 5px 6px; width: 527.675px; text-align: justify;" class="ms-rteTableOddCol-0">​Long Service Award, National Day Award (2020)​<br></td></tr><tr class="ms-rteTableOddRow-0"><td style="vertical-align: top; padding: 7px 5px 6px; width: 10.45px;" class="ms-rteTableEvenCol-0">​•​</td><td style="vertical-align: top; padding: 7px 5px 6px;" class="ms-rteTableOddCol-0">​Public Administration Medal (Silver), National Day Award (2019)​<br></td></tr><tr class="ms-rteTableEvenRow-0"><td style="vertical-align: top; padding: 7px 5px 6px; width: 10.45px;" class="ms-rteTableEvenCol-0">​•​</td><td style="vertical-align: top; padding: 7px 5px 6px;" class="ms-rteTableOddCol-0">​Top Project Award,Singapore Maritime Institute (2016)​<br></td></tr><tr class="ms-rteTableOddRow-0"><td style="vertical-align: top; padding: 7px 5px 6px; width: 10.45px;" class="ms-rteTableEvenCol-0">​•​</td><td style="vertical-align: top; padding: 7px 5px 6px;" class="ms-rteTableOddCol-0">School Teaching Award, Ngee Ann Polytechnic (2008, 2006, 2003, 2002, 2000, 1999, 1997, 1996)​​ ​<br></td></tr><tr class="ms-rteTableEvenRow-0"><td style="vertical-align: top; padding: 7px 5px 6px; width: 10.45px;" class="ms-rteTableEvenCol-0">​•​</td><td style="vertical-align: top; padding: 7px 5px 6px;" class="ms-rteTableOddCol-0">​Go the Extra Mile Award,​​Ngee Ann Polytechnic (2001)​<br></td></tr><tr class="ms-rteTableOddRow-0"><td style="vertical-align: top; padding: 7px 5px 6px; width: 10.45px;" class="ms-rteTableEvenCol-0">​•​</td><td style="vertical-align: top; padding: 7px 5px 6px;" class="ms-rteTableOddCol-0">​Incentive Award,​ ​Ngee Ann Polytechnic (1999)<br></td></tr><tr class="ms-rteTableEvenRow-0"><td style="vertical-align: top; padding: 7px 5px 6px; width: 10.45px;" class="ms-rteTableEvenCol-0">​•​</td><td style="vertical-align: top; padding: 7px 5px 6px;" class="ms-rteTableOddCol-0">​Teaching Excellence Award, ​Ngee Ann Polytechnic (1994)<br></td></tr><tr class="ms-rteTableOddRow-0"><td style="vertical-align: top; padding: 7px 5px 6px; width: 10.45px;" class="ms-rteTableEvenCol-0">​•​</td><td style="vertical-align: top; padding: 7px 5px 6px;" class="ms-rteTableOddCol-0">​Japanese Government Monbusho Scholarship,Ministry of Education, Japan​ (1986 -1989)<br></td></tr><tr class="ms-rteTableEvenRow-0"><td style="vertical-align: top; padding: 7px 5px 6px; width: 10.45px;" class="ms-rteTableEvenCol-0">​•​</td><td style="vertical-align: top; padding: 7px 5px 6px;" class="ms-rteTableOddCol-0">​Indian Institute of Technology Merit Scholarship, IIT Kharagpur, India (1978 -1983)<br></td></tr></tbody></table></td><td style="vertical-align: top; padding: 7px 5px 6px; width: 1px; height: 21px;" colspan="1" class="ms-rteTableOddCol-0">​</td></tr><tr class="ms-rteTableEvenRow-0"><td style="vertical-align: top; padding: 7px 5px 6px; width: 283.7px;" class="ms-rteTableEvenCol-0">​<strong>Publications, Patents, Projects, Consultancy</strong></td><td style="vertical-align: top; padding: 7px 5px 6px; width: 3.5625px;" colspan="1" class="ms-rteTableOddCol-0">​</td><td style="vertical-align: top; padding: 7px 5px 6px; width: 418px;" class="ms-rteTableEvenCol-0"><table style="border-width: 0px; border-style: none; border-collapse: collapse; width: 558.125px;" cellspacing="0" class="ms-rteTable-0"><tbody><tr class="ms-rteTableEvenRow-0"><td style="vertical-align: top; padding: 7px 5px 6px; width: 5.2875px; height: 31px;" rowspan="1" class="ms-rteTableEvenCol-0">•​</td><td style="vertical-align: top; padding: 7px 5px 6px; width: 710px;" rowspan="1" class="ms-rteTableOddCol-0">​Chanda, S. (2016). Resistance Lowering Bow Wing, A Hull Appendage. International Patent WO2013162474A1.​<br></td></tr><tr class="ms-rteTableOddRow-0"><td style="vertical-align: top; padding: 7px 5px 6px; width: 5.2875px;" rowspan="1" class="ms-rteTableEvenCol-0">​<span>•​<span style="display: inline-block;"></span></span></td><td style="vertical-align: top; padding: 7px 5px 6px; width: 710px; text-align: justify;" rowspan="1" class="ms-rteTableOddCol-0">​<span>Chanda, S. (2011). Be the Best Teacher that You Can be – Use the WaT Approach. Redesigning Pedagogy International Conference, Singapore. ​<span style="display: inline-block;"></span></span></td></tr><tr class="ms-rteTableEvenRow-0"><td style="vertical-align: top; padding: 7px 5px 6px; width: 5.2875px; height: 75px;" class="ms-rteTableEvenCol-0">• ​</td><td style="vertical-align: top; padding: 7px 5px 6px; width: 710px; height: 75px; text-align: justify;" class="ms-rteTableOddCol-0"><div>Chanda, S. (2007). Revisiting Teaching and Learning Through Learning Triangle. Hawaii International Conference on Education.<br></div><div><br></div><div style="text-align: right;"><a style="color: rgb(0, 114, 198); text-decoration: none;" href="https://www2.np.edu.sg/staffdirectory/lsct/Documents/OtherPublications_Subrata.pdf">More...</a>.<br></div></td></tr></tbody></table><p style="margin: 0px 0px 10px; line-height: 1.3 !important;">&nbsp;</p></td></tr></tbody></table>
+<p>​​​​</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​</p>
+<div class="isomer-image-wrapper">
+<img style="border: none; -webkit-tap-highlight-color: transparent; margin: 5px;" height="auto" width="100%" alt="Subrata_Chanda.jpg" src="https://www2.np.edu.sg/staffdirectory/lsct/PublishingImages/Subrata_Chanda.jpg">
+</div>
+<p>​​​​​​​​
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>​Name</strong>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​Subrata Chanda​​</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​<strong>Designation</strong>:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​Director &amp; Principal Technology Strategist​
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Address</strong>: ​</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School of Life Sciences and Chemical Technology
+<br>Blk 83, #04-00, Singapore 599489​</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Tel</strong>: &nbsp;&nbsp;&nbsp; ​</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>(65) 6460 6809</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>: ​</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Subrata_CHANDA@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Subrata_CHANDA@np.edu.sg​</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td rowspan="1" colspan="1">
+<p>​</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;​•​</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>M. Eng. (Yokohama National University, Japan)​​</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;•​</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​B. Tech. (Hons.) (IIT Kharagpur, India)​
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​ •</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​Executive Certificate in Management and Leadership (MIT, USA)​
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<p>​​​
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p><strong>My favorite quote:</strong>&nbsp;</p>
+<p><em>“<u>Yesterday</u>&nbsp;is the reality;<br><u>Today</u>&nbsp;is the opportunity;<br><u>Tomorrow</u>&nbsp;is just a possibility.<br><br>Learn from the reality;<br>Grab the opportunity to turn a possibility into the best reality.​”</em>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​<strong>Professional Expertise​</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​Naval Architecture, Fluid dynamics, Marine Propulsion, Design, Innovation,
+Teaching &amp; Learning, Management ​
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​
+<br><strong>​Awards &amp; Achievements​</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>&nbsp;</p>
+<p>​</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​•​</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​Long Service Award, National Day Award (2020)​
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​•​</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​Public Administration Medal (Silver), National Day Award (2019)​
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​•​</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​Top Project Award,Singapore Maritime Institute (2016)​
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​•​</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Teaching Award, Ngee Ann Polytechnic (2008, 2006, 2003, 2002, 2000,
+1999, 1997, 1996)​​ ​
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​•​</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​Go the Extra Mile Award,​​Ngee Ann Polytechnic (2001)​
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​•​</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​Incentive Award,​ ​Ngee Ann Polytechnic (1999)
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​•​</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​Teaching Excellence Award, ​Ngee Ann Polytechnic (1994)
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​•​</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​Japanese Government Monbusho Scholarship,Ministry of Education, Japan​
+(1986 -1989)
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​•​</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​Indian Institute of Technology Merit Scholarship, IIT Kharagpur, India
+(1978 -1983)
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td rowspan="1" colspan="1">
+<p>​</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​<strong>Publications, Patents, Projects, Consultancy</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​</p>
+</td>
+<td rowspan="1" colspan="1">
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>•​</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​Chanda, S. (2016). Resistance Lowering Bow Wing, A Hull Appendage. International
+Patent WO2013162474A1.​
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​•​</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​Chanda, S. (2011). Be the Best Teacher that You Can be – Use the WaT
+Approach. Redesigning Pedagogy International Conference, Singapore. ​</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>• ​</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chanda, S. (2007). Revisiting Teaching and Learning Through Learning Triangle.
+Hawaii International Conference on Education.
+<br>
+</p>
+<p>
+<br>
+</p>
+<p><a href="https://www2.np.edu.sg/staffdirectory/lsct/Documents/OtherPublications_Subrata.pdf" rel="noopener noreferrer nofollow" target="_blank">More...</a>.
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
