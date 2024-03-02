@@ -18,7 +18,7 @@ sections:
         - title: Notebook
           description: Minimum Specifications
           url: /year2-3
-        - title: IT Services
+        - title: Quick links
           description: For Students and Staff
           url: /notebook-specs
         - title: Email Guide
