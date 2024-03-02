@@ -2,6 +2,6 @@ collections:
   npal:
     output: true
     order:
-      - Terms of Use.md
+      - Terms of Use (for NP Students).md
       - Clear cache.md
       - Student Help FAQ.md
