@@ -41,7 +41,7 @@ sections:
         >Collective Consumer Protection
         >Notebooks with 3-year On-site Warranty
         >Next-Business Day Service
-      button: Find out more
+      button: Explore more
       url: /notebook
       image: /images/notebook.png
       alt: buy from authorised supplier
