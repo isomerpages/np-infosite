@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - Student/Connect Email.md
       - Student/NPNet Account.md
       - Student/.keep
       - mStudent App.md
