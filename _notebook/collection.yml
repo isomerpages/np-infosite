@@ -2,5 +2,6 @@ collections:
   notebook:
     output: true
     order:
+      - Models for Purchases.md
       - Who Buys What?.md
       - Notebook Specifications.md
