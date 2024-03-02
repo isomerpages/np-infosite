@@ -206,7 +206,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​6460 8690</p>
+<p>​64608690</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>​<a href="mailto:Mariam_MATHEW@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mariam_MATHEW@np.edu.sg</a>
