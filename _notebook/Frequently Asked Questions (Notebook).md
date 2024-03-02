@@ -44,11 +44,11 @@ computer from NP's authorised suppliers as you will enjoy <strong>3 key advantag
 <p>Yes. Depending on your household income, you may be eligible for either:</p>
 <p>(i) Interest-free Mobile Computing Loan of up to $2,000 for notebook computers</p>
 <p>(ii) Opportunity Fund Subsidy for notebook</p>
-<p>More information is available on the Financial Assistance page.</p>
+<p>More information is available on the <a href="https://www.np.edu.sg/admissions-enrolment/guide-for-prospective-students/aid" rel="noopener noreferrer nofollow" target="_blank">Financial Assistance</a> page.</p>
 <h4>I already have a notebook. Do I need to purchase another one?</h4>
 <p>As long as your notebook complies with your course minimum specifications,
 you need not buy another one. To find out about the minimum specifications
-required for your notebook, click here.</p>
+required for your notebook, click <a href="/notebook/specs/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h4>I already have a personal desktop computer at home.</h4>
 <p>The Polytechnic's learning environment enables you to take advantage of
 the mobility notebooks provide. With a notebook, you can be learning anytime
