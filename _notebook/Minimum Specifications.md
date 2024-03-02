@@ -9,9 +9,9 @@ description: ""
 Apple MacBook. You may be required to use Windows-based software that is
 incompatible with Apple's Mac operating system.</p>
 </blockquote>
-<h4>I already have a Notebook. Do I need to buy another one?</h4>
+<h4>I already have a notebook. Do I need to purchase another one?</h4>
 <p>As long as your notebook complies with your course minimum specifications,
-you need not buy another one.</p>
+you need <u>not</u> buy another one.</p>
 <p></p>
 <table>
 <tbody>
