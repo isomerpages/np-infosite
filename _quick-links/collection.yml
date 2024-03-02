@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Student/.keep
-      - NPNet Account.md
       - Connect Email.md
       - mStudent App.md
       - NPal Student.md
