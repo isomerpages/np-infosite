@@ -11,13 +11,11 @@ description: ""
 </li>
 <li>
 <p><strong>Chinese Media &amp; Communication</strong>,&nbsp;<strong>Mass Communication,</strong>​&nbsp;Media
-Post-Production<strong>, Nursing and Optometry</strong>&nbsp;have to own
-either an Apple or&nbsp;Windows notebook.</p>
+Post-Production<strong>, Nursing and Optometry</strong>&nbsp;can own either
+an Apple or&nbsp;Windows notebook.</p>
 </li>
 </ul>
-<p>The reasons for Apple's MacOS requirement for these courses:
-<br>
-</p>
+<p>Apple's MacOS is required for these courses due to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The Apple Notebook computer currently offer superior colour representation
@@ -30,13 +28,10 @@ is currently, predominantly a Mac OS environment.
 </p>
 </li>
 </ul>
-<p></p>
 <p>Students from <strong>ALL&nbsp;other courses</strong> are required to own
-Windows-based Notebook computers as you will be required to run windows-based
-software provided by your School.</p>
-<p>
-<br>
-</p>
+Windows-based notebook computers as you will need to run windows-based
+software provided by your school.</p>
+<p></p>
 <p>For course-specific notebook related queries, please <a href="https://www2.np.edu.sg/notebook/contactus/Pages/CourseSpecificQueries.aspx" rel="noopener noreferrer nofollow" target="_blank">click here</a> for
 contact details.
 <br>
@@ -146,7 +141,7 @@ comes with 1-Year Warranty) on-site at your residence or on-campus.&nbsp;</p>
 Day basis on-site at your residence or on-campus.</p>
 </blockquote>
 <p>
-<br><strong>How many Notebooks am I allowed to purchase from the authorized suppliers?</strong>
+<br><strong>How many Notebooks am I allowed to purchase from the authorized suppliers?</strong> 
 <br>Each student is only allowed to purchase ONE unit of Notebook, regardless
 from which authorized suppliers. It is necessary to show your Student Card
 or Acceptance of Offer Letter when you place your order and take delivery
