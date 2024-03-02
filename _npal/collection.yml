@@ -2,4 +2,4 @@ collections:
   npal:
     output: true
     order:
-      - NPal Student Help FAQ.md
+      - Student Help FAQ.md
