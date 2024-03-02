@@ -4,17 +4,15 @@ permalink: /notebook/models/
 variant: tiptap
 description: ""
 ---
-<blockquote>
-<p>For course-specific notebook related queries, <a href="https://www2.np.edu.sg/notebook/contactus/Pages/CourseSpecificQueries.aspx" rel="noopener noreferrer nofollow" target="_blank">click here</a> for
+<p>Prior to purchasing your notebook, please read <a href="/notebook/whobuyswhat" rel="noopener noreferrer nofollow" target="_blank">who buys what</a> and check <a href="/notebook/notebook-specifications" rel="noopener noreferrer nofollow" target="_blank">notebook specifications</a> for
+your course. For course-specific notebook related queries, click here for
 contact details.</p>
-</blockquote>
-<p><strong>Authorized Notebook Suppliers for 2024&nbsp;(Online order&nbsp;starts from 29 Feb 2024)</strong>
-</p>
+<h4><strong>Authorised Notebook Suppliers for 2024&nbsp;(Online order&nbsp;starts from 29 Feb 2024)</strong></h4>
 <table>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Asus : AsiaPac Technology&nbsp;Pte Ltd</strong>
+<p><strong>Asus: AsiaPac Technology&nbsp;Pte Ltd</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -36,7 +34,7 @@ contact details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HP :&nbsp; Challenger Technologies Pte Ltd</strong>
+<p><strong>HP:&nbsp; Challenger Technologies Pte Ltd</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -58,7 +56,7 @@ contact details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Lenovo :&nbsp; NUS Multi-purpose Co-operative Society Ltd</strong>
+<p><strong>Lenovo:&nbsp; NUS Multi-purpose Co-operative Society Ltd</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -80,7 +78,7 @@ contact details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Apple :&nbsp; JK Technology Pte Ltd</strong>
+<p><strong>Apple:&nbsp; JK Technology Pte Ltd</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -101,9 +99,9 @@ contact details.</p>
 </table>
 <h4><strong>Why should I purchase my notebook from the authorised suppliers?</strong></h4>
 <p>The Polytechnic has identified several approved suppliers who will sell
-Notebook computers on the campus at reasonable prices. You are strongly
-encouraged to buy your Notebook computer from these suppliers because you
-will enjoy 3 key advantages:
+notebook computers on the campus at reasonable prices. You are strongly
+encouraged to buy your notebook from these suppliers because you will enjoy
+3 key advantages:
 <br>
 </p>
 <p><strong>Advantage #1 : Collective Consumer Protection <br></strong>The
