@@ -34,6 +34,18 @@ sections:
       url: /year1
       image: /images/Pages/SWD_students.jpg
       alt: students using digital devices
+  - infopic:
+      title: Why purchase notebook from our authorised supplier?
+      subtitle: Add an image and text
+      id: infopic
+      description: |-
+        >Collective Consumer Protection
+        >Notebooks with 3-year On-site Warranty
+        >Next-Business Day Service      
+      button: Find out more
+      url: /notebook
+      image: /images/notebook.png
+      alt: buy from authorised supplier
   - resources:
       title: Troubleshooting Steps
       subtitle: Common issues
