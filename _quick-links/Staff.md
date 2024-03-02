@@ -39,17 +39,18 @@ standards and guidelines stated in the Acceptable Use Policy.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​NPNet Account</p>
+<p>Forgot Password / Change Password</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​Students are issued NPNet accounts in your enrolment package. The NPNet
-Username and Password will enable you to access Connect Mail, POLITEMall,
-NPal Student Self-Service and so on.</p>
+<p>If you have forgotten or wish to change your NPNet password, you can reset
+it at the corresponding links.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="/guides/npnet-account/" rel="noopener noreferrer nofollow" target="_blank">Guide</a>
-</p>
+<p><a href="https://www1.np.edu.sg/resetpwd/" rel="noopener noreferrer nofollow" target="_blank">Link</a> (Reset
+Password)</p>
 <p></p>
+<p><a href="https://mars.np.edu.sg/npnet/aps/" rel="noopener noreferrer nofollow" target="_blank">Link</a> (Change
+Password)</p>
 </td>
 </tr>
 <tr>
@@ -58,8 +59,8 @@ NPal Student Self-Service and so on.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​NPWireless and NPWirelessx for students and staff to gain access to the
-campus IT services and network resources.</p>
+<p>​NPWireless and NPWirelessx for staff to gain access to the campus IT
+services and network resources.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>​<a href="/guides/wi-fi/" rel="noopener noreferrer nofollow" target="_blank">Guide</a> 
@@ -69,14 +70,14 @@ campus IT services and network resources.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NPal Self-Service</p>
+<p>NPal Campus Solutions</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The NPal Student system allows you to view your timetable, your results,
-check your CCA records, look for lecturer’s contact, etc.</p>
+<p>The NPal Campus Solutions system allows you to view student timetables,
+student details and other information.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/guides/npal-student/" rel="noopener noreferrer nofollow" target="_blank">Guide</a>
+<p><a href="https://npalcs.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Link</a>
 </p>
 </td>
 </tr>
