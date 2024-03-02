@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Scheduled Maintenance.md
-      - Student/Connect Email.md
       - Student/NPNet Account.md
       - Student/.keep
