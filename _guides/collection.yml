@@ -2,6 +2,7 @@ collections:
   guides:
     output: true
     order:
+      - NPal Student.md
       - POLITEMall.md
       - Wireless Setup.md
       - Student VPN.md
