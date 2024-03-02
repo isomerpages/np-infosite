@@ -2,10 +2,10 @@ collections:
   notebook:
     output: true
     order:
-      - Financial Assistance.md
-      - Frequently Asked Questions (Notebook).md
-      - After Sales Service.md
-      - Course Specific Notebook Queries.md
-      - Models for Purchases.md
       - Who Buys What?.md
       - Minimum Specifications.md
+      - Models for Purchases.md
+      - Course Specific Notebook Queries.md
+      - After Sales Service.md
+      - Financial Assistance.md
+      - Frequently Asked Questions (Notebook).md
