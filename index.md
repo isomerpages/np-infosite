@@ -32,7 +32,7 @@ sections:
         free of charge.
       button: Download
       url: /year1
-      image: /images/Pages/SWD_students.jpg
+      image: /images/softwaredownload.png
       alt: students using digital devices
   - infopic:
       title: Why purchase notebook from our authorised supplier?
@@ -45,9 +45,17 @@ sections:
       url: /notebook
       image: /images/notebook.png
       alt: buy from authorised supplier
+  - infopic:
+      title: IT Services
+      id: infopic
+      description: Your one-stop hub for password reset, email guides, and NP resources.
+      button: Quick links
+      url: /quicklinks/
+      image: /images/itservices.png
+      alt: list of it services
   - resources:
       title: Troubleshooting Steps
-      subtitle: Common issues
+      subtitle: Common issues for software
       id: resources
       button: More resources
 ---
