@@ -63,5 +63,5 @@ or on campus.</p>
 <hr>
 <p></p>
 <p>If you wish to provide feedback on the notebook suppliers' services, please
-contact us at <strong>6460 6295</strong> or email to <a href="itcare@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">itcare@np.edu.sg</a>.</p>
+contact us at <strong>6460 6295</strong> or email to <a href="itcare@connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">itcare@connect.np.edu.sg</a>.</p>
 <p></p>
