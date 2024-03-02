@@ -2,6 +2,7 @@ collections:
   npal:
     output: true
     order:
+      - Terms and Conditions (for NPal eServices).md
       - Terms of Use (for New NP Students).md
       - Terms of Use (for NP Students).md
       - Clear cache.md
