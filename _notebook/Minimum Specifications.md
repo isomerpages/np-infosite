@@ -260,7 +260,8 @@ Marine &amp; Offshore Technology</p>
 <h4>I have queries on the minimum specifications required, who do I contact?</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>You may contact your school for course-specific notebook related queries.</p>
+<p>You may contact your <a href="/notebook/notebook-queries/" rel="noopener noreferrer nofollow" target="_blank">school</a> for course-specific notebook
+related queries.</p>
 </li>
 <li>
 <p>Alternatively, you may email to <a href="mailto:itcare@connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ITCare /DST</a> for assistance.</p>
