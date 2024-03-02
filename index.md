@@ -26,7 +26,7 @@ sections:
           url: /notebook-specs
         - title: Email Guide
           description: Access your Connect Email
-          url: /useful-links/email-guide/
+          url: /guides/email-guide/
       variant: center
   - infopic:
       title: Get the right software for your course
