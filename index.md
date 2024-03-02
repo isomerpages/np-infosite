@@ -46,10 +46,10 @@ sections:
       image: /images/notebook.png
       alt: buy from authorised supplier
   - infopic:
-      title: IT Services
+      title: Quick Links
       id: infopic
       description: Your one-stop hub for password reset, email guides, and NP resources.
-      button: Quick links
+      button: Discover more
       url: /quicklinks/
       image: /images/itservices.png
       alt: list of it services
