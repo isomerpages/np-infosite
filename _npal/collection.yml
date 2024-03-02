@@ -2,5 +2,6 @@ collections:
   npal:
     output: true
     order:
+      - Terms of Use.md
       - Clear cache.md
       - Student Help FAQ.md
