@@ -2,4 +2,5 @@ collections:
   notebook:
     output: true
     order:
+      - Who Buys What?.md
       - Notebook Specifications.md
