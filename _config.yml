@@ -1,4 +1,4 @@
-title: NP Information Portal
+title: NP Digital Services
 url: https://www2.np.edu.sg
 favicon: /images/Banner and Logo/favicon_isomer.ico
 colors:
@@ -15,7 +15,10 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: Ngee Ann Polytechnic Information Portal
+description: The NP Digital Services portal serves as a central informational
+  hub for accessing IT resources, including software download, notebook
+  requirements, FAQs, quick links, guides, and more. It’s your go-to place for
+  all things related to digital services at Ngee Ann Poly!
 permalink: none
 baseurl: ""
 exclude:
@@ -53,7 +56,7 @@ staging: https://staging-lite.d2n20hb5wi6675.amplifyapp.com
 prod: https://master.d2uc18hc4h2ycw.amplifyapp.com
 facebook-pixel: ""
 shareicon: /images/isomer-logo.svg
-is_government: false
+is_government: true
 google_analytics_ga4: ""
 linkedin-insights: ""
 resources_name: queries
