@@ -33,7 +33,7 @@ description: ""
 security standards and guidelines stated in the Acceptable Use Policy.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www2.np.edu.sg/dst/Intranet_Portal/Pages/intranet_itpolicies.aspx" rel="noopener noreferrer nofollow" target="_blank">IT Policies and Practices</a>
+<p><a href="https://www2.np.edu.sg/dst/Intranet_Portal/Pages/intranet_itpolicies.aspx" rel="noopener noreferrer nofollow" target="_blank">Link</a>
 </p>
 </td>
 </tr>
@@ -62,7 +62,7 @@ NPal Student Self-Service and so on.</p>
 campus IT services and network resources.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="/guides/wi-fi/" rel="noopener noreferrer nofollow" target="_blank">Guide</a>
+<p>​<a href="/guides/wi-fi/" rel="noopener noreferrer nofollow" target="_blank">Guide</a> 
 <br>
 <br>
 </p>
@@ -130,7 +130,7 @@ You can then proceed to&nbsp;OurSpace@72 to pay, print and collect your
 printout.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www2.np.edu.sg/software/itservices/Documents/NP%20Printing%20FAQs%20v2.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ Guide</a>
+<p><a href="https://www2.np.edu.sg/software/itservices/Documents/NP%20Printing%20FAQs%20v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide</a>
 </p>
 </td>
 </tr>
