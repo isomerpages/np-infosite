@@ -1,0 +1,4 @@
+collections:
+  staff-directory:
+    output: true
+    order: []
