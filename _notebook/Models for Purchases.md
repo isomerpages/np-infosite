@@ -116,9 +116,8 @@ comes with 1-Year Warranty) on-site at your residence or on-campus.&nbsp;</p>
 <p><strong>Advantage #3 : Next-Business Day Service <br></strong>Our authorized
 suppliers provide after-sales services on a Next-Business Day basis on-site
 at your residence or on-campus.</p>
-<p>
-<br><strong>How many notebooks am I allowed to purchase from the authorised suppliers?</strong> 
-<br>Each student is only allowed to purchase ONE unit of notebook regardless
+<h4><br><strong>How many notebooks am I allowed to purchase from the authorised suppliers?</strong></h4>
+<p>Each student is only allowed to purchase ONE unit of notebook regardless
 from which authorised suppliers. It is necessary to show your Student Card
 or Acceptance of Offer letter when you place your order and take delivery
 of your notebook from the authorised suppliers.</p>
