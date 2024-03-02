@@ -1,4 +1,5 @@
 collections:
   guides:
     output: true
-    order: []
+    order:
+      - Student VPN.md
