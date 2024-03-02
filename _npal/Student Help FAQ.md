@@ -12,7 +12,7 @@ the NPal Student system.</p>
 <h4>Mobile Responsive</h4>
 <p>The new system will offer you a mobile responsive experience. Sizing and
 content layout will automatically adjust to fit the device you are using.</p>
-<h4>​Upgrade ongoing in Phases</h4>
+<h4>​Upgrade on-going in Phases</h4>
 <p>The upgrade will be completed in phases. Priority is given to the most
 frequently used functions that were shortlisted by students through focus
 group discussions. The remaining functions will be upgraded progressively
@@ -82,4 +82,33 @@ and released seamlessly into the system.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<h4>Contact Us</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Email: <a href="mailto:itcare@connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">itcare@connect.np.edu.sg</a>​</p>
+</li>
+<li>
+<p>​​IT Helpdesk: Block 27, Level 1</p>
+</li>
+</ul>
+<h4>Frequently Asked Questions</h4>
+<p><strong>1Is my timetable finalised?</strong>
+<br>Please note that your timetable is subject to changes before the start
+of term.
+<br>
+</p>
+<p><strong>There is an error message when I login. What should I do?</strong>
+<br>Try <a href="https://www2.np.edu.sg/dst/npal/s2bc5755/student/Pages/NPAL_ClearCache.aspx" rel="noopener noreferrer nofollow" target="_blank">Clear cache</a> or
+other browsers such as Microsoft Edge and Firefox.
+<br>​</p>
+<p><strong>Where do I find the link for Scholarships/Bursaries application?</strong>
+<br>All finance related services are under on NP's homepage, <a href="https://www.np.edu.sg/admissions-enrolment/guide-for-prospective-students/aid" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+<br>
+</p>
+<p><strong>Where do I find the link for Diploma Plus application?</strong>
+<br>Under “Academic Matters” menu.
+<br>
+</p>
+<p><strong>I have feedback on the NPal student system. Where should I send it to?</strong>
+<br>Please use the <a href="https://www1.np.edu.sg/CC/IThelp/Feedback.aspx" rel="noopener noreferrer nofollow" target="_blank">Feedback Form</a> located
+on login page of NPal student system.</p>
