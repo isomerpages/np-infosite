@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Scheduled Maintenance.md
-      - Student/Student VPN.md
       - Student/Wireless Setup.md
       - Student/POLITEMall.md
       - Student/NPal Student.md
