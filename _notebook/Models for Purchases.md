@@ -4,7 +4,7 @@ permalink: /notebook/models/
 variant: tiptap
 description: ""
 ---
-<p>Prior to purchasing your notebook, please read <a href="/notebook/whobuyswhat" rel="noopener noreferrer nofollow" target="_blank">who buys what</a> and check <a href="/notebook/notebook-specifications" rel="noopener noreferrer nofollow" target="_blank">notebook specifications</a> for
+<p>Prior to purchasing your notebook, please read <a href="/notebook/whobuyswhat" rel="noopener noreferrer nofollow" target="_blank">who buys what</a> and check <a href="/notebook/specs/" rel="noopener noreferrer nofollow" target="_blank">notebook specifications</a> for
 your course. For course-specific notebook related queries, <a href="/notebook/contact-details" rel="noopener noreferrer nofollow" target="_blank">click here</a> for
 contact details.</p>
 <h4><strong>Authorised Notebook Suppliers for 2024&nbsp;(Online order&nbsp;starts from 29 Feb 2024)</strong></h4>
