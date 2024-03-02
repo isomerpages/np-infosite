@@ -6,14 +6,9 @@ links:
     collection: software
   - title: Notebook
     collection: notebook
-  - title: Quick Links
-    url: /quicklinks
-    sublinks:
-      - title: Students
-        url: /quicklinks-students
-      - title: Staff
-        url: /quicklinks-staff
   - title: Guides
     collection: courses
+  - title: Quick Links
+    collection: quick-links
   - title: Contact Us
     url: /contact-us
