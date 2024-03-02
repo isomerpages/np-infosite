@@ -44,23 +44,23 @@ security standards and guidelines as stated in the Acceptable Use Policy.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>​Students are issued NPNet accounts in your enrolment package. The NPNet
-Username &amp; Password will enable you to access Connect Mail, Mobile
-eLearning system (MeL), NPal Student system and so on.</p>
-<p>You are to change your password after the initial logon and at least once
-every 3 months. This is in compliance with the IDA IT Security Guidelines.</p>
-<p><strong>How to Change Password?</strong>
+Username and Password will enable you to access Connect Mail, POLITEMall,
+NPal Student Self-Service and so on.</p>
+<p><strong>How to Change Password?</strong> 
 <br>You can change your password via this direct <a href="https://www1.np.edu.sg/cc/std_acct/pwdchange/login.aspx" rel="noopener noreferrer nofollow" target="_blank">Change Password</a> link.</p>
-<p><strong>Forgotten/Lost Password?</strong>
+<p><strong>Forgotten/Lost Password?</strong> 
 <br>You can reset your password via this direct <a href="https://www1.np.edu.sg/cc/std_acct/pwdreset/pwdforget.aspx" rel="noopener noreferrer nofollow" target="_blank">Reset Password</a> link.
 The service will challenge you for your Student Number, NRIC/FIN Number,
 Date of Birth and Personal Email Address registered in the NPal student
 system.</p>
 <p>Alternatively, you may visit the Student Services &amp; Visitors Centre
-(SSVC) at Blk 1 Level 1, Atrium or IT Helpdesk at Blk 27 #01-01 if you
-have not registered or cannot remember the registered personal ​email address.</p>
+(SSVC) at Blk 1 Level 1, Atrium or IT Helpdesk at Blk 27 #01-01 or email
+to <a href="mailto:itcare@connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">itcare@connect.np.edu.sg</a> if
+you have not registered or cannot remember the registered personal ​email
+address.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="https://www1.np.edu.sg/cc/std_acct/pwdchange/login.aspx" rel="noopener noreferrer nofollow" target="_blank">Change Password</a>
+<p>​<a href="https://www1.np.edu.sg/cc/std_acct/pwdchange/login.aspx" rel="noopener noreferrer nofollow" target="_blank">Change Password</a> 
 <br>
 <br><a href="https://www1.np.edu.sg/cc/std_acct/pwdreset/pwdforget.aspx" rel="noopener noreferrer nofollow" target="_blank">Reset Password</a>
 </p>
@@ -86,7 +86,7 @@ etc)&nbsp;from home or any remote site.
 setup NP Student VPN.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="https://www2.np.edu.sg/dst/Pages/NPWirelessx.aspx" rel="noopener noreferrer nofollow" target="_blank">NP Wireless Network</a>
+<p>​<a href="https://www2.np.edu.sg/dst/Pages/NPWirelessx.aspx" rel="noopener noreferrer nofollow" target="_blank">NP Wireless Network</a> 
 <br>
 <br>
 </p>
