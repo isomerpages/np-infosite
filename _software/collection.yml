@@ -2,7 +2,7 @@ collections:
   software:
     output: true
     order:
-      - Frequently Asked Questions.md
+      - Frequently Asked Questions (Software).md
       - Software Portal.md
       - Year 1.md
       - Year 2 & 3.md
