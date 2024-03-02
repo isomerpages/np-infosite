@@ -92,23 +92,23 @@ and released seamlessly into the system.</p>
 </li>
 </ul>
 <h4>Frequently Asked Questions</h4>
-<p><strong>1Is my timetable finalised?</strong>
+<p><strong>Is my timetable finalised?</strong> 
 <br>Please note that your timetable is subject to changes before the start
 of term.
 <br>
 </p>
-<p><strong>There is an error message when I login. What should I do?</strong>
+<p><strong>There is an error message when I login. What should I do?</strong> 
 <br>Try <a href="https://www2.np.edu.sg/dst/npal/s2bc5755/student/Pages/NPAL_ClearCache.aspx" rel="noopener noreferrer nofollow" target="_blank">Clear cache</a> or
 other browsers such as Microsoft Edge and Firefox.
 <br>​</p>
-<p><strong>Where do I find the link for Scholarships/Bursaries application?</strong>
+<p><strong>Where do I find the link for Scholarships/Bursaries application?</strong> 
 <br>All finance related services are under on NP's homepage, <a href="https://www.np.edu.sg/admissions-enrolment/guide-for-prospective-students/aid" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>
 </p>
-<p><strong>Where do I find the link for Diploma Plus application?</strong>
+<p><strong>Where do I find the link for Diploma Plus application?</strong> 
 <br>Under “Academic Matters” menu.
 <br>
 </p>
-<p><strong>I have feedback on the NPal student system. Where should I send it to?</strong>
+<p><strong>I have feedback on the NPal student system. Where should I send it to?</strong> 
 <br>Please use the <a href="https://www1.np.edu.sg/CC/IThelp/Feedback.aspx" rel="noopener noreferrer nofollow" target="_blank">Feedback Form</a> located
 on login page of NPal student system.</p>
