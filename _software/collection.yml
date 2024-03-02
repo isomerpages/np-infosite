@@ -2,6 +2,6 @@ collections:
   software:
     output: true
     order:
-      - Frequently Asked Questions (Software).md
       - Year 1.md
       - Year 2 & 3.md
+      - Frequently Asked Questions (Software).md
