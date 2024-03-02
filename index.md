@@ -41,7 +41,7 @@ sections:
       description: |-
         >Collective Consumer Protection
         >Notebooks with 3-year On-site Warranty
-        >Next-Business Day Service      
+        >Next-Business Day Service
       button: Find out more
       url: /notebook
       image: /images/notebook.png
