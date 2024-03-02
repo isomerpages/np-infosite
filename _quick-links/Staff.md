@@ -4,15 +4,11 @@ permalink: /quick-links/staff/
 variant: tiptap
 description: ""
 ---
-<blockquote>
-<p>Feel free to explore these services and enhance your digital experience!</p>
-</blockquote>
-<p></p>
 <table>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>eServices</strong>
+<p><strong>Services</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
