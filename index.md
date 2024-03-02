@@ -36,7 +36,6 @@ sections:
       alt: students using digital devices
   - infopic:
       title: Why purchase notebook from our authorised supplier?
-      subtitle: Add an image and text
       id: infopic
       description: |-
         >Collective Consumer Protection
