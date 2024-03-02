@@ -2,8 +2,8 @@ collections:
   quick-links:
     output: true
     order:
+      - Students.md
+      - Staff.md
       - Student IT Newsletter.md
       - Staff IT Newsletters.md
-      - Staff.md
-      - Students.md
       - Scheduled Maintenance.md
