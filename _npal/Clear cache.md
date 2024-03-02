@@ -165,7 +165,7 @@ Clearing browsing data...</p>
 <p>3.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>check all the checkboxes.</p>
+<p>Check all the checkboxes.</p>
 </td>
 </tr>
 <tr>
