@@ -9,6 +9,17 @@ description: ""
 </div>
 <p>ONLY students enrolled in <strong>Film Sound &amp; Video</strong>&nbsp;have&nbsp;to
 own an Apple notebook.​​</p>
+<p>Apple's Mac OS is required for these courses due to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The Apple notebook computer currently offers superior colour representation
+which is important in the design and development of creative/media products.</p>
+</li>
+<li>
+<p>The creative media industry, for which these Diplomas prepare their graduates,
+is currently, predominantly a Mac OS environment.</p>
+</li>
+</ul>
 <p>Students enrolled in:</p>
 <ul data-tight="true" class="tight">
 <li>
