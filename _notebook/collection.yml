@@ -2,6 +2,7 @@ collections:
   notebook:
     output: true
     order:
+      - Financial Assistance.md
       - Frequently Asked Questions (Notebook).md
       - After Sales Service.md
       - Course Specific Notebook Queries.md
