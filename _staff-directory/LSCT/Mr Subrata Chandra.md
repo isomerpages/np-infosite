@@ -166,37 +166,8 @@ Hawaii International Conference on Education.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
-<p>Chanda, S. (2006). Reduction of Ship Resistance by Fitting Aft Tunnels.
-Annual Journal of the Society of Naval Architects and Marine Engineers,
-Singapore.</p>
-</li>
-<li>
-<p>Chanda, S. (2005). Facilitating Effective Learning Using Learning Triangle
-Approach. International Conference on Education, Singapore.</p>
-</li>
-<li>
-<p>Chanda, S. (1990). Computer Aided Design and Analysis of Marine Propellers.
-Conference on CAD/CAM Application in Shipbuilding, Indian Shipbuilders
-Association.</p>
-</li>
-<li>
-<p>Ikehata, M., &amp; Chanda, S. (1989). Theoretical Calculation of Propulsive
-Performance of Stator Propeller in Uniform Flow by Vortex Lattice Method.
-Journal of the Society of Naval Architects of Japan.</p>
-</li>
-<li>
-<p>Chanda, S. (1989). Design and Performance Analysis of Marine Propellers
-and Effect of Shallow Water on Propulsive Performance. Institution of Engineers
-India.</p>
-</li>
-<li>
-<p>Misra, S.C., &amp; Chanda, S.(1983).Table on Linearised Potential Flow
-Calculation. Report 17 of the Department of Naval Architecture, Indian
-Institute of Technology, Kharagpur</p>
-</li>
-</ol>
+<p><a href="/files/OtherPublications_Subrata.pdf" rel="noopener noreferrer nofollow" target="_blank">Document</a>
+</p>
 </td>
 </tr>
 </tbody>
