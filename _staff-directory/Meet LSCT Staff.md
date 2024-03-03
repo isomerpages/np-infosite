@@ -20,14 +20,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Subrata_Chanda.aspx" rel="noopener noreferrer nofollow" target="_blank">​Subrata Chanda, Mr</a>
+<p><a href="/staff-directory/lsct/subrata-chanda/" rel="noopener noreferrer nofollow" target="_blank">​Subrata Chanda, Mr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>​64606809​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:Subrata_CHANDA@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Subrata_CHANDA@np.edu.sg​</a>
+<p><a href="mailto:Subrata_CHANDA@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Subrata_CHANDA@np.edu.sg​</a>
 </p>
 </td>
 </tr>
@@ -56,14 +56,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Siew_Mun.aspx" rel="noopener noreferrer nofollow" target="_blank">Kan Siew Mun, Ms&nbsp;</a>
+<p>​<a href="/staff-directory/lsct/kan-siew-mun/" rel="noopener noreferrer nofollow" target="_blank">Kan Siew Mun, Ms&nbsp;</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>64608668</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:KAN_Siew_Mun@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">KAN_Siew_Mun@np.edu.sg</a>
+<p><a href="mailto:KAN_Siew_Mun@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">KAN_Siew_Mun@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -92,7 +92,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Sor_Khim.aspx" rel="noopener noreferrer nofollow" target="_blank">​Yeo-Lim Sor Khim, Mrs</a>
+<p><a href="/staff-directory/lsct/yeo-lim-sor-khim/" rel="noopener noreferrer nofollow" target="_blank">​Yeo-Lim Sor Khim, Mrs</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -147,7 +147,7 @@ description: ""
 <p>​64608048</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:LEE_Kim_Sung@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">LEE_Kim_Sung@np.edu.sg</a>
+<p><a href="mailto:LEE_Kim_Sung@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">LEE_Kim_Sung@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -160,7 +160,7 @@ description: ""
 <p>​64606224</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:Kenneth_LEE@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Kenneth_LEE@np.edu.sg</a>
+<p><a href="mailto:Kenneth_LEE@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Kenneth_LEE@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -196,7 +196,7 @@ description: ""
 <p>​64607233</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:Scottz_LIP@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Scottz_LIP@np.edu.sg</a>
+<p><a href="mailto:Scottz_LIP@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Scottz_LIP@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -209,7 +209,7 @@ description: ""
 <p>​64608690</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:Mariam_MATHEW@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mariam_MATHEW@np.edu.sg</a>
+<p><a href="mailto:Mariam_MATHEW@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mariam_MATHEW@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -222,7 +222,7 @@ description: ""
 <p>​64608927</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:Mirko_STOLL@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mirko_STOLL@np.edu.sg</a>
+<p><a href="mailto:Mirko_STOLL@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mirko_STOLL@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -248,7 +248,7 @@ description: ""
 <p>​64607521</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:WONG_Yew_Loong@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">WONG_Yew_Loong@np.edu.sg</a>
+<p><a href="mailto:WONG_Yew_Loong@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">WONG_Yew_Loong@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -283,7 +283,7 @@ description: ""
 <p>​64608047</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:CHOY_Weng_Keong@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">CHOY_Weng_Keong@np.edu.sg</a>
+<p><a href="mailto:CHOY_Weng_Keong@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">CHOY_Weng_Keong@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -318,7 +318,7 @@ description: ""
 <p>​64608323</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:Joanne_LIM@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Joanne_LIM@np.edu.sg</a>
+<p><a href="mailto:Joanne_LIM@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Joanne_LIM@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -367,7 +367,7 @@ description: ""
 <p>​64606640</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:GUO_Huiling@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">GUO_Huiling@np.edu.sg</a>
+<p><a href="mailto:GUO_Huiling@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">GUO_Huiling@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -380,7 +380,7 @@ description: ""
 <p>​64608468</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:Corliss_LIN@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Corliss_LIN@np.edu.sg</a>
+<p><a href="mailto:Corliss_LIN@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Corliss_LIN@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -393,7 +393,7 @@ description: ""
 <p>64608621​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:Sujit_DUTTA@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Sujit_DUTTA@np.edu.sg</a>
+<p><a href="mailto:Sujit_DUTTA@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Sujit_DUTTA@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -406,7 +406,7 @@ description: ""
 <p>​64607802</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:TAI_Min_Hooi@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">TAI_Min_Hooi@np.edu.sg</a>
+<p><a href="mailto:TAI_Min_Hooi@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">TAI_Min_Hooi@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -442,7 +442,7 @@ description: ""
 <p>​64608928</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:CHEW_Joon_Lin@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">CHEW_Joon_Lin@np.edu.sg</a>
+<p><a href="mailto:CHEW_Joon_Lin@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">CHEW_Joon_Lin@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -455,7 +455,7 @@ description: ""
 <p>​64607236</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:Chris_CHIA@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Chris_CHIA@np.edu.sg</a>
+<p><a href="mailto:Chris_CHIA@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Chris_CHIA@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -468,7 +468,7 @@ description: ""
 <p>​64606347</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:Gregory_CHOW@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Gregory_CHOW@np.edu.sg</a>
+<p><a href="mailto:Gregory_CHOW@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Gregory_CHOW@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -481,7 +481,7 @@ description: ""
 <p>​64608617</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:GENG_Anli@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">GENG_Anli@np.edu.sg</a>
+<p><a href="mailto:GENG_Anli@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">GENG_Anli@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -494,7 +494,7 @@ description: ""
 <p>​64606642</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:GOH_She_Poh@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">GOH_She_Poh@np.edu.sg</a>
+<p><a href="mailto:GOH_She_Poh@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">GOH_She_Poh@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -532,7 +532,7 @@ description: ""
 <p>​64608392</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:NEO_Tiong_Cheng@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">NEO_Tiong_Cheng@np.edu.sg</a>
+<p><a href="mailto:NEO_Tiong_Cheng@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">NEO_Tiong_Cheng@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -545,7 +545,7 @@ description: ""
 <p>​64608295</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:Neviliappan_SHANMUGAM@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Neviliappan_SHANMUGAM@np.edu.sg</a>
+<p><a href="mailto:Neviliappan_SHANMUGAM@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Neviliappan_SHANMUGAM@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -558,7 +558,7 @@ description: ""
 <p>​64608620</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:NEW_Jen_Yan@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">NEW_Jen_Yan@np.edu.sg</a>
+<p><a href="mailto:NEW_Jen_Yan@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">NEW_Jen_Yan@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -571,7 +571,7 @@ description: ""
 <p>​64606707</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:Eddie_ONG@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Eddie_ONG@np.edu.sg</a>
+<p><a href="mailto:Eddie_ONG@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Eddie_ONG@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -597,7 +597,7 @@ description: ""
 <p>​64608926</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:Saiful_Anuar_SAID@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Saiful_Anuar_SAID@np.edu.sg</a>
+<p><a href="mailto:Saiful_Anuar_SAID@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Saiful_Anuar_SAID@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -610,7 +610,7 @@ description: ""
 <p>​64607006</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:SOH_Eng_Lam@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">SOH_Eng_Lam@np.edu.sg</a>
+<p><a href="mailto:SOH_Eng_Lam@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">SOH_Eng_Lam@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -623,7 +623,7 @@ description: ""
 <p>​64607216</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:SONG_Shiwei@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">SONG_Shiwei@np.edu.sg</a>
+<p><a href="mailto:SONG_Shiwei@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">SONG_Shiwei@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -636,7 +636,7 @@ description: ""
 <p>​64606819</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:Surinam_SUMSUDIN@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Surinam_SUMSUDIN@np.edu.sg</a>
+<p><a href="mailto:Surinam_SUMSUDIN@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Surinam_SUMSUDIN@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -662,7 +662,7 @@ description: ""
 <p>​64606615</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:Sumita_ACHUTHAN@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Sumita_ACHUTHAN@np.edu.sg</a>
+<p><a href="mailto:Sumita_ACHUTHAN@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Sumita_ACHUTHAN@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -675,7 +675,7 @@ description: ""
 <p>64607063​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:Timothy_TAN@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Timothy_TAN@np.edu.sg</a>
+<p><a href="mailto:Timothy_TAN@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Timothy_TAN@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -688,7 +688,7 @@ description: ""
 <p>​64606747</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:Wayne_FORDAY@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Wayne_FORDAY@np.edu.sg</a>
+<p><a href="mailto:Wayne_FORDAY@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Wayne_FORDAY@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -714,7 +714,7 @@ description: ""
 <p>​64608297</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:ZHOU_Xingding@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ZHOU_Xingding@np.edu.sg</a>
+<p><a href="mailto:ZHOU_Xingding@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ZHOU_Xingding@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -727,7 +727,7 @@ description: ""
 <p>64608046</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:John_ZHU@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">John_ZHU@np.edu.sg</a>
+<p><a href="mailto:John_ZHU@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">John_ZHU@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -776,7 +776,7 @@ description: ""
 <p>​64608923</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:Geeta_BANSAL@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Geeta_BANSAL@np.edu.sg</a>
+<p><a href="mailto:Geeta_BANSAL@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Geeta_BANSAL@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -789,7 +789,7 @@ description: ""
 <p>​64607326</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:HUANG_Yinyi@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">HUANG_Yinyi@np.edu.sg</a>
+<p><a href="mailto:HUANG_Yinyi@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">HUANG_Yinyi@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -814,7 +814,7 @@ description: ""
 <p>​64607713</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:NG_Hui_Li@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">NG_Hui_Li@np.edu.sg</a>
+<p><a href="mailto:NG_Hui_Li@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">NG_Hui_Li@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -827,7 +827,7 @@ description: ""
 <p>​64608117</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:Seahmala_MUNIANDY@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Seahmala_MUNIANDY@np.edu.sg</a>
+<p><a href="mailto:Seahmala_MUNIANDY@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Seahmala_MUNIANDY@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -840,7 +840,7 @@ description: ""
 <p>​64607266</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:TEOH_Chun_Ming@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">TEOH_Chun_Ming@np.edu.sg</a>
+<p><a href="mailto:TEOH_Chun_Ming@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">TEOH_Chun_Ming@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -853,7 +853,7 @@ description: ""
 <p>64608226​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:TOH_Soo_Ting@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">TOH_Soo_Ting@np.edu.sg</a>
+<p><a href="mailto:TOH_Soo_Ting@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">TOH_Soo_Ting@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -866,7 +866,7 @@ description: ""
 <p>​64606928</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:XIONG_Junying@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">XIONG_Junying@np.edu.sg</a>
+<p><a href="mailto:XIONG_Junying@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">XIONG_Junying@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -902,7 +902,7 @@ description: ""
 <p>​64608548</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:ENG_Boon_Hwee@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ENG_Boon_Hwee@np.edu.sg</a>
+<p><a href="mailto:ENG_Boon_Hwee@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ENG_Boon_Hwee@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -938,7 +938,7 @@ description: ""
 <p>​64606387</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:CHUAH_Hooi_Huang@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">CHUAH_Hooi_Huang@np.edu.sg</a>
+<p><a href="mailto:CHUAH_Hooi_Huang@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">CHUAH_Hooi_Huang@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -973,7 +973,7 @@ description: ""
 <p>​64608173</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:Eric_PT_TAN@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Eric_PT_TAN@np.edu.sg</a>
+<p><a href="mailto:Eric_PT_TAN@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Eric_PT_TAN@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1009,7 +1009,7 @@ description: ""
 <p>​64608183</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:Brandan_RODRIGUES@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Brandan_RODRIGUES@np.edu.sg</a>
+<p><a href="mailto:Brandan_RODRIGUES@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Brandan_RODRIGUES@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1035,7 +1035,7 @@ description: ""
 <p>​64607932</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:Joshua_CHEW@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Joshua_CHEW@np.edu.sg</a>
+<p><a href="mailto:Joshua_CHEW@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Joshua_CHEW@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1061,7 +1061,7 @@ description: ""
 <p>​64608474</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:KHOO_Lay_Pheck@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">KHOO_Lay_Pheck@np.edu.sg</a>
+<p><a href="mailto:KHOO_Lay_Pheck@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">KHOO_Lay_Pheck@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1074,7 +1074,7 @@ description: ""
 <p>​64606342</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:LAU_Yu_Hua@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">LAU_Yu_Hua@np.edu.sg</a>
+<p><a href="mailto:LAU_Yu_Hua@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">LAU_Yu_Hua@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1087,7 +1087,7 @@ description: ""
 <p>​64606269</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:LOH_Hui_Nee@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">LOH_Hui_Nee@np.edu.sg</a>
+<p><a href="mailto:LOH_Hui_Nee@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">LOH_Hui_Nee@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1100,7 +1100,7 @@ description: ""
 <p>​64606894</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:Mohd_Modhar_HAMZAHAN@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mohd_Modhar_HAMZAHAN@np.edu.sg</a>
+<p><a href="mailto:Mohd_Modhar_HAMZAHAN@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mohd_Modhar_HAMZAHAN@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1126,7 +1126,7 @@ description: ""
 <p>64607344</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​​<a href="mailto:NEO_Peh_See@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">NEO_Peh_See@np.edu.sg</a>
+<p><a href="mailto:NEO_Peh_See@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">NEO_Peh_See@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1139,7 +1139,7 @@ description: ""
 <p>​64607022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:Sarala_RAJU@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Sarala_RAJU@np.edu.sg</a>
+<p><a href="mailto:Sarala_RAJU@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Sarala_RAJU@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1152,7 +1152,7 @@ description: ""
 <p>​64607217</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:TANG_Puay_Peng@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">TANG_Puay_Peng@np.edu.sg</a>
+<p><a href="mailto:TANG_Puay_Peng@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">TANG_Puay_Peng@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1165,7 +1165,7 @@ description: ""
 <p>​64608971</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:Stephanie_WONG@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Stephanie_WONG@np.edu.sg</a>
+<p><a href="mailto:Stephanie_WONG@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Stephanie_WONG@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1178,7 +1178,7 @@ description: ""
 <p>64608412</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:Vincent_YIK@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Vincent_YIK@np.edu.sg</a>
+<p><a href="mailto:Vincent_YIK@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Vincent_YIK@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1214,7 +1214,7 @@ description: ""
 <p>​64606804</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:Eva_PS_CHUA@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Eva_PS_CHUA@np.edu.sg</a>
+<p><a href="mailto:Eva_PS_CHUA@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Eva_PS_CHUA@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1250,7 +1250,7 @@ description: ""
 <p>​64608475</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:Christina_CHING@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Christina_CHING@np.edu.sg</a>
+<p><a href="mailto:Christina_CHING@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Christina_CHING@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1263,7 +1263,7 @@ description: ""
 <p>​64606428</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:TAN_Li_Hua@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">TAN_Li_Hua@np.edu.sg</a>
+<p><a href="mailto:TAN_Li_Hua@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">TAN_Li_Hua@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1276,7 +1276,7 @@ description: ""
 <p>​64607073</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​<a href="mailto:Sharon_SP_TAN@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Sharon_SP_TAN@np.edu.sg</a>
+<p><a href="mailto:Sharon_SP_TAN@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Sharon_SP_TAN@np.edu.sg</a>
 </p>
 </td>
 </tr>
