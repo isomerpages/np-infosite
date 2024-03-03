@@ -4,7 +4,7 @@ permalink: /notebook/notebook-queries/
 variant: tiptap
 description: ""
 ---
-<h4>School of Business &amp; Accountancy (BA) </h4>
+<h4>School of Business &amp; Accountancy (BA)</h4>
 <p><strong>Courses: ACC, BF, BS, CBP, ITB, TRM</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -63,7 +63,7 @@ description: ""
 </p>
 </li>
 </ul>
-<h4>School of Film &amp; Media Studies (FMS) </h4>
+<h4>School of Film &amp; Media Studies (FMS)</h4>
 <p><strong>Courses: CMP, ​FSV, MCM, MPP</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -177,7 +177,7 @@ description: ""
 <p>Tel: 6460 7044</p>
 </li>
 <li>
-<p>Email: <a href="mailto:How_Ai_Ling@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">How_Ai_Ling@np.edu.sg</a> 
+<p>Email: <a href="mailto:How_Ai_Ling@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">How_Ai_Ling@np.edu.sg</a>
 </p>
 </li>
 </ul>
@@ -239,7 +239,7 @@ description: ""
 </p>
 </li>
 </ul>
-<h4>School of Engineering (SoE) </h4>
+<h4>School of Engineering (SoE)</h4>
 <p>​<strong>Courses: BME, EE, ECE, ES</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -278,4 +278,9 @@ description: ""
 </p>
 </li>
 </ul>
+<hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="clte" src="/images/CLTE_logo.png">
+</div>
 <p></p>
