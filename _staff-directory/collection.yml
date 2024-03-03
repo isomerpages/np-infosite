@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - IS/.keep
+      - LSCT/Example Title.md
       - LSCT/Mr Subrata Chandra.md
       - LSCT/.keep
       - Meet IS Staff.md
