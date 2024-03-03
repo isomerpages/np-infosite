@@ -64,4 +64,9 @@ or on campus.</p>
 <p></p>
 <p>If you wish to provide feedback on the notebook suppliers' services, please
 contact CLTE at <strong>6460 6295</strong> or email to <a href="itcare@connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">itcare@connect.np.edu.sg</a>.</p>
+<hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="clte" src="/images/CLTE_logo.png">
+</div>
 <p></p>
