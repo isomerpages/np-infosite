@@ -8,7 +8,7 @@ third_nav_title: LSCT
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="5" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Subrata_Chanda.jpg" src="https://www2.np.edu.sg/staffdirectory/lsct/PublishingImages/Subrata_Chanda.jpg">
 </div>
@@ -22,9 +22,6 @@ third_nav_title: LSCT
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>​<strong>Designation</strong>:</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -32,9 +29,6 @@ third_nav_title: LSCT
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p><strong>Address</strong>: ​</p>
 </td>
@@ -45,9 +39,6 @@ third_nav_title: LSCT
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>Tel</strong>: &nbsp;&nbsp;&nbsp; ​</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,9 +46,6 @@ third_nav_title: LSCT
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p><strong>Email</strong>: ​</p>
 </td>
