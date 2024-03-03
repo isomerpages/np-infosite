@@ -17,13 +17,13 @@ sections:
       key_highlights:
         - title: Software
           description: Freshmen, Year 2 and 3
-          url: /year1
+          url: /software/year1/
         - title: Notebook
           description: Minimum Specifications
-          url: /year2-3
+          url: /notebook/whobuyswhat/
         - title: Quick links
           description: For Students and Staff
-          url: /notebook-specs
+          url: /quick-links/student/
         - title: Email Guide
           description: Access your Connect Email
           url: /guides/email-guide/
