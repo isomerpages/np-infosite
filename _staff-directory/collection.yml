@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - IS/.keep
-      - LSCT/Mrs Yeo Lim Sor Khim.md
-      - LSCT/Ms Kan Siew Mun.md
-      - LSCT/Mr Subrata Chandra.md
       - LSCT/.keep
+      - LSCT/Mr Subrata Chandra.md
+      - LSCT/Ms Kan Siew Mun.md
+      - LSCT/Mrs Yeo Lim Sor Khim.md
       - Meet IS Staff.md
       - Meet LSCT Staff.md
