@@ -34,7 +34,7 @@ sections:
       description: Licensed software to NP students throughout their course of study,
         free of charge.
       button: Download
-      url: /year1
+      url: /software/year1/
       image: /images/softwaredownload.png
       alt: students using digital devices
   - infopic:
@@ -45,7 +45,7 @@ sections:
         >Notebooks with 3-year On-site Warranty
         >Next-Business Day Service
       button: Explore more
-      url: /notebook
+      url: /notebook/whobuyswhat/
       image: /images/notebook.png
       alt: buy from authorised supplier
   - infopic:
@@ -53,7 +53,7 @@ sections:
       id: infopic
       description: Your one-stop hub for password reset, email guides, and NP resources.
       button: Discover more
-      url: /quicklinks/
+      url: /quick-links/student/
       image: /images/itservices.png
       alt: list of it services
   - resources:
