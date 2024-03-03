@@ -1,7 +1,7 @@
 ---
 title: Mr Subrata Chandra
 permalink: /staff-directory/lsct/subrata-chanda/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: LSCT
 ---
@@ -10,7 +10,7 @@ third_nav_title: LSCT
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="subrata_chandra" src="/images/Subrata_Chanda.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="subrata_chandra" src="/images/Subrata_Chanda.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
