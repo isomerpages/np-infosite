@@ -81,3 +81,9 @@ own&nbsp;<strong>either</strong> an Apple or Windows notebook.</p>
 <p>Students enrolled in ALL other courses should NOT purchase Apple notebook
 computers, as you may be using Windows-based software that is not compatible
 with the Apple Mac Operating System platform.</p>
+<hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="clte" src="/images/CLTE_logo.png">
+</div>
+<p></p>
