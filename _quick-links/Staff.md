@@ -42,11 +42,11 @@ standards and guidelines stated in the Acceptable Use Policy.</p>
 it at the corresponding links.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www1.np.edu.sg/resetpwd/" rel="noopener noreferrer nofollow" target="_blank">Link</a> (Reset
+<p><a href="https://www1.np.edu.sg/resetpwd/" rel="noopener noreferrer nofollow" target="_blank">Link</a> (Forgot
 Password)</p>
 <p></p>
 <p><a href="https://mars.np.edu.sg/npnet/aps/" rel="noopener noreferrer nofollow" target="_blank">Link</a> (Change
-Password)</p>
+Password, requires NPVPN)</p>
 </td>
 </tr>
 <tr>
