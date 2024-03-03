@@ -1,6 +1,6 @@
 ---
 title: Wireless Setup
-permalink: /wi-fi/
+permalink: /guides/wi-fi/
 variant: tiptap
 description: ""
 ---

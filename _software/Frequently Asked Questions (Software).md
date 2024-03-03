@@ -1,6 +1,6 @@
 ---
-title: Frequently Asked Questions
-permalink: /faq/
+title: Frequently Asked Questions (Software)
+permalink: /software/faq/
 variant: tiptap
 description: ""
 ---
@@ -9,10 +9,11 @@ description: ""
 licensed software to students throughout their course of study.</p>
 <p></p>
 <h3><strong>2. Why must I download the "setup.exe" client program to install software? Can't I just download the software installers directly?</strong></h3>
-<p>The client program allows you to register your notebook. After registering,
-you can view the software required for your course along with the installation
-guides. As such, you do not have to download multiple installers from various
-sites as everything is embedded within the program for your convenience.</p>
+<p>The client program allows you to register your notebook (<em>for Windows notebooks only</em>).
+After registering, you can view the software required for your course along
+with the installation guides. As such, you do not have to download multiple
+installers from various sites as everything is embedded within the program
+for your convenience.</p>
 <p></p>
 <h3><strong>3. What is NPNet password?</strong></h3>
 <p>The NPNet password mentioned on the software guides refer to the Course

@@ -1,14 +1,14 @@
 logo: /images/Banner and Logo/logo.png
 links:
   - title: About
-    url: /about
+    url: /about-us/
   - title: Software
     collection: software
   - title: Notebook
-    url: /notebook-specs/
-  - title: Useful Links
-    collection: useful-links
-  - title: Faq
-    url: /faq
+    collection: notebook
+  - title: Guides
+    collection: guides
+  - title: Quick Links
+    collection: quick-links
   - title: Contact Us
     url: /contact-us

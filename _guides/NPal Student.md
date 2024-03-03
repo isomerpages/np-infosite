@@ -1,6 +1,6 @@
 ---
 title: NPal Student
-permalink: /it-services/npal-student/
+permalink: /guides/npal-student/
 variant: tiptap
 description: ""
 ---

@@ -1,6 +1,6 @@
 ---
 title: NPNet Account
-permalink: /npnet-account/
+permalink: /guides/npnet-account/
 variant: tiptap
 description: ""
 ---

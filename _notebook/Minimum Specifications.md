@@ -1,6 +1,6 @@
 ---
-title: Notebook Specifications
-permalink: /notebook-specs/
+title: Minimum Specifications
+permalink: /notebook/specs/
 variant: tiptap
 description: ""
 ---
@@ -8,8 +8,11 @@ description: ""
 <p>If your course requires a Windows notebook, you should NOT purchase an
 Apple MacBook. You may be required to use Windows-based software that is
 incompatible with Apple's Mac operating system.</p>
-<p></p>
 </blockquote>
+<h4>I already have a notebook. Do I need to purchase another one?</h4>
+<p>As long as your notebook complies with your course minimum specifications,
+you need <u>not</u> buy another one.</p>
+<p></p>
 <table>
 <tbody>
 <tr>
@@ -250,9 +253,23 @@ Mechanical Engineering</p>
 Marine &amp; Offshore Technology</p>
 </li>
 </ul>
-<p></p>
 </td>
 </tr>
 </tbody>
 </table>
+<h4>I have queries on the minimum specifications required, who do I contact?</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>You may contact your <a href="/notebook/notebook-queries/" rel="noopener noreferrer nofollow" target="_blank">school</a> for course-specific notebook
+related queries.</p>
+</li>
+<li>
+<p>Alternatively, you may email to <a href="mailto:itcare@connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ITCare /DST</a> for assistance.</p>
+</li>
+</ol>
+<hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="clte" src="/images/CLTE_logo.png">
+</div>
 <p></p>

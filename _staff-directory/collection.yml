@@ -1,0 +1,11 @@
+collections:
+  staff-directory:
+    output: true
+    order:
+      - IS/.keep
+      - LSCT/.keep
+      - LSCT/Mr Subrata Chandra.md
+      - LSCT/Ms Kan Siew Mun.md
+      - LSCT/Mrs Yeo Lim Sor Khim.md
+      - Meet IS Staff.md
+      - Meet LSCT Staff.md

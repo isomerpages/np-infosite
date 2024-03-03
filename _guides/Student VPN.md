@@ -1,6 +1,6 @@
 ---
 title: Student VPN
-permalink: /student-vpn/
+permalink: /guides/student-vpn/
 variant: tiptap
 description: ""
 ---

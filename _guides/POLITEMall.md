@@ -1,6 +1,6 @@
 ---
 title: POLITEMall
-permalink: /politemall/
+permalink: /guides/politemall/
 variant: tiptap
 description: ""
 ---
