@@ -124,4 +124,9 @@ at your residence or on-campus.</p>
 from which authorised suppliers. It is necessary to show your Student Card
 or Acceptance of Offer letter when you place your order and take delivery
 of your notebook from the authorised suppliers.</p>
+<hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="clte" src="/images/CLTE_logo.png">
+</div>
 <p></p>
