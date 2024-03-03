@@ -10,7 +10,7 @@ third_nav_title: LSCT
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Subrata_Chanda.jpg" src="https://www2.np.edu.sg/staffdirectory/lsct/PublishingImages/Subrata_Chanda.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="Subrata_Chanda.jpg" src="https://www2.np.edu.sg/staffdirectory/lsct/PublishingImages/Subrata_Chanda.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
