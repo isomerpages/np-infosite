@@ -8,11 +8,16 @@ third_nav_title: LSCT
 <table>
 <tbody>
 <tr>
-<th rowspan="5" colspan="1">
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Subrata_Chanda.jpg" src="https://www2.np.edu.sg/staffdirectory/lsct/PublishingImages/Subrata_Chanda.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Subrata_Chanda.jpg" src="https://www2.np.edu.sg/staffdirectory/lsct/PublishingImages/Subrata_Chanda.jpg">
 </div>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Name</strong>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
@@ -52,6 +57,43 @@ third_nav_title: LSCT
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Subrata_CHANDA@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Subrata_CHANDA@np.edu.sg​</a>
 </p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
