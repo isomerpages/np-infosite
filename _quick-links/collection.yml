@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - IT Newsletter for Students Jan 2024.md
       - Students.md
       - Staff.md
       - Student IT Newsletters.md
