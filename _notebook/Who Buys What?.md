@@ -9,7 +9,7 @@ description: ""
 </div>
 <p>ONLY students enrolled in <strong>Film Sound &amp; Video</strong>&nbsp;have&nbsp;to
 own an Apple notebook.​​</p>
-<p>Apple's Mac OS is required for these courses due to:</p>
+<p>Apple's Mac OS is required for this course due to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The Apple notebook computer currently offers superior colour representation
@@ -38,8 +38,8 @@ with the Apple Mac Operating System platform.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="poly foundation programme" src="/images/18_whoPFP.png">
 </div>
-<p>PFP students are required to own a notebook computer their studies in
-Ngee Ann Polytechnic.</p>
+<p>PFP students are required to own a notebook computer for their studies
+in Ngee Ann Polytechnic.</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
