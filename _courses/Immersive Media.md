@@ -44,7 +44,7 @@ required.</p>
 <p>Portable SSD:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>512GB (Recommended)</p>
+<p>512 GB (Recommended)</p>
 </td>
 </tr>
 <tr>
