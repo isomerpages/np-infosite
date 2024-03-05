@@ -21,8 +21,8 @@ If necessary, you can <a href="https://www1.np.edu.sg/cc/std_acct/pwdreset/pwdfo
 will be activated half an&nbsp;hour later from the time of receipt.</p>
 <p><strong>2) Clear Browser Cache</strong>
 </p>
-<p>Remember to <a href="https://www2.np.edu.sg/dst/npal/s2bc5755/student/Pages/NPAL_ClearCache.aspx" rel="noopener noreferrer nofollow" target="_blank">clear your browser cache</a>​
-first before accessing NPal Student.</p>
+<p>Remember to <a href="/dst/npal/announcement/pages/enable-cookie/" rel="noopener noreferrer nofollow" target="_blank">clear your browser cache</a> first
+before accessing NPal Student.</p>
 <p><strong>3) Enable Cookies in Browser</strong>
 </p>
 <p>​You will need to enable cookies in your browser. Please click on browser
