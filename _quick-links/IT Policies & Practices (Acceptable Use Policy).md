@@ -40,25 +40,20 @@ for a short while.</p>
 <p></p>
 <p></p>
 <h4>1 GENERAL REQUIREMENTS</h4>
-<p>1.1</p>
-<p>Users1 shall use the campus IT Resources3 according to the purpose for
-which they are provided, which is for the administrative, teaching and
-learning activities of NP.</p>
-<p>1.2</p>
-<p>Users shall familiarise themselves with the Polytechnic's IT Security
+<p>1.1 Users1 shall use the campus IT Resources3 according to the purpose
+for which they are provided, which is for the administrative, teaching
+and learning activities of NP.</p>
+<p>1.2 Users shall familiarise themselves with the Polytechnic's IT Security
 Policies and Guidelines posted in the Staff Intranet.</p>
-<p>1.3</p>
-<p>Users shall use the campus IT Resources according to the laws and regulations
-of the Singapore Government.</p>
-<p>1.4</p>
-<p>Staff and associates shall comply with Government Instructions Manual
+<p>1.3 Users shall use the campus IT Resources according to the laws and
+regulations of the Singapore Government.</p>
+<p>1.4 Staff and associates shall comply with Government Instructions Manual
 (IM) and other regulations and guidelines when handling Government classified
 data or Personal data.</p>
-<p>1.5</p>
-<p>Users shall not abuse or misuse the IT Resources and shall take all reasonable
-measures to safeguard against any potential abuse, misuse, malicious attacks
-or theft. Abuse or misuse of the IT Resources includes, but not limited
-to, the doing of any act that would contravene the provisions of:</p>
+<p>1.5 Users shall not abuse or misuse the IT Resources and shall take all
+reasonable measures to safeguard against any potential abuse, misuse, malicious
+attacks or theft. Abuse or misuse of the IT Resources includes, but not
+limited to, the doing of any act that would contravene the provisions of:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>a. Copyright Act;</p>
@@ -130,7 +125,7 @@ of whatever description and copies thereof, and any or all material relating
 to the Polytechnic's business or affairs which are in his possession or
 under his control.</p>
 <p></p>
-<h4>2 DATA HANDLING	</h4>
+<h4>2 DATA HANDLING</h4>
 <p>2.1 Users1 shall not obtain data or IT services without authorisation
 or through fraudulent means.</p>
 <p>2.2 Users shall use all data obtained, including personal data, for the
@@ -195,7 +190,7 @@ and</p>
 emails are used. This is to maintain privacy of the recipients.</p>
 </li>
 </ul>
-<p><strong>Digitally Sign	</strong>
+<p><strong>Digitally Sign</strong>
 </p>
 <p>2.10 When assurance on the integrity of a sensitive document is required,
 staff shall digitally sign their the document before sharing the document
@@ -205,20 +200,20 @@ via email or other file transfer tool, staff shall check the validity of
 the digital signature to confirm that the document has not been modified.
 In the case where digital signature is invalid, you should contact the
 sender.</p>
-<p><strong>Share Passwords Securely	</strong>
+<p><strong>Share Passwords Securely</strong>
 </p>
 <p>2.12 When sending a password-protected file over email, staff shall send
 the password via a different channel (i.e. Skype, WhatsApp). If it is not
 feasible to send the password via other channels, you can send a password
 hint in a separate email. This requires a pre-arranged system with the
 recipient on how to derive the password from the hint.</p>
-<p><strong>Email Data Protection	</strong>
+<p><strong>Email Data Protection</strong>
 </p>
 <p>2.13 When sending emails containing sensitive data, such as NRIC number
 or credit card number, you would need to acknowledge and confirm that you
 are intentionally sending out the email.</p>
 <p></p>
-<h4>3 ACCOUNT IDs &amp; PASSWORDS	</h4>
+<h4>3 ACCOUNT IDs &amp; PASSWORDS</h4>
 <p>3.1 Users1 shall be responsible and accountable for all activities conducted
 via his/her accounts.</p>
 <p>3.2 Users shall keep their computer accounts and accompanying password
@@ -265,7 +260,7 @@ or compromised passwords.</p>
 </li>
 </ul>
 <p></p>
-<h4>4 PERSONAL COMPUTERS (PCs, NOTEBOOKS or SMART DEVICES) AND ELECTRONIC STORAGE MEDIA	</h4>
+<h4>4 PERSONAL COMPUTERS (PCs, NOTEBOOKS or SMART DEVICES) AND ELECTRONIC STORAGE MEDIA</h4>
 <p>4.1 Users shall ensure that their systems are adequately protected before
 connecting to NP’s Campus Network. The minimum protection includes:</p>
 <ul data-tight="true" class="tight">
@@ -322,7 +317,7 @@ shall be securely locked away when not in use, or the notebook secured
 with a high quality cable lock by attaching it to something immovable.</p>
 <p>4.11 Users shall not store their portable storage media and authentication
 tokens together with the notebooks when bringing them out of NP.</p>
-<p><strong>When Travelling	</strong>
+<p><strong>When Travelling</strong>
 </p>
 <p>4.12 When travelling overseas for non-official trips, staff should bring
 your personal computing equipment. Do not bring NICE computer as it is
@@ -406,7 +401,7 @@ viruses, worms, Trojan horses or any other malicious program.</p>
 <p>5.8 Users shall scan software for viruses or other malicious program before
 installing on corporate personal computers.</p>
 <p></p>
-<h4>6 EMAIL USAGE	</h4>
+<h4>6 EMAIL USAGE</h4>
 <p>6.1 Users1 shall not spam or send unsolicited commercial mail to others.</p>
 <p>6.2 Staff and associates2 shall not indiscriminately forward corporate
 email to an Internet service provider email account.</p>
@@ -454,7 +449,7 @@ day the unsubscribe request is submitted; and</p>
 </li>
 </ul>
 <p></p>
-<h4>7 INTERNET ACCESS, USAGE AND SOCIAL NETWORKING	</h4>
+<h4>7 INTERNET ACCESS, USAGE AND SOCIAL NETWORKING</h4>
 <p>7.1 Users1 shall be discerning when accessing websites, especially links
 provided through spam or unsolicited email. Users shall avoid websites
 of unknown or disreputable origin.</p>
@@ -505,86 +500,71 @@ logo and the ‘.<a href="http://np.edu.sg" rel="noopener noreferrer nofollow" t
 domain name, in online or on printed materials shall seek advice and clearance
 from the Corporate Communications Office.</p>
 <p></p>
-<h4>8 NETWORK AND REMOTE ACCESS	</h4>
-<p>8.1</p>
-<p>Users1 shall not install and operate their own wireless Access Points
+<h4>8 NETWORK AND REMOTE ACCESS</h4>
+<p>8.1 Users1 shall not install and operate their own wireless Access Points
 emulating or interrupting the performance of campus network infrastructure
 wireless Access Points.</p>
-<p>8.2</p>
-<p>All campus network infrastructure wireless Access Points shall be operated
-and managed by Computer Centre. Computer Centre reserves the right to remotely
-disconnect any unregistered devices that are interfering with the normal
-performance of campus network infrastructure.</p>
-<p>8.3</p>
-<p>Users shall manage the access to rooms where staff wired outlets are available.
-Only NICE computers are authorised to be connected to a staff wired outlet.</p>
-<p>8.4</p>
-<p>When connecting from home and campus wireless network, users shall enable
-the Virtual Private Network service to access sensitive corporate systems
-that are accessible by staff only.</p>
-<p>8.5</p>
-<p>Staff shall access the Singapore Government Network (SGNet) from a WoG
-notebook.</p>
-<p>8.6</p>
-<p>Staff shall not concurrently connect to wireless network (e.g. campus
+<p>8.2 All campus network infrastructure wireless Access Points shall be
+operated and managed by Computer Centre. Computer Centre reserves the right
+to remotely disconnect any unregistered devices that are interfering with
+the normal performance of campus network infrastructure.</p>
+<p>8.3 Users shall manage the access to rooms where staff wired outlets are
+available. Only NICE computers are authorised to be connected to a staff
+wired outlet.</p>
+<p>8.4 When connecting from home and campus wireless network, users shall
+enable the Virtual Private Network service to access sensitive corporate
+systems that are accessible by staff only.</p>
+<p>8.5 Staff shall access the Singapore Government Network (SGNet) from a
+WoG notebook.</p>
+<p>8.6 Staff shall not concurrently connect to wireless network (e.g. campus
 wireless network and mobile broadband) and staff wired connection to avoid
 becoming a bridge between the insecure wireless environment to our secured
 staff network.</p>
 <p></p>
-<h4>9 INCIDENT REPORTING	</h4>
-<p>9.1</p>
-<p>Users1 shall immediately report any security violations, weaknesses, suspected
-violations of laws or policies and any loopholes or potential loopholes
-in the security of the IT Resources to the Computer Centre. Security incidents
-include, but are not limited to, misuse of email, malware infection and
-unauthorised act by a person to obtain classified data or personal data.</p>
-<p>9.2</p>
-<p>Users shall immediately report any lost personal computers, portable storage
-media or loss/compromise of NP Classified data or personal to <a href="mailto:ITSecurityManager@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ITSecurityManager@np.edu.sg</a>.</p>
-<p>9.3</p>
-<p>Users shall cooperate fully in investigations of misuse or abuse of the
-IT Resources. User files may be examined under the direction of NP management
-should NP in its absolute discretion decide that the security of the IT
-Resources is in any way threatened.</p>
-<p>9.4</p>
-<p>In the event of a malware infection, users shall immediately disconnect
+<h4>9 INCIDENT REPORTING</h4>
+<p>9.1 Users1 shall immediately report any security violations, weaknesses,
+suspected violations of laws or policies and any loopholes or potential
+loopholes in the security of the IT Resources to the Computer Centre. Security
+incidents include, but are not limited to, misuse of email, malware infection
+and unauthorised act by a person to obtain classified data or personal
+data.</p>
+<p>9.2 Users shall immediately report any lost personal computers, portable
+storage media or loss/compromise of NP Classified data or personal to
+<a href="mailto:ITSecurityManager@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ITSecurityManager@np.edu.sg</a>.</p>
+<p>9.3 Users shall cooperate fully in investigations of misuse or abuse of
+the IT Resources. User files may be examined under the direction of NP
+management should NP in its absolute discretion decide that the security
+of the IT Resources is in any way threatened.</p>
+<p>9.4 In the event of a malware infection, users shall immediately disconnect
 their infected system from both wired and wireless network, and contact
 CC Helpdesk or <a href="mailto:ITSecurityManager@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ITSecurityManager@np.edu.sg</a> to
 initiate appropriate follow up actions.</p>
-<p>9.5</p>
-<p>In addition, users shall retrieve all removable storage media from locked
-cabinets and subject them to the necessary investigation, cleaning and
-recovery process.</p>
-<p>9.6</p>
-<p>Users shall not knowingly connect an endpoint system infected by malware
+<p>9.5 In addition, users shall retrieve all removable storage media from
+locked cabinets and subject them to the necessary investigation, cleaning
+and recovery process.</p>
+<p>9.6 Users shall not knowingly connect an endpoint system infected by malware
 or suspected to be tampered with, onto the campus network.</p>
 <p></p>
-<h4>10 RIGHTS OF THE POLYTECHNIC	</h4>
-<p>10.1</p>
-<p>The Polytechnic shall have the right to access and disclose any information
+<h4>10 RIGHTS OF THE POLYTECHNIC</h4>
+<p>10.1 The Polytechnic shall have the right to access and disclose any information
 stored on corporate personal computers and peripheral devices.</p>
-<p>10.2</p>
-<p>The Polytechnic shall have the right to access and disclose any email
+<p>10.2 The Polytechnic shall have the right to access and disclose any email
 messages composed, sent or received using NP Email Systems.</p>
-<p>10.3</p>
-<p>The Polytechnic shall have the right to control, monitor and disclose
+<p>10.3 The Polytechnic shall have the right to control, monitor and disclose
 information stored on corporate personal computers, peripheral devices,
 users’ Internet access activities and email.</p>
-<p>10.4</p>
-<p>The access and disclosure of email messages shall be authorised by Principal,
-and shall be conducted under strict control and supervision.</p>
+<p>10.4 The access and disclosure of email messages shall be authorised by
+Principal, and shall be conducted under strict control and supervision.</p>
 <p></p>
-<h4>11 FAILURE TO COMPLY	</h4>
-<p>11.1</p>
-<p>The Polytechnic reserves the right to take disciplinary proceedings against
-the offending user in the event that he/she conducts himself/herself in
-any manner considered to be irresponsible or is abusive of the computing
+<h4>11 FAILURE TO COMPLY</h4>
+<p>11.1 The Polytechnic reserves the right to take disciplinary proceedings
+against the offending user in the event that he/she conducts himself/herself
+in any manner considered to be irresponsible or is abusive of the computing
 facilities accorded to him/her.</p>
-<p>11.2</p>
-<p>Users1 who fail to comply with this Acceptable Use Policy and other relevant
-Terms and Conditions of Use shall be subjected to penalties imposed. The
-penalties may include, but not limited to, withdrawal of computing services
-and/or termination of service, or dismissal from course of study.</p>
+<p>11.2 Users1 who fail to comply with this Acceptable Use Policy and other
+relevant Terms and Conditions of Use shall be subjected to penalties imposed.
+The penalties may include, but not limited to, withdrawal of computing
+services and/or termination of service, or dismissal from course of study.</p>
 <p></p>
 <p><strong>GLOSSARY</strong>
 </p>
