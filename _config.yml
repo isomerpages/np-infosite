@@ -55,8 +55,8 @@ plugins:
 staging: https://staging-lite.d2n20hb5wi6675.amplifyapp.com
 prod: https://master.d2uc18hc4h2ycw.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
-is_government: true
+shareicon: /images/Banner and Logo/favicon_isomer.ico
+is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
 resources_name: queries
