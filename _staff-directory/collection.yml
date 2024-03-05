@@ -2,7 +2,7 @@ collections:
   staff-directory:
     output: true
     order:
-      - IS/School of Interdisciplinary Studies.md
+      - IS/aaaa.md
       - IS/.keep
       - LSCT/.keep
       - LSCT/Mr Subrata Chandra.md
