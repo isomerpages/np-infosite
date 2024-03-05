@@ -26,8 +26,7 @@ first before accessing NPal Student.</p>
 <p><strong>3) Enable Cookies in Browser</strong>
 </p>
 <p>​You will need to enable cookies in your browser. Please click on browser
-link below for the instructions:​​&nbsp;<a href="https://www2.np.edu.sg/dst/npal/announcement/Pages/enable_cookie.aspx#ff" rel="noopener noreferrer nofollow" target="_blank">Firefox</a>&nbsp;|
-&nbsp;<a href="https://www2.np.edu.sg/dst/npal/announcement/Pages/enable_cookie.aspx#ff" rel="noopener noreferrer nofollow" target="_blank">Safari (for Mac)</a>
+link below for the instructions:​​&nbsp;<a href="/npal/enable-cookies/" rel="noopener noreferrer nofollow" target="_blank">Firefox | Safari (for Mac)</a>
 </p>
 <p></p>
 <p></p>
