@@ -54,6 +54,7 @@ enable the cookies.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
+<p></p>
 <h4>Safari for Mac</h4>
 </th>
 </tr>
