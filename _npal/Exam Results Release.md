@@ -28,5 +28,3 @@ before accessing NPal Student.</p>
 <p>​You will need to enable cookies in your browser. Please click on browser
 link below for the instructions:​​&nbsp;<a href="/npal/enable-cookies/" rel="noopener noreferrer nofollow" target="_blank">Firefox | Safari (for Mac)</a>
 </p>
-<p></p>
-<p></p>
