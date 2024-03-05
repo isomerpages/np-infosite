@@ -29,15 +29,6 @@ sections:
           url: /guides/email-guide/
       variant: center
   - infopic:
-      title: Get the right software for your course
-      id: infopic
-      description: Licensed software to NP students throughout their course of study,
-        free of charge.
-      button: Download
-      url: /software/year1/
-      image: /images/softwaredownload.png
-      alt: students using digital devices
-  - infopic:
       title: Why purchase notebook from our authorised supplier?
       id: infopic
       description: |-
@@ -48,6 +39,15 @@ sections:
       url: /notebook/whobuyswhat/
       image: /images/notebook.png
       alt: buy from authorised supplier
+  - infopic:
+      title: Get the right software for your course
+      id: infopic
+      description: Licensed software to NP students throughout their course of study,
+        free of charge.
+      button: Download
+      url: /software/year1/
+      image: /images/softwaredownload.png
+      alt: students using digital devices
   - infopic:
       title: Quick Links
       id: infopic
