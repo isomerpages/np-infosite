@@ -29,7 +29,7 @@ description: ""
 security standards and guidelines stated in the Acceptable Use Policy.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www2.np.edu.sg/dst/Intranet_Portal/Pages/intranet_itpolicies.aspx" rel="noopener noreferrer nofollow" target="_blank">Link</a>
+<p><a href="/quick-links/aup/" rel="noopener noreferrer nofollow" target="_blank">Link</a>
 </p>
 </td>
 </tr>
