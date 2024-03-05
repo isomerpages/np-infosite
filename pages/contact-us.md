@@ -20,7 +20,7 @@ locations:
       - ""
     operating_hours:
       - days: Mon - Fri
-        time: 8.00am - 6.00pm
+        time: 8.00am - 12.00am
         description: "Weekends & Public Holidays: 9.00am - 6.00pm"
     maps_link: https://www.google.com.sg/maps/place/Ngee+Ann+Polytechnic/@1.3328773,103.773027,17z/data=!3m1!4b1!4m5!3m4!1s0x31da107d8eb4e359:0x75d2e7ffdeeb0c43!8m2!3d1.3328719!4d103.7752157
     title: ITCare /DST
@@ -30,5 +30,5 @@ contacts:
       - email: itcare@connect.np.edu.sg
       - other: ""
     title: General Enquiries & Support
-feedback: mailto:itcare@connect.np.edu.sg
+feedback: ""
 ---
