@@ -32,10 +32,12 @@ sections:
       title: Why purchase notebook from our authorised supplier?
       id: infopic
       description: |-
-        >Collective Consumer Protection
-        >Notebooks with 3-year On-site Warranty
-        >Next-Business Day Service
-      button: Explore more
+        Collective Consumer Protection
+
+        Notebooks with 3-year On-site Warranty
+
+        Next-Business Day Service
+      button: Purchase Notebook
       url: /notebook/whobuyswhat/
       image: /images/notebook.png
       alt: buy from authorised supplier
