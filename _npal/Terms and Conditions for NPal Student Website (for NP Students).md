@@ -1,6 +1,6 @@
 ---
-title: Terms of Use (for NP Students)
-permalink: /dst/npal/s2bc5755/student/pages/npal-student-terms-of-use/
+title: Terms and Conditions for NPal Student Website (for NP Students)
+permalink: /dst/npal/s2bc5755/student/pages/npal-student-termsofuse/
 variant: tiptap
 description: ""
 ---

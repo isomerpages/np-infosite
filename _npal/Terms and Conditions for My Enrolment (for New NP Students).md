@@ -1,6 +1,6 @@
 ---
-title: Terms of Use (for New NP Students)
-permalink: /dst/npal/e2367cd2/enrol/pages/npal-enrol-terms-of-use/
+title: Terms and Conditions for My Enrolment (for New NP Students)
+permalink: /dst/npal/e2367cd2/enrol/pages/npal-enrol-termsofuse/
 variant: tiptap
 description: ""
 ---

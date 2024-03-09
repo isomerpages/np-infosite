@@ -4,8 +4,22 @@ permalink: /notebook/notebook-queries/
 variant: tiptap
 description: ""
 ---
-<h4>School of Business &amp; Accountancy (BA)</h4>
-<p><strong>Courses: ACC, BF, BS, CBP, ITB, TRM</strong>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Academic Schools</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Contacts</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School of Business &amp; Accountancy (BA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Course: ACC, BF, BS, CBP, ITB, TRM</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -15,7 +29,9 @@ description: ""
 <p>Tel: 6460 7010</p>
 </li>
 <li>
-<p>Email: <a href="mailto:Zeng_Xing@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Zeng_Xing@np.edu.sg</a>​</p>
+<p>Email: <a href="mailto:Zeng_Xing@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Zeng_Xing@np.edu.sg</a>
+</p>
+<p></p>
 </li>
 <li>
 <p>BA Office</p>
@@ -28,8 +44,14 @@ description: ""
 </p>
 </li>
 </ul>
-<h4>School of Design &amp; Environment (DE)</h4>
-<p><strong>Courses: DES, HLFM, REB</strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School of Design &amp; Environment (DE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Course: DES, HLFM, REB</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -41,6 +63,7 @@ description: ""
 <li>
 <p>Email: <a href="mailto:GAN_Poh_Tin@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">GAN_Poh_Tin@np.edu.sg</a>
 </p>
+<p></p>
 </li>
 <li>
 <p>Staff-in-Charge: Ms. Debby Lee</p>
@@ -51,6 +74,7 @@ description: ""
 <li>
 <p>Email: <a href="mailto:Debby_LEE@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Debby_LEE@np.edu.sg</a>
 </p>
+<p></p>
 </li>
 <li>
 <p>DE Office</p>
@@ -63,8 +87,14 @@ description: ""
 </p>
 </li>
 </ul>
-<h4>School of Film &amp; Media Studies (FMS)</h4>
-<p><strong>Courses: CMP, ​FSV, MCM, MPP</strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School of Film &amp; Media Studies (FMS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Course: CMP, ​FSV, MCM, MPP</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -76,6 +106,7 @@ description: ""
 <li>
 <p>Email: <a href="mailto:LIM_Hsien_Yong@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">LIM_Hsien_Yong@np.edu.sg</a>
 </p>
+<p></p>
 </li>
 <li>
 <p>FMS Office</p>
@@ -88,8 +119,14 @@ description: ""
 </p>
 </li>
 </ul>
-<h4>School of Humanities &amp; Social Sciences (HMS)</h4>
-<p><strong>Courses: ABM, CMC, CHS, CDT, ECDE, TSE</strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School of Humanities &amp; Social Sciences (HMS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Course: ABM, CMC, CHS, CDT, ECDE, TSE</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -101,6 +138,7 @@ description: ""
 <li>
 <p>Email: <a href="mailto:CHIA_Shi-Chien@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">CHIA_Shi-Chien@np.edu.sg</a>
 </p>
+<p></p>
 </li>
 <li>
 <p>HMS Office</p>
@@ -113,7 +151,13 @@ description: ""
 </p>
 </li>
 </ul>
-<h4>School of Health Sciences (HS)</h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School of Health Sciences (HS)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Course: OPT</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -126,6 +170,7 @@ description: ""
 <li>
 <p>Email: <a href="mailto:Germaine_CHUA@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Germaine_CHUA@np.edu.sg</a>
 </p>
+<p></p>
 </li>
 <li>
 <p>Staff-in-Charge: Ms. Jessie Tan</p>
@@ -136,6 +181,7 @@ description: ""
 <li>
 <p>Email: <a href="mailto:Jessie_TAN@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Jessie_TAN@np.edu.sg</a>
 </p>
+<p></p>
 </li>
 <li>
 <p>HS Office</p>
@@ -148,6 +194,7 @@ description: ""
 </p>
 </li>
 </ul>
+<p></p>
 <p><strong>Course: NSG</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -160,6 +207,7 @@ description: ""
 <li>
 <p>Email: <a href="mailto:Michelle_Koh@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Michelle_Koh@np.edu.sg</a>
 </p>
+<p></p>
 </li>
 <li>
 <p>Staff-in-Charge: Ms. Jessie Tan</p>
@@ -169,6 +217,7 @@ description: ""
 </li>
 <li>
 <p>Email: <a href="mailto:Jessie_TAN@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Jessie_TAN@np.edu.sg</a>​</p>
+<p></p>
 </li>
 <li>
 <p>Staff-in-Charge: Ms. How Ai Ling</p>
@@ -181,12 +230,18 @@ description: ""
 </p>
 </li>
 </ul>
-<h4>School of InfoComm Technology (ICT)</h4>
-<p><strong>Courses: CICTP, CSF, DS, IM, IT</strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School of InfoComm Technology (ICT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Course: CICTP, CSF, DS, IM, IT</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Staff-in-Charge: John Lim</p>
+<p>Staff-in-Charge: Mr. John Lim</p>
 </li>
 <li>
 <p>Tel: 6460 8012</p>
@@ -194,19 +249,27 @@ description: ""
 <li>
 <p>Email: <a href="mailto:John_LIM@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">John_LIM@np.edu.sg</a>
 </p>
+<p></p>
 </li>
 <li>
-<p>Staff-in-Charge: Jesmond Khoo</p>
+<p>Staff-in-Charge: Mr. Jesmond Khoo</p>
 </li>
 <li>
 <p>Tel: 6460 6832</p>
 </li>
 <li>
-<p>Email: <a href="mailto:Jesmond_Khoo@n​p.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Jesmond_Khoo@n​p.edu.sg</a>​​​</p>
+<p>Email: <a href="mailto:Jesmond_Khoo@n​p.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Jesmond_Khoo@n​p.edu.sg</a>
+</p>
 </li>
 </ul>
-<h4>School of Life Sciences &amp; Chemical Technology (LSCT)</h4>
-<p><strong>Courses: BMS, PHARM, LDH, CBE, EWT, CSP</strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School of Life Sciences &amp; Chemical Technology (LSCT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Course: BMS, PHARM, LDH, CBE, EWT, CSP</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -217,6 +280,7 @@ description: ""
 </li>
 <li>
 <p>Email: <a href="mailto:Stephanie_Wong@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Stephanie_Wong@np.edu.sg</a>​</p>
+<p></p>
 </li>
 <li>
 <p>Staff-in-Charge: Dr. Wayne Forday</p>
@@ -227,6 +291,7 @@ description: ""
 <li>
 <p>Email: <a href="mailto:Wayne_FORDAY@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Wayne_FORDAY@np.edu.sg</a>
 </p>
+<p></p>
 </li>
 <li>
 <p>LSCT Office</p>
@@ -239,8 +304,14 @@ description: ""
 </p>
 </li>
 </ul>
-<h4>School of Engineering (SoE)</h4>
-<p>​<strong>Courses: BME, EE, ECE, ES</strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School of Engineering (SOE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Course: BME, EE, ECE, ES</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -254,7 +325,8 @@ description: ""
 </p>
 </li>
 </ul>
-<p><strong>Courses: AEG, AMS, CEP, MOT, ME</strong>
+<p></p>
+<p><strong>Course: AEG, AMS, CEP, MOT, ME</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -266,6 +338,7 @@ description: ""
 <li>
 <p>Email: <a href="mailto:Arefin_Shamsul@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Arefin_Shamsul@np.edu.sg</a>
 </p>
+<p></p>
 </li>
 <li>
 <p>SoE Office</p>
@@ -278,8 +351,11 @@ description: ""
 </p>
 </li>
 </ul>
+</td>
+</tr>
+</tbody>
+</table>
 <hr>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="clte" src="/images/CLTE_logo.png">
 </div>

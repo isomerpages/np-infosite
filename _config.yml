@@ -2,23 +2,23 @@ title: NP Digital Services
 url: https://www2.np.edu.sg
 favicon: /images/Banner and Logo/favicon_isomer.ico
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#004689"
+  secondary-color: "#4a90e2"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#414142"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#414142"
     - title: media-color-three
-      color: "#00838f"
+      color: "#414142"
     - title: media-color-four
-      color: "#00838f"
+      color: "#414142"
     - title: media-color-five
-      color: "#00838f"
+      color: "#414142"
 description: The NP Digital Services portal serves as a central informational
-  hub for accessing IT resources, including software download, notebook
-  requirements, FAQs, quick links, guides, and more. It’s your go-to place for
-  all things related to digital services at Ngee Ann Poly!
+  site for students accessing IT resources, including software download,
+  notebook requirements, FAQs, quick links, guides, and more. It’s your go-to
+  place for all things related to digital services at Ngee Ann Poly!
 permalink: none
 baseurl: ""
 exclude:
@@ -55,8 +55,8 @@ plugins:
 staging: https://staging-lite.d2n20hb5wi6675.amplifyapp.com
 prod: https://master.d2uc18hc4h2ycw.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
-is_government: true
+shareicon: /images/Banner and Logo/favicon_isomer.ico
+is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
 resources_name: queries

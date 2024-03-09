@@ -1,16 +1,13 @@
 ---
-title: Models for Purchases
-permalink: /notebook/models/
+title: NP Authorised Notebook Suppliers
+permalink: /notebook/authorisednbsuppliers/
 variant: tiptap
 description: ""
 ---
-<p>Prior to purchasing your notebook, please read <a href="/notebook/whobuyswhat" rel="noopener noreferrer nofollow" target="_blank">who buys what</a> and check <a href="/notebook/specs/" rel="noopener noreferrer nofollow" target="_blank">notebook specifications</a> for
+<p>Prior to purchasing your notebook, please read <a href="/notebook/whobuyswhat" rel="noopener noreferrer nofollow" target="_blank">who buys what</a> and check <a href="/notebook/specs/" rel="noopener noreferrer nofollow" target="_blank">minimum specifications</a> for
 your course. For course-specific notebook related queries, <a href="/notebook/notebook-queries" rel="noopener noreferrer nofollow" target="_blank">click here</a> for
 contact details.</p>
-<h4><strong>Authorised Notebook Suppliers for 2024&nbsp;(Online order&nbsp;starts from 29 Feb 2024)</strong></h4>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www2.np.edu.sg/notebook/Documents/NP%20Notebook%20Roadshow%20Brochure%202024.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/roadshow.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Download Brochures</div><div class="isomer-card-description">NP Student Notebook Exhibition 2024 29 Feb - 4 Mar 2024 (Excluding Sunday) 10am - 8pm Ngee Ann Poly Convention Centre level 1</div><div class="isomer-card-link">Notebook Roadshow 2024</div></div></a>
-</div>
+<h4>Authorised Notebook Suppliers for 2024&nbsp;(Online order&nbsp;starts from 29 Feb 2024)</h4>
 <table>
 <tbody>
 <tr>
@@ -100,7 +97,7 @@ contact details.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Why should I purchase my notebook from the authorised suppliers?</strong></h4>
+<h4>Why should I purchase my notebook from the authorised suppliers?</h4>
 <p>The Polytechnic has identified several approved suppliers who will sell
 notebook computers on the campus at reasonable prices. You are strongly
 encouraged to buy your notebook from these suppliers because you will enjoy
@@ -119,11 +116,10 @@ comes with 1-Year Warranty) on-site at your residence or on-campus.&nbsp;</p>
 <p><strong>Advantage #3 : Next-Business Day Service <br></strong>Our authorized
 suppliers provide after-sales services on a Next-Business Day basis on-site
 at your residence or on-campus.</p>
-<h4><br><strong>How many notebooks am I allowed to purchase from the authorised suppliers?</strong></h4>
-<p>Each student is only allowed to purchase ONE unit of notebook regardless
-from which authorised suppliers. It is necessary to show your Student Card
-or Acceptance of Offer letter when you place your order and take delivery
-of your notebook from the authorised suppliers.</p>
+<h4><br>How many notebooks am I allowed to purchase from the authorised suppliers?</h4>
+<p>Each student is only allowed to purchase ONE notebook regardless of the
+authorised supplier. It is necessary to show your Student Card or Acceptance
+of Offer letter when you place your order and take delivery of your notebook.</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">

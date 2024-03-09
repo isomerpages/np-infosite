@@ -1,6 +1,6 @@
 ---
-title: Clear cache
-permalink: /dst/npal/s2bc5755/student/pages/npal-clear-cache/
+title: Clear Cache
+permalink: /dst/npal/s2bc5755/student/pages/npal-clearcache/
 variant: tiptap
 description: ""
 ---

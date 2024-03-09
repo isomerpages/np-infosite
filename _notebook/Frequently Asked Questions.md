@@ -1,5 +1,5 @@
 ---
-title: Frequently Asked Questions (Notebook)
+title: Frequently Asked Questions
 permalink: /notebook/faq/
 variant: tiptap
 description: ""

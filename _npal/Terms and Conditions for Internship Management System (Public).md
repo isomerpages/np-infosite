@@ -1,6 +1,6 @@
 ---
-title: Terms and Conditions (for Internship Management System Public)
-permalink: /dst/npal/i61ccfb7/intern/pages/npal-intern-terms-of-use/
+title: Terms and Conditions for Internship Management System (Public)
+permalink: /dst/npal/i61ccfb7/intern/pages/npal-intern-termsofuse/
 variant: tiptap
 description: ""
 ---

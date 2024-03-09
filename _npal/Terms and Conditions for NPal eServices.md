@@ -1,6 +1,6 @@
 ---
-title: Terms and Conditions (for NPal eServices)
-permalink: /dst/npal/fb8fa13c/staff/pages/npal-terms-of-use/
+title: Terms and Conditions for NPal eServices
+permalink: /dst/npal/fb8fa13c/staff/pages/npal-termsofuse/
 variant: tiptap
 description: ""
 ---

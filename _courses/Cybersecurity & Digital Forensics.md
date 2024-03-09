@@ -36,7 +36,15 @@ a Windows notebook is required.</p>
 <p>Storage:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 TB or above</p>
+<p>512 GB SSD or above</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Portable SSD:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>512 GB (Recommended)</p>
 </td>
 </tr>
 <tr>
