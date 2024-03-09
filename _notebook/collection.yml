@@ -2,6 +2,7 @@ collections:
   notebook:
     output: true
     order:
+      - Notebook Ownership For Mobile eLearning.md
       - Who Buys What?.md
       - Minimum Specifications.md
       - Models for Purchases.md
