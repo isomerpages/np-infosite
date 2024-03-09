@@ -178,7 +178,7 @@ Clearing browsing data...</p>
 </tr>
 </tbody>
 </table>
-<h4>&nbsp; For Safari (Mac OS): &nbsp;&nbsp;</h4>
+<h4>&nbsp; For Safari: &nbsp;</h4>
 <table>
 <tbody>
 <tr>
@@ -194,7 +194,7 @@ Clearing browsing data...</p>
 <p>2.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click on&nbsp;Clear history...&nbsp;</p>
+<p>Click on Clear history</p>
 </td>
 </tr>
 </tbody>
