@@ -18,9 +18,9 @@ sections:
         - title: Software
           description: Freshmen, Year 2 and 3
           url: /software/year1/
-        - title: Notebook
-          description: Minimum Specifications
-          url: /notebook/whobuyswhat/
+        - title: Notebook Ownership
+          description: For Mobile eLearning
+          url: /notebook/nbownership
         - title: Quick links
           description: For Students and Staff
           url: /quick-links/student/
