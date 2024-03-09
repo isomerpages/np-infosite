@@ -6,18 +6,18 @@ links:
     collection: software
   - title: Notebook
     collection: notebook
-  - title: Financial Assistance
-    url: https://www.np.edu.sg/admissions-enrolment/guide-for-prospective-students/aid
   - title: Guides
     collection: guides
   - title: Quick Links
     collection: quick-links
   - title: Contact Us
     url: /contact-us
-  - title: Test
-    url: /permalink
+  - title: Notebook2
+    url: /notebook/nbownership/
     sublinks:
       - title: Financial Assistance
         url: https://www.np.edu.sg/admissions-enrolment/guide-for-prospective-students/aid
       - title: Download e-Brochure
         url: https://staging.d2uc18hc4h2ycw.amplifyapp.com/files/NPNotebookRoadshowBrochure2024_v3.pdf
+      - title: Notebook For Mobile eLearning
+        url: /notebook/nbownership/
