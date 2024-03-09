@@ -5,6 +5,25 @@ links:
   - title: Software
     collection: software
   - title: Notebook
+    url: /notebook/nbownership/
+    sublinks:
+      - title: Notebook For Mobile eLearning
+        url: /notebook/nbownership/
+      - title: Download Notebook e-Brochure
+        url: https://staging.d2uc18hc4h2ycw.amplifyapp.com/files/NPNotebookRoadshowBrochure2024_v3.pdf
+      - title: Who Buys What
+        url: /notebook/whobuyswhat/
+      - title: Authorised Notebook Suppliers
+        url: /notebook/authorisednbsuppliers/
+      - title: Course Specific Queries
+        url: /notebook-queries/
+      - title: After Sales Service
+        url: /notebook/after-sales-service/
+      - title: Financial Aid for IT Devices
+        url: https://www.np.edu.sg/admissions-enrolment/guide-for-prospective-students/aid
+      - title: FAQ (Notebook)
+        url: /notebook/faq/
+  - title: Notebook
     collection: notebook
   - title: Guides
     collection: guides
@@ -12,12 +31,3 @@ links:
     collection: quick-links
   - title: Contact Us
     url: /contact-us
-  - title: Notebook2
-    url: /notebook/nbownership/
-    sublinks:
-      - title: Financial Assistance
-        url: https://www.np.edu.sg/admissions-enrolment/guide-for-prospective-students/aid
-      - title: Download e-Brochure
-        url: https://staging.d2uc18hc4h2ycw.amplifyapp.com/files/NPNotebookRoadshowBrochure2024_v3.pdf
-      - title: Notebook For Mobile eLearning
-        url: /notebook/nbownership/
