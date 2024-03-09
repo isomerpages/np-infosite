@@ -11,7 +11,7 @@ description: ""
 <p>Academic Schools</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Courses</p>
+<p>Contacts</p>
 </th>
 </tr>
 <tr>
@@ -19,7 +19,7 @@ description: ""
 <p>School of Business &amp; Accountancy (BA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ACC, BF, BS, CBP, ITB, TRM</strong>
+<p><strong>Course: ACC, BF, BS, CBP, ITB, TRM</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -51,7 +51,7 @@ description: ""
 <p>School of Design &amp; Environment (DE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>DES, HLFM, REB</strong>
+<p><strong>Course: DES, HLFM, REB</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -94,7 +94,7 @@ description: ""
 <p>School of Film &amp; Media Studies (FMS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>CMP, ​FSV, MCM, MPP</strong>
+<p><strong>Course: CMP, ​FSV, MCM, MPP</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -126,7 +126,7 @@ description: ""
 <p>School of Humanities &amp; Social Sciences (HMS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ABM, CMC, CHS, CDT, ECDE, TSE</strong>
+<p><strong>Course: ABM, CMC, CHS, CDT, ECDE, TSE</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -158,7 +158,7 @@ description: ""
 <p>School of Health Sciences (HS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>OPT</strong>
+<p><strong>Course: OPT</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -195,7 +195,7 @@ description: ""
 </li>
 </ul>
 <p></p>
-<p><strong>NSG</strong>
+<p><strong>Course: NSG</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -237,7 +237,7 @@ description: ""
 <p>School of InfoComm Technology (ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>CICTP, CSF, DS, IM, IT</strong>
+<p><strong>Course: CICTP, CSF, DS, IM, IT</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -269,7 +269,7 @@ description: ""
 <p>School of Life Sciences &amp; Chemical Technology (LSCT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>BMS, PHARM, LDH, CBE, EWT, CSP</strong>
+<p><strong>Course: BMS, PHARM, LDH, CBE, EWT, CSP</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -311,7 +311,7 @@ description: ""
 <p>School of Engineering (SOE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>BME, EE, ECE, ES</strong>
+<p><strong>Course: BME, EE, ECE, ES</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -326,7 +326,7 @@ description: ""
 </li>
 </ul>
 <p></p>
-<p><strong>AEG, AMS, CEP, MOT, ME</strong>
+<p><strong>Course: AEG, AMS, CEP, MOT, ME</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
