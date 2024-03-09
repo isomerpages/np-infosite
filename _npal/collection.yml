@@ -2,6 +2,7 @@ collections:
   npal:
     output: true
     order:
+      - Enrol/.keep
       - Admissions/.keep
       - Student/.keep
       - Staff/.keep
