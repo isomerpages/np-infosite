@@ -2,9 +2,9 @@
 layout: homepage
 title: NP Digital Services
 description: The NP Digital Services portal serves as a central informational
-  hub for accessing IT resources, including software download, notebook
-  requirements, FAQs, quick links, guides, and more. It’s your go-to place for
-  all things related to digital services at Ngee Ann Poly!
+  site for students accessing IT resources, including software download,
+  notebook requirements, FAQs, quick links, guides, and more. It’s your go-to
+  place for all things related to digital services at Ngee Ann Poly!
 image: /images/Banner and Logo/favicon_isomer.ico
 permalink: /
 notification: Notebook registration starts from 25 Mar 2024 onwards. After
