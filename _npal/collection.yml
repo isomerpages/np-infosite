@@ -2,6 +2,7 @@ collections:
   npal:
     output: true
     order:
+      - Staff/.keep
       - Steps to Enable Cookies in Your Web Browser.md
       - Exam Results Release.md
       - Terms and Conditions for Internship Management System (Public).md
