@@ -29,7 +29,9 @@ description: ""
 <p>Tel: 6460 7010</p>
 </li>
 <li>
-<p>Email: <a href="mailto:Zeng_Xing@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Zeng_Xing@np.edu.sg</a>​</p>
+<p>Email: <a href="mailto:Zeng_Xing@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Zeng_Xing@np.edu.sg</a>
+</p>
+<p></p>
 </li>
 <li>
 <p>BA Office</p>
@@ -61,6 +63,7 @@ description: ""
 <li>
 <p>Email: <a href="mailto:GAN_Poh_Tin@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">GAN_Poh_Tin@np.edu.sg</a>
 </p>
+<p></p>
 </li>
 <li>
 <p>Staff-in-Charge: Ms. Debby Lee</p>
@@ -71,6 +74,7 @@ description: ""
 <li>
 <p>Email: <a href="mailto:Debby_LEE@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Debby_LEE@np.edu.sg</a>
 </p>
+<p></p>
 </li>
 <li>
 <p>DE Office</p>
@@ -102,6 +106,7 @@ description: ""
 <li>
 <p>Email: <a href="mailto:LIM_Hsien_Yong@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">LIM_Hsien_Yong@np.edu.sg</a>
 </p>
+<p></p>
 </li>
 <li>
 <p>FMS Office</p>
@@ -133,6 +138,7 @@ description: ""
 <li>
 <p>Email: <a href="mailto:CHIA_Shi-Chien@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">CHIA_Shi-Chien@np.edu.sg</a>
 </p>
+<p></p>
 </li>
 <li>
 <p>HMS Office</p>
@@ -164,6 +170,7 @@ description: ""
 <li>
 <p>Email: <a href="mailto:Germaine_CHUA@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Germaine_CHUA@np.edu.sg</a>
 </p>
+<p></p>
 </li>
 <li>
 <p>Staff-in-Charge: Ms. Jessie Tan</p>
@@ -174,6 +181,7 @@ description: ""
 <li>
 <p>Email: <a href="mailto:Jessie_TAN@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Jessie_TAN@np.edu.sg</a>
 </p>
+<p></p>
 </li>
 <li>
 <p>HS Office</p>
@@ -186,6 +194,7 @@ description: ""
 </p>
 </li>
 </ul>
+<p></p>
 <p><strong>Course: NSG</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -198,6 +207,7 @@ description: ""
 <li>
 <p>Email: <a href="mailto:Michelle_Koh@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Michelle_Koh@np.edu.sg</a>
 </p>
+<p></p>
 </li>
 <li>
 <p>Staff-in-Charge: Ms. Jessie Tan</p>
@@ -207,6 +217,7 @@ description: ""
 </li>
 <li>
 <p>Email: <a href="mailto:Jessie_TAN@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Jessie_TAN@np.edu.sg</a>​</p>
+<p></p>
 </li>
 <li>
 <p>Staff-in-Charge: Ms. How Ai Ling</p>
@@ -230,7 +241,7 @@ description: ""
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Staff-in-Charge: John Lim</p>
+<p>Staff-in-Charge: Mr. John Lim</p>
 </li>
 <li>
 <p>Tel: 6460 8012</p>
@@ -238,9 +249,10 @@ description: ""
 <li>
 <p>Email: <a href="mailto:John_LIM@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">John_LIM@np.edu.sg</a>
 </p>
+<p></p>
 </li>
 <li>
-<p>Staff-in-Charge: Jesmond Khoo</p>
+<p>Staff-in-Charge: Mr. Jesmond Khoo</p>
 </li>
 <li>
 <p>Tel: 6460 6832</p>
@@ -268,6 +280,7 @@ description: ""
 </li>
 <li>
 <p>Email: <a href="mailto:Stephanie_Wong@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Stephanie_Wong@np.edu.sg</a>​</p>
+<p></p>
 </li>
 <li>
 <p>Staff-in-Charge: Dr. Wayne Forday</p>
@@ -278,6 +291,7 @@ description: ""
 <li>
 <p>Email: <a href="mailto:Wayne_FORDAY@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Wayne_FORDAY@np.edu.sg</a>
 </p>
+<p></p>
 </li>
 <li>
 <p>LSCT Office</p>
@@ -311,6 +325,7 @@ description: ""
 </p>
 </li>
 </ul>
+<p></p>
 <p><strong>Courses: AEG, AMS, CEP, MOT, ME</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -323,6 +338,7 @@ description: ""
 <li>
 <p>Email: <a href="mailto:Arefin_Shamsul@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Arefin_Shamsul@np.edu.sg</a>
 </p>
+<p></p>
 </li>
 <li>
 <p>SoE Office</p>
