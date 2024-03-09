@@ -4,12 +4,10 @@ permalink: /notebook/authorisednbsuppliers/
 variant: tiptap
 description: ""
 ---
-<p>Prior to purchasing your notebook, please read <a href="/notebook/whobuyswhat" rel="noopener noreferrer nofollow" target="_blank">who buys what</a> and check <a href="/notebook/specs/" rel="noopener noreferrer nofollow" target="_blank">notebook specifications</a> for
+<p>Prior to purchasing your notebook, please read <a href="/notebook/whobuyswhat" rel="noopener noreferrer nofollow" target="_blank">who buys what</a> and check <a href="/notebook/specs/" rel="noopener noreferrer nofollow" target="_blank">minimum specifications</a> for
 your course. For course-specific notebook related queries, <a href="/notebook/notebook-queries" rel="noopener noreferrer nofollow" target="_blank">click here</a> for
 contact details.</p>
 <h4>Authorised Notebook Suppliers for 2024&nbsp;(Online order&nbsp;starts from 29 Feb 2024)</h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://staging.d2uc18hc4h2ycw.amplifyapp.com/files/NP_Notebook_Roadshow_Brochure_2024.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/roadshow.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Download Brochures</div><div class="isomer-card-description">NP Student Notebook Exhibition 2024 29 Feb - 4 Mar 2024 (Excluding Sunday) 10am - 8pm Ngee Ann Poly Convention Centre level 1</div><div class="isomer-card-link">Notebook Roadshow Brochure 2024</div></div></a>
-</div>
 <table>
 <tbody>
 <tr>
