@@ -4,7 +4,21 @@ permalink: /notebook/notebook-queries/
 variant: tiptap
 description: ""
 ---
-<h4>School of Business &amp; Accountancy (BA)</h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Academic Schools</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Course</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School of Business &amp; Accountancy (BA)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Courses: ACC, BF, BS, CBP, ITB, TRM</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -28,7 +42,13 @@ description: ""
 </p>
 </li>
 </ul>
-<h4>School of Design &amp; Environment (DE)</h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School of Design &amp; Environment (DE)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Courses: DES, HLFM, REB</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -63,7 +83,13 @@ description: ""
 </p>
 </li>
 </ul>
-<h4>School of Film &amp; Media Studies (FMS)</h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School of Film &amp; Media Studies (FMS)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Courses: CMP, ​FSV, MCM, MPP</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -88,7 +114,13 @@ description: ""
 </p>
 </li>
 </ul>
-<h4>School of Humanities &amp; Social Sciences (HMS)</h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School of Humanities &amp; Social Sciences (HMS)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Courses: ABM, CMC, CHS, CDT, ECDE, TSE</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -113,7 +145,13 @@ description: ""
 </p>
 </li>
 </ul>
-<h4>School of Health Sciences (HS)</h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School of Health Sciences (HS)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Course: OPT</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -181,7 +219,13 @@ description: ""
 </p>
 </li>
 </ul>
-<h4>School of InfoComm Technology (ICT)</h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School of InfoComm Technology (ICT)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Courses: CICTP, CSF, DS, IM, IT</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -202,10 +246,17 @@ description: ""
 <p>Tel: 6460 6832</p>
 </li>
 <li>
-<p>Email: <a href="mailto:Jesmond_Khoo@n​p.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Jesmond_Khoo@n​p.edu.sg</a>​​​</p>
+<p>Email: <a href="mailto:Jesmond_Khoo@n​p.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Jesmond_Khoo@n​p.edu.sg</a>
+</p>
 </li>
 </ul>
-<h4>School of Life Sciences &amp; Chemical Technology (LSCT)</h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School of Life Sciences &amp; Chemical Technology (LSCT)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Courses: BMS, PHARM, LDH, CBE, EWT, CSP</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -239,8 +290,14 @@ description: ""
 </p>
 </li>
 </ul>
-<h4>School of Engineering (SoE)</h4>
-<p>​<strong>Courses: BME, EE, ECE, ES</strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School of Engineering (SOE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Courses: BME, EE, ECE, ES</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -278,8 +335,11 @@ description: ""
 </p>
 </li>
 </ul>
+</td>
+</tr>
+</tbody>
+</table>
 <hr>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="clte" src="/images/CLTE_logo.png">
 </div>
