@@ -15,13 +15,21 @@ sections:
       title: Digital Services
       background: /images/Banner and Logo/banner_students.jpg
       variant: center
-      dropdown:
-        title: Hero Dropdown Title
-        options:
-          - title: Financial Assistance
-            url: https://www.np.edu.sg/admissions-enrolment/guide-for-prospective-students/aid
-          - title: Download Notebook e-Brochure
-            url: /files/NPNotebookRoadshowBrochure2024_v3.pdf
+      key_highlights:
+        - title: Software
+          description: Freshmen, Year 2 and 3
+          url: /software/year1/
+        - title: Notebook Ownership
+          description: For Mobile eLearning
+          url: /notebook/nbownership
+        - title: Quick links
+          description: For Students and Staff
+          url: /quick-links/student/
+        - title: Email Guide
+          description: Access your Connect Email
+          url: /guides/email-guide/
+      button: Download Notebook e-Brochure
+      url: https://staging.d2uc18hc4h2ycw.amplifyapp.com/files/NPNotebookRoadshowBrochure2024_v3.pdf
   - infopic:
       title: Purchase notebook from our authorised suppliers and get
       id: infopic
