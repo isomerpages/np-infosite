@@ -51,7 +51,7 @@ sections:
       id: infopic
       description: Your one-stop hub for password reset, email guides, and NP resources.
       button: Discover more
-      url: /quick-links/student/
+      url: https://www.np.edu.sg/admissions-enrolment/guide-for-prospective-students/aid
       image: /images/itservices.png
       alt: list of it services
   - resources:
