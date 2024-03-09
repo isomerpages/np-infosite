@@ -29,14 +29,10 @@ sections:
           url: /guides/email-guide/
       variant: center
   - infopic:
-      title: Why purchase notebook from our authorised supplier?
+      title: Purchase notebook from our authorised suppliers and get
       id: infopic
-      description: |-
-        Collective Consumer Protection
-
-        Notebooks with 3-year On-site Warranty
-
-        Next-Business Day Service
+      description: Collective Consumer Protection |  Notebooks with 3-year On-site
+        Warranty |  Next-Business Day Service
       button: Purchase Notebook
       url: /notebook/whobuyswhat/
       image: /images/notebook.png
