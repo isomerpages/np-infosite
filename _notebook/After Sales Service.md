@@ -8,18 +8,8 @@ description: ""
 <p>If you purchased your notebook from our authorised suppliers, they provide
 after-sales hardware-related repairs next-business day either at your residence
 or on campus.</p>
-<p></p>
 </blockquote>
-<h4>Acer: Acer Computer (Singapore) Pte Ltd</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Service Hotline : 1800 - 895 6299 (Mon - Fri : 8.30am to 5:30pm)</p>
-</li>
-<li>
-<p>Technical Support email : <a href="mailto:acercare.sg@acer.com" rel="noopener noreferrer nofollow" target="_blank">acercare.sg@acer.com</a>​</p>
-</li>
-</ul>
-<h4>Asus: AsiaPac Technology Pte. Ltd​ (formerly AsiaPac Distribution Pte Ltd)</h4>
+<h4>Asus: AsiaPac Technology Pte. Ltd​</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Service Hotline : 6272 0088</p>
@@ -61,11 +51,9 @@ or on campus.</p>
 </li>
 </ul>
 <hr>
-<p></p>
 <p>If you wish to provide feedback on the notebook suppliers' services, please
 contact CLTE at <strong>6460 6295</strong> or email to <a href="itcare@connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">itcare@connect.np.edu.sg</a>.</p>
 <hr>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="clte" src="/images/CLTE_logo.png">
 </div>
