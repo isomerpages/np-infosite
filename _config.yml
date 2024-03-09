@@ -2,11 +2,11 @@ title: NP Digital Services
 url: https://www2.np.edu.sg
 favicon: /images/Banner and Logo/favicon_isomer.ico
 colors:
-  primary-color: "#004689"
-  secondary-color: "#4a4a4a"
+  primary-color: "#414142"
+  secondary-color: "#004689"
   media-colors:
     - title: media-color-one
-      color: "#9013fe"
+      color: "#fbb040"
     - title: media-color-two
       color: "#00838f"
     - title: media-color-three
