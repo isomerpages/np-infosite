@@ -34,7 +34,7 @@ sections:
       description: Collective Consumer Protection |  Notebooks with 3-year On-site
         Warranty |  Next-Business Day Service
       button: Purchase Notebook
-      url: /notebook/whobuyswhat/
+      url: /notebook/authorisednbsuppliers/
       image: /images/notebook.png
       alt: buy from authorised supplier
   - infopic:
