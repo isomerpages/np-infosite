@@ -3,18 +3,18 @@ url: https://www2.np.edu.sg
 favicon: /images/Banner and Logo/favicon_isomer.ico
 colors:
   primary-color: "#004689"
-  secondary-color: "#414142"
+  secondary-color: "#4a90e2"
   media-colors:
     - title: media-color-one
-      color: "#fbb040"
+      color: "#414142"
     - title: media-color-two
-      color: "#fbb040"
+      color: "#414142"
     - title: media-color-three
-      color: "#fbb040"
+      color: "#414142"
     - title: media-color-four
-      color: "#fbb040"
+      color: "#414142"
     - title: media-color-five
-      color: "#fbb040"
+      color: "#414142"
 description: The NP Digital Services portal serves as a central informational
   site for students accessing IT resources, including software download,
   notebook requirements, FAQs, quick links, guides, and more. It’s your go-to
