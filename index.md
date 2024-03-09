@@ -17,16 +17,16 @@ sections:
       variant: center
       key_highlights:
         - title: Software
-          description: Freshmen, Year 2 and 3
+          description: Freshmen, Year 2 & 3
           url: /software/year1/
         - title: Notebook Ownership
           description: For Mobile eLearning
           url: /notebook/nbownership
         - title: Quick links
-          description: For Students and Staff
+          description: For Students
           url: /quick-links/student/
         - title: Email Guide
-          description: Access your Connect Email
+          description: NP Connect Email
           url: /guides/email-guide/
       button: Download Notebook e-Brochure
       url: https://staging.d2uc18hc4h2ycw.amplifyapp.com/files/NPNotebookRoadshowBrochure2024_v3.pdf
