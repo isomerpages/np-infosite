@@ -126,7 +126,7 @@ You can then proceed to&nbsp;OurSpace@72 to pay, print and collect your
 printout.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www2.np.edu.sg/software/itservices/Documents/NP%20Printing%20FAQs%20v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide</a>
+<p><a href="/files/NP_PrintingFAQsv2.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide</a>
 </p>
 </td>
 </tr>
