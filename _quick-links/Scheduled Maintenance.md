@@ -10,7 +10,7 @@ optimal condition to facilitate work. Some IT services may not be available
 during maintenance, and we apologise for any inconveniences caused.</p>
 </blockquote>
 <p>Details and reminders will be sent nearer to the date of maintenance via
-DST's mont​​hly Newsletters to students and staff.</p>
+DST's mont​​hly newsletters to students and staff.</p>
 <table>
 <tbody>
 <tr>
