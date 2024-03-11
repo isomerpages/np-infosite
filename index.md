@@ -46,7 +46,7 @@ sections:
         free of charge.
       button: Download
       url: /software/year1/
-      image: /images/softwaredownload.png
+      image: /images/Banner and Logo/studentswdownload.png
       alt: students using digital devices
   - infopic:
       title: Quick Links
