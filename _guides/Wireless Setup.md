@@ -49,25 +49,25 @@ NPNet password or are connecting on a new device.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www2.np.edu.sg/dst/Documents/NPWirelessx%20Setup%20Guide%20for%20Win%20OS.pdf" rel="noopener noreferrer nofollow" target="_blank">Windows OS</a>
+<p><a href="/files/NPWirelessx_Setup_Guide_for_Win_OS.pdf" rel="noopener noreferrer nofollow" target="_blank">Windows OS</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www2.np.edu.sg/dst/Documents/NPWirelessx%20Setup%20Guide%20for%20Mac%20OS.pdf" rel="noopener noreferrer nofollow" target="_blank">Mac OS</a>
+<p><a href="/files/NPWirelessx_Setup_Guide_for_Mac_OS.pdf" rel="noopener noreferrer nofollow" target="_blank">Mac OS</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www2.np.edu.sg/dst/Documents/NPWirelessx%20Setup%20Guide%20for%20iOS.pdf" rel="noopener noreferrer nofollow" target="_blank">iOS (iPhone/iPad)</a>
+<p><a href="/files/NPWirelessx_Setup_Guide_for_iOS.pdf" rel="noopener noreferrer nofollow" target="_blank">iOS Device (iPhone/iPad)</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www2.np.edu.sg/dst/Documents/NPWirelessx%20Setup%20Guide%20for%20Android.pdf" rel="noopener noreferrer nofollow" target="_blank">Android (Phone/Tablet)</a>
+<p><a href="/files/NPWirelessx_Setup_Guide_for_Android.pdf" rel="noopener noreferrer nofollow" target="_blank">Android OS (Phone/Tablet)</a>
 </p>
 </td>
 </tr>
