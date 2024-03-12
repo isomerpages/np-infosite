@@ -31,7 +31,7 @@ sections:
       button: Download Notebook e-Brochure
       url: https://staging.d2uc18hc4h2ycw.amplifyapp.com/files/NPNotebookRoadshowBrochure2024_v3.pdf
   - infopic:
-      title: Purchase notebook from our authorised suppliers and get
+      title: Purchase notebook from our authorised suppliers to get
       id: infopic
       description: Collective Consumer Protection |  Notebooks with 3-year On-site
         Warranty |  Next-Business Day Service
