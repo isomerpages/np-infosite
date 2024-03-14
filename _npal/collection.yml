@@ -3,6 +3,8 @@ collections:
     output: true
     order:
       - Announcement/.keep
+      - MyClass/Terms and Conditions for NPal MyClass Website (for NP
+        Lecturers).md
       - MyClass/NPAL MyClass Help FAQ.md
       - MyClass/Contact Us.md
       - MyClass/Clear Cache.md
