@@ -65,9 +65,8 @@ your login ID and password&nbsp;​</p>
 <td rowspan="1" colspan="1">
 <p>System will default the Main Menu, My Class</p>
 <p>Choose the function as displayed in the tile.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="border: none; -webkit-tap-highlight-color: transparent; width: 322px; margin: 5px;" height="auto" width="100%" alt="" src="https://www2.np.edu.sg/dst/npal/tt963q7d/myclass/PublishingImages/myclass-home.png">
+<img style="width: 100%" height="auto" width="100%" alt="myclass homepage" src="/images/Pages/myclass_home.png">
 </div>
 </td>
 </tr>
@@ -77,9 +76,9 @@ your login ID and password&nbsp;​</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click the&nbsp;button to return to Main Menu</p>
-<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+<p>Click the&nbsp;button to return to Main Menu&nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -90,7 +89,7 @@ your login ID and password&nbsp;​</p>
 <td rowspan="1" colspan="1">
 <p>Click the&nbsp;ellipse&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="border: none; -webkit-tap-highlight-color: transparent; margin: 5px;" height="auto" width="100%" alt="" src="https://www2.np.edu.sg/dst/npal/tt963q7d/myclass/PublishingImages/ellipse-icon.png">
+<img style="width: 10%;" height="auto" width="100%" alt="ellipse" src="/images/Pages/ellipse_icon.png">
 </div>
 <p>&nbsp;on the top right hand corner to log out from the system​.</p>
 </td>
