@@ -178,7 +178,7 @@ Clearing browsing data...</p>
 </tr>
 </tbody>
 </table>
-<h4>&nbsp; For Safari: &nbsp;</h4>
+<h4>&nbsp; For Safari (Mac OS): &nbsp;</h4>
 <table>
 <tbody>
 <tr>
