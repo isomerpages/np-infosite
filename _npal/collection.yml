@@ -6,6 +6,7 @@ collections:
       - MyClass/.keep
       - Enrol/.keep
       - Admissions/.keep
+      - Student/Clear Cache.md
       - Student/.keep
       - Staff/.keep
       - Steps to Enable Cookies in Your Web Browser.md
