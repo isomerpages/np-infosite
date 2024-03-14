@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Announcement/.keep
+      - MyClass/Clear Cache.md
       - MyClass/.keep
       - Enrol/Clear Cache.md
       - Enrol/.keep
