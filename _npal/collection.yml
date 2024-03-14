@@ -4,6 +4,7 @@ collections:
     order:
       - Announcement/.keep
       - MyClass/.keep
+      - Enrol/Clear Cache.md
       - Enrol/.keep
       - Admissions/.keep
       - Student/Clear Cache.md
