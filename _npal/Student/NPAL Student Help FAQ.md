@@ -100,7 +100,7 @@ other browsers such as Microsoft Edge and Firefox.</p>
 <p><strong>I have feedback on the NPal student system. Where should I send it to?</strong> 
 <br>Please use the <a href="https://www1.np.edu.sg/CC/IThelp/Feedback.aspx" rel="noopener noreferrer nofollow" target="_blank">Feedback Form</a> located
 on login page of NPal student system.</p>
-<p><strong>How do I reset my password?</strong>
+<p><strong>How do I reset my password?</strong> 
 <br>Please use the "Forgot Password" ​link​ located on login page of NPal
 student system.</p>
 <p></p>
