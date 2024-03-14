@@ -5,20 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Student
 ---
-<blockquote>
-<p>As part of our commitment to provide you with better and more efficient
-student services in NP, we are pleased to inform you that we are upgrading
-the NPal Student system.</p>
-</blockquote>
-<h4>Mobile Responsive</h4>
-<p>The new system will offer you a mobile responsive experience. Sizing and
-content layout will automatically adjust to fit the device you are using.</p>
-<h4>​Upgrade on-going in Phases</h4>
-<p>The upgrade will be completed in phases. Priority is given to the most
-frequently used functions that were shortlisted by students through focus
-group discussions. The remaining functions will be upgraded progressively
-and released seamlessly into the system.</p>
-<p></p>
+<p>This system will offer you a Mobile Responsive experience. Sizing and
+content layout will automatically adjust to fit the device you are using​.</p>
 <h4>Login to NPal Student</h4>
 <ol data-tight="true" class="tight">
 <li>
@@ -112,3 +100,7 @@ other browsers such as Microsoft Edge and Firefox.</p>
 <p><strong>I have feedback on the NPal student system. Where should I send it to?</strong> 
 <br>Please use the <a href="https://www1.np.edu.sg/CC/IThelp/Feedback.aspx" rel="noopener noreferrer nofollow" target="_blank">Feedback Form</a> located
 on login page of NPal student system.</p>
+<p><strong>How do I reset my password?</strong>
+<br>Please use the "Forgot Password" ​link​ located on login page of NPal
+student system.</p>
+<p></p>
