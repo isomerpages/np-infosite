@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Announcement/.keep
+      - MyClass/Contact Us.md
       - MyClass/Clear Cache.md
       - MyClass/.keep
       - Enrol/FAQ for My Enrolment.md
