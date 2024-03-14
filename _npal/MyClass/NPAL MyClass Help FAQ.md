@@ -107,7 +107,7 @@ of term.
 </li>
 <li>
 <p><strong>There is an error message when I login. What should I do?</strong> 
-<br>Try <a href="https://www2.np.edu.sg/dst/npal/tt963q7d/myclass/Pages/NPAL_ClearCache.aspx" rel="noopener noreferrer nofollow" target="_blank">Clear cache</a> or
+<br>Try <a href="/dst/npal/tt963q7d/myclass/pages/npal-clearcache" rel="noopener noreferrer nofollow" target="_blank">clear cache</a> or
 other browsers such as Internet Explorer and Firefox.
 <br>​</p>
 </li>
