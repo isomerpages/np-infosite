@@ -2,6 +2,7 @@ collections:
   npal:
     output: true
     order:
+      - Announcement/Exam Release 3 Mar.md
       - Announcement/Exam Results Release.md
       - Announcement/Steps to Enable Cookies in Your Web Browser.md
       - Announcement/.keep
