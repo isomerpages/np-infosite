@@ -1,8 +1,9 @@
 ---
 title: Terms and Conditions for Internship Management System (Public)
-permalink: /dst/npal/i61ccfb7/intern/pages/npal-intern-termsofuse/
+permalink: /dst/npal/ade8b5a5/admission/pages/npal-public-termsofuse/
 variant: tiptap
 description: ""
+third_nav_title: Admission
 ---
 <p>The NPal Internship Management System Public website is a Ngee Ann Polytechnic
 website. It consists of a full suite of Internship Management System functions

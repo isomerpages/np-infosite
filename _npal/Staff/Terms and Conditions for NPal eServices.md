@@ -3,6 +3,7 @@ title: Terms and Conditions for NPal eServices
 permalink: /dst/npal/fb8fa13c/staff/pages/npal-termsofuse/
 variant: tiptap
 description: ""
+third_nav_title: Staff
 ---
 <p>1. The NPal eServices are Ngee Ann Polytechnic eServices and are accessible
 to staff.</p>

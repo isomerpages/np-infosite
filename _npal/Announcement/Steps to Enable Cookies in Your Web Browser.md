@@ -3,6 +3,7 @@ title: Steps to Enable Cookies in Your Web Browser
 permalink: /dst/npal/announcement/pages/enable-cookie/
 variant: tiptap
 description: ""
+third_nav_title: Announcement
 ---
 <table>
 <tbody>

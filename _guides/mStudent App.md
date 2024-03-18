@@ -21,7 +21,7 @@ details for course enrollment.</p>
 </div>
 </a>
 </div>
-<h3>How do I obtain my login details in the app?</h3>
+<h4>How do I obtain my login details in the app?</h4>
 <p>Tap on ‘Get Started’ in the app and follow the instructions. You’ll need
 to have a registered Singapore mobile number with us to receive an SMS.</p>
 <p></p>

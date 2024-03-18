@@ -3,6 +3,7 @@ title: Terms and Conditions for NPal Student Website (for NP Students)
 permalink: /dst/npal/s2bc5755/student/pages/npal-student-termsofuse/
 variant: tiptap
 description: ""
+third_nav_title: Student
 ---
 <blockquote>
 <p>Terms and Conditions for NPal Stu​dent Website (for NP Students)</p>

@@ -1,8 +1,9 @@
 ---
 title: Exam Results Release
-permalink: /dst/npal/announcement/pages/exams-release/
+permalink: /dst/npal/announcement/pages/exam-release/
 variant: tiptap
 description: ""
+third_nav_title: Announcement
 ---
 <h4>Exam Results Release on&nbsp;22 Sep 2023, from 8:00am onwards.​</h4>
 <p><strong>Direct login to </strong><a href="https://npalstudent.np.edu.sg/psc/student/EMPLOYEE/SA/c/N_XM_CUR_TRM_RSLT.N_XM_CURTRM_RLT_FL.GBL" rel="noopener noreferrer nofollow" target="_blank">CURRENT EXAM RESULTS</a>
@@ -19,10 +20,10 @@ If necessary, you can <a href="https://www1.np.edu.sg/cc/std_acct/pwdreset/pwdfo
 will be activated half an&nbsp;hour later from the time of receipt.</p>
 <p><strong>2) Clear Browser Cache</strong>
 </p>
-<p>Remember to <a href="/dst/npal/announcement/pages/enable-cookie/" rel="noopener noreferrer nofollow" target="_blank">clear your browser cache</a> first
+<p>Remember to <a href="/dst/npal/s2bc5755/student/pages/npal-clearcache" rel="noopener noreferrer nofollow" target="_blank">clear your browser cache</a> first
 before accessing NPal Student.</p>
 <p><strong>3) Enable Cookies in Browser</strong>
 </p>
 <p>​You will need to enable cookies in your browser. Please click on browser
-link below for the instructions:​​&nbsp;<a href="/npal/enable-cookies/" rel="noopener noreferrer nofollow" target="_blank">Firefox | Safari (for Mac)</a>
+link below for the instructions:​​&nbsp;<a href="/dst/npal/announcement/pages/enable-cookie" rel="noopener noreferrer nofollow" target="_blank">Firefox | Safari (for Mac)</a>
 </p>

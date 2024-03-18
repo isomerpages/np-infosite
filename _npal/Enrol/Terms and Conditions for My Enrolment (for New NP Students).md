@@ -3,6 +3,7 @@ title: Terms and Conditions for My Enrolment (for New NP Students)
 permalink: /dst/npal/e2367cd2/enrol/pages/npal-enrol-termsofuse/
 variant: tiptap
 description: ""
+third_nav_title: Enrol
 ---
 <p>My Enrolment is a Ngee Ann Polytechnic website. It consists of the full
 suite of enrolment and financial services and is accessible by new NP students.</p>

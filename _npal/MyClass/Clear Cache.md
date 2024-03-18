@@ -1,8 +1,9 @@
 ---
 title: Clear Cache
-permalink: /dst/npal/s2bc5755/student/pages/npal-clearcache/
+permalink: /dst/npal/tt963q7d/myclass/pages/npal-clearcache/
 variant: tiptap
 description: ""
+third_nav_title: MyClass
 ---
 <blockquote>
 <p>You can clear your browser’s cache manually after each session by following
@@ -178,7 +179,7 @@ Clearing browsing data...</p>
 </tr>
 </tbody>
 </table>
-<h4>&nbsp; For Safari (Mac OS): &nbsp;&nbsp;</h4>
+<h4>&nbsp; For Safari (Mac OS): &nbsp;</h4>
 <table>
 <tbody>
 <tr>
@@ -194,7 +195,7 @@ Clearing browsing data...</p>
 <p>2.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click on&nbsp;Clear history...&nbsp;</p>
+<p>Click on Clear history</p>
 </td>
 </tr>
 </tbody>
