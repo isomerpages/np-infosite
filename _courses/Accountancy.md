@@ -51,8 +51,8 @@ description: ""
 <p>Graphics:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>External Graphics Card: NVIDIA® GeForce® RTX 3050 (4GB GDDR6 VRAM) and
-above for notebooks with dedicated graphics card or equivalent</p>
+<p>NVIDIA® GeForce® RTX 3050 (4GB GDDR6 VRAM) and above for notebooks with
+dedicated graphics card</p>
 </td>
 </tr>
 <tr>
