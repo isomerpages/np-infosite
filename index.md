@@ -25,9 +25,6 @@ sections:
         - title: Quick links
           description: For Students
           url: /quick-links/student/
-        - title: Email Guide
-          description: NP Connect Email
-          url: /guides/email-guide/
       button: Download Notebook e-Brochure
       url: https://staging.d2uc18hc4h2ycw.amplifyapp.com/files/NPNotebookRoadshowBrochure2024_v3.pdf
   - infopic:
