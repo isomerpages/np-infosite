@@ -88,6 +88,10 @@ Real Estate Business</p>
 Film, Sound &amp; Video</p>
 </li>
 <li>
+<p><a href="/courses/cmp" rel="noopener noreferrer nofollow" target="_blank">CMP</a> -
+Common Media Programme</p>
+</li>
+<li>
 <p><a href="/courses/mcm" rel="noopener noreferrer nofollow" target="_blank">MCM</a> -
 Mass Communication</p>
 </li>
@@ -119,10 +123,6 @@ Chinese Studies</p>
 <li>
 <p><a href="/courses/cmc" rel="noopener noreferrer nofollow" target="_blank">CMC</a> -
 Chinese Media &amp; Communications</p>
-</li>
-<li>
-<p><a href="/courses/cmp" rel="noopener noreferrer nofollow" target="_blank">CMP</a> -
-Common Media Programme</p>
 </li>
 <li>
 <p><a href="/courses/ecde" rel="noopener noreferrer nofollow" target="_blank">ECDE</a> -
