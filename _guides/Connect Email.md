@@ -9,8 +9,12 @@ description: ""
 your email daily to stay connected!</p>
 </blockquote>
 <h3>How to access Connect Email?</h3>
-<p>There are 3 ways to access, namely via the Outlook mobile app, via the
-Outlook desktop client on a computer and via a web browser.</p>
+<p>There are 2 ways to access, namely via the Outlook mobile app or via a
+web browser on a computer.</p>
+<h3>What is the email address format?</h3>
+<p>The email address will have a "s" + student ID (no alphabet behind) +
+@<a href="http://connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">connect.np.edu.sg.</a> An
+example would be <a href="s12345678@connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">s12345678@connect.np.edu.sg</a>.</p>
 <h3>1. Using your mobile app</h3>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://apps.apple.com/us/app/microsoft-outlook/id951937596" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="outlook ios" src="/images/outlook_app.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Outlook app (Apple iOS)</div><div class="isomer-card-link">I'm using an iOS device</div></div></a>
@@ -26,18 +30,7 @@ Outlook desktop client on a computer and via a web browser.</p>
 </div>
 </a>
 </div>
-<h3>What is the email address format?</h3>
-<p>The email address will have a "s" + student ID (no alphabet behind) +
-@<a href="http://connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">connect.np.edu.sg.</a> An
-example would be <a href="s12345678@connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">s12345678@connect.np.edu.sg</a>
-</p>
-<p></p>
-<h3>2. Using your notebook computer</h3>
-<p>Download the <a href="https://swd.np.edu.sg/Softwares/OfficeSetup.exe" rel="noopener noreferrer nofollow" target="_blank">Office 365 installer</a> launch
-and follow instructions on screen to complete installation. The installation
-may take up to 30 minutes if you download the full suite of Microsoft Office
-apps. Launch Outlook app and sign in using your NPNet account and password.</p>
-<h3>3. Using your web browser</h3>
+<h3>2. Using your web browser</h3>
 <p>Login to <a href="https://outlook.office365.com" rel="noopener noreferrer nofollow" target="_blank">https://outlook.office365.com </a>with
 your NPNet account and password. You should see the following screens appear
 prior to login.</p>
