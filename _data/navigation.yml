@@ -5,7 +5,7 @@ links:
   - title: Software
     collection: software
   - title: Notebook
-    url: /notebook/nbownership/
+    url: /notebook/
     sublinks:
       - title: Notebook Ownership
         url: /notebook/nbownership/
