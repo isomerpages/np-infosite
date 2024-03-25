@@ -48,7 +48,7 @@ contact details.</p>
 <p>(Mon - Fri : 9:00am to 6:00pm)</p>
 </li>
 <li>
-<p>Place order online @&nbsp;<a href="https://www2.np.edu.sg/notebook/contactus/Pages/CourseSpecificQueries.aspx" rel="noopener noreferrer nofollow" target="_blank">https://mss.challenger.sg/ihl/np</a>
+<p>Place order online @&nbsp;<a href="https://mss.challenger.sg/ihl/np" rel="noopener noreferrer nofollow" target="_blank">https://mss.challenger.sg/ihl/np</a>
 </p>
 </li>
 </ul>
@@ -70,7 +70,8 @@ contact details.</p>
 <p>(Mon - Thur : 9:00am to 5:30pm, Fri: 9:00am to 5:00pm)</p>
 </li>
 <li>
-<p>Place order online @&nbsp;<a href="https://www2.np.edu.sg/notebook/contactus/Pages/CourseSpecificQueries.aspx" rel="noopener noreferrer nofollow" target="_blank">https://www.asiapac.com.sg/lenovo-np​</a>
+<p>Place order online @&nbsp;<a href="https://www.asiapac.com.sg/lenovo-np" rel="noopener noreferrer nofollow" target="_blank">https://www.asiapac.com.sg/lenovo-np</a>
+<a href="https://www2.np.edu.sg/notebook/contactus/Pages/CourseSpecificQueries.aspx" rel="noopener noreferrer nofollow" target="_blank">​</a>
 </p>
 </li>
 </ul>
@@ -89,7 +90,7 @@ contact details.</p>
 <p>Tel: 6841 6868 (ext. 3041) (Mon - Fri : 9am to 6:30pm)</p>
 </li>
 <li>
-<p>Place order online @&nbsp;<a href="https://www2.np.edu.sg/notebook/contactus/Pages/CourseSpecificQueries.aspx" rel="noopener noreferrer nofollow" target="_blank">https://academic.com.sg/collections/np​</a>
+<p>Place order online @&nbsp;<a href="https://academic.com.sg/collections/np​" rel="noopener noreferrer nofollow" target="_blank">https://academic.com.sg/collections/np​</a>
 </p>
 </li>
 </ul>
