@@ -1,6 +1,6 @@
 ---
 title: Freshmen
-permalink: /software/year1/
+permalink: /software/
 variant: tiptap
 description: ""
 ---

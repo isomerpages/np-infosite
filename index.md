@@ -18,10 +18,10 @@ sections:
       key_highlights:
         - title: Software
           description: Freshmen, Year 2 & 3
-          url: /software/year1/
+          url: /software/
         - title: Notebook Ownership
           description: For Mobile eLearning
-          url: /notebook/nbownership
+          url: /notebook/
         - title: Quick links
           description: For Students
           url: /quick-links/student/
@@ -42,7 +42,7 @@ sections:
       description: Licensed software to NP students throughout their course of study,
         free of charge.
       button: Download
-      url: /software/year1/
+      url: /software/
       image: /images/Banner and Logo/studentswdownload.png
       alt: students using digital devices
   - infopic:

@@ -1,6 +1,6 @@
 ---
 title: Notebook Ownership For Mobile eLearning
-permalink: /notebook/nbownership/
+permalink: /notebook/
 variant: tiptap
 description: ""
 ---
