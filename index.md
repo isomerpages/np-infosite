@@ -18,10 +18,10 @@ sections:
       key_highlights:
         - title: Software
           description: Freshmen, Year 2 & 3
-          url: /software/year1/
+          url: /software/
         - title: Notebook Ownership
           description: For Mobile eLearning
-          url: /notebook/nbownership
+          url: /notebook/
         - title: Quick links
           description: For Students
           url: /quick-links/student/
