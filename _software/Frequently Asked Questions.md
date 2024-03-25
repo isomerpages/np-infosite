@@ -37,9 +37,9 @@ the instructions on this portal.</p>
 course.</p>
 <p></p>
 <h4>8. I have difficulty with software installation. Where can I get help?</h4>
-<p>You may write to <a href="mailto:itcare@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">itcare@np.edu.sg</a> for assistance. Please
-include your name, course, student ID and screenshots of the error message
-in your email.</p>
+<p>You may write to <a href="mailto:itcare@connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">itcare@connect.np.edu.sg</a> for
+assistance. Please include your name, course, student ID and screenshots
+of the error message in your email.</p>
 <p></p>
 <h4>9. How long will it take for me to download the software required for my course?</h4>
 <p>This will depend on various factors such as the speed of your Internet

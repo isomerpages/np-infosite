@@ -52,8 +52,8 @@ notebook is required.</p>
 <p>Graphics:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NVIDIA® GeForce® RTX 3050 (4GB GDDR6 VRAM) and above for notebooks with
-dedicated graphics card</p>
+<p>NVIDIA® GeForce® RTX 3050 (4GB GDDR6 VRAM) and above or equivalent, for
+notebooks with dedicated graphics card</p>
 </td>
 </tr>
 <tr>
