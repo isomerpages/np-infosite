@@ -38,7 +38,7 @@ contact details.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Email: <a href="https://www2.np.edu.sg/notebook/contactus/Pages/CourseSpecificQueries.aspx" rel="noopener noreferrer nofollow" target="_blank">edu@challenger.sg</a>
+<p>Email: <a href="mailto:edu@challenger.sg" rel="noopener noreferrer nofollow" target="_blank">edu@challenger.sg</a>
 </p>
 </li>
 <li>
@@ -60,7 +60,7 @@ contact details.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Email: <a href="https://www2.np.edu.sg/notebook/contactus/Pages/CourseSpecificQueries.aspx" rel="noopener noreferrer nofollow" target="_blank">np@nuscoop.com</a>
+<p>Email: <a href="mailto:np@nuscoop.com" rel="noopener noreferrer nofollow" target="_blank">np@nuscoop.com</a>
 </p>
 </li>
 <li>
@@ -83,7 +83,7 @@ contact details.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Email: <a href="https://www2.np.edu.sg/notebook/contactus/Pages/CourseSpecificQueries.aspx" rel="noopener noreferrer nofollow" target="_blank">sales_07@jktech.com.sg</a>
+<p>Email: <a href="mailto:sales_07@jktech.com.sg" rel="noopener noreferrer nofollow" target="_blank">sales_07@jktech.com.sg</a>
 </p>
 </li>
 <li>
