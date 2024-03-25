@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
-<p>Please check&nbsp;<a href="https://staging.d2uc18hc4h2ycw.amplifyapp.com/notebook/specs/" class="cf0" rel="noopener noreferrer nofollow" target="_blank">minimum specifications</a>&nbsp;for
-your course. For course-specific notebook related queries,&nbsp;<a href="https://staging.d2uc18hc4h2ycw.amplifyapp.com/notebook/notebook-queries" class="cf0" rel="noopener noreferrer nofollow" target="_blank">click here</a>&nbsp;for
+<p>Please check&nbsp;<a href="/notebook/specs/" class="cf0" rel="noopener noreferrer nofollow" target="_blank">minimum specifications</a>&nbsp;for
+your course. For course-specific notebook related queries,&nbsp;<a href="/notebook/notebook-queries" class="cf0" rel="noopener noreferrer nofollow" target="_blank">click here</a>&nbsp;for
 contact details.</p>
 </blockquote>
 <div class="isomer-image-wrapper">
