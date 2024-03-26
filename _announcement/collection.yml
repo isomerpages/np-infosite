@@ -2,4 +2,5 @@ collections:
   announcement:
     output: true
     order:
+      - Exam Results Release on 17 Mar.md
       - Exam Release Contingency.md
