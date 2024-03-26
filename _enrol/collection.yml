@@ -1,4 +1,5 @@
 collections:
   enrol:
     output: true
-    order: []
+    order:
+      - FAQ for My Enrolment.md
