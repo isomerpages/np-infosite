@@ -2,4 +2,5 @@ collections:
   enrol:
     output: true
     order:
+      - Contact Us for My Enrolment.md
       - FAQ for My Enrolment.md
