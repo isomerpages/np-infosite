@@ -1,0 +1,4 @@
+collections:
+  myclass:
+    output: true
+    order: []
