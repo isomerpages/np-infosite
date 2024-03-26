@@ -1,4 +1,5 @@
 collections:
   myclass:
     output: true
-    order: []
+    order:
+      - Terms and Conditions for NPal MyClass Website (for NP Lecturers).md
