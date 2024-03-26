@@ -2,7 +2,6 @@ collections:
   npal:
     output: true
     order:
-      - Announcement/Steps to Enable Cookies in Your Web Browser.md
       - Announcement/.keep
       - MyClass/Terms and Conditions for NPal MyClass Website (for NP
         Lecturers).md
