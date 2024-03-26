@@ -2,4 +2,5 @@ collections:
   admission:
     output: true
     order:
+      - Ngee Ann Polytechnic FAQ (for Public).md
       - Contact Us for NPal Student Website (for Public).md
