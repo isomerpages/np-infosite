@@ -2,7 +2,6 @@ collections:
   npal:
     output: true
     order:
-      - Student/Clear Cache.md
       - Student/.keep
       - Staff/NPal Contact Us.md
       - Staff/NPal FAQ.md
