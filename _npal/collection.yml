@@ -2,7 +2,6 @@ collections:
   npal:
     output: true
     order:
-      - Enrol/Clear Cache.md
       - Enrol/.keep
       - Admission/Contact Us for NPal Student Website (for Public).md
       - Admission/Ngee Ann Polytechnic FAQ (for Public).md
