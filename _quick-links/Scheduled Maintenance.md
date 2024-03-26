@@ -10,7 +10,7 @@ optimal condition to facilitate work. Some IT services may not be available
 during maintenance, and we apologise for any inconveniences caused.</p>
 </blockquote>
 <p>Details and reminders will be sent nearer to the date of maintenance via
-DST's mont​​hly newsletters to students and staff.</p>
+DST's mont​​hly newsletters to students.</p>
 <table>
 <tbody>
 <tr>
@@ -294,4 +294,5 @@ DST's mont​​hly newsletters to students and staff.</p>
 </tbody>
 </table>
 <hr>
-<p><strong>Note:</strong> NPal2 Services include Admissions, etc.​</p>
+<p><strong>Note:</strong> NPal2 Services include Admissions, Student Self-Service,
+etc.​</p>
