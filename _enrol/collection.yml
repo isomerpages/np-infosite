@@ -2,6 +2,7 @@ collections:
   enrol:
     output: true
     order:
+      - Clear Cache.md
       - Terms and Conditions for My Enrolment (for New NP Students).md
       - Contact Us for My Enrolment.md
       - FAQ for My Enrolment.md
