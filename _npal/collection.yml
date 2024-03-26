@@ -2,8 +2,6 @@ collections:
   npal:
     output: true
     order:
-      - Admission/Terms and Conditions for Internship Management System
-        (Public).md
       - Admission/.keep
       - Student/NPAL Student Help FAQ.md
       - Student/Terms and Conditions for NPal Student Website (for NP
