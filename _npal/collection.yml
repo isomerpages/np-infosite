@@ -2,7 +2,6 @@ collections:
   npal:
     output: true
     order:
-      - Student/.keep
       - Staff/NPal Contact Us.md
       - Staff/NPal FAQ.md
       - Staff/Terms and Conditions for NPal eServices.md
