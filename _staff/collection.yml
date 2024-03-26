@@ -2,4 +2,5 @@ collections:
   staff:
     output: true
     order:
+      - NPal FAQ.md
       - NPal Contact Us.md
