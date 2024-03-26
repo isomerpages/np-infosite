@@ -2,7 +2,6 @@ collections:
   npal:
     output: true
     order:
-      - Enrol/Contact Us for My Enrolment.md
       - Enrol/Terms and Conditions for My Enrolment (for New NP Students).md
       - Enrol/Clear Cache.md
       - Enrol/.keep
