@@ -1,0 +1,7 @@
+collections:
+  student:
+    output: true
+    order:
+      - Clear Cache.md
+      - Terms and Conditions for NPal Student Website (for NP Students).md
+      - NPAL Student Help FAQ.md
