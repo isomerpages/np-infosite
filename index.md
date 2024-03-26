@@ -26,7 +26,7 @@ sections:
           description: For Students
           url: /quick-links/student/
       button: Download Notebook e-Brochure
-      url: https://staging.d2uc18hc4h2ycw.amplifyapp.com/files/NPNotebookRoadshowBrochure2024_v3.pdf
+      url: /files/NPNotebookRoadshowBrochure2024_v3.pdf
   - infopic:
       title: Purchase notebook from our authorised suppliers to get
       id: infopic
