@@ -1,4 +1,5 @@
 collections:
   admission:
     output: true
-    order: []
+    order:
+      - Contact Us for NPal Student Website (for Public).md
