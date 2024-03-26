@@ -2,7 +2,6 @@ collections:
   npal:
     output: true
     order:
-      - Admission/Ngee Ann Polytechnic FAQ (for Public).md
       - Admission/Terms and Conditions for Internship Management System
         (Public).md
       - Admission/.keep
