@@ -1,5 +1,4 @@
 collections:
   npal:
     output: true
-    order:
-      - Staff/.keep
+    order: []
