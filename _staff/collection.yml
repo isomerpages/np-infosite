@@ -2,5 +2,6 @@ collections:
   staff:
     output: true
     order:
+      - Terms and Conditions for NPal eServices.md
       - NPal FAQ.md
       - NPal Contact Us.md
