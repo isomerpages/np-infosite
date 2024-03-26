@@ -2,5 +2,4 @@ collections:
   npal:
     output: true
     order:
-      - Staff/Clear Cache.md
       - Staff/.keep
