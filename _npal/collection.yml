@@ -2,7 +2,6 @@ collections:
   npal:
     output: true
     order:
-      - Staff/NPal FAQ.md
       - Staff/Terms and Conditions for NPal eServices.md
       - Staff/Clear Cache.md
       - Staff/.keep
