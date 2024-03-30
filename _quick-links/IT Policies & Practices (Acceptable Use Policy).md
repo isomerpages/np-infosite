@@ -4,8 +4,10 @@ permalink: /quick-links/aup/
 variant: tiptap
 description: ""
 ---
+<blockquote>
 <p><strong>This&nbsp;Acceptable Use policy (AUP)&nbsp;​is applicable to NP&nbsp;Students, vendors, industrial partners as well as members of the public. For NP&nbsp;Staff, please refer to <a href="https://npweb.np.edu.sg/np/helpdesk/Pages/AUP.aspx" rel="noopener noreferrer nofollow" target="_blank"><u>this link</u></a> (login required).</strong>
 </p>
+</blockquote>
 <p></p>
 <h4>A.&nbsp;&nbsp;&nbsp;&nbsp; PURPOSE</h4>
 <p>The Acceptable Use Policy (AUP) outlines rules and guidelines for using
