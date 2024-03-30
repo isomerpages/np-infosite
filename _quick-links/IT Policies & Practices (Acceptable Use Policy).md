@@ -177,7 +177,7 @@ of NP, staff/lecturers/tutors, students and their rights for privacy.</p>
 <h4>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; INCIDENT REPORTING</h4>
 <p>8.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Staff shall immediately
 report any verified or suspected security incidents, violations, or potential
-loopholes to the IT Security Manager at <a rel="noopener noreferrer nofollow" target="_blank">ITSecurityManager@np.edu.sg</a>.&nbsp;
+loopholes to the IT Security Manager at <a href="mailto:ITSecurityManager@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ITSecurityManager@np.edu.sg</a>.&nbsp;
 Security incidents include, but are not limited to, misuse of email, malware
 infection, ransomware, phishing, scam, loss of equipment or storage media
 and unauthorised attempts to obtain classified data or personal data.</p>
@@ -188,7 +188,7 @@ should NP in its absolute discretion decide that the security of the IT
 Resources is in any way threatened.</p>
 <p>8.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In the event of a
 malware infection, users shall immediately disconnect their infected system
-from the network and contact NP IT Helpdesk or <a rel="noopener noreferrer nofollow" target="_blank">ITSecurityManager@np.edu.sg</a> to
+from the network and contact NP IT Helpdesk or <a href="mailto:ITSecurityManager@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ITSecurityManager@np.edu.sg</a> to
 initiate appropriate follow up actions.</p>
 <p>8.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Users shall not knowingly
 connect an endpoint system infected by malware or suspected to be tampered
