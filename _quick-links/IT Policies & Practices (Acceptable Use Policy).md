@@ -150,7 +150,9 @@ email. Users shall avoid websites of unknown or disreputable origin.</p>
 for the content that they upload, post, email, transmit or otherwise make
 available via NP's IT Resources and shall ensure that intellectual property
 rights are not infringed in any way.</p>
-<h4>7.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Users shall not upload or download, send or post, enter or publish any content to the Internet that is:</h4>
+<p>7.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Users shall not upload
+or download, send or post, enter or publish any content to the Internet
+that is:</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Illegal as defined under the laws of
 the Republic of Singapore;</p>
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Against the public interest, public order,
@@ -228,4 +230,3 @@ is licensed, legally acquired and approved by NP for use.&nbsp; These include
 Freeware, Shareware and Open-Source Software.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Personal Data - This refers to data belonging
 to an individual.</p>
-<p>Freeware, Shareware and Open Source Software.</p>
