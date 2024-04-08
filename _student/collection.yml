@@ -2,6 +2,7 @@ collections:
   student:
     output: true
     order:
+      - Contact Us 2.md
       - Clear Cache.md
       - Terms and Conditions for NPal Student Website (for NP Students).md
       - NPAL Student Help FAQ.md
