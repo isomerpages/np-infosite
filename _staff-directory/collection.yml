@@ -2,7 +2,6 @@ collections:
   staff-directory:
     output: true
     order:
-      - IS/Director, Mr Lai Kok Weng, Lawrence.md
       - IS/.keep
       - LSCT/.keep
       - LSCT/Mr Subrata Chandra.md
