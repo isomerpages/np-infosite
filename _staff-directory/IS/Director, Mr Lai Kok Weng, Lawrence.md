@@ -12,9 +12,9 @@ third_nav_title: IS
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Qualifications :</strong>
+<p><strong>Qualifications :</strong> 
 <br>BA (Honours) Political Science, University of Calgary, Canada</p>
-<p><strong>Profile/Areas of Interest :</strong>
+<p><strong>Profile/Areas of Interest :</strong> 
 <br>Keenly interested in global affairs and Singapore's political development
 through history, Lawrence pursued these fields while studying in the University
 of Calgary. Upon his return, he worked with the then Ministry of Community
