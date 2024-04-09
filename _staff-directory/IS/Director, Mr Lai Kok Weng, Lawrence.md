@@ -10,6 +10,9 @@ third_nav_title: IS
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Image of Director, Mr Lai Kok Weng, Lawrence" src="/images/IS/IS_LAI_KOK_WENG_LAWRENCE_5581.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Qualifications :</strong> 
