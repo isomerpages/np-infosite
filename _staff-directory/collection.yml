@@ -2,7 +2,6 @@ collections:
   staff-directory:
     output: true
     order:
-      - Mrs Yeo Lim Sor Khim.md
       - Ms Kan Siew Mun.md
       - Mr Subrata Chandra.md
       - IS/Director, Mr Lai Kok Weng, Lawrence.md
