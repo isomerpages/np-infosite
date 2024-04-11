@@ -14,15 +14,14 @@ third_nav_title: IS
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Qualifications:</strong>
+<p><strong>Qualifications:</strong> 
 <br>MA (Southeast Asian Studies), NUS
 <br>Diploma in Education, NIE/NTU
 <br>BA Honours (English), NUS
 <br>BA (English and Sociology), NUS
 <br>
 <br><strong>Profile/Areas of Interest :&nbsp;</strong>
-</p>
-<p>Evelyn currently teaches World Issues: A Singapore Perspective to third
+<br>Evelyn currently teaches World Issues: A Singapore Perspective to third
 years and Individual and the Community to first years. Her career spans
 various industries, from education to publishing to film production. She
 taught English Literature and the General Paper and was a book editor and
@@ -35,5 +34,4 @@ learning with her students.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
