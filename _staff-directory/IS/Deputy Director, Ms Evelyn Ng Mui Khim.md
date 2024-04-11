@@ -5,16 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: IS
 ---
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Image of Deputy Director, Ms Evelyn Ng Mui Khim" src="/images/IS/IS_NG_MUI_KHIM__EVELYN_5775.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>Qualifications:</strong> 
 <br>MA (Southeast Asian Studies), NUS
 <br>Diploma in Education, NIE/NTU
@@ -31,8 +25,3 @@ TV commercial producer prior to joining the polytechnic.</p>
 Evelyn is a fervent supporter of nature, volunteers actively with the Nature
 Society (Singapore) and hopes to share her enthusiasm for life and for
 learning with her students.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
