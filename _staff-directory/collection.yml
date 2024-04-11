@@ -2,6 +2,7 @@ collections:
   staff-directory:
     output: true
     order:
+      - IS/Asst Dir, Ms Chew Sandra.md
       - IS/Deputy Director, Ms Evelyn Ng Mui Khim.md
       - IS/Deputy Director, Ms Chong Claramae.md
       - IS/Director, Mr Lai Kok Weng, Lawrence.md
