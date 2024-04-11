@@ -2,6 +2,7 @@ collections:
   staff-directory:
     output: true
     order:
+      - IS/Ms Lee Huay Ling, Lynn.md
       - IS/Ms Lau Y​u Ching.md
       - IS/Mr Lam Kah Mun, Max.md
       - IS/Mr Kuek Lee Hock, Laurence.md
