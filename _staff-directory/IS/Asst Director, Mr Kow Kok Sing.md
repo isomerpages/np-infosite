@@ -11,11 +11,11 @@ third_nav_title: IS
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image of Assistant Director, Mr Kow Kok Sing" src="/images/IS/IS_KOW_KOK_SING_8816.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="Image of Assistant Director, Mr Kow Kok Sing" src="/images/IS/IS_KOW_KOK_SING_8816.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Qualifications :</strong>
+<p><strong>Qualifications :</strong> 
 <br>BA (Hons) in Japanese Studies, National University of Singapore
 <br>BA (Merit) in English Literature and Japanese Studies, National University
 of Singapore
