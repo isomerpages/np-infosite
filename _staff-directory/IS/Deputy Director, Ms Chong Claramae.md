@@ -21,7 +21,7 @@ Assessment (ACTA); 2. Strong Interest Inventory (Career Planning Instrument);
 3. Cultural DetectiveÂ© Facilitator; 4. Cambridge Certificate in English
 Language Teaching to Speakers of Other Languages (CELTA)
 <br>
-<br><strong>Profile/Areas of Interest :&nbsp;</strong>
+<br><strong>Profile/Areas of Interest :&nbsp;</strong> 
 <br>Claramae teaches communication and cultural intelligence modules at Ngee
 Ann Polytechnicâ€™s School of Interdisciplinary Studies. She also manages
 the department's adult education in Critical Core Skills; ranging from
