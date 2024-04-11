@@ -9,9 +9,11 @@ third_nav_title: IS
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Image of Assistant Director, Ms Chew Sandra" src="/images/IS/IS_CHEW_SANDRA_8056.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Qualifications:</strong> 
