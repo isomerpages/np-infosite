@@ -2,6 +2,7 @@ collections:
   staff-directory:
     output: true
     order:
+      - IS/Ms Lupton, Irene (Senior Education Specialist).md
       - IS/Mr Loh Wai Tuck.md
       - IS/Mrs Lim Tan Kang Ling, Karen.md
       - IS/Ms Lee Huay Ling, Lynn.md
