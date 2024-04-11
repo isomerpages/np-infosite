@@ -9,6 +9,7 @@ third_nav_title: IS
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Image of Deputy Director, Ms Evelyn Ng Mui Khim" src="/images/IS/IS_NG_MUI_KHIM__EVELYN_5775.jpg">
 </div>
@@ -20,7 +21,7 @@ third_nav_title: IS
 <br>BA Honours (English), NUS
 <br>BA (English and Sociology), NUS
 <br>
-<br><strong>Profile/Areas of Interest :&nbsp;</strong>
+<br><strong>Profile/Areas of Interest :&nbsp;</strong> 
 <br>Evelyn currently teaches World Issues: A Singapore Perspective to third
 years and Individual and the Community to first years. Her career spans
 various industries, from education to publishing to film production. She
