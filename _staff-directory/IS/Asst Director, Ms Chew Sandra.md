@@ -14,11 +14,11 @@ third_nav_title: IS
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Qualifications:</strong>
+<p><strong>Qualifications:</strong> 
 <br>MBA (National University of Singapore)
 <br>B. Economics (Macquarie University, Australia)
 <br>
-<br><strong>Profile/Areas of Interest:</strong>
+<br><strong>Profile/Areas of Interest:</strong> 
 <br>Sandra joined Ngee Ann Polytechnic as an Adjunct Lecturer in 2008 after
 spending over a decade in the banking industry. During her stint with various
 foreign banks, her assignments included the promotion and coordination
