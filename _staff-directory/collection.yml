@@ -2,6 +2,7 @@ collections:
   staff-directory:
     output: true
     order:
+      - IS/Mrs Tan Beng Mei Nah Juliet.md
       - IS/Ms Tan Yam Hua Gertrude.md
       - IS/Mr Tan Jit Hong, Samuel.md
       - IS/Ms Tan Lai Wan.md
