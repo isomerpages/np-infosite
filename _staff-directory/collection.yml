@@ -2,6 +2,7 @@ collections:
   staff-directory:
     output: true
     order:
+      - IS/Mr Tan Jit Hong, Samuel.md
       - IS/Ms Tan Lai Wan.md
       - IS/Mr Ramesh Nathaneal Subramaniam.md
       - IS/Mr Phuah Wai Ann Adrian.md
