@@ -2,6 +2,7 @@ collections:
   staff-directory:
     output: true
     order:
+      - IS/Ms Thng Suat Ling, Stella.md
       - IS/Mrs Tan Beng Mei Nah Juliet.md
       - IS/Ms Tan Yam Hua Gertrude.md
       - IS/Mr Tan Jit Hong, Samuel.md
