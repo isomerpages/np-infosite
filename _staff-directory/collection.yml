@@ -2,6 +2,7 @@ collections:
   staff-directory:
     output: true
     order:
+      - IS/Ms Koh Weiting Jennifer.md
       - IS/Ms Khartini Bte Abdul Khalid.md
       - IS/Ms Hirata Yoko.md
       - IS/Mr Goh Choon Kiat, Kevin.md
