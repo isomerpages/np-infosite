@@ -5,24 +5,17 @@ variant: tiptap
 description: ""
 third_nav_title: IS
 ---
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Image of Assistant Director, Mr Kow Kok Sing" src="/images/IS/IS_KOW_KOK_SING_8816.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Image of Assistant Director, Mr Kow Kok Sing" src="/images/IS/IS_KOW_KOK_SING_8816.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>Qualifications :</strong> 
 <br>BA (Hons) in Japanese Studies, National University of Singapore
 <br>BA (Merit) in English Literature and Japanese Studies, National University
 of Singapore
 <br>
 <br><strong>Profile/Areas of Interest :</strong>
-</p>
-<p>Kok Sing has been teaching with Ngee Ann Polytechnic since 2009, when
+<br>Kok Sing has been teaching with Ngee Ann Polytechnic since 2009, when
 he ended his 13-year affair with advertising. It was a passionate relationship
 that produced numerous off-springs - advertisements and campaigns into
 which he put his heart and soul. As a copywriter, he found the romance
@@ -35,8 +28,3 @@ he speaks Japanese and a smattering of Thai. He hopes to pick up a European
 language someday.</p>
 <p>Kok Sing believes that compassion is the most important value in life
 and nothing lifts the spirit like a kind word.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
