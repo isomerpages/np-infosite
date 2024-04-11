@@ -5,16 +5,14 @@ variant: tiptap
 description: ""
 third_nav_title: IS
 ---
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Image of Deputy Director, Ms Chong Claramae" src="/images/IS/Photo_Web_Staff_Claramae_Chong.jpg">
 </div>
 <p></p>
-</td>
+<table>
+<tbody>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Qualifications:<br>Academic: </strong>National University of Singapore
 Bachelor of Arts (Economics), 2nd Class Honours (English Language)
