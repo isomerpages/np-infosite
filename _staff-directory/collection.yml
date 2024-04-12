@@ -2,6 +2,7 @@ collections:
   staff-directory:
     output: true
     order:
+      - IS/Mr Jeandin Livet Kevin.md
       - IS/Ms Eom Chan Mi Chloe.md
       - IS/Ms Tam Yee Tak, Hazel.md
       - IS/Mr Ong Su Kit.md
