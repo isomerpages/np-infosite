@@ -2,6 +2,7 @@ collections:
   staff-directory:
     output: true
     order:
+      - IS/Mr Yong Kam Seng.md
       - IS/Mr Yeo Chern Tat.md
       - IS/Mr Wong Wing Kiong​​, Keith.md
       - IS/Ms Thorarajoo Elizabeth.md
