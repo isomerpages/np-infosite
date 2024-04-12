@@ -7,29 +7,23 @@ third_nav_title: IS
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image of Ms Ooi Chen Ni Pauline" src="/images/IS/GraceNg.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Image of Ms Ooi Chen Ni Pauline" src="/images/IS/IS_OOI_CHEN_NI_PAULINE_9193.jpg">
 </div>
-<p><strong>Qualifications:</strong>
-<br>BA with Merit (National University of Singapore),
-<br>PGDE (National Institute of Education, Singapore),
-<br>​Masters in Sacred Music (Graduate Theological Foundation)
-<br>
-<br><strong>Profile/Areas of Interest :</strong>
-<br>Grace is a highly experienced educator with a demonstrated history of
-working in the teaching industry. She is trained in the teaching of English
-Language, English Literature, Music Composition, Music Performance, as
-well as being skilled in Curriculum Design and Planning.</p>
-<p>An education professional with a Bachelor of Arts (B.A.) in English Language
-and Literature/Letters from National University of Singapore and Masters
-in Sacred Music (M.S.M) from Graduate Theological Foundation of Oklahoma,
-United States, she is also skilled in Pedagogy, being the recipient of
-the MOE Teaching Scholarship and obtained a PGDE from the National Institute
-of Education (Singapore) in 2004.
-<br>​​Prior to being in Ngee Ann Polytechnic, Grace has been teaching in Anglo-Chinese
-School (Independent), Raffles Institution (Junior College) as well as at
-her alma-mater, Tanjong Katong Girls’ School.
-<br>
-</p>
-<p>Having taught in various institutions, she has a wide-ranging experience
-in her field of expertise. She also performs regularly as a pianist and
-singer and arranges music as a pastime.​</p>
+<p><strong>Qualifications :</strong>
+<br>MA (Communications), Royal Melbourne Institute of Technology University
+<br>GDMM (Marketing Management), Singapore Institute of Management
+<br>BA (English Literature and Sociology), National University of Singapore</p>
+<p><strong>Profile/Areas of Interest :</strong>
+<br>Pauline has nine years of experience in the publishing and media industry.
+She had worked as an editor for a variety of publications including tax,
+accounting, legal and business publications. She had been the publishing
+manager for Cuisine &amp; Wine Asia, an F&amp;B lifestyle magazine and
+had last been the associate publisher for The Miele Guide, Asia's first
+authoritative and independent annual guide to the region's best restaurants.&nbsp;Apart
+from having overseen and produced books, newsletters, subscription products,
+software products and magazines she had event management, marketing and
+public relations experience.</p>
+<p>Having had great experiences teaching younger children in the past, Pauline
+hopes to inspire and motivate the youths of today again and hence decided
+to enter the teaching profession. She taught&nbsp;Communication and Life
+Management Skills modules at IS.</p>
