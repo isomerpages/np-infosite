@@ -2,6 +2,7 @@ collections:
   staff-directory:
     output: true
     order:
+      - IS/Mr Ong Su Kit.md
       - IS/Ms Ooi Chen Ni Pauline.md
       - IS/Ms Ng Shu Chiu, Grace​​.md
       - IS/Ms Ng Kah Yee.md
