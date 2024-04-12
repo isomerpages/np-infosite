@@ -2,6 +2,7 @@ collections:
   staff-directory:
     output: true
     order:
+      - IS/Ms Khoo Hui En Eunice.md
       - IS/Ms Chia Genny.md
       - IS/Mr Cheung Kian Wah.md
       - IS/Mr Chen Hwei Min.md
