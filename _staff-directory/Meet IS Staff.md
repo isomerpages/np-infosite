@@ -15,8 +15,9 @@ description: ""
 <details class="isomer-details">
 <summary>Deputy Director</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Ms Chong Claramae
-<br>Ms Evelyn Ng Mui Khim</p>
+<p><a href="/deputy-director-ms-chong-claramae/" rel="noopener noreferrer nofollow" target="_blank">Ms Chong Claramae </a>
+<br><a href="/deputy-director-ms-evelyn-ng-mui-khim/" rel="noopener noreferrer nofollow" target="_blank">Ms Evelyn Ng Mui Khim</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
