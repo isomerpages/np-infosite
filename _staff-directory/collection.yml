@@ -2,6 +2,7 @@ collections:
   staff-directory:
     output: true
     order:
+      - IS/Mrs Lee Tan Meow Leng.md
       - IS/Ms Hasanah Bte Odit​.md
       - IS/Ms Ong Hui Shi, Maisie.md
       - IS/Mr Vogt Aaron.md
