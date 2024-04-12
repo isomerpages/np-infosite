@@ -23,8 +23,9 @@ description: ""
 <details class="isomer-details">
 <summary>Assistant Director</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Ms Chew Sandra
-<br>Mr Kow Kok Sing</p>
+<p><a href="/asst-dir-ms-chew-sandra/" rel="noopener noreferrer nofollow" target="_blank">Ms Chew Sandra</a> 
+<br><a href="/asst-director-mr-kow-kok-sing/" rel="noopener noreferrer nofollow" target="_blank">Mr Kow Kok Sing</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
