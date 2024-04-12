@@ -2,6 +2,7 @@ collections:
   staff-directory:
     output: true
     order:
+      - IS/Mr Lai Khar Chun Camillus.md
       - IS/Mr Hui Kah Seng.md
       - IS/Ms Khoo Hui En Eunice.md
       - IS/Ms Chia Genny.md
