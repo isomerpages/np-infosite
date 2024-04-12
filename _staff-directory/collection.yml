@@ -2,6 +2,7 @@ collections:
   staff-directory:
     output: true
     order:
+      - IS/Ms Ng Wan Chieh.md
       - IS/Mr Yeo Say Boon.md
       - IS/Mr Tan Siow Peng.md
       - IS/Ms Seto Ng Beng Kiang.md
