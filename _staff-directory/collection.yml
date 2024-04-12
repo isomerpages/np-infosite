@@ -2,72 +2,72 @@ collections:
   staff-directory:
     output: true
     order:
-      - IS/Ms Ng Wan Chieh.md
-      - IS/Mr Yeo Say Boon.md
-      - IS/Mr Tan Siow Peng.md
-      - IS/Ms Seto Ng Beng Kiang.md
-      - IS/Mr Ng Woon Liam William.md
-      - IS/Mr Mohamed Imran Muniff.md
-      - IS/Ms Maria Bte Buang.md
-      - IS/Mr Lim Chee Hei.md
-      - IS/Mrs Lee Tan Meow Leng.md
-      - IS/Ms Hasanah Bte Odit​.md
-      - IS/Ms Ong Hui Shi, Maisie.md
-      - IS/Mr Vogt Aaron.md
-      - IS/Ms Tanaka Chishiho.md
-      - IS/Mr Jeandin Livet Kevin.md
-      - IS/Ms Eom Chan Mi Chloe.md
-      - IS/Ms Tam Yee Tak, Hazel.md
-      - IS/Mr Ong Su Kit.md
-      - IS/Ms Ooi Chen Ni Pauline.md
-      - IS/Ms Ng Shu Chiu, Grace​​.md
-      - IS/Ms Ng Kah Yee.md
-      - IS/Ms MaykalaVaane Narayanan.md
-      - IS/Mr Lee Meng Hsien.md
-      - IS/Mr Lai Khar Chun Camillus.md
-      - IS/Mr Hui Kah Seng.md
-      - IS/Ms Khoo Hui En Eunice.md
-      - IS/Ms Chia Genny.md
-      - IS/Mr Cheung Kian Wah.md
-      - IS/Mr Chen Hwei Min.md
-      - IS/Mr Ang Kiam Huat Edmund.md
-      - IS/Dr Yong Sin Kee,Gabriel.md
-      - IS/Mr Young Lung Dax (​​Senior Education Specialist).md
-      - IS/Mr Yong Kam Seng.md
-      - IS/Mr Yeo Chern Tat.md
-      - IS/Mr Wong Wing Kiong​​, Keith.md
-      - IS/Ms Thorarajoo Elizabeth.md
-      - IS/Ms Thng Suat Ling, Stella.md
-      - IS/Mrs Tan Beng Mei Nah Juliet.md
-      - IS/Ms Tan Yam Hua Gertrude.md
-      - IS/Mr Tan Jit Hong, Samuel.md
-      - IS/Ms Tan Lai Wan.md
-      - IS/Mr Ramesh Nathaneal Subramaniam.md
-      - IS/Mr Phuah Wai Ann Adrian.md
-      - IS/Mr Phan Kim Huat, Peter.md
-      - IS/Dr Noorashikin Abdul Rahman.md
-      - IS/Ms Lupton, Irene (Senior Education Specialist).md
-      - IS/Mr Loh Wai Tuck.md
-      - IS/Mrs Lim Tan Kang Ling, Karen.md
-      - IS/Ms Lee Huay Ling, Lynn.md
-      - IS/Ms Lau Yu Ching.md
-      - IS/Mr Lam Kah Mun, Max.md
-      - IS/Mr Kuek Lee Hock, Laurence.md
-      - IS/Ms Koh Weiting Jennifer.md
-      - IS/Ms Khartini Bte Abdul Khalid.md
-      - IS/Ms Hirata Yoko.md
-      - IS/Mr Goh Choon Kiat, Kevin.md
-      - IS/Mr Chua Kian Lye, Thomas.md
-      - IS/Ms Chew Jie Li, Jeanette.md
-      - IS/Mr Chow Kuo Ming,Jason.md
-      - IS/Mr Chan Yoke Khiong.md
-      - IS/Mr Chan Keen Len.md
-      - IS/Asst Director, Mr Kow Kok Sing.md
-      - IS/Asst Director, Ms Chew Sandra.md
-      - IS/Deputy Director, Ms Evelyn Ng Mui Khim.md
-      - IS/Deputy Director, Ms Chong Claramae.md
-      - IS/Director, Mr Lai Kok Weng, Lawrence.md
       - IS/.keep
+      - IS/Director, Mr Lai Kok Weng, Lawrence.md
+      - IS/Deputy Director, Ms Chong Claramae.md
+      - IS/Deputy Director, Ms Evelyn Ng Mui Khim.md
+      - IS/Asst Director, Ms Chew Sandra.md
+      - IS/Asst Director, Mr Kow Kok Sing.md
+      - IS/Mr Chan Keen Len.md
+      - IS/Mr Chan Yoke Khiong.md
+      - IS/Mr Chow Kuo Ming,Jason.md
+      - IS/Ms Chew Jie Li, Jeanette.md
+      - IS/Mr Chua Kian Lye, Thomas.md
+      - IS/Mr Goh Choon Kiat, Kevin.md
+      - IS/Ms Hirata Yoko.md
+      - IS/Ms Khartini Bte Abdul Khalid.md
+      - IS/Ms Koh Weiting Jennifer.md
+      - IS/Mr Kuek Lee Hock, Laurence.md
+      - IS/Mr Lam Kah Mun, Max.md
+      - IS/Ms Lau Yu Ching.md
+      - IS/Ms Lee Huay Ling, Lynn.md
+      - IS/Mrs Lim Tan Kang Ling, Karen.md
+      - IS/Mr Loh Wai Tuck.md
+      - IS/Ms Lupton, Irene (Senior Education Specialist).md
+      - IS/Dr Noorashikin Abdul Rahman.md
+      - IS/Mr Phan Kim Huat, Peter.md
+      - IS/Mr Phuah Wai Ann Adrian.md
+      - IS/Mr Ramesh Nathaneal Subramaniam.md
+      - IS/Ms Tan Lai Wan.md
+      - IS/Mr Tan Jit Hong, Samuel.md
+      - IS/Ms Tan Yam Hua Gertrude.md
+      - IS/Mrs Tan Beng Mei Nah Juliet.md
+      - IS/Ms Thng Suat Ling, Stella.md
+      - IS/Ms Thorarajoo Elizabeth.md
+      - IS/Mr Wong Wing Kiong​​, Keith.md
+      - IS/Mr Yeo Chern Tat.md
+      - IS/Mr Yong Kam Seng.md
+      - IS/Mr Young Lung Dax (​​Senior Education Specialist).md
+      - IS/Dr Yong Sin Kee,Gabriel.md
+      - IS/Mr Ang Kiam Huat Edmund.md
+      - IS/Mr Chen Hwei Min.md
+      - IS/Mr Cheung Kian Wah.md
+      - IS/Ms Chia Genny.md
+      - IS/Ms Khoo Hui En Eunice.md
+      - IS/Mr Hui Kah Seng.md
+      - IS/Mr Lai Khar Chun Camillus.md
+      - IS/Mr Lee Meng Hsien.md
+      - IS/Ms MaykalaVaane Narayanan.md
+      - IS/Ms Ng Kah Yee.md
+      - IS/Ms Ng Shu Chiu, Grace​​.md
+      - IS/Ms Ooi Chen Ni Pauline.md
+      - IS/Mr Ong Su Kit.md
+      - IS/Ms Tam Yee Tak, Hazel.md
+      - IS/Ms Eom Chan Mi Chloe.md
+      - IS/Mr Jeandin Livet Kevin.md
+      - IS/Ms Tanaka Chishiho.md
+      - IS/Mr Vogt Aaron.md
+      - IS/Ms Ong Hui Shi, Maisie.md
+      - IS/Ms Hasanah Bte Odit​.md
+      - IS/Mrs Lee Tan Meow Leng.md
+      - IS/Mr Lim Chee Hei.md
+      - IS/Ms Maria Bte Buang.md
+      - IS/Mr Mohamed Imran Muniff.md
+      - IS/Mr Ng Woon Liam William.md
+      - IS/Ms Seto Ng Beng Kiang.md
+      - IS/Mr Tan Siow Peng.md
+      - IS/Mr Yeo Say Boon.md
+      - IS/Ms Ng Wan Chieh.md
       - LSCT/Mr Subrata Chandra.md
       - LSCT/Ms Kan Siew Mun.md
       - LSCT/Mrs Yeo Lim Sor Khim.md
