@@ -92,20 +92,34 @@ description: ""
 <details class="isomer-details">
 <summary>Lecturers</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Mr Ang Kiam Huat Edmund</p>
-<p>Mr Chen Hwei Min</p>
-<p>Mr Cheung Kian Wah</p>
-<p>Ms Chia Genny</p>
-<p>Ms Khoo Hui En Eunice</p>
-<p>Mr Hui Kah Seng</p>
-<p>Mr Lai Khar Chun Camillus</p>
-<p>Mr Lee Meng Hsien</p>
-<p>Ms MaykalaVaane Narayanan</p>
-<p>Ms Ng Kah Yee</p>
-<p>Ms Ng Shu Chiu, Grace​​</p>
-<p>Ms Ooi Chen Ni Pauline</p>
-<p>Mr Ong Su Kit</p>
-<p>Ms Tam Yee Tak, Hazel</p>
+<p><a href="/mr-ang-kiam-huat-edmund/" rel="noopener noreferrer nofollow" target="_blank">Mr Ang Kiam Huat Edmund</a>
+</p>
+<p><a href="/mr-chen-hwei-min/" rel="noopener noreferrer nofollow" target="_blank">Mr Chen Hwei Min</a>
+</p>
+<p><a href="/mr-cheung-kian-wah/" rel="noopener noreferrer nofollow" target="_blank">Mr Cheung Kian Wah</a>
+</p>
+<p><a href="/ms-chia-genny/" rel="noopener noreferrer nofollow" target="_blank">Ms Chia Genny</a>
+</p>
+<p><a href="/ms-khoo-hui-en-eunice/" rel="noopener noreferrer nofollow" target="_blank">Ms Khoo Hui En Eunice</a>
+</p>
+<p><a href="/mr-hui-kah-seng/" rel="noopener noreferrer nofollow" target="_blank">Mr Hui Kah Seng</a>
+</p>
+<p><a href="/mr-lai-khar-chun-camillus/" rel="noopener noreferrer nofollow" target="_blank">Mr Lai Khar Chun Camillus</a>
+</p>
+<p><a href="/mr-lee-meng-hsien/" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Meng Hsien</a>
+</p>
+<p><a href="/ms-maykalavaane-narayanan/" rel="noopener noreferrer nofollow" target="_blank">Ms MaykalaVaane Narayanan</a>
+</p>
+<p><a href="/ms-ng-kah-yee/" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Kah Yee</a>
+</p>
+<p><a href="/ms-ng-shu-chiu-grace/" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Shu Chiu, Grace​​</a>
+</p>
+<p><a href="/ms-ooi-chen-ni-pauline/" rel="noopener noreferrer nofollow" target="_blank">Ms Ooi Chen Ni Pauline</a>
+</p>
+<p><a href="/mr-ong-su-kit/" rel="noopener noreferrer nofollow" target="_blank">Mr Ong Su Kit</a>
+</p>
+<p><a href="/ms-tam-yee-tak-hazel/" rel="noopener noreferrer nofollow" target="_blank">Ms Tam Yee Tak, Hazel</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
