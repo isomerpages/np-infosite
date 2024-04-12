@@ -8,7 +8,8 @@ description: ""
 <details class="isomer-details">
 <summary>Director</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Mr Lai Kok Weng, Lawrence</p>
+<p><a href="/director-mr-lai-kok-weng-lawrence/" rel="noopener noreferrer nofollow" target="_blank">Mr Lai Kok Weng, Lawrence</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
