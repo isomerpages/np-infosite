@@ -2,6 +2,7 @@ collections:
   staff-directory:
     output: true
     order:
+      - IS/Mr Young Lung Dax (​​Senior Education Specialist).md
       - IS/Mr Yong Kam Seng.md
       - IS/Mr Yeo Chern Tat.md
       - IS/Mr Wong Wing Kiong​​, Keith.md
