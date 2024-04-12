@@ -2,6 +2,7 @@ collections:
   staff-directory:
     output: true
     order:
+      - IS/Mr Tan Siow Peng.md
       - IS/Ms Seto Ng Beng Kiang.md
       - IS/Mr Ng Woon Liam William.md
       - IS/Mr Mohamed Imran Muniff.md
