@@ -31,18 +31,29 @@ description: ""
 <details class="isomer-details">
 <summary>Senior Lecturers</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Mr Chan Keen Len</p>
-<p>Mr Chan Yoke Khiong</p>
-<p>Mr Chow Kuo Ming, Jason</p>
-<p>Ms Chew Jie Li, Jeanette</p>
-<p>Mr Chua Kian Lye, Thomas</p>
-<p>Mr Goh Choon Kiat, Kevin</p>
-<p>Ms Hirata Yoko</p>
-<p>Ms Khartini Bte Abdul Khalid</p>
-<p>Ms Koh Weiting Jennifer</p>
-<p>Mr Kuek Lee Hock, Laurence</p>
-<p>Mr Lam Kah Mun, Max</p>
-<p>Ms Lau Y​u Ching
+<p><a href="/mr-chan-keen-len/" rel="noopener noreferrer nofollow" target="_blank">Mr Chan Keen Len</a>
+</p>
+<p><a href="/mr-chan-yoke-khiong/" rel="noopener noreferrer nofollow" target="_blank">Mr Chan Yoke Khiong</a>
+</p>
+<p><a href="/mr-chow-kuo-ming-jason/" rel="noopener noreferrer nofollow" target="_blank">Mr Chow Kuo Ming, Jason</a>
+</p>
+<p><a href="/ms-chew-jie-li-jeanette/" rel="noopener noreferrer nofollow" target="_blank">Ms Chew Jie Li, Jeanette</a>
+</p>
+<p><a href="/mr-chua-kian-lye-thomas/" rel="noopener noreferrer nofollow" target="_blank">Mr Chua Kian Lye, Thomas</a>
+</p>
+<p><a href="/mr-goh-choon-kiat-kevin/" rel="noopener noreferrer nofollow" target="_blank">Mr Goh Choon Kiat, Kevin</a>
+</p>
+<p><a href="/ms-hirata-yoko/" rel="noopener noreferrer nofollow" target="_blank">Ms Hirata Yoko</a>
+</p>
+<p><a href="/ms-khartini-bte-abdul-khalid/" rel="noopener noreferrer nofollow" target="_blank">Ms Khartini Bte Abdul Khalid</a>
+</p>
+<p><a href="/ms-koh-weiting-jennifer/" rel="noopener noreferrer nofollow" target="_blank">Ms Koh Weiting Jennifer</a>
+</p>
+<p><a href="/mr-kuek-lee-hock-laurence/" rel="noopener noreferrer nofollow" target="_blank">Mr Kuek Lee Hock, Laurence</a>
+</p>
+<p><a href="/mr-lam-kah-mun-max/" rel="noopener noreferrer nofollow" target="_blank">Mr Lam Kah Mun, Max</a>
+</p>
+<p><a href="/ms-lau-yu-ching/" rel="noopener noreferrer nofollow" target="_blank">Ms Lau Yu Ching</a>
 <br>Ms Lee Huay Ling, Lynn
 <br>Mrs Lim-Tan Kang Ling, Karen
 <br>Mr Loh Wai Tuck
@@ -61,7 +72,8 @@ description: ""
 <p>Mr Yeo Chern Tat</p>
 <p>Mr Yong Kam Seng</p>
 <p>Mr Young Lung Dax (​​Senior Education Specialist)</p>
-<p>Dr Yong Sin Kee,Gabriel</p>
+<p><a href="/dr-yong-sin-kee-gabriel/" rel="noopener noreferrer nofollow" target="_blank">Dr Yong Sin Kee,Gabriel</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
