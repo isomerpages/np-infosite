@@ -2,6 +2,7 @@ collections:
   staff-directory:
     output: true
     order:
+      - IS/Ms MaykalaVaane Narayanan.md
       - IS/Mr Lee Meng Hsien.md
       - IS/Mr Lai Khar Chun Camillus.md
       - IS/Mr Hui Kah Seng.md
