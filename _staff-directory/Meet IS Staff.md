@@ -125,26 +125,39 @@ description: ""
 <details class="isomer-details">
 <summary>Visiting Lecturers</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Ms Eom Chan Mi Chloe</p>
-<p>Mr Jeandin-Livet Kevin</p>
-<p>Ms Tanaka Chishiho
-<br>Mr Vogt Aaron</p>
+<p><a href="/ms-eom-chan-mi-chloe/" rel="noopener noreferrer nofollow" target="_blank">Ms Eom Chan Mi Chloe</a>
+</p>
+<p><a href="/mr-jeandin-livet-kevin/" rel="noopener noreferrer nofollow" target="_blank">Mr Jeandin-Livet Kevin</a>
+</p>
+<p><a href="/ms-tanaka-chishiho/" rel="noopener noreferrer nofollow" target="_blank">Ms Tanaka Chishiho</a> 
+<br><a href="/mr-vogt-aaron/" rel="noopener noreferrer nofollow" target="_blank">Mr Vogt Aaron</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Non-Academic Staff</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Ms Ong Hui Shi, Maisie</p>
-<p>Ms Hasanah Bte Odit​</p>
-<p>Mrs Lee-Tan Meow Leng</p>
-<p>Mr Lim Chee Hei</p>
-<p>Ms Maria Bte Buang</p>
-<p>Mr Mohamed Imran Muniff</p>
-<p>Mr Ng Woon Liam William</p>
-<p>Ms Seto-Ng Beng Kiang</p>
-<p>Mr Tan Siow Peng</p>
-<p>Mr Yeo Say Boon
-<br>Ms Ng Wan Chieh</p>
+<p><a href="/ms-ong-hui-shi-maisie/" rel="noopener noreferrer nofollow" target="_blank">Ms Ong Hui Shi, Maisie</a>
+</p>
+<p><a href="/ms-hasanah-bte-odit/" rel="noopener noreferrer nofollow" target="_blank">Ms Hasanah Bte Odit​</a>
+</p>
+<p><a href="/mrs-lee-tan-meow-leng/" rel="noopener noreferrer nofollow" target="_blank">Mrs Lee-Tan Meow Leng</a>
+</p>
+<p><a href="/mr-lim-chee-hei/" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Chee Hei</a>
+</p>
+<p><a href="/ms-maria-bte-buang/" rel="noopener noreferrer nofollow" target="_blank">Ms Maria Bte Buang</a>
+</p>
+<p><a href="/mr-mohamed-imran-muniff/" rel="noopener noreferrer nofollow" target="_blank">Mr Mohamed Imran Muniff</a>
+</p>
+<p><a href="/mr-ng-woon-liam-william/" rel="noopener noreferrer nofollow" target="_blank">Mr Ng Woon Liam William</a>
+</p>
+<p><a href="/ms-seto-ng-beng-kiang/" rel="noopener noreferrer nofollow" target="_blank">Ms Seto-Ng Beng Kiang</a>
+</p>
+<p><a href="/mr-tan-siow-peng/" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Siow Peng</a>
+</p>
+<p><a href="/mr-yeo-say-boon/" rel="noopener noreferrer nofollow" target="_blank">Mr Yeo Say Boon </a>
+<br><a href="/ms-ng-wan-chieh/" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Wan Chieh</a>
+</p>
 </div>
 </details>
 </div>
