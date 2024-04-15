@@ -1,4 +1,5 @@
 collections:
   mstudent:
     output: true
-    order: []
+    order:
+      - NPAL Student Help FAQ1.md
