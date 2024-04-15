@@ -2,6 +2,7 @@ collections:
   staff-directory:
     output: true
     order:
+      - IS/Ms Lau Yu Ching 1.md
       - IS/.keep
       - IS/Director, Mr Lai Kok Weng, Lawrence.md
       - IS/Deputy Director, Ms Chong Claramae.md
