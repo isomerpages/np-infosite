@@ -2,6 +2,6 @@ collections:
   admission:
     output: true
     order:
-      - Terms and Conditions for Internship Management System (Public).md
+      - Terms and Conditions for NPal Student Website (for Public).md
       - Ngee Ann Polytechnic FAQ (for Public).md
       - Contact Us for NPal Student Website (for Public).md
