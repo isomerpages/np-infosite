@@ -21,7 +21,7 @@ description: ""
 <p>Mail:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#" rel="noopener noreferrer nofollow" target="_blank">itcare@connect.np.edu.sg</a>
+<p><a href="mailto:itcare@connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">itcare@connect.np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -88,7 +88,7 @@ mobile app:
 <ol>
 <li>
 <p>Open a browser and go to the following URL:
-<br><a href="#" rel="noopener noreferrer nofollow" target="_blank">https://www2.np.edu.sg/guides/npnet-account/</a>
+<br><a href="https://www2.np.edu.sg/guides/npnet-account" rel="noopener noreferrer nofollow" target="_blank">https://www2.np.edu.sg/guides/npnet-account/</a>
 </p>
 </li>
 <li>
@@ -154,10 +154,10 @@ tap <strong>Done</strong>
 <p>Tap on <strong>Change to English</strong> to change your iPhone's language</p>
 </li>
 </ol>
-<p>If your issue is still unresolved, please email to <a href="#" rel="noopener noreferrer nofollow" target="_blank">itcare@connect.np.edu.sg</a> with the screenshots. One from your
-mobile app and the other from Student Self-Service together with your student
-id, name and contact. We will troubleshoot and get back to you as soon
-as possible.
+<p>If your issue is still unresolved, please email to <a href="mailto:itcare@connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">itcare@connect.np.edu.sg</a> with
+the screenshots. One from your mobile app and the other from Student Self-Service
+together with your student id, name and contact. We will troubleshoot and
+get back to you as soon as possible.
 <br>
 </p>
 </td>
