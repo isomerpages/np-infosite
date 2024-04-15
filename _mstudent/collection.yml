@@ -2,4 +2,4 @@ collections:
   mstudent:
     output: true
     order:
-      - NPAL Student Help FAQ1.md
+      - mStudent FAQ.md
