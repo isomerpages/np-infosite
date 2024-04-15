@@ -46,7 +46,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Is my timetable finalized?</strong>
+<p><strong>Is my timetable finalised?</strong>
 </p>
 </td>
 </tr>
