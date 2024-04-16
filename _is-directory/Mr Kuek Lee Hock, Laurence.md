@@ -6,14 +6,14 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image of Kuek Lee Hock Laurence" src="/images/IS/IS_KUEK_LEE_HOCK__LAURENCE_3496.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Image of Kuek Lee Hock Laurence" src="/images/IS/IS_KUEK_LEE_HOCK__LAURENCE_3496.jpg">
 </div>
 <p><strong>Qualifications :<br></strong>M.A. Communications Management, University
 of South Australia
 <br>B.A. Mass Communications -magna cum laude, Harding University, USA
 <br>Diploma in Education, IE, Singapore
 <br>Certified Myers-Briggs Type Indicator (MBTI) Trainer</p>
-<p><strong>Profile/Areas of Interest :&nbsp;</strong>
+<p><strong>Profile/Areas of Interest :&nbsp;</strong> 
 <br>Before joining Ngee Ann Polytechnic, Laurence managed the Marketing Communications/Corporate
 Relations and Human Resources Department in a Multi-National Corporation.
 His managerial responsibilities included marketing communications, human
