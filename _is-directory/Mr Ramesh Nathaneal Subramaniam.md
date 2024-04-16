@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image of Mr Ramesh Nathaneal Subramaniam" src="/images/IS/IS_SUBRAMANIAM_RAMESH_NATHANEAL_0012844.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Image of Mr Ramesh Nathaneal Subramaniam" src="/images/IS/IS_SUBRAMANIAM_RAMESH_NATHANEAL_0012844.jpg">
 </div>
 <p><strong>Qualifications :<br></strong>Master&nbsp;of Business Administration,
 University of Strathclyde, UK
@@ -14,7 +14,7 @@ University of Strathclyde, UK
 <br>Diploma in Education with Credit, National Institute of Education
 <br>Advanced Certificate in Training and Assessment (ACTA), STADA
 <br>
-<br><strong>Profile/Areas of Interest :</strong>
+<br><strong>Profile/Areas of Interest :</strong> 
 <br>With a career spanning 15 years in the education sector, Ramesh has taught
 at government schools and in the private sector. He has taught English,
 Business and Communication Skills to young adults and has facilitated training
