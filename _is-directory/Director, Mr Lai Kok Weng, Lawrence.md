@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image of Director, Mr Lai Kok Weng, Lawrence" src="/images/IS/IS_LAI_KOK_WENG_LAWRENCE_5581.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Image of Director, Mr Lai Kok Weng, Lawrence" src="/images/IS/IS_LAI_KOK_WENG_LAWRENCE_5581.jpg">
 </div>
 <p><strong>Qualifications :</strong> 
 <br>BA (Honours) Political Science, University of Calgary, Canada</p>
