@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image of Ms Tam Yee Tak, Hazel" src="/images/IS/IS_TAM_YEE_TAK_0013323.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Image of Ms Tam Yee Tak, Hazel" src="/images/IS/IS_TAM_YEE_TAK_0013323.jpg">
 </div>
 <p><strong>Qualifications :<br></strong>Master of Education (English Language
 Education), The University of Hong Kong
@@ -14,7 +14,7 @@ Education), The University of Hong Kong
 <br>Bachelor of Arts (Hons) (English Language and Literature), The University
 of Hong Kong
 <br>
-<br><strong>Profile/Areas of Interest :</strong>
+<br><strong>Profile/Areas of Interest :</strong> 
 <br>Hazel served as the Department Head of Literature in English in high schools
 in Hong Kong before relocating to Singapore. Not only is she experienced
 in curriculum development and assessment, she is also professionally trained
