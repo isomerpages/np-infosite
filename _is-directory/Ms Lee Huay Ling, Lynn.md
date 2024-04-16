@@ -14,7 +14,7 @@ description: ""
 <br>
 <br><strong>Profile/Areas of Interest :<br></strong>Lynn is thrice a recipient
 of&nbsp;NP Teaching Academic&nbsp;Awards.&nbsp;She helmed the Gamification
-​launch and&nbsp;co-developed&nbsp;the&nbsp;Data Ethics/Analytics module&nbsp;&amp;
+​ launch and&nbsp;co-developed&nbsp;the&nbsp;Data Ethics/Analytics module&nbsp;&amp;
 pedagogical design of World Issues Sgp&nbsp;Perspectives.
 <br>
 <br>She completed stints in&nbsp;​Toronto Canada via Capability Development
