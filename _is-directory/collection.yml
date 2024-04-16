@@ -2,6 +2,7 @@ collections:
   is-directory:
     output: true
     order:
+      - Ms Thng Suat Ling, Stella.md
       - Ms Thorarajoo Elizabeth.md
       - Mr Wong Wing Kiong​​, Keith.md
       - Mr Yeo Chern Tat.md
