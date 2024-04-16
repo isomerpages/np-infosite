@@ -2,6 +2,7 @@ collections:
   lsct-directory:
     output: true
     order:
+      - Ms Tan Siew Peng, Sharon.md
       - Ms Kan Siew Mun.md
       - Mr Subrata Chandra.md
       - Dr Lau Quek Choon.md
