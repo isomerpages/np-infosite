@@ -2,6 +2,7 @@ collections:
   is-directory:
     output: true
     order:
+      - Ms Tan Lai Wan.md
       - Mr Tan Jit Hong, Samuel.md
       - Ms Tan Yam Hua Gertrude.md
       - Mrs Tan Beng Mei Nah Juliet.md
