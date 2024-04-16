@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - IS/.keep
-      - IS/Director, Mr Lai Kok Weng, Lawrence.md
       - IS/Deputy Director, Ms Chong Claramae.md
       - IS/Deputy Director, Ms Evelyn Ng Mui Khim.md
       - IS/Asst Director, Ms Chew Sandra.md
