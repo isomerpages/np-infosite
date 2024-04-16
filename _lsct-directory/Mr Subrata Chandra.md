@@ -29,7 +29,7 @@ description: ""
 <p>​<strong>Designation</strong>:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​Director &amp; Principal Technology Strategist​</p>
+<p>Senior Advisor</p>
 </td>
 </tr>
 <tr>
