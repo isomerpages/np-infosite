@@ -6,13 +6,13 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image of Ms Ooi Chen Ni Pauline" src="/images/IS/IS_OOI_CHEN_NI_PAULINE_9193.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Image of Ms Ooi Chen Ni Pauline" src="/images/IS/IS_OOI_CHEN_NI_PAULINE_9193.jpg">
 </div>
-<p><strong>Qualifications :</strong>
+<p><strong>Qualifications :</strong> 
 <br>MA (Communications), Royal Melbourne Institute of Technology University
 <br>GDMM (Marketing Management), Singapore Institute of Management
 <br>BA (English Literature and Sociology), National University of Singapore</p>
-<p><strong>Profile/Areas of Interest :</strong>
+<p><strong>Profile/Areas of Interest :</strong> 
 <br>Pauline has nine years of experience in the publishing and media industry.
 She had worked as an editor for a variety of publications including tax,
 accounting, legal and business publications. She had been the publishing
