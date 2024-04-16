@@ -85,7 +85,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>“<em>If you can’t explain it simply, you don’t understand it well enough.”</em>
 </p>
-<p>Please visit my LinkedIn page <strong><a href="https://sg.linkedin.com/in/quekchoon" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>
+<p>Please visit my LinkedIn page <strong><a href="https://sg.linkedin.com/in/quekchoon" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> 
 <a href="https://sg.linkedin.com/in/quekchoon" rel="noopener noreferrer nofollow" target="_blank">.</a>&nbsp;</p>
 </td>
 </tr>
