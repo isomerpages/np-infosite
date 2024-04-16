@@ -2,6 +2,7 @@ collections:
   lsct-directory:
     output: true
     order:
+      - Ms Chua Pei Shan Eva.md
       - Ms Ching Kwee Leng Christina.md
       - Ms Tan Li Hua.md
       - Ms Tan Siew Peng, Sharon.md
