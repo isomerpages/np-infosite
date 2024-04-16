@@ -9,7 +9,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="kan siew mun" src="/images/Kan_siew_mun.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Quek_Choon.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Quek_Choon.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
