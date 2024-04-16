@@ -2,6 +2,7 @@ collections:
   lsct-directory:
     output: true
     order:
+      - Ms Loh Hui Nee.md
       - Mr Mohd Modhar.md
       - Mr Karuppiah Narayanan.md
       - Ms Neo Peh See.md
