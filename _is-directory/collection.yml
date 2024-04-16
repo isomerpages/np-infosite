@@ -2,6 +2,7 @@ collections:
   is-directory:
     output: true
     order:
+      - Mrs Lee Tan Meow Leng.md
       - Mr Lim Chee Hei.md
       - Ms Maria Bte Buang.md
       - Mr Mohamed Imran Muniff.md
