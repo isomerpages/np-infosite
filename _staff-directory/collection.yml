@@ -2,8 +2,6 @@ collections:
   staff-directory:
     output: true
     order:
-      - IS/.keep
-      - IS/Ms Lau Yu Ching.md
       - LSCT/Mr Subrata Chandra.md
       - LSCT/Ms Kan Siew Mun.md
       - LSCT/Mrs Yeo Lim Sor Khim.md
