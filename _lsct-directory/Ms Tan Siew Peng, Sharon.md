@@ -9,11 +9,16 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="kan siew mun" src="/images/Kan_siew_mun.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Sharon_Tan.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Sharon_Tan.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>I've been through multiple unexpected challenges in life which in turn
+transform me into a stronger person who will strive to overcome any obstacle
+along the way.
+<br>I love making new acquaintances - to talk about anything under the sun
+and I believe we can learn new and surprising discovery/knowledge through
+chatting.</p>
 </td>
 </tr>
 <tr>
@@ -21,7 +26,7 @@ description: ""
 <p><strong>Name</strong>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​</p>
+<p>​Tan Siew Peng Sharon</p>
 </td>
 </tr>
 <tr>
@@ -29,7 +34,7 @@ description: ""
 <p>​<strong>Designation</strong>:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​</p>
+<p>​Senior Executive, Admin</p>
 </td>
 </tr>
 <tr>
@@ -64,34 +69,21 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Diploma in Information Communication Technology</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>My favourite quote:</strong>
+<p><strong>My favourite quote by Jack Ma:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Professional Expertise​:</strong>
+<p><em>“Never give up. Today is hard, Tomorrow will be worse, but the day after tomorrow will be Sunshine.”</em>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Awards &amp; Achievements​:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -100,16 +92,17 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Media Interviews:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Member of Blockchain team that worked on OpenCerts, a platform for certificates.
+OpenCerts is a blockchain-based platform that enables the issue and verification
+of digital certificates.</p>
+</li>
+<li>
+<p>​Involved in system testing and set-up phases for the successful implementation
+of an online service request system for students.</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
