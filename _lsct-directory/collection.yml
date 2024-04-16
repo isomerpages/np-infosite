@@ -2,6 +2,7 @@ collections:
   lsct-directory:
     output: true
     order:
+      - Ms Lau Yu Hua.md
       - Ms Loh Hui Nee.md
       - Mr Mohd Modhar.md
       - Mr Karuppiah Narayanan.md
