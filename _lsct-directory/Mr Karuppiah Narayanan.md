@@ -9,7 +9,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Stephanie-Wong1.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Stephanie-Wong1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Karuppiah_Narayanan.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Karuppiah_Narayanan.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -21,7 +21,7 @@ description: ""
 <p><strong>Name</strong>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​Wong Li Xing Stephanie</p>
+<p>​Thittani Karuppiah Narayanan</p>
 </td>
 </tr>
 <tr>
@@ -46,7 +46,7 @@ description: ""
 <p><strong>Tel</strong>: &nbsp;&nbsp;&nbsp; ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(65) 6460 8971</p>
+<p>(65) 6460 8506</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ description: ""
 <p><strong>Email</strong>: ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Stephanie_WONG@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Stephanie_WONG@np.edu.sg</a>
+<p><a href="mailto:Thittani_Karuppiah_NARAYANAN@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Thittani_Karuppiah_NARAYANAN@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -66,24 +66,47 @@ description: ""
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>BSc (Biomedical Science, UWA)</p>
-</li>
-<li>
-<p>Diploma in Horticulture &amp; Landscape Management​</p>
-</li>
-<li>
-<p>Specialist Diploma in Molecular Biotechnology</p>
+<p>B Engineering (EEE), Madurai Kamaraj University</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>My favourite quote by Mother Teresa:</strong>
+<p><strong>My favourite quote by Dr A. P. J. Abdul Kalam:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>“Do things for people not because of who they are or what they do in return, but because of who you are.”</em>&nbsp;&nbsp;</p>
+<p><em>“Speak 5 lines to YOURSELF every morning:</em>
+<br><em>1.&nbsp;I am the best</em>
+<br><em>2.&nbsp;I can do it</em>
+<br><em>3.&nbsp;God is always with me</em>
+<br><em>4.&nbsp;I am a winner</em>
+<br><em>5.&nbsp;Today is my day”</em>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​<strong>Professional Expertise:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hydroponics, aquaponics &amp; aquaculture techniques., greenhouse management,
+shade house &amp; vertical green maintenance, troubleshooting electrical
+network</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Awards &amp; Achievements:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>GEM award winner (2006)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -94,10 +117,16 @@ description: ""
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>​Consultancy on Horticultural Lighting Research</p>
+<p>​Consultancy on crop productivity improvement through LED supplemented
+cultivation</p>
 </li>
 <li>
-<p>Consultancy on Microclimate Farming</p>
+<p>Test-bedding of a Japanese Hydroponic Green House for producing a new
+generation of lettuce in a tropical environment</p>
+</li>
+<li>
+<p>Consultancy on the effects of Bacteria Extract (IS-10) on Yield and Growth
+of Vegetables</p>
 </li>
 </ul>
 </td>
