@@ -2,4 +2,5 @@ collections:
   lsct-directory:
     output: true
     order:
+      - Ms Kan Siew Mun.md
       - Mrs Yeo Lim Sor Khim.md
