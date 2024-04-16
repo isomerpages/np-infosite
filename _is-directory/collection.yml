@@ -2,6 +2,7 @@ collections:
   is-directory:
     output: true
     order:
+      - Ms Lee Huay Ling, Lynn.md
       - Mrs Lim Tan Kang Ling, Karen.md
       - Mr Loh Wai Tuck.md
       - Ms Lupton, Irene (Senior Education Specialist).md
