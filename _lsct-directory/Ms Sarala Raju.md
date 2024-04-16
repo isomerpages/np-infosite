@@ -9,7 +9,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Stephanie-Wong1.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Stephanie-Wong1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Sarala_Raju.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Sarala_Raju.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -21,7 +21,7 @@ description: ""
 <p><strong>Name</strong>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​Wong Li Xing Stephanie</p>
+<p>Sarala Raju</p>
 </td>
 </tr>
 <tr>
@@ -38,7 +38,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>School of Life Sciences and Chemical Technology
-<br>Blk 83, #03-01B, Singapore 599489​</p>
+<br>Blk 83, #03-04A, Singapore 599489​</p>
 </td>
 </tr>
 <tr>
@@ -46,7 +46,7 @@ description: ""
 <p><strong>Tel</strong>: &nbsp;&nbsp;&nbsp; ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(65) 6460 8971</p>
+<p>(65) 6460 7022</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ description: ""
 <p><strong>Email</strong>: ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Stephanie_WONG@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Stephanie_WONG@np.edu.sg</a>
+<p><a href="mailto:Sarala_RAJU@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Sarala_RAJU@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -66,24 +66,56 @@ description: ""
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>BSc (Biomedical Science, UWA)</p>
+<p>MSc (Plant Pathology), Tamil Nadu Agrl. University, India</p>
 </li>
 <li>
-<p>Diploma in Horticulture &amp; Landscape Management​</p>
+<p>MSc (Information Technology), Annamalai University, India​</p>
 </li>
 <li>
-<p>Specialist Diploma in Molecular Biotechnology</p>
+<p>BSc (Agriculture), Tamil Nadu Agrl. University, India</p>
+</li>
+<li>
+<p>Specialist Diploma in Molecular BioTechnology, Ngee Ann Polytechnic​</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>My favourite quote by Mother Teresa:</strong>
+<p><strong>My favourite quote by Dr. A.P.J. Abdul Kalam:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>“Do things for people not because of who they are or what they do in return, but because of who you are.”</em>&nbsp;&nbsp;</p>
+<p><em>“If you fail, never give up because F.A.I.L. means “First Attempt In Learning"</em>
+</p>
+<p><em>End is not the end, in fact E.N.D. means “Efforts Never Dies”</em>
+</p>
+<p><em>If you get No as an answer, remember N.O. means “Next Opportunity”</em>
+</p>
+<p><em>So let’s be positive.”</em>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Professional Expertise:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Molecular techniques, Plant protection, Mushroom cultivation, Lab Management,
+Webpage maintenance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Awards &amp; Achievements</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>National Eligibility Test (NET, UGC, India)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -94,10 +126,17 @@ description: ""
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>​Consultancy on Horticultural Lighting Research</p>
+<p>​Reducing the fat content of youtiao and youtiao chips and increasing
+the shelf life of product​ (Consultancy Project, member)</p>
 </li>
 <li>
-<p>Consultancy on Microclimate Farming</p>
+<p>Enhancing shelf life of fruits and vegetables using laser cleaning technology
+(18GAP004, member)</p>
+</li>
+<li>
+<p>Compatibility of nutritive/non-nutritive sweeteners with non digestible
+oligosaccharides to produce low calorie baked cereal based products (16TDIF005,
+member)</p>
 </li>
 </ul>
 </td>
