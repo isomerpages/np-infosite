@@ -1,0 +1,4 @@
+collections:
+  is-directory:
+    output: true
+    order: []
