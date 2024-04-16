@@ -6,9 +6,9 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image of Ms Lau Yu Ching" src="/images/IS/lyc7_1.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Image of Ms Lau Yu Ching" src="/images/IS/lyc7_1.jpg">
 </div>
-<p><strong>Qualifications :</strong>
+<p><strong>Qualifications :</strong> 
 <br>B.A. (Hons) in History, NUS
 <br>M.A. in History, NUS</p>
 <p><strong>Profile/Areas of Interest :<br></strong>Prior to joining Ngee
