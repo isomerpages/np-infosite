@@ -2,6 +2,7 @@ collections:
   is-directory:
     output: true
     order:
+      - Mr Young Lung Dax (​​Senior Education Specialist).md
       - Dr Yong Sin Kee,Gabriel.md
       - Mr Ang Kiam Huat Edmund.md
       - Mr Chen Hwei Min.md
