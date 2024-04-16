@@ -2,6 +2,7 @@ collections:
   is-directory:
     output: true
     order:
+      - Mr Phan Kim Huat, Peter.md
       - Mr Phuah Wai Ann Adrian.md
       - Mr Ramesh Nathaneal Subramaniam.md
       - Ms Tan Lai Wan.md
