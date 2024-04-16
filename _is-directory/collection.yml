@@ -2,6 +2,7 @@ collections:
   is-directory:
     output: true
     order:
+      - Ms Chia Genny.md
       - Ms Khoo Hui En Eunice.md
       - Mr Hui Kah Seng.md
       - Mr Lai Khar Chun Camillus.md
