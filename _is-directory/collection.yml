@@ -2,6 +2,7 @@ collections:
   is-directory:
     output: true
     order:
+      - Ms Eom Chan Mi Chloe.md
       - Mr Jeandin Livet Kevin.md
       - Ms Tanaka Chishiho.md
       - Mr Vogt Aaron.md
