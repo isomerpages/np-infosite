@@ -6,13 +6,13 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image of Dr Noorashikin Abdul Rahman" src="/images/IS/IS_NOORASHIKIN_BTE_ABDUL_RAHMAN_9099.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Image of Dr Noorashikin Abdul Rahman" src="/images/IS/IS_NOORASHIKIN_BTE_ABDUL_RAHMAN_9099.jpg">
 </div>
-<p><strong>Qualifications :</strong>
+<p><strong>Qualifications :</strong> 
 <br>BA Honours (Social Sciences), Curtin University of Technology, Western
 Australia
 <br>PhD (Social Sciences), Curtin University of Technology, Western Australia</p>
-<p><strong>Profile/Areas of Interest :</strong>
+<p><strong>Profile/Areas of Interest :</strong> 
 <br>Noor teaches Global Cities, Ethical Dilemmas and CQ@ Work. Her interest
 to develop her full potential in teaching and learning drove her to pursue
 a career at Ngee Ann Polytechnic. Noor was schooled in Perth, Western Australia
