@@ -6,14 +6,14 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image of Assistant Director, Mr Kow Kok Sing" src="/images/IS/IS_KOW_KOK_SING_8816.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Image of Assistant Director, Mr Kow Kok Sing" src="/images/IS/IS_KOW_KOK_SING_8816.jpg">
 </div>
 <p><strong>Qualifications :</strong> 
 <br>BA (Hons) in Japanese Studies, National University of Singapore
 <br>BA (Merit) in English Literature and Japanese Studies, National University
 of Singapore
 <br>
-<br><strong>Profile/Areas of Interest :</strong>
+<br><strong>Profile/Areas of Interest :</strong> 
 <br>Kok Sing has been teaching with Ngee Ann Polytechnic since 2009, when
 he ended his 13-year affair with advertising. It was a passionate relationship
 that produced numerous off-springs - advertisements and campaigns into
