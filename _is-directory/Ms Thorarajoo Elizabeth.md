@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image of Ms Thorarajoo Elizabeth" src="/images/IS/IS_THORARAJOO_ELIZABETH_MARY_5414.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Image of Ms Thorarajoo Elizabeth" src="/images/IS/IS_THORARAJOO_ELIZABETH_MARY_5414.jpg">
 </div>
 <p><strong>Qualifications :<br></strong>Master in Education, University of
 Western Australia, Perth
@@ -15,7 +15,7 @@ Western Australia, Perth
 <br>Bachelor of Arts, (English Language &amp; Literature), NUS, Singapore
 <br>Certificate in Education, National Institute of Education, Singapore</p>
 <p></p>
-<p><strong>Profile/Areas of Interest :</strong>
+<p><strong>Profile/Areas of Interest :</strong> 
 <br>Elizabeth Thorarajoo has worked in the education sector since 1987 as
 a teacher, trainer and counselor. Most of her present work is in Academic
 Quality management.&nbsp;</p>
