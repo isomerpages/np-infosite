@@ -2,6 +2,5 @@ collections:
   staff-directory:
     output: true
     order:
-      - LSCT/.keep
       - Meet IS Staff.md
       - Meet LSCT Staff.md
