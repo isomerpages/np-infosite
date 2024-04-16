@@ -13,7 +13,9 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>My entire life isn’t long enough. There’s so many knowledge, things and
+stuffs to learn and to share. My curiosity doesn’t just stop here, for
+me this is a long learning path. Keep learning a lifetime goal.</p>
 </td>
 </tr>
 <tr>
