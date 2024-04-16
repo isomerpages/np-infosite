@@ -2,6 +2,7 @@ collections:
   is-directory:
     output: true
     order:
+      - Ms Hirata Yoko.md
       - Ms Khartini Bte Abdul Khalid.md
       - Ms Koh Weiting Jennifer.md
       - Mr Kuek Lee Hock, Laurence.md
