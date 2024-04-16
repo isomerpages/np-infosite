@@ -6,9 +6,9 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image of Mr Phan Kim Huat, Peter" src="/images/IS/IS_PHAN_KIM_HUAT_8066.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Image of Mr Phan Kim Huat, Peter" src="/images/IS/IS_PHAN_KIM_HUAT_8066.jpg">
 </div>
-<p><strong>Qualifications:</strong>
+<p><strong>Qualifications:</strong> 
 <br>MSc (Human Resource Development) University of Manchester, UK
 <br>BSc Hons (Management) University of London, UK
 <br>Appointed Mediator, Community Mediation Centre, Ministry of Law</p>
@@ -18,7 +18,7 @@ Trainer
 <br>Certified Emotional Intelligence (EQ) Trainer
 <br>Certified Behavioural Analysis Consultant (DISC)
 <br>Certified Experiential Learning Trainer</p>
-<p><strong>Profile/Areas of Interest:&nbsp;</strong>
+<p><strong>Profile/Areas of Interest:&nbsp;</strong> 
 <br>Before joining Ngee Ann Polytechnic, Peter was a professional facilitator
 and trainer with more than 14 years of training and facilitation experience.&nbsp;</p>
 <p>He has conducted a diverse range of soft skill programmes in areas such
