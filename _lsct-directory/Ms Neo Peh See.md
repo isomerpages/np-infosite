@@ -9,7 +9,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Stephanie-Wong1.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Stephanie-Wong1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Peh_See.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Peh_See.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -21,7 +21,7 @@ description: ""
 <p><strong>Name</strong>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​Wong Li Xing Stephanie</p>
+<p>​Neo Peh See</p>
 </td>
 </tr>
 <tr>
@@ -38,7 +38,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>School of Life Sciences and Chemical Technology
-<br>Blk 83, #03-01B, Singapore 599489​</p>
+<br>Blk 80, #07-02, Singapore 599489​</p>
 </td>
 </tr>
 <tr>
@@ -46,7 +46,7 @@ description: ""
 <p><strong>Tel</strong>: &nbsp;&nbsp;&nbsp; ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(65) 6460 8971</p>
+<p>(65) 6460 7344</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ description: ""
 <p><strong>Email</strong>: ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Stephanie_WONG@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Stephanie_WONG@np.edu.sg</a>
+<p><a href="mailto:NEO_Peh_See@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">NEO_Peh_See@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -66,24 +66,30 @@ description: ""
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>BSc (Biomedical Science, UWA)</p>
+<p>BSc (Hon) Biomedical Engineering</p>
 </li>
 <li>
-<p>Diploma in Horticulture &amp; Landscape Management​</p>
-</li>
-<li>
-<p>Specialist Diploma in Molecular Biotechnology</p>
+<p>Diploma in Molecular Biotechnology​</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>My favourite quote by Mother Teresa:</strong>
+<p><strong>My favourite quote by Dalai Lama:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>“Do things for people not because of who they are or what they do in return, but because of who you are.”</em>&nbsp;&nbsp;</p>
+<p><em>“If you can cultivate the right attitude, your enemies are your best spiritual teachers because their presence provides you with the opportunity to tolerance, patience and understanding.”</em>&nbsp;&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Professional Expertise:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Microbiology, Molecular Biology, Mathematics, Laboratory safety and Timetable</p>
 </td>
 </tr>
 <tr>
@@ -94,10 +100,15 @@ description: ""
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>​Consultancy on Horticultural Lighting Research</p>
+<p>​Consultancy on isolation of bacteria from money and testing with antibacterial
+agents project</p>
 </li>
 <li>
-<p>Consultancy on Microclimate Farming</p>
+<p>Consultancy on isolation and testing of bacteria from household items</p>
+</li>
+<li>
+<p>Microbial Causes of Art Damage and Their Enzyme Profiles. IJSRES.2016:
+pp 0078-0085.</p>
 </li>
 </ul>
 </td>
