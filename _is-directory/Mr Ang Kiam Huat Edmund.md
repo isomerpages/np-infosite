@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image of Mr Ang Kiam Huat Edmund" src="/images/IS/IS_ANG_KIAM_HUAT_EDMUND_7310.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Image of Mr Ang Kiam Huat Edmund" src="/images/IS/IS_ANG_KIAM_HUAT_EDMUND_7310.jpg">
 </div>
 <p><strong>Qualifications:<br></strong>MA (Management and Organisational
 Learning) University of Lancaster, UK
