@@ -6,13 +6,13 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image of Mr Cheung Kian Wah" src="/images/IS/IS_CHEUNG_KIAN_WAH_3418.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Image of Mr Cheung Kian Wah" src="/images/IS/IS_CHEUNG_KIAN_WAH_3418.jpg">
 </div>
 <p><strong>Qualifications :<br></strong>BSc in Industrial and Theoretical
 Chemistry, NUS
 <br>Post -graduate diploma in teaching the higher education, NTU
 <br>
-<br><strong>Profile/Areas of Interest :</strong>
+<br><strong>Profile/Areas of Interest :</strong> 
 <br>Cheung Kian Wah graduated from NUS with BSc in Industrial and Theoretical
 Chemistry and a post -graduate diploma in teaching the higher education
 from NTU.</p>
