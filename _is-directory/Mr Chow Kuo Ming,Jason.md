@@ -6,9 +6,9 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image of Mr Chow Guo Ming, Jason" src="/images/IS/Chow_Guo_Ming_Jason.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Image of Mr Chow Guo Ming, Jason" src="/images/IS/Chow_Guo_Ming_Jason.jpg">
 </div>
-<p><strong>Qualifications:</strong>
+<p><strong>Qualifications:</strong> 
 <br>BA in English Language &amp; Linguistics, (NUS)
 <br>Adv. Dip in Employment Development (SUSS)
 <br>Adv. Dip in Mass Communications (OCU)
@@ -22,7 +22,7 @@ description: ""
 <br>Certified Scrum Master (Scrum Alliance)
 <br>CQ Certified Facilitator (Cultural Intelligence Center) ​
 <br>
-<br><strong>Profile/Areas of Interest:</strong>
+<br><strong>Profile/Areas of Interest:</strong> 
 <br>​Jason has over 15 years of media experience beginning from his teenage
 years dabbling as a turntablist, D&amp;D emcee, event producer and commercials
 voice-over. His career began during NS as a radio presenter for Power98
