@@ -2,6 +2,7 @@ collections:
   is-directory:
     output: true
     order:
+      - Ms Chew Jie Li, Jeanette.md
       - Mr Chua Kian Lye, Thomas.md
       - Mr Goh Choon Kiat, Kevin.md
       - Ms Hirata Yoko.md
