@@ -6,9 +6,9 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image of Mr Lam Kah Mun, Max" src="/images/IS/Lam_Kah_Mun_Max.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Image of Mr Lam Kah Mun, Max" src="/images/IS/Lam_Kah_Mun_Max.jpg">
 </div>
-<p><strong>Qualifications :</strong>
+<p><strong>Qualifications :</strong> 
 <br><a href="http://B.Sc" rel="noopener noreferrer nofollow" target="_blank">B.Sc</a> (Mathematics),
 NUS
 <br>Grad Dip. Systems Analysis, ISS, NUS
