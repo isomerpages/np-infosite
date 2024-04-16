@@ -2,6 +2,7 @@ collections:
   lsct-directory:
     output: true
     order:
+      - Ms Wong Li Xing Stephanie.md
       - Mr Yik Wai Kin Vincent.md
       - Ms Chua Pei Shan Eva.md
       - Ms Ching Kwee Leng Christina.md
