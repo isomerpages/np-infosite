@@ -2,6 +2,7 @@ collections:
   is-directory:
     output: true
     order:
+      - Mr Ong Su Kit.md
       - Ms Tam Yee Tak, Hazel.md
       - Ms Eom Chan Mi Chloe.md
       - Mr Jeandin Livet Kevin.md
