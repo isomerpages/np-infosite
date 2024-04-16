@@ -1,4 +1,5 @@
 collections:
   is-directory:
     output: true
-    order: []
+    order:
+      - Director, Mr Lai Kok Weng, Lawrence.md
