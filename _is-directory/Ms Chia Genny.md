@@ -6,9 +6,9 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image of Ms Chia Genny" src="/images/IS/Genny_Chia__2_.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Image of Ms Chia Genny" src="/images/IS/Genny_Chia__2_.jpg">
 </div>
-<p><strong>Qualifications:</strong>
+<p><strong>Qualifications:</strong> 
 <br>BSc Psychology, SIM/Open University, UK
 <br>Certified Image Consultant, the Association of Image Consultants International
 (AICI)
@@ -16,7 +16,7 @@ description: ""
 <br>Neuro-Linguistic Programming Master Practitioner
 <br>Advanced Certificate in Training and Assessment (ACTA)
 <br>
-<br><strong>Profile/Areas of Interest:</strong>
+<br><strong>Profile/Areas of Interest:</strong> 
 <br>Genny Chia is a certified image consultant recognized by the Association
 of Image Consultants International (AICI). She received professional image
 trainings from 3 world renowned image masters (there are currently 12 image
