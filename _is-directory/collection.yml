@@ -2,5 +2,6 @@ collections:
   is-directory:
     output: true
     order:
+      - Deputy Director, Ms Evelyn Ng Mui Khim.md
       - Deputy Director, Ms Chong Claramae.md
       - Director, Mr Lai Kok Weng, Lawrence.md
