@@ -5,13 +5,13 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image of Ms Koh Weiting Jennifer" src="/images/IS/SDAR_KOH_WEITING_JENNIFER_10859__003_.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Image of Ms Koh Weiting Jennifer" src="/images/IS/SDAR_KOH_WEITING_JENNIFER_10859__003_.jpg">
 </div>
-<p><strong>Qualifications :</strong>
+<p><strong>Qualifications :</strong> 
 <br>Postgraduate Diploma in Education, National Institute of Education. ​
 BA (Hons) English and American Literature, University of Warwick, UK
 <br>
-<br><strong>Profile/Areas of Interest :</strong>
+<br><strong>Profile/Areas of Interest :</strong> 
 <br>Jennifer teaches modules related to communications, photojournalism and
 visual sociology (film appreciation). Her previous experience includes
 teaching English and Literature, handling policy and public administration
