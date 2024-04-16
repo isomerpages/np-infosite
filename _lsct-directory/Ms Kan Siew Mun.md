@@ -29,7 +29,7 @@ description: ""
 <p>​<strong>Designation</strong>:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​Director (Designate​)</p>
+<p>​Director</p>
 </td>
 </tr>
 <tr>
