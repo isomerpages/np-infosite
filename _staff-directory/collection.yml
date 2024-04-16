@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - IS/.keep
-      - IS/Asst Director, Ms Chew Sandra.md
       - IS/Ms Lau Yu Ching.md
       - LSCT/Mr Subrata Chandra.md
       - LSCT/Ms Kan Siew Mun.md
