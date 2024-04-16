@@ -9,7 +9,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Stephanie-Wong1.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Stephanie-Wong1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Lay_Pheck.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Lay_Pheck.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -21,7 +21,7 @@ description: ""
 <p><strong>Name</strong>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​Wong Li Xing Stephanie</p>
+<p>Khoo Lay Pheck</p>
 </td>
 </tr>
 <tr>
@@ -38,7 +38,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>School of Life Sciences and Chemical Technology
-<br>Blk 83, #03-01B, Singapore 599489​</p>
+<br>Blk 83, #07-02, Singapore 599489​</p>
 </td>
 </tr>
 <tr>
@@ -46,7 +46,7 @@ description: ""
 <p><strong>Tel</strong>: &nbsp;&nbsp;&nbsp; ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(65) 6460 8971</p>
+<p>(65) 6460 8474</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ description: ""
 <p><strong>Email</strong>: ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Stephanie_WONG@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Stephanie_WONG@np.edu.sg</a>
+<p><a href="mailto:KHOO_Lay_Pheck@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">KHOO_Lay_Pheck@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -66,24 +66,28 @@ description: ""
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>BSc (Biomedical Science, UWA)</p>
-</li>
-<li>
-<p>Diploma in Horticulture &amp; Landscape Management​</p>
-</li>
-<li>
-<p>Specialist Diploma in Molecular Biotechnology</p>
+<p>Diploma in Chemical Process Technology (Medical Laboratory Technology)</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>My favourite quote by Mother Teresa:</strong>
+<p><strong>My favourite quote:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>“Do things for people not because of who they are or what they do in return, but because of who you are.”</em>&nbsp;&nbsp;</p>
+<p><em>“Life is really simple, but we insist on making it complicated.” ~ Confucius</em>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Professional Expertise:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Microbiology, Cell Culture, Plant Tissue Culture, Cell Biology, Inorganic
+Physical Chemistry</p>
 </td>
 </tr>
 <tr>
@@ -94,10 +98,11 @@ description: ""
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>​Consultancy on Horticultural Lighting Research</p>
+<p>​Microbial Causes of Art Damage and Their Enzyme Profiles IJSRES.2016:pp
+0078-0085</p>
 </li>
 <li>
-<p>Consultancy on Microclimate Farming</p>
+<p>Study of Microbiome in Patients with Cancer Fatigue</p>
 </li>
 </ul>
 </td>
