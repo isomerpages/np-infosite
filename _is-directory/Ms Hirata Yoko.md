@@ -6,12 +6,12 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image of Hirata Yoko" src="/images/IS/IS_HIRATA_YOKO_4489.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Image of Hirata Yoko" src="/images/IS/IS_HIRATA_YOKO_4489.jpg">
 </div>
-<p><strong>Qualifications :</strong>
+<p><strong>Qualifications :</strong> 
 <br>BA English Literature ( Morioka College in Japan)
 <br>
-<br><strong>Profile/Areas of Interest :</strong>
+<br><strong>Profile/Areas of Interest :</strong> 
 <br>Yoko has been with Ngee Ann Polytechnic teaching&nbsp;Japanese modules.&nbsp;She
 has extensive experience teaching Japanese as a foreign language to both
 students and adult learners.
