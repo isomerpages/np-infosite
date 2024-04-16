@@ -1,0 +1,4 @@
+collections:
+  lsct-directory:
+    output: true
+    order: []
