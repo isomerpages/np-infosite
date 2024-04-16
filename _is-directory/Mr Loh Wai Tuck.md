@@ -6,15 +6,15 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image of Mr Loh Wai Tuck" src="/images/IS/IS_LOH_WAI_TUCK_5361.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Image of Mr Loh Wai Tuck" src="/images/IS/IS_LOH_WAI_TUCK_5361.jpg">
 </div>
-<p><strong>Qualifications :</strong>
+<p><strong>Qualifications :</strong> 
 <br>MTech (Software Engineering), National University of Singapore Institute
 of Systems Science, Singapore
 <br>BEng (Hons) (Electrical Engineering), National University of Singapore
 , Singapore
 <br>
-<br><strong>Profile/Areas of Interest :</strong>
+<br><strong>Profile/Areas of Interest :</strong> 
 <br>Prior to joining Ngee Ann in 2008, Wai Tuck was working in the Information
 Technology (IT) industry in the area of Geographical Information Systems
 (GIS), Office Automation Applications, Enterprise Applications and Project
