@@ -9,7 +9,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Stephanie-Wong1.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Stephanie-Wong1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Brandan_Rodrigues.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Brandan_Rodrigues.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -21,7 +21,7 @@ description: ""
 <p><strong>Name</strong>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​Wong Li Xing Stephanie</p>
+<p>Brandan Rodrigues</p>
 </td>
 </tr>
 <tr>
@@ -38,7 +38,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>School of Life Sciences and Chemical Technology
-<br>Blk 83, #03-01B, Singapore 599489​</p>
+<br>Blk 83, #06-01A, Singapore 599489​</p>
 </td>
 </tr>
 <tr>
@@ -46,7 +46,7 @@ description: ""
 <p><strong>Tel</strong>: &nbsp;&nbsp;&nbsp; ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(65) 6460 8971</p>
+<p>(65) 6460 8183</p>
 </td>
 </tr>
 <tr>
@@ -54,52 +54,28 @@ description: ""
 <p><strong>Email</strong>: ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Stephanie_WONG@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Stephanie_WONG@np.edu.sg</a>
+<p><a href="mailto:Brandan_RODRIGUES@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Brandan_RODRIGUES@np.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Education:</strong>
+<p><strong>My favourite quote by Albert Einstein:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>BSc (Biomedical Science, UWA)</p>
-</li>
-<li>
-<p>Diploma in Horticulture &amp; Landscape Management​</p>
-</li>
-<li>
-<p>Specialist Diploma in Molecular Biotechnology</p>
-</li>
-</ul>
+<p><em>“Education is not the learning of facts,<br>&nbsp;But the training of the mind to think.”</em>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>My favourite quote by Mother Teresa:</strong>
+<p><strong>Professional Expertise​:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>“Do things for people not because of who they are or what they do in return, but because of who you are.”</em>&nbsp;&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Publications, Patents, Projects, Consultancy​:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>​Consultancy on Horticultural Lighting Research</p>
-</li>
-<li>
-<p>Consultancy on Microclimate Farming</p>
-</li>
-</ul>
+<p>Genetic and proteomic engineering, analytical instrumentation, research
+and development, laboratory safety management and procurement specialist</p>
 </td>
 </tr>
 </tbody>
