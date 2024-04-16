@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image of Mr Chan Keen Len" src="/images/IS/ChanKeenLen.png">
+<img style="width: 40%;" height="auto" width="100%" alt="Image of Mr Chan Keen Len" src="/images/IS/ChanKeenLen.png">
 </div>
 <p><strong>Qualifications :<br></strong>​MEd, University of Western Australia,
 Perth, Australia
