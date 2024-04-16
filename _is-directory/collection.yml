@@ -2,6 +2,7 @@ collections:
   is-directory:
     output: true
     order:
+      - Ms Tanaka Chishiho.md
       - Mr Vogt Aaron.md
       - Ms Ong Hui Shi, Maisie.md
       - Ms Hasanah Bte Odit​.md
