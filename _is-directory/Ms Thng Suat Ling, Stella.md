@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image of Ms Thng Suat Ling, Stella" src="/images/IS/IS_THNG_SUAT_LING__STELLA_8352.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Image of Ms Thng Suat Ling, Stella" src="/images/IS/IS_THNG_SUAT_LING__STELLA_8352.jpg">
 </div>
 <p><strong>Qualifications :<br></strong>B.A. (Communication), Monash University,
 Australia
