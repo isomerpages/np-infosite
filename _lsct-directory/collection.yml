@@ -1,4 +1,5 @@
 collections:
   lsct-directory:
     output: true
-    order: []
+    order:
+      - Mrs Yeo Lim Sor Khim.md
