@@ -2,6 +2,7 @@ collections:
   is-directory:
     output: true
     order:
+      - Mr Yeo Chern Tat.md
       - Mr Yong Kam Seng.md
       - Mr Young Lung Dax (​​Senior Education Specialist).md
       - Dr Yong Sin Kee,Gabriel.md
