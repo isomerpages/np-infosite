@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image of Ms Tanaka Chishiho" src="/images/IS/IS_TANAKA_CHISHIHO_5017.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Image of Ms Tanaka Chishiho" src="/images/IS/IS_TANAKA_CHISHIHO_5017.jpg">
 </div>
 <p><strong>Qualifications :<br></strong>BA in International Culture Studies,
 Yamaguchi Prefectural University, Japan
