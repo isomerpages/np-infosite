@@ -6,11 +6,11 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image of Mr Tan Jit Hong, Samuel" src="/images/IS/IS_TAN_JIT_HONG_7491.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Image of Mr Tan Jit Hong, Samuel" src="/images/IS/IS_TAN_JIT_HONG_7491.jpg">
 </div>
 <p><strong>Qualifications :<br></strong>B.A. (Psychology), NUS Singapore
 <br>
-<br><strong>Profile/Areas of Interest :</strong>
+<br><strong>Profile/Areas of Interest :</strong> 
 <br>Samuel&nbsp;has vast interests and experiences in the fields of Innovation
 and Psychology.During his stint at the Ministry of Defence, Samuel consulted
 senior management leaders on change management and transformation, particularly
