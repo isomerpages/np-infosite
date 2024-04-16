@@ -2,6 +2,7 @@ collections:
   is-directory:
     output: true
     order:
+      - Ms Ong Hui Shi, Maisie.md
       - Ms Hasanah Bte Odit​.md
       - Mrs Lee Tan Meow Leng.md
       - Mr Lim Chee Hei.md
