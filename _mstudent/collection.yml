@@ -1,0 +1,5 @@
+collections:
+  mstudent:
+    output: true
+    order:
+      - mStudent FAQ.md

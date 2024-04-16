@@ -1,0 +1,8 @@
+collections:
+  staff:
+    output: true
+    order:
+      - Clear Cache.md
+      - Terms and Conditions for NPal eServices.md
+      - NPal FAQ.md
+      - NPal Contact Us.md

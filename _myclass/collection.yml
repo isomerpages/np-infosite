@@ -1,0 +1,8 @@
+collections:
+  myclass:
+    output: true
+    order:
+      - Clear Cache.md
+      - Contact Us.md
+      - NPAL MyClass Help FAQ.md
+      - Terms and Conditions for NPal MyClass Website (for NP Lecturers).md

@@ -1,0 +1,8 @@
+collections:
+  software:
+    output: true
+    order:
+      - Freshmen.md
+      - Year 2 & 3.md
+      - Minimum Specifications.md
+      - Frequently Asked Questions.md

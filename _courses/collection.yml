@@ -1,0 +1,44 @@
+collections:
+  courses:
+    output: true
+    order:
+      - Accountancy.md
+      - Aerospace Engineering.md
+      - Arts Business Management.md
+      - Banking & Finance.md
+      - Biomedical Engineering.md
+      - Biomedical Science.md
+      - Business Studies.md
+      - Chemical & Biomolecular Engineering.md
+      - Chinese Media & Communication.md
+      - Chinese Studies.md
+      - Common Business Programme.md
+      - Common Engineering Programme.md
+      - Common ICT Programme.md
+      - Common Media Programme.md
+      - Common Science Programme.md
+      - Community Development.md
+      - Cybersecurity & Digital Forensics.md
+      - Data Science.md
+      - Design.md
+      - Early Childhood Development & Education.md
+      - Electrical Engineering.md
+      - Electronic & Computer Engineering.md
+      - Environmental & Water Technology.md
+      - Film, Sound & Video.md
+      - Hotel & Leisure Facilities Management.md
+      - Immersive Media.md
+      - Information Technology.md
+      - International Trade & Business.md
+      - Landscape Design & Horticulture.md
+      - Marine & Offshore Technology.md
+      - Mass Communication.md
+      - Mechanical Engineering.md
+      - Mechatronics & Robotics.md
+      - Media Post Production.md
+      - Nursing.md
+      - Optometry.md
+      - Pharmaceutical Science.md
+      - Real Estate Business.md
+      - Tamil Studies with Early Education.md
+      - Tourism & Resort Management.md
