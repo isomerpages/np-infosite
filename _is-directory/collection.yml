@@ -2,6 +2,7 @@ collections:
   is-directory:
     output: true
     order:
+      - Ms Maria Bte Buang.md
       - Mr Mohamed Imran Muniff.md
       - Mr Ng Woon Liam William.md
       - Ms Seto Ng Beng Kiang.md
