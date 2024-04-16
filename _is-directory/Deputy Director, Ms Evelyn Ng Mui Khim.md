@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image of Deputy Director, Ms Evelyn Ng Mui Khim" src="/images/IS/IS_NG_MUI_KHIM__EVELYN_5775.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Image of Deputy Director, Ms Evelyn Ng Mui Khim" src="/images/IS/IS_NG_MUI_KHIM__EVELYN_5775.jpg">
 </div>
 <p><strong>Qualifications:</strong> 
 <br>MA (Southeast Asian Studies), NUS
