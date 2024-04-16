@@ -1,6 +1,6 @@
 ---
 title: Meet IS Staff
-permalink: /staff-directory/is/
+permalink: /staffdirectory/is/
 variant: tiptap
 description: ""
 ---
