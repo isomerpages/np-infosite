@@ -2,6 +2,7 @@ collections:
   is-directory:
     output: true
     order:
+      - Mr Lee Meng Hsien.md
       - Ms MaykalaVaane Narayanan.md
       - Ms Ng Kah Yee.md
       - Ms Ng Shu Chiu, Grace​​.md
