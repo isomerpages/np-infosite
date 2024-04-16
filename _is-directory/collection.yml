@@ -2,6 +2,7 @@ collections:
   is-directory:
     output: true
     order:
+      - Mr Kuek Lee Hock, Laurence.md
       - Mr Lam Kah Mun, Max.md
       - Ms Lau Yu Ching 1.md
       - Ms Lee Huay Ling, Lynn.md
