@@ -6,11 +6,11 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image of Mr Yeo Chern Tat" src="/images/IS/IS_YEO_CHERN_TAT_8177.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Image of Mr Yeo Chern Tat" src="/images/IS/IS_YEO_CHERN_TAT_8177.jpg">
 </div>
 <p><strong>Qualifications :<br></strong>Bachelor of Arts (Communications),
 Monash University, Australia (2000)</p>
-<p><strong>Profile/Areas of Interest :</strong>
+<p><strong>Profile/Areas of Interest :</strong> 
 <br>Chern Tat's journey Includes 10 years in The Walt Disney Company, starting
 from being in On-Air Operations to becoming a Writer/ Producer for 8 years.
 He produced promos/interstitials for Disney Channels in various Asia-Pacific
