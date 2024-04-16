@@ -2,6 +2,7 @@ collections:
   is-directory:
     output: true
     order:
+      - Dr Noorashikin Abdul Rahman.md
       - Mr Phan Kim Huat, Peter.md
       - Mr Phuah Wai Ann Adrian.md
       - Mr Ramesh Nathaneal Subramaniam.md
