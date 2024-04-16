@@ -2,6 +2,7 @@ collections:
   is-directory:
     output: true
     order:
+      - Mr Lai Khar Chun Camillus.md
       - Mr Lee Meng Hsien.md
       - Ms MaykalaVaane Narayanan.md
       - Ms Ng Kah Yee.md
