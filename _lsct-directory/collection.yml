@@ -2,6 +2,7 @@ collections:
   lsct-directory:
     output: true
     order:
+      - Ms Khoo Lay Pheck ​.md
       - Ms Lau Yu Hua.md
       - Ms Loh Hui Nee.md
       - Mr Mohd Modhar.md
