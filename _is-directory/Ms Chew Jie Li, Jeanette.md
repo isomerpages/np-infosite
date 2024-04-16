@@ -6,14 +6,14 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image of Ms Chew Jie Li, Jeanette" src="/images/IS/IS_CHEW_JIE_LI__JEANETTE_8157.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Image of Ms Chew Jie Li, Jeanette" src="/images/IS/IS_CHEW_JIE_LI__JEANETTE_8157.jpg">
 </div>
-<p><strong>Qualifications:</strong>
+<p><strong>Qualifications:</strong> 
 <br>MSc (International Relations), Nanyang Technological University
 <br>Post Graduate Diploma in Education, National Institute of Education
 <br>BA (Political Science and English Language), National University of Singapore
 <br>
-<br><strong>Profile/Areas of Interest:</strong>
+<br><strong>Profile/Areas of Interest:</strong> 
 <br>Jeanette agrees with the saying, "it's a beautiful thing when a career
 and a passion come together", and is thankful that this is the case for
 her. As an educator for nearly 15 years, she has had many opportunities
