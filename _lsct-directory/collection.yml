@@ -2,6 +2,7 @@ collections:
   lsct-directory:
     output: true
     order:
+      - Mrs Clara Chee Wong ​.md
       - Mr Chew Wei Ren Joshua.md
       - Mrs Goh Koh Yin Lian.md
       - Ms Khoo Lay Pheck ​.md
