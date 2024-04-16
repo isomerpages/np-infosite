@@ -2,5 +2,6 @@ collections:
   lsct-directory:
     output: true
     order:
+      - Mr Subrata Chandra.md
       - Ms Kan Siew Mun.md
       - Mrs Yeo Lim Sor Khim.md
