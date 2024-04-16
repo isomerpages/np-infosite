@@ -6,13 +6,13 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image of Ms Khoo Hui En Eunice" src="/images/IS/KhooEunice.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Image of Ms Khoo Hui En Eunice" src="/images/IS/KhooEunice.jpg">
 </div>
-<p><strong>Qualifications :</strong>
+<p><strong>Qualifications :</strong> 
 <br>Bachelor of Arts (Education), National Institute of Education, (NTU) Nanyang
 Technological University
 <br>
-<br><strong>Profile/Areas of Interest :</strong>
+<br><strong>Profile/Areas of Interest :</strong> 
 <br>Prior to joining NP, Eunice once taught English, and quite unconventionally,
 Mathematics in a secondary school. She also enjoyed a short stint at Singapore
 Polytechnic as an Adjunct Lecturer, where she taught modules related to
