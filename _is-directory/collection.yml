@@ -2,6 +2,7 @@ collections:
   is-directory:
     output: true
     order:
+      - Mr Mohamed Imran Muniff.md
       - Mr Ng Woon Liam William.md
       - Ms Seto Ng Beng Kiang.md
       - Mr Tan Siow Peng.md
