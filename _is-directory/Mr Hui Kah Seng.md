@@ -6,12 +6,12 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image of Mr Hui Kah Seng" src="/images/IS/IS_HUI_KAH_SENG_0011633.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Image of Mr Hui Kah Seng" src="/images/IS/IS_HUI_KAH_SENG_0011633.jpg">
 </div>
-<p><strong>Qualifications :</strong>
+<p><strong>Qualifications :</strong> 
 <br>BSc in Mathematical Sciences (Statistics), NTU
 <br>
-<br><strong>Profile/Areas of Interest :</strong>
+<br><strong>Profile/Areas of Interest :</strong> 
 <br>Kah Seng graduated from NTU with a Bachelor of Science in Mathematical
 Sciences, majoring in Statistics and a minor in Business. Prior to joining
 Ngee Ann, he was a Planning Officer with PUB, the National Water Agency.
