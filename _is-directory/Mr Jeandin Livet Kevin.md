@@ -6,12 +6,12 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image of Mr Jeandin-Livet Kevin" src="/images/IS/IS_JEANDIN_LIVET_KEVIN_10129.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Image of Mr Jeandin-Livet Kevin" src="/images/IS/IS_JEANDIN_LIVET_KEVIN_10129.jpg">
 </div>
-<p><strong>Qualifications :</strong>
+<p><strong>Qualifications :</strong> 
 <br>BA (Honours)&nbsp;-&nbsp;French Language Studies, UniversitÃ© Lyon III-France</p>
 <p>&nbsp;</p>
-<p><strong>Profile/Areas of Interest :</strong>
+<p><strong>Profile/Areas of Interest :</strong> 
 <br>Born in the South of Burgundy, in the heart of a luscious wine region,
 Kevin settled in the "Land of the Long White Cloud" (Aotearoa in Maori)
 after having obtained a Master's Degree at the University of Lyon III-Jean
