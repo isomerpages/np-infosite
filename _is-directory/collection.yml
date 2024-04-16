@@ -2,6 +2,7 @@ collections:
   is-directory:
     output: true
     order:
+      - Ms Ng Kah Yee.md
       - Ms Ng Shu Chiu, Grace​​.md
       - Ms Ooi Chen Ni Pauline.md
       - Mr Ong Su Kit.md
