@@ -2,6 +2,7 @@ collections:
   lsct-directory:
     output: true
     order:
+      - Mr Eric Tan.md
       - Mr Brandan Rodrigues.md
       - Mrs Clara Chee Wong ​.md
       - Mr Chew Wei Ren Joshua.md
