@@ -2,6 +2,7 @@ collections:
   is-directory:
     output: true
     order:
+      - Mr Ramesh Nathaneal Subramaniam.md
       - Ms Tan Lai Wan.md
       - Mr Tan Jit Hong, Samuel.md
       - Ms Tan Yam Hua Gertrude.md
