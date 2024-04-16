@@ -6,14 +6,14 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image of Mr Chua Kian Lye, Thomas" src="/images/IS/IS_CHUA_KIAN_LYE__THOMAS_1167.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Image of Mr Chua Kian Lye, Thomas" src="/images/IS/IS_CHUA_KIAN_LYE__THOMAS_1167.jpg">
 </div>
-<p><strong>Qualifications :</strong>
+<p><strong>Qualifications :</strong> 
 <br>MSC (Information Studies) Nanyang Technological University
 <br>Master of Accountancy (Aust) Charles Sturt University
 <br>MSC (Industrial Engineering) National University of Singapore
 <br>B Eng (Mechanical) National University of Singapore</p>
-<p><strong>Profile/Areas of Interest :&nbsp;</strong>
+<p><strong>Profile/Areas of Interest :&nbsp;</strong> 
 <br>Chua Kian Lye, Thomas joined Ngee Ann in 1987 after spending more than
 9 years in the manufacturing sector. He had undertaken consultancy projects
 in industrial and operations management and had helped many manufacturing
