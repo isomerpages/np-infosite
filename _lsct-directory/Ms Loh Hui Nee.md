@@ -9,7 +9,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Stephanie-Wong1.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Stephanie-Wong1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Hui_Nee.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Hui_Nee.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -21,7 +21,7 @@ description: ""
 <p><strong>Name</strong>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​Wong Li Xing Stephanie</p>
+<p>​​Loh Hui Nee</p>
 </td>
 </tr>
 <tr>
@@ -38,7 +38,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>School of Life Sciences and Chemical Technology
-<br>Blk 83, #03-01B, Singapore 599489​</p>
+<br>Blk 80, #08-03A, Singapore 599489​</p>
 </td>
 </tr>
 <tr>
@@ -46,7 +46,7 @@ description: ""
 <p><strong>Tel</strong>: &nbsp;&nbsp;&nbsp; ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(65) 6460 8971</p>
+<p>(65) 6460 6269</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ description: ""
 <p><strong>Email</strong>: ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Stephanie_WONG@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Stephanie_WONG@np.edu.sg</a>
+<p><a href="mailto:LOH_Hui_Nee@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">LOH_Hui_Nee@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -69,37 +69,28 @@ description: ""
 <p>BSc (Biomedical Science, UWA)</p>
 </li>
 <li>
-<p>Diploma in Horticulture &amp; Landscape Management​</p>
-</li>
-<li>
-<p>Specialist Diploma in Molecular Biotechnology</p>
+<p>Diploma in Biomedical Science​</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>My favourite quote by Mother Teresa:</strong>
+<p><strong>My favourite quote by Matt Cameron:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>“Do things for people not because of who they are or what they do in return, but because of who you are.”</em>&nbsp;&nbsp;</p>
+<p><em>“Live life to the fullest, and focus on the positive.”</em>&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Publications, Patents, Projects, Consultancy​:</strong>
+<p><strong>Professional Expertise​:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>​Consultancy on Horticultural Lighting Research</p>
-</li>
-<li>
-<p>Consultancy on Microclimate Farming</p>
-</li>
-</ul>
+<p>Animal Husbandry, Immunohistochemistry, Immunology, Lab management, Student
+development</p>
 </td>
 </tr>
 </tbody>
