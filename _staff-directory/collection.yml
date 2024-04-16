@@ -2,7 +2,6 @@ collections:
   staff-directory:
     output: true
     order:
-      - LSCT/Mr Subrata Chandra.md
       - LSCT/.keep
       - Meet IS Staff.md
       - Meet LSCT Staff.md
