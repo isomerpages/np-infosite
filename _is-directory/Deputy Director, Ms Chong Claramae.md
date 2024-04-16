@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="Image of Deputy Director, Ms Chong Claramae" src="/images/IS/Photo_Web_Staff_Claramae_Chong.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Image of Deputy Director, Ms Chong Claramae" src="/images/IS/Photo_Web_Staff_Claramae_Chong.jpg">
 </div>
 <p></p>
 <table>
