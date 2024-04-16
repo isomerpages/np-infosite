@@ -6,9 +6,9 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image of Ms Lynn Lee Huay Ling" src="/images/IS/IMG_9559__LYNN_LEE_HUAY_LING_400_UseThis.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Image of Ms Lynn Lee Huay Ling" src="/images/IS/IMG_9559__LYNN_LEE_HUAY_LING_400_UseThis.jpg">
 </div>
-<p><strong>Qualifications :</strong>
+<p><strong>Qualifications :</strong> 
 <br>Master of Science (Electronic Business), NUS.
 <br>B.Communication Hons (Electronic &amp; Broadcast Media), NTU.
 <br>
