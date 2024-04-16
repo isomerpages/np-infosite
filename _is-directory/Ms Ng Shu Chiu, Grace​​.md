@@ -6,14 +6,14 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image of Ms Ng Shu Chiu, Grace​​" src="/images/IS/GraceNg.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Image of Ms Ng Shu Chiu, Grace​​" src="/images/IS/GraceNg.jpg">
 </div>
-<p><strong>Qualifications:</strong>
+<p><strong>Qualifications:</strong> 
 <br>BA with Merit (National University of Singapore),
 <br>PGDE (National Institute of Education, Singapore),
 <br>​Masters in Sacred Music (Graduate Theological Foundation)
 <br>
-<br><strong>Profile/Areas of Interest :</strong>
+<br><strong>Profile/Areas of Interest :</strong> 
 <br>Grace is a highly experienced educator with a demonstrated history of
 working in the teaching industry. She is trained in the teaching of English
 Language, English Literature, Music Composition, Music Performance, as
