@@ -2,6 +2,7 @@ collections:
   lsct-directory:
     output: true
     order:
+      - Ms Chuah Hooi Huang.md
       - Mr Eric Tan.md
       - Mr Brandan Rodrigues.md
       - Mrs Clara Chee Wong ​.md
