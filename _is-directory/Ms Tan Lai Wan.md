@@ -6,12 +6,12 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image of Ms Tan Lai Wan" src="/images/IS/IS_TAN_LAI_WAN_2634.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Image of Ms Tan Lai Wan" src="/images/IS/IS_TAN_LAI_WAN_2634.jpg">
 </div>
 <p><strong>Qualifications :<br></strong>BBA (National University of Singapore)
 <br>Master of Marketing (Melbourne Business School, University of Melbourne)
 <br>
-<br><strong>Profile/Areas of Interest :</strong>
+<br><strong>Profile/Areas of Interest :</strong> 
 <br>Prior to joining School of IS, Lai Wan headed the Marketing Section in
 the School of BA, overseeing and developing marketing related curriculum
 and programmes. Working closely with industry partners, she established
