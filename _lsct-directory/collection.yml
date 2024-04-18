@@ -2,6 +2,7 @@ collections:
   lsct-directory:
     output: true
     order:
+      - Mr Saiful Anuar.md
       - Mr Soh Eng Lam.md
       - Dr Song ShiWei.md
       - Ms Surinam Sumsudin.md
