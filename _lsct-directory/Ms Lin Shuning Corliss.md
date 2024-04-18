@@ -9,7 +9,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="kan siew mun" src="/images/Kan_siew_mun.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Corliss_Lin.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Corliss_Lin.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -21,7 +21,7 @@ description: ""
 <p><strong>Name</strong>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​Kan Siew Mun</p>
+<p>​Corliss Lin</p>
 </td>
 </tr>
 <tr>
@@ -29,7 +29,7 @@ description: ""
 <p>​<strong>Designation</strong>:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​Director</p>
+<p>​Course Chair (Chemical and Biomolecu​lar Engineering)</p>
 </td>
 </tr>
 <tr>
@@ -46,7 +46,7 @@ description: ""
 <p><strong>Tel</strong>: &nbsp;&nbsp;&nbsp; ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(65) 6460 8668</p>
+<p>(65) 6460 8468</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ description: ""
 <p><strong>Email</strong>: ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:KAN_Siew_Mun@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">KAN_Siew_Mun@np.edu.sg</a>
+<p><a href="mailto:Corliss_LIN@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Corliss_LIN@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -66,28 +66,29 @@ description: ""
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>MA (Comm Mgt, UniSA)</p>
+<p>MSc (Env Engr, NUS)</p>
 </li>
 <li>
-<p>BSc (Hons) Botany, NUS)</p>
+<p>BEng (Chem Engr, NUS)</p>
 </li>
 <li>
-<p>​ACTA (IAL)</p>
+<p>​Diploma with merit (Chem Engr, SP)</p>
 </li>
 <li>
-<p>Green Mark for Parks Assessor (NParks, BCA)</p>
+<p>The Institution of Engineers Singapore (Member)</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>My favourite quote by Mahatma Gandhi:</strong>
+<p><strong>My favourite quote by J. R. Kokandakar:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>“Man often becomes what he believes himself to be. If I keep on saying to myself that I cannot do a certain thing, it is possible that I may end by really becoming incapable of doing it. On the contrary, if I have the belief that I can do it, I shall surely acquire the capacity to do it even if I may not have it at the beginning.”</em>
+<p><em>“You cannot win all the time. To work hard is your job. Success or failure is not in your hands. Victory lies not in realization of the goal, but in a relentless pursuit after it. It’s always well to remember that success is a ladder, not an escalator. Success is the acknowledgement of the efforts done.”</em>
 </p>
+<p>&nbsp;Check out my <a href="https://sg.linkedin.com/in/corliss-lin" rel="noopener noreferrer nofollow" target="_blank">LinkedIn page</a>.</p>
 </td>
 </tr>
 <tr>
@@ -96,8 +97,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Horticulture management, parks management, trainer for landscape courses,
-green mark for parks, plant identification​</p>
+<p>Project management, environmental technology, membrane technology​</p>
 </td>
 </tr>
 <tr>
@@ -108,13 +108,13 @@ green mark for parks, plant identification​</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>​NP Staff Excellence Award - Community Service and Engagement (2016)</p>
+<p>​Staff Excellence Award 2018 (Student development)</p>
 </li>
 <li>
-<p>Excellent Service Award (Gold) 2013</p>
+<p>Staff Teaching Award 2018</p>
 </li>
 <li>
-<p>​​School Teaching Award 2012/2013</p>
+<p>​​Young Engineers Leadership Programme (2015)</p>
 </li>
 </ul>
 </td>
@@ -127,46 +127,24 @@ green mark for parks, plant identification​</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Kan, S.M. 2016 - “Experiential Learning - Strategic Partnerships with
-the Landscape Industry”, Shaping the Future of The Landscape Industry in
-Singapore Seminar, organised by Syngenta Asia Pacific Pte Ltd. and Ngee
-Ann Polytechnic, 7 Apr 2016.</p>
+<p>MOE TIF project: Multi-bore hollow fiber membrane contactor system for
+deoxygenation</p>
 </li>
 <li>
-<p>Kan, S.M. 2015 - “Delivering Experiential Learning through Collaboration
-with Industries in the Landscape Design &amp; Horticulture Sectors”, Technical
-and Vocational Education and Training (TVET) Conference, Singapore, 4 November
-2015.</p>
+<p>NRF project: Robust ceramic TFC membranes for high-efficiency alcohol
+solvent dehydration via pervaporation.</p>
 </li>
 <li>
-<p>Chow, K.K., Saiful, A., Kan, S.M., Kueh, J., Rajam, C.T., Rekha, S.P.
-and Thittani, K.N., “Study on local sustainable plant species for sky-rise
-greenery in the tropical climate”, 2008 - 2010.</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Media Interviews:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>One of the panelist in media interview on “Suitable plant species and
-their benefits for indoor gardening”. Good Morning Singapore, Channel 8,
-1 Aug 2014.</p>
+<p>An integrity sensor for assessing the performance of low pressure membrane
+modules in the water industry. Desalination. 2011: 283, 117-122.</p>
 </li>
 <li>
-<p>“Ngee Ann Give Back Day- Bailout 2016, encouraging NP staff and students
-on pledging to do community service work”. Interview by Lian He Zao Bao
-and Capital 95.8FM, 30 May 2016. (as Chairperson for NP’s Community Service
-Committee from Jun 2014 to May 2016)</p>
+<p>Online detection of compromised hollow fiber modules using membrane integrity
+sensor AIChE 2011</p>
 </li>
 <li>
-<p>Landscape industry in Singapore evolving. Channel News Asia, Singapore
-Tonight. 10 Jun 2016</p>
+<p>Comprehensive integrity verification system for low pressure membrane
+systems AIChE 2012</p>
 </li>
 </ul>
 </td>
