@@ -2,6 +2,7 @@ collections:
   lsct-directory:
     output: true
     order:
+      - Dr Song ShiWei.md
       - Ms Surinam Sumsudin.md
       - Dr Su Jincai.md
       - Ms Sumita Achuthan.md
