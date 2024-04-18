@@ -8,9 +8,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="kan siew mun" src="/images/Kan_siew_mun.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
