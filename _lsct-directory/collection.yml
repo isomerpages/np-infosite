@@ -2,6 +2,7 @@ collections:
   lsct-directory:
     output: true
     order:
+      - Ms Mariam Mathew.md
       - Mr Mirko Stoll.md
       - Dr Teoh Kim Tat.md
       - Mr Wong Yew Loong, Andy.md
