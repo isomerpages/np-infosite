@@ -2,6 +2,7 @@ collections:
   lsct-directory:
     output: true
     order:
+      - Mr Chow Kheong Keat Gregory.md
       - Dr Geng Anti.md
       - Mr Goh She Poh.md
       - Mr Hamdan B Abdul Hamid.md
