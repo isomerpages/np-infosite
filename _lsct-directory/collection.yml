@@ -2,6 +2,7 @@ collections:
   lsct-directory:
     output: true
     order:
+      - Dr Ong Hon Eddie.md
       - Ms Preety Mukherjee.md
       - Mr Saiful Anuar.md
       - Mr Soh Eng Lam.md
