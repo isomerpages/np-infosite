@@ -8,7 +8,9 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; margin: 5px;" height="auto" width="100%" alt="Joon_Lin.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Joon_Lin.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -19,7 +21,7 @@ description: ""
 <p><strong>Name</strong>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​Kan Siew Mun</p>
+<p>​Chew Joon Lin</p>
 </td>
 </tr>
 <tr>
@@ -27,7 +29,9 @@ description: ""
 <p>​<strong>Designation</strong>:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​Director</p>
+<p>​Senior Manager (Internships and Overseas Programmes)
+<br>​Senior Lecturer
+<br>​Chairperson - Biosafety Committee</p>
 </td>
 </tr>
 <tr>
@@ -36,7 +40,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>School of Life Sciences and Chemical Technology
-<br>Blk 83, #04-00, Singapore 599489​</p>
+<br>Blk 83, #06-00, Singapore 599489​</p>
 </td>
 </tr>
 <tr>
@@ -44,7 +48,7 @@ description: ""
 <p><strong>Tel</strong>: &nbsp;&nbsp;&nbsp; ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(65) 6460 8668</p>
+<p>(65) 6460 8928</p>
 </td>
 </tr>
 <tr>
@@ -52,7 +56,7 @@ description: ""
 <p><strong>Email</strong>: ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:KAN_Siew_Mun@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">KAN_Siew_Mun@np.edu.sg</a>
+<p><a href="mailto:CHEW_Joon_Lin@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">CHEW_Joon_Lin@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -64,28 +68,41 @@ description: ""
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>MA (Comm Mgt, UniSA)</p>
+<p>PhD (A* STAR &amp; Biological Sciences, NUS)</p>
 </li>
 <li>
-<p>BSc (Hons) Botany, NUS)</p>
+<p>MSc (Paediatrics, NUS)</p>
 </li>
 <li>
 <p>​ACTA (IAL)</p>
 </li>
 <li>
-<p>Green Mark for Parks Assessor (NParks, BCA)</p>
+<p>SD WSH (SP)</p>
+</li>
+<li>
+<p>GC WSH (SP)</p>
+</li>
+<li>
+<p>OHSAS 18001 Lead Auditor Certificate</p>
+</li>
+<li>
+<p>Registered Safety Officer (MOM)</p>
+</li>
+<li>
+<p>ISTR Biosafety Practitioner (Public Health England, UK)</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>My favourite quote by Mahatma Gandhi:</strong>
+<p><strong>My favourite quote by Jane Goodall:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>“Man often becomes what he believes himself to be. If I keep on saying to myself that I cannot do a certain thing, it is possible that I may end by really becoming incapable of doing it. On the contrary, if I have the belief that I can do it, I shall surely acquire the capacity to do it even if I may not have it at the beginning.”</em>
+<p><em>“You cannot get through a single day without having an impact on the world around you. What you do makes a difference, and you have to decide what kind of difference you want to make.”</em>
 </p>
+<p>Check out my LinkedIn page<strong><a href="https://sg.linkedin.com/in/joon-lin-chew-0262516" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
 </td>
 </tr>
 <tr>
@@ -94,8 +111,8 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Horticulture management, parks management, trainer for landscape courses,
-green mark for parks, plant identification​</p>
+<p>Life-long learning, workplace safety and health training, youth counselling,
+biomedical sciences, biotechnology</p>
 </td>
 </tr>
 <tr>
@@ -106,13 +123,8 @@ green mark for parks, plant identification​</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>​NP Staff Excellence Award - Community Service and Engagement (2016)</p>
-</li>
-<li>
-<p>Excellent Service Award (Gold) 2013</p>
-</li>
-<li>
-<p>​​School Teaching Award 2012/2013</p>
+<p>​Singapore Millennium Foundation (SMF) Research Fellowship, Temasek Holdings,
+2007-2010</p>
 </li>
 </ul>
 </td>
@@ -125,46 +137,22 @@ green mark for parks, plant identification​</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Kan, S.M. 2016 - “Experiential Learning - Strategic Partnerships with
-the Landscape Industry”, Shaping the Future of The Landscape Industry in
-Singapore Seminar, organised by Syngenta Asia Pacific Pte Ltd. and Ngee
-Ann Polytechnic, 7 Apr 2016.</p>
+<p>Bourque G, Leong B, Vega VB, Chen X, Srinivasan KG, Chew JL, Ruan Y, Wei
+CL, Ng HH, Liu ET. 2008. Evolution of the mammalian transcription factor
+binding repertoire via transposable elements. Genome Research 18(11):1752-62.</p>
 </li>
 <li>
-<p>Kan, S.M. 2015 - “Delivering Experiential Learning through Collaboration
-with Industries in the Landscape Design &amp; Horticulture Sectors”, Technical
-and Vocational Education and Training (TVET) Conference, Singapore, 4 November
-2015.</p>
+<p>Zhao XD*, Han X*, Chew JL, Liu J, Chiu KP, Choo A, Orlov YL, Sung WK,
+Shahab A, Kuznetsov VA, Bourque G, Oh S, Ruan Y, Ng HH, Wei CL. 2007. Whole-genome
+mapping of histone H3 Lys4 and 27 trimethylations reveals distinct genomic
+compartments in human embryonic stem cells. Cell Stem Cell 1: 286-298.</p>
 </li>
 <li>
-<p>Chow, K.K., Saiful, A., Kan, S.M., Kueh, J., Rajam, C.T., Rekha, S.P.
-and Thittani, K.N., “Study on local sustainable plant species for sky-rise
-greenery in the tropical climate”, 2008 - 2010.</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Media Interviews:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>One of the panelist in media interview on “Suitable plant species and
-their benefits for indoor gardening”. Good Morning Singapore, Channel 8,
-1 Aug 2014.</p>
-</li>
-<li>
-<p>“Ngee Ann Give Back Day- Bailout 2016, encouraging NP staff and students
-on pledging to do community service work”. Interview by Lian He Zao Bao
-and Capital 95.8FM, 30 May 2016. (as Chairperson for NP’s Community Service
-Committee from Jun 2014 to May 2016)</p>
-</li>
-<li>
-<p>Landscape industry in Singapore evolving. Channel News Asia, Singapore
-Tonight. 10 Jun 2016</p>
+<p>Loh YH*, Wu Q*, Chew JL*, Vega VB, Zhang W, Chen X, Bourque G, George
+J, Leong B, Liu J, Wong KY, Sung KW, Lipovich L, Kuznetsov VA, Robson P,
+Stanton LW, Wei CL, Ruan Y, Lim B and Ng HH. 2006. The Oct4 and Nanog transcription
+network that regulates pluripotency in mouse embroynic stem cells. Nature
+Genetics 38:431-440.</p>
 </li>
 </ul>
 </td>
