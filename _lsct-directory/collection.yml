@@ -2,6 +2,7 @@ collections:
   lsct-directory:
     output: true
     order:
+      - Mr Wong Yew Loong, Andy.md
       - Dr Choy Weng Keong.md
       - Dr Lim Sick Liu Joanne.md
       - Dr Akasta Sinaga.md
