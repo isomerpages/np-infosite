@@ -2,6 +2,7 @@ collections:
   lsct-directory:
     output: true
     order:
+      - Dr Chew Joon Lin.md
       - Ms Chia Wan Ye Chris.md
       - Mr Chow Kheong Keat Gregory.md
       - Dr Geng Anti.md
