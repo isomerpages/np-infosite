@@ -2,6 +2,7 @@ collections:
   lsct-directory:
     output: true
     order:
+      - Mr Lip Kuo Ming Scott.md
       - Ms Mariam Mathew.md
       - Mr Mirko Stoll.md
       - Dr Teoh Kim Tat.md
