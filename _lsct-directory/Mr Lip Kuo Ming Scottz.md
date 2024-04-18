@@ -9,11 +9,17 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="kan siew mun" src="/images/Kan_siew_mun.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Scottz_lip.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Scottz_lip.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>I've taken on many roles&nbsp;over the&nbsp;last&nbsp;20 years - curriculum
+developer, leader, researcher, manager, marketer and strategist. I have
+the unique ability to manage multi-disciplinary projects and to navigate
+complex challenges.</p>
+<p>I love making new professional acquaintances. Reach out if you want to
+talk about technology, a new idea or a research project.</p>
+<p>Check out my <a href="https://sg.linkedin.com/in/scottzlip" rel="noopener noreferrer nofollow" target="_blank">LinkedIn page</a>.</p>
 </td>
 </tr>
 <tr>
@@ -21,7 +27,7 @@ description: ""
 <p><strong>Name</strong>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​Kan Siew Mun</p>
+<p>​Scottz Lip Kuo Ming​</p>
 </td>
 </tr>
 <tr>
@@ -29,7 +35,7 @@ description: ""
 <p>​<strong>Designation</strong>:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​Director</p>
+<p>​Assistant Director (Outreach)</p>
 </td>
 </tr>
 <tr>
@@ -46,7 +52,7 @@ description: ""
 <p><strong>Tel</strong>: &nbsp;&nbsp;&nbsp; ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(65) 6460 8668</p>
+<p>(65) 6460 7233</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +60,7 @@ description: ""
 <p><strong>Email</strong>: ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:KAN_Siew_Mun@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">KAN_Siew_Mun@np.edu.sg</a>
+<p><a href="mailto:Scottz_LIP@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Scottz_LIP@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -66,27 +72,27 @@ description: ""
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>MA (Comm Mgt, UniSA)</p>
+<p>MSc (Env Engr, NTU)</p>
 </li>
 <li>
-<p>BSc (Hons) Botany, NUS)</p>
+<p>BSc (Microbiology, NUS)</p>
 </li>
 <li>
 <p>​ACTA (IAL)</p>
 </li>
 <li>
-<p>Green Mark for Parks Assessor (NParks, BCA)</p>
+<p>Project Management Professional&nbsp;&nbsp; (PMI, USA)​</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>My favourite quote by Mahatma Gandhi:</strong>
+<p><strong>My favourite quote by J.F. Kennedy:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>“Man often becomes what he believes himself to be. If I keep on saying to myself that I cannot do a certain thing, it is possible that I may end by really becoming incapable of doing it. On the contrary, if I have the belief that I can do it, I shall surely acquire the capacity to do it even if I may not have it at the beginning.”</em>
+<p><em>“We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard, because that goal will serve to organise and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win, and the others, too.”</em>
 </p>
 </td>
 </tr>
@@ -96,8 +102,8 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Horticulture management, parks management, trainer for landscape courses,
-green mark for parks, plant identification​</p>
+<p>Media relations, environmental technology, technology integration across
+life sciences, electronics and water quality modelling</p>
 </td>
 </tr>
 <tr>
@@ -108,13 +114,14 @@ green mark for parks, plant identification​</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>​NP Staff Excellence Award - Community Service and Engagement (2016)</p>
+<p>​Distinguished Graduate, SAF Goh Keng Swee Command &amp; Staff College
+course (2016)</p>
 </li>
 <li>
-<p>Excellent Service Award (Gold) 2013</p>
+<p>NP Staff Excellence Award - Community and Service (2016)</p>
 </li>
 <li>
-<p>​​School Teaching Award 2012/2013</p>
+<p>​​Formation NSman of the Year Award (2014)​</p>
 </li>
 </ul>
 </td>
@@ -127,46 +134,18 @@ green mark for parks, plant identification​</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Kan, S.M. 2016 - “Experiential Learning - Strategic Partnerships with
-the Landscape Industry”, Shaping the Future of The Landscape Industry in
-Singapore Seminar, organised by Syngenta Asia Pacific Pte Ltd. and Ngee
-Ann Polytechnic, 7 Apr 2016.</p>
+<p>Consultancy on reduction of crab mortality.</p>
 </li>
 <li>
-<p>Kan, S.M. 2015 - “Delivering Experiential Learning through Collaboration
-with Industries in the Landscape Design &amp; Horticulture Sectors”, Technical
-and Vocational Education and Training (TVET) Conference, Singapore, 4 November
-2015.</p>
+<p>Monoclonal antibodies targeting the HR2 domain and the&nbsp;region immediately
+upstream of the HR2 of the S protein&nbsp;neutralize in-vitro&nbsp;infection
+of Severe Acute Respiratory&nbsp;Syndrome Coronavirus J. Virol. 2006: 941-950.</p>
 </li>
 <li>
-<p>Chow, K.K., Saiful, A., Kan, S.M., Kueh, J., Rajam, C.T., Rekha, S.P.
-and Thittani, K.N., “Study on local sustainable plant species for sky-rise
-greenery in the tropical climate”, 2008 - 2010.</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Media Interviews:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>One of the panelist in media interview on “Suitable plant species and
-their benefits for indoor gardening”. Good Morning Singapore, Channel 8,
-1 Aug 2014.</p>
-</li>
-<li>
-<p>“Ngee Ann Give Back Day- Bailout 2016, encouraging NP staff and students
-on pledging to do community service work”. Interview by Lian He Zao Bao
-and Capital 95.8FM, 30 May 2016. (as Chairperson for NP’s Community Service
-Committee from Jun 2014 to May 2016)</p>
-</li>
-<li>
-<p>Landscape industry in Singapore evolving. Channel News Asia, Singapore
-Tonight. 10 Jun 2016</p>
+<p>Amino acids 1055 to 1192 in the S2 region of Severe AcuteRespiratory Syndrome
+Coronavirus S protein induce neutralizing&nbsp; antibodies: Implications
+for the development of vaccines and antiviral&nbsp; agents. J. Virol. 2005:
+3289-3296.</p>
 </li>
 </ul>
 </td>
