@@ -9,7 +9,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="kan siew mun" src="/images/Kan_siew_mun.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Joanne_Lim.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Joanne_Lim.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -21,7 +21,7 @@ description: ""
 <p><strong>Name</strong>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​Kan Siew Mun</p>
+<p>Lim Siok Liu Joanne</p>
 </td>
 </tr>
 <tr>
@@ -29,7 +29,7 @@ description: ""
 <p>​<strong>Designation</strong>:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​Director</p>
+<p>​Senior ​E​ducation Specialist</p>
 </td>
 </tr>
 <tr>
@@ -46,7 +46,7 @@ description: ""
 <p><strong>Tel</strong>: &nbsp;&nbsp;&nbsp; ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(65) 6460 8668</p>
+<p>(65) 6460 8323</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ description: ""
 <p><strong>Email</strong>: ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:KAN_Siew_Mun@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">KAN_Siew_Mun@np.edu.sg</a>
+<p><a href="mailto:Joanne_LIM@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Joanne_LIM@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -66,38 +66,58 @@ description: ""
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>MA (Comm Mgt, UniSA)</p>
+<p>PhD (Pharmacology, NUS)</p>
 </li>
 <li>
-<p>BSc (Hons) Botany, NUS)</p>
+<p>BSc (Hons) (Pharmacy, NUS)</p>
 </li>
 <li>
-<p>​ACTA (IAL)</p>
+<p>​Registered Pharmacist with Singapore Pharmacy Council (SPC)</p>
 </li>
 <li>
-<p>Green Mark for Parks Assessor (NParks, BCA)</p>
+<p>Advanced Certificate in Training and Assessment</p>
+</li>
+<li>
+<p>Diploma in Adult and Continuing Education</p>
+</li>
+<li>
+<p>Pharmaceutical Society of Singapore (PSS)</p>
+</li>
+<li>
+<p>Associate Adult Educator (AAE)</p>
+</li>
+<li>
+<p>Member of the Adult Education Network (AEN)</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>My favourite quote by Mahatma Gandhi:</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>“Man often becomes what he believes himself to be. If I keep on saying to myself that I cannot do a certain thing, it is possible that I may end by really becoming incapable of doing it. On the contrary, if I have the belief that I can do it, I shall surely acquire the capacity to do it even if I may not have it at the beginning.”</em>
-</p>
+<p>Before I embarked on the education profession, I was researching on pharmacogenetics.
+This is a branch in personalized medicine which perceive individual patients
+as unique individuals with different genetic make-up which may lead to
+different response to treatment. Hence, medical treatment should be individualized
+for different patients.</p>
+<p>The same principle can be applied to education. Every student is a unique
+individual who requires a varied recipe for success. The endpoint is diverse
+for various students. There is no one, single perfect solution for all
+students; just one best formula suited for an individual student.</p>
+<p>Check out my LinkedIn page <strong><a href="https://www.linkedin.com/in/joanne-lim-07a24844/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Professional Expertise​:</strong>
+<p><strong>Professional Expertise:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Horticulture management, parks management, trainer for landscape courses,
-green mark for parks, plant identification​</p>
+<p>Pharmacology, pharmacogenetics, molecular techniques, statistical analysis,
+study design, training needs analysis, curriculum design, learning delivery,
+learning experience evaluation</p>
 </td>
 </tr>
 <tr>
@@ -108,13 +128,10 @@ green mark for parks, plant identification​</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>​NP Staff Excellence Award - Community Service and Engagement (2016)</p>
+<p>​​Academic Development Award (Silver) Ngee Ann Polytechnic, (AY 2014/2015)</p>
 </li>
 <li>
-<p>Excellent Service Award (Gold) 2013</p>
-</li>
-<li>
-<p>​​School Teaching Award 2012/2013</p>
+<p>School Teaching Award (AY 2016/2017)</p>
 </li>
 </ul>
 </td>
@@ -127,46 +144,18 @@ green mark for parks, plant identification​</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Kan, S.M. 2016 - “Experiential Learning - Strategic Partnerships with
-the Landscape Industry”, Shaping the Future of The Landscape Industry in
-Singapore Seminar, organised by Syngenta Asia Pacific Pte Ltd. and Ngee
-Ann Polytechnic, 7 Apr 2016.</p>
+<p>Pharmacogenetics of UGT1A4, UGT2B7 and UGT2B15 and Their Influence on
+Tamoxifen Disposition in Asian Breast Cancer Patients. Clin Pharmacokinet.
+2016 Oct;55(10):1239-50.</p>
 </li>
 <li>
-<p>Kan, S.M. 2015 - “Delivering Experiential Learning through Collaboration
-with Industries in the Landscape Design &amp; Horticulture Sectors”, Technical
-and Vocational Education and Training (TVET) Conference, Singapore, 4 November
-2015.</p>
+<p>Association of CYP2C19*2 and associated haplotypes with lower norendoxifen
+concentrations in tamoxifen-treated Asian breast cancer patients. Br J
+Clin Pharmacol. 2016 Jun;81(6):1142-52.</p>
 </li>
 <li>
-<p>Chow, K.K., Saiful, A., Kan, S.M., Kueh, J., Rajam, C.T., Rekha, S.P.
-and Thittani, K.N., “Study on local sustainable plant species for sky-rise
-greenery in the tropical climate”, 2008 - 2010.</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Media Interviews:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>One of the panelist in media interview on “Suitable plant species and
-their benefits for indoor gardening”. Good Morning Singapore, Channel 8,
-1 Aug 2014.</p>
-</li>
-<li>
-<p>“Ngee Ann Give Back Day- Bailout 2016, encouraging NP staff and students
-on pledging to do community service work”. Interview by Lian He Zao Bao
-and Capital 95.8FM, 30 May 2016. (as Chairperson for NP’s Community Service
-Committee from Jun 2014 to May 2016)</p>
-</li>
-<li>
-<p>Landscape industry in Singapore evolving. Channel News Asia, Singapore
-Tonight. 10 Jun 2016</p>
+<p>Tamoxifen Metabolism Predicts Drug Concentrations and Outcome in Premenopausal
+Patients with Early Breast Cancer. Pharmacogenomics J. 2015 Feb;15(1):84-94.</p>
 </li>
 </ul>
 </td>
