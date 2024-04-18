@@ -2,6 +2,7 @@ collections:
   lsct-directory:
     output: true
     order:
+      - Dr Wayne Lee Forday.md
       - Dr Xu QingXing Noel.md
       - Dr Zhou Xingding.md
       - Dr Zhu Congju John.md
