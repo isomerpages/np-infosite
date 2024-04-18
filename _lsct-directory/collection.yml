@@ -2,6 +2,7 @@ collections:
   lsct-directory:
     output: true
     order:
+      - Dr Teoh Kim Tat.md
       - Mr Wong Yew Loong, Andy.md
       - Dr Choy Weng Keong.md
       - Dr Lim Sick Liu Joanne.md
