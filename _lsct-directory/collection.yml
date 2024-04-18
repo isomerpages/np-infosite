@@ -2,6 +2,7 @@ collections:
   lsct-directory:
     output: true
     order:
+      - Dr Huang Yin.md
       - Dr Li Cunben.md
       - Dr Ng Hui Li.md
       - Ms Seahmala Muniandy.md
