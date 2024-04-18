@@ -2,6 +2,7 @@ collections:
   lsct-directory:
     output: true
     order:
+      - Dr Lee Ming Kei Kenneth.md
       - Mr Lip Kuo Ming Scottz.md
       - Ms Mariam Mathew.md
       - Mr Mirko Stoll.md
