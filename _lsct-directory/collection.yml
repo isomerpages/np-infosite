@@ -2,6 +2,7 @@ collections:
   lsct-directory:
     output: true
     order:
+      - Dr Xu QingXing Noel.md
       - Dr Zhou Xingding.md
       - Dr Zhu Congju John.md
       - Dr Chitra Rajam.md
