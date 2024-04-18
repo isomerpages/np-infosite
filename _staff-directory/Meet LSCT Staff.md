@@ -20,14 +20,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/staff-directory/lsct/subrata-chanda/" rel="noopener noreferrer nofollow" target="_blank">​Subrata Chanda, Mr</a>
+<p>​<a href="/staff-directory/lsct/kan-siew-mun/" rel="noopener noreferrer nofollow" target="_blank">Kan Siew Mun, Ms&nbsp;</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​64606809​</p>
+<p>64608668</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Subrata_CHANDA@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Subrata_CHANDA@np.edu.sg​</a>
+<p><a href="mailto:KAN_Siew_Mun@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">KAN_Siew_Mun@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -44,7 +44,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​​<strong>​​​​​​​​Director (Designate)​</strong>
+<p><strong>Senior Advisor</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -56,14 +56,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="/staff-directory/lsct/kan-siew-mun/" rel="noopener noreferrer nofollow" target="_blank">Kan Siew Mun, Ms&nbsp;</a>
+<p>​<a href="/staff-directory/lsct/subrata-chanda/" rel="noopener noreferrer nofollow" target="_blank">​Subrata Chanda, Mr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64608668</p>
+<p>64606809​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:KAN_Siew_Mun@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">KAN_Siew_Mun@np.edu.sg</a>
+<p><a href="mailto:Subrata_CHANDA@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Subrata_CHANDA@np.edu.sg​</a>
 </p>
 </td>
 </tr>
