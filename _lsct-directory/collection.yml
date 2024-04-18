@@ -2,6 +2,7 @@ collections:
   lsct-directory:
     output: true
     order:
+      - Mr Neo Tiong Cheng.md
       - Dr Neviliappan Shanmugam.md
       - Dr New Jen Yan.md
       - Dr Ong Hon Eddie.md
