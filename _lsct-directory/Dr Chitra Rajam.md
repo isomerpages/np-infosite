@@ -27,7 +27,7 @@ description: ""
 <p>​<strong>Designation</strong>:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​Director</p>
+<p>​Lecturer</p>
 </td>
 </tr>
 <tr>
