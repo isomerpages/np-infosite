@@ -8,7 +8,9 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; margin: 5px;" height="auto" width="100%" alt="Preety_Subhasish.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Preety_Subhasish.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -19,7 +21,7 @@ description: ""
 <p><strong>Name</strong>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​Kan Siew Mun</p>
+<p>​Preety Mukherjee</p>
 </td>
 </tr>
 <tr>
@@ -27,7 +29,7 @@ description: ""
 <p>​<strong>Designation</strong>:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​Senior Lecturer</p>
+<p>​Senior Lecturer; Senior Manager (Internship)</p>
 </td>
 </tr>
 <tr>
@@ -36,7 +38,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>School of Life Sciences and Chemical Technology
-<br>Blk 83, #04-00, Singapore 599489​</p>
+<br>Blk 83, #05-00, Singapore 599489​</p>
 </td>
 </tr>
 <tr>
@@ -44,7 +46,7 @@ description: ""
 <p><strong>Tel</strong>: &nbsp;&nbsp;&nbsp; ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(65) 6460 8668</p>
+<p>(65) 6460 8685</p>
 </td>
 </tr>
 <tr>
@@ -52,7 +54,7 @@ description: ""
 <p><strong>Email</strong>: ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:KAN_Siew_Mun@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">KAN_Siew_Mun@np.edu.sg</a>
+<p><a href="mailto:Prity_Subhasish_MUKHERJEE@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Prity_Subhasish_MUKHERJEE@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -64,27 +66,31 @@ description: ""
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>MA (Comm Mgt, UniSA)</p>
+<p>MEng (Research) Chemical and Environment Engineering&nbsp;
+<br>National University of Singapore, Singapore</p>
 </li>
 <li>
-<p>BSc (Hons) Botany, NUS)</p>
+<p><a href="http://M.Tech" rel="noopener noreferrer nofollow" target="_blank">M.Tech</a> Environment
+Planning</p>
+</li>
+<li>
+<p>BE Environmental Engineering</p>
 </li>
 <li>
 <p>​ACTA (IAL)</p>
-</li>
-<li>
-<p>Green Mark for Parks Assessor (NParks, BCA)</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>My favourite quote by Mahatma Gandhi:</strong>
+<p><strong>I live by these two beliefs:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>“Man often becomes what he believes himself to be. If I keep on saying to myself that I cannot do a certain thing, it is possible that I may end by really becoming incapable of doing it. On the contrary, if I have the belief that I can do it, I shall surely acquire the capacity to do it even if I may not have it at the beginning.”</em>
+<p><em>“Always look at the positive side of things and be optimistic, but learn and be strong from mistakes and experiences”</em>
+</p>
+<p><em>“I strive to make a confident, happy, contended and environmentally friendly younger generation as a teacher, mother and human being”</em>
 </p>
 </td>
 </tr>
@@ -94,8 +100,10 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Horticulture management, parks management, trainer for landscape courses,
-green mark for parks, plant identification​</p>
+<p>Air Quality Monitoring &amp; Control, Water and Marine Pollution &amp;
+Water Reclamation Technology, Noise Pollution Monitoring &amp; Control,
+Research in Air emission Inventory and Environmentally friendly water treatment
+solutions</p>
 </td>
 </tr>
 <tr>
@@ -106,13 +114,7 @@ green mark for parks, plant identification​</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>​NP Staff Excellence Award - Community Service and Engagement (2016)</p>
-</li>
-<li>
-<p>Excellent Service Award (Gold) 2013</p>
-</li>
-<li>
-<p>​​School Teaching Award 2012/2013</p>
+<p>​School Teaching Award, Ngee Ann Polytechnic 2005-2006; 2009-2010; 2010-2011</p>
 </li>
 </ul>
 </td>
@@ -125,48 +127,33 @@ green mark for parks, plant identification​</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Kan, S.M. 2016 - “Experiential Learning - Strategic Partnerships with
-the Landscape Industry”, Shaping the Future of The Landscape Industry in
-Singapore Seminar, organised by Syngenta Asia Pacific Pte Ltd. and Ngee
-Ann Polytechnic, 7 Apr 2016.</p>
+<p>Publications, Patents, Projects, Consultancy (Top 3)&nbsp;•&nbsp;Air Emission
+Inventory and Dispersion Modelling- Research in Collaboration with National
+Environment Agency (NEA) Singapore</p>
 </li>
 <li>
-<p>Kan, S.M. 2015 - “Delivering Experiential Learning through Collaboration
-with Industries in the Landscape Design &amp; Horticulture Sectors”, Technical
-and Vocational Education and Training (TVET) Conference, Singapore, 4 November
-2015.</p>
+<p>Photocatalytic application in waste water treatment (Poster) @ SIWW 2011.
+P.Mukherjee, M. Mathew, P. Koh, P. Goh, J. Chang, J. Weng, Q. Fang. Ngee
+Ann Polytechnic (Singapore) &amp; SMe (Singapore)</p>
 </li>
 <li>
-<p>Chow, K.K., Saiful, A., Kan, S.M., Kueh, J., Rajam, C.T., Rekha, S.P.
-and Thittani, K.N., “Study on local sustainable plant species for sky-rise
-greenery in the tropical climate”, 2008 - 2010.</p>
+<p>Preety Mukherjee, Lim Cheng Choon, Yee Wen Loh, Kam Wui wui, Thet Mon
+Aye, Ng Wai Ling. Carbon monoxide modelling from Transportation in Street
+Canyons, Singapore- effect of dynamic emissions, peak traffic and street
+geometry. IASME Transactions, World Scientific Engineering Academy and
+Society, Greece. Issue 5, Volume 2, July 2005</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Media Interviews:</strong>
+<p><strong>Other Publications and Conference Presentations:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>One of the panelist in media interview on “Suitable plant species and
-their benefits for indoor gardening”. Good Morning Singapore, Channel 8,
-1 Aug 2014.</p>
-</li>
-<li>
-<p>“Ngee Ann Give Back Day- Bailout 2016, encouraging NP staff and students
-on pledging to do community service work”. Interview by Lian He Zao Bao
-and Capital 95.8FM, 30 May 2016. (as Chairperson for NP’s Community Service
-Committee from Jun 2014 to May 2016)</p>
-</li>
-<li>
-<p>Landscape industry in Singapore evolving. Channel News Asia, Singapore
-Tonight. 10 Jun 2016</p>
-</li>
-</ul>
+<p><a href="/files/LSCT/OtherPublications_Prity.pdf" rel="noopener noreferrer nofollow" target="_blank">Document</a>
+</p>
 </td>
 </tr>
 </tbody>
