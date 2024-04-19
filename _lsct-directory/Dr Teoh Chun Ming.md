@@ -8,7 +8,9 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; margin: 5px;" height="auto" width="100%" alt="ChunMing.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/ChunMing.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -19,7 +21,7 @@ description: ""
 <p><strong>Name</strong>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​Kan Siew Mun</p>
+<p>​Teoh Chun Ming</p>
 </td>
 </tr>
 <tr>
@@ -27,7 +29,8 @@ description: ""
 <p>​<strong>Designation</strong>:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​Director</p>
+<p>​Lecturer
+<br>overseas Internship Co-ordiantor</p>
 </td>
 </tr>
 <tr>
@@ -36,7 +39,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>School of Life Sciences and Chemical Technology
-<br>Blk 83, #04-00, Singapore 599489​</p>
+<br>Blk 83, #06-00, Singapore 599489​</p>
 </td>
 </tr>
 <tr>
@@ -44,7 +47,7 @@ description: ""
 <p><strong>Tel</strong>: &nbsp;&nbsp;&nbsp; ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(65) 6460 8668</p>
+<p>(65) 6460 7266</p>
 </td>
 </tr>
 <tr>
@@ -52,7 +55,7 @@ description: ""
 <p><strong>Email</strong>: ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:KAN_Siew_Mun@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">KAN_Siew_Mun@np.edu.sg</a>
+<p><a href="mailto:TEOH_Chun_Ming@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">TEOH_Chun_Ming@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -64,27 +67,28 @@ description: ""
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>MA (Comm Mgt, UniSA)</p>
+<p>PhD (Biomedical Science, Physiology, NUS)</p>
 </li>
 <li>
-<p>BSc (Hons) Botany, NUS)</p>
+<p>BSc, Honours (Biomedical Science, Life Sciences, NUS)</p>
 </li>
 <li>
-<p>​ACTA (IAL)</p>
+<p>​Member of the American Thoracic Society</p>
 </li>
 <li>
-<p>Green Mark for Parks Assessor (NParks, BCA)</p>
+<p>Knowdell Career Advisor (License: KCA-2016-14)</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>My favourite quote by Mahatma Gandhi:</strong>
+<p><strong>My favourite quote by T.H. White, The Once and Future King:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>“Man often becomes what he believes himself to be. If I keep on saying to myself that I cannot do a certain thing, it is possible that I may end by really becoming incapable of doing it. On the contrary, if I have the belief that I can do it, I shall surely acquire the capacity to do it even if I may not have it at the beginning.”</em>
+<p><em>“The best thing for being sad," replied Merlin, beginning to puff and blow, "is to learn something. That's the only thing that never fails. You may grow old and trembling in your anatomies, you may lie awake at night listening to the disorder of your veins, you may miss your only love, you may see the world about you devastated by evil lunatics, or know your honour trampled in the sewers of baser minds. There is only one thing for it then — to learn. Learn why the world wags and what wags it. That is the only thing which the mind can never exhaust, never alienate, never be tortured by, never fear or distrust, and never dream of regretting. Learning is the only thing for you. Look what a lot of things there are to learn.”&nbsp;</em>&nbsp;</p>
+<p>Check out my LinkedIn page <strong><a href="https://www.linkedin.com/in/chun-ming-teoh-19585877/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</strong>
 </p>
 </td>
 </tr>
@@ -94,8 +98,9 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Horticulture management, parks management, trainer for landscape courses,
-green mark for parks, plant identification​</p>
+<p>Respiratory Diseases (eg. Asthma, Airway Wall Remodelling, Lung Cancer),
+Cardiovascular Diseases (eg. Atherosclerosis, Stroke), Aptamer Studies
+(eg. LyP-1 Peptide Aptamer), Organic Chemistry, Immunology / Inflammation</p>
 </td>
 </tr>
 <tr>
@@ -106,13 +111,16 @@ green mark for parks, plant identification​</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>​NP Staff Excellence Award - Community Service and Engagement (2016)</p>
+<p>​Certified Knowdell Career Advisor (License: KCA-2016-14)</p>
 </li>
 <li>
-<p>Excellent Service Award (Gold) 2013</p>
+<p>Mitsui Sumitomo Insurance Welfare Foundation Research Grant recipient</p>
 </li>
 <li>
-<p>​​School Teaching Award 2012/2013</p>
+<p>​​Judge for 2016 East Zone A*Star Science Fair</p>
+</li>
+<li>
+<p>The National Healthcare Group 8th Annual Scientific Congress - Speaker</p>
 </li>
 </ul>
 </td>
@@ -125,48 +133,31 @@ green mark for parks, plant identification​</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Kan, S.M. 2016 - “Experiential Learning - Strategic Partnerships with
-the Landscape Industry”, Shaping the Future of The Landscape Industry in
-Singapore Seminar, organised by Syngenta Asia Pacific Pte Ltd. and Ngee
-Ann Polytechnic, 7 Apr 2016.</p>
+<p>Research project on the Diagnostic Potential of LyP-1 Peptide Aptamer
+for Atherosclerotic Plaques</p>
 </li>
 <li>
-<p>Kan, S.M. 2015 - “Delivering Experiential Learning through Collaboration
-with Industries in the Landscape Design &amp; Horticulture Sectors”, Technical
-and Vocational Education and Training (TVET) Conference, Singapore, 4 November
-2015.</p>
+<p>Teoh, C.M., Tan, S.S.L., Tran, T (2015). Integrins as Therapeutic Targets
+for Respiratory Diseases. Curr Mol Med, 15(8):714-34</p>
 </li>
 <li>
-<p>Chow, K.K., Saiful, A., Kan, S.M., Kueh, J., Rajam, C.T., Rekha, S.P.
-and Thittani, K.N., “Study on local sustainable plant species for sky-rise
-greenery in the tropical climate”, 2008 - 2010.</p>
+<p>Tran, T*., Teoh, C. M*., Tam, J. K. C., Qiao, Y., Chin, C. Y., Chong,
+O. K., Stewart, A. G., Harris, T., Wong, W. S. F., Guan, S. P., Leung,
+B. P., Gerthoffer, W. T., Unruh, H., and Halayko, A. J (2013). Laminin
+drives survival signals to promote a contractile smooth muscle phenotype
+and airway hyperreactivity. Faseb J, 27(10):3991-4003. *Shared first authorship</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Media Interviews:</strong>
+<p><strong>Other Publications and Conference Presentations:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>One of the panelist in media interview on “Suitable plant species and
-their benefits for indoor gardening”. Good Morning Singapore, Channel 8,
-1 Aug 2014.</p>
-</li>
-<li>
-<p>“Ngee Ann Give Back Day- Bailout 2016, encouraging NP staff and students
-on pledging to do community service work”. Interview by Lian He Zao Bao
-and Capital 95.8FM, 30 May 2016. (as Chairperson for NP’s Community Service
-Committee from Jun 2014 to May 2016)</p>
-</li>
-<li>
-<p>Landscape industry in Singapore evolving. Channel News Asia, Singapore
-Tonight. 10 Jun 2016</p>
-</li>
-</ul>
+<p><a href="/files/LSCT/OtherPublications_ChunMing.pdf" rel="noopener noreferrer nofollow" target="_blank">Document</a>
+</p>
 </td>
 </tr>
 </tbody>
