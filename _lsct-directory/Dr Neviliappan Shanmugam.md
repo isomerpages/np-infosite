@@ -8,7 +8,9 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; margin: 5px;" height="auto" width="100%" alt="Neviliappan-Shanmugam.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Neviliappan-Shanmugam.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -19,7 +21,7 @@ description: ""
 <p><strong>Name</strong>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​Kan Siew Mun</p>
+<p>​Shanmugam Neviliappan</p>
 </td>
 </tr>
 <tr>
@@ -44,7 +46,7 @@ description: ""
 <p><strong>Tel</strong>: &nbsp;&nbsp;&nbsp; ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(65) 6460 8668</p>
+<p>(65) 6460 8295​</p>
 </td>
 </tr>
 <tr>
@@ -52,7 +54,7 @@ description: ""
 <p><strong>Email</strong>: ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:KAN_Siew_Mun@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">KAN_Siew_Mun@np.edu.sg</a>
+<p><a href="mailto:Neviliappan_SHANMUGAM@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Neviliappan_SHANMUGAM@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -64,27 +66,34 @@ description: ""
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>MA (Comm Mgt, UniSA)</p>
+<p>Ph.D (DBS, NUS)</p>
 </li>
 <li>
-<p>BSc (Hons) Botany, NUS)</p>
+<p><a href="http://M.Sc" rel="noopener noreferrer nofollow" target="_blank">M.Sc</a> (Zoology,
+Annamalai University)</p>
 </li>
 <li>
-<p>​ACTA (IAL)</p>
+<p>​B.Ed (Annamalai University)</p>
 </li>
 <li>
-<p>Green Mark for Parks Assessor (NParks, BCA)</p>
+<p><a href="http://B.Sc" rel="noopener noreferrer nofollow" target="_blank">B.Sc </a>(Zoology,
+Madurai Kamaraj University)</p>
+</li>
+<li>
+<p>ACTA (IAL)</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>My favourite quote by Mahatma Gandhi:</strong>
+<p><strong>My favourite quote by Dr A. P .J. Abdul Kalam:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>“Man often becomes what he believes himself to be. If I keep on saying to myself that I cannot do a certain thing, it is possible that I may end by really becoming incapable of doing it. On the contrary, if I have the belief that I can do it, I shall surely acquire the capacity to do it even if I may not have it at the beginning.”</em>
+<p><em>“One of the very important characteristics of a student is to question. Let the students ask questions”.</em>
+</p>
+<p><em>“If you want to shine like a sun, first burn like a sun”.</em>
 </p>
 </td>
 </tr>
@@ -94,27 +103,9 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Horticulture management, parks management, trainer for landscape courses,
-green mark for parks, plant identification​</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Awards &amp; Achievements​:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>​NP Staff Excellence Award - Community Service and Engagement (2016)</p>
-</li>
-<li>
-<p>Excellent Service Award (Gold) 2013</p>
-</li>
-<li>
-<p>​​School Teaching Award 2012/2013</p>
-</li>
-</ul>
+<p>Aquaculture and Biostatistics</p>
+<p>Scientific Person – Institutional Animal Care and Use Committee, Ngee
+Ann Polytechnic.</p>
 </td>
 </tr>
 <tr>
@@ -125,46 +116,28 @@ green mark for parks, plant identification​</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Kan, S.M. 2016 - “Experiential Learning - Strategic Partnerships with
-the Landscape Industry”, Shaping the Future of The Landscape Industry in
-Singapore Seminar, organised by Syngenta Asia Pacific Pte Ltd. and Ngee
-Ann Polytechnic, 7 Apr 2016.</p>
+<p>Investigation of bioaccumulation profile of estrogens in zebra fish liver
+by hollow fibre protected liquid phase micro extraction with gas chromatography-mass
+spectrometric detection. J. Chromatograph (B) Oct 2012 pages 37-41.</p>
 </li>
 <li>
-<p>Kan, S.M. 2015 - “Delivering Experiential Learning through Collaboration
-with Industries in the Landscape Design &amp; Horticulture Sectors”, Technical
-and Vocational Education and Training (TVET) Conference, Singapore, 4 November
-2015.</p>
+<p>Infrared spectral features of exfoliated cervical cells, cervical adenocarcinoma
+tissue, and an adenocarcinoma cell line (SiSo) Gynecologic Oncology (2002),
+85: 170-174.</p>
 </li>
 <li>
-<p>Chow, K.K., Saiful, A., Kan, S.M., Kueh, J., Rajam, C.T., Rekha, S.P.
-and Thittani, K.N., “Study on local sustainable plant species for sky-rise
-greenery in the tropical climate”, 2008 - 2010.</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Media Interviews:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>One of the panelist in media interview on “Suitable plant species and
-their benefits for indoor gardening”. Good Morning Singapore, Channel 8,
-1 Aug 2014.</p>
+<p>Project Leader for a research project, Development of an intensive culture
+system for the red claw crayfish, Cherax quadricarinatus funded by the
+Singapore TOTE Board (S$200,000). Sep 2009 – Sep 2012.</p>
 </li>
 <li>
-<p>“Ngee Ann Give Back Day- Bailout 2016, encouraging NP staff and students
-on pledging to do community service work”. Interview by Lian He Zao Bao
-and Capital 95.8FM, 30 May 2016. (as Chairperson for NP’s Community Service
-Committee from Jun 2014 to May 2016)</p>
+<p>Team Member for a project, Study of roof-top Aquaponics system for tilapia
+and leafy vegetables culture.&nbsp; Aug 2012.</p>
 </li>
 <li>
-<p>Landscape industry in Singapore evolving. Channel News Asia, Singapore
-Tonight. 10 Jun 2016</p>
+<p>Project Leader for a consultancy project, Analysis of heavy metals in
+specific fish organs and in culture water in relation to the water conditioner
+treatment, Aquacultural (F.A.M.E) Pte Ltd (S$45,000), Singapore. May 2008.</p>
 </li>
 </ul>
 </td>
