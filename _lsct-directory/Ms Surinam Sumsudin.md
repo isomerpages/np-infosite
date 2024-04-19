@@ -8,7 +8,9 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; margin: 5px;" height="auto" width="100%" alt="Surinam_Sumsudin.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Surinam_Sumsudin.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -19,7 +21,7 @@ description: ""
 <p><strong>Name</strong>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​Kan Siew Mun</p>
+<p>​Surinam binte Sumsudin</p>
 </td>
 </tr>
 <tr>
@@ -44,7 +46,7 @@ description: ""
 <p><strong>Tel</strong>: &nbsp;&nbsp;&nbsp; ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(65) 6460 8668</p>
+<p>(65) 6460 6819</p>
 </td>
 </tr>
 <tr>
@@ -52,7 +54,7 @@ description: ""
 <p><strong>Email</strong>: ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:KAN_Siew_Mun@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">KAN_Siew_Mun@np.edu.sg</a>
+<p><a href="mailto:Surinam_SUMSUDIN@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Surinam_SUMSUDIN@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -64,28 +66,48 @@ description: ""
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>MA (Comm Mgt, UniSA)</p>
+<p>BSc (Animal Biology)​</p>
 </li>
 <li>
-<p>BSc (Hons) Botany, NUS)</p>
+<p>Certified Arborist</p>
 </li>
 <li>
-<p>​ACTA (IAL)</p>
+<p>​​Certified Practicing Horticulturist</p>
 </li>
 <li>
-<p>Green Mark for Parks Assessor (NParks, BCA)</p>
+<p>Certified Nature Interpreter</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>My favourite quote by Mahatma Gandhi:</strong>
+<p><strong>My favourite quote:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>“Man often becomes what he believes himself to be. If I keep on saying to myself that I cannot do a certain thing, it is possible that I may end by really becoming incapable of doing it. On the contrary, if I have the belief that I can do it, I shall surely acquire the capacity to do it even if I may not have it at the beginning.”</em>
+<p><em>"There is freedom waiting for you</em>
 </p>
+<p><em>On the breezes of the sky,</em>
+</p>
+<p><em>And you ask, "What if I fall?"</em>
+</p>
+<p><em>Oh, but my darling,</em>
+</p>
+<p><em>What if you fly?"</em>
+</p>
+<p>– <strong>Erin Hanson</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A beautiful short poem that is one of my favourites. It echoes the importance
+of self-belief and encapsulates my conviction of what an educator should
+aim to be.</p>
 </td>
 </tr>
 <tr>
@@ -94,8 +116,8 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Horticulture management, parks management, trainer for landscape courses,
-green mark for parks, plant identification​</p>
+<p>​Parks management, horticulture, arboriculture, visitor services and outreach
+programmes</p>
 </td>
 </tr>
 <tr>
@@ -106,65 +128,10 @@ green mark for parks, plant identification​</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>​NP Staff Excellence Award - Community Service and Engagement (2016)</p>
+<p>​NP Staff Excellence Award - Community and Service (2016)</p>
 </li>
 <li>
-<p>Excellent Service Award (Gold) 2013</p>
-</li>
-<li>
-<p>​​School Teaching Award 2012/2013</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Publications, Patents, Projects, Consultancy:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Kan, S.M. 2016 - “Experiential Learning - Strategic Partnerships with
-the Landscape Industry”, Shaping the Future of The Landscape Industry in
-Singapore Seminar, organised by Syngenta Asia Pacific Pte Ltd. and Ngee
-Ann Polytechnic, 7 Apr 2016.</p>
-</li>
-<li>
-<p>Kan, S.M. 2015 - “Delivering Experiential Learning through Collaboration
-with Industries in the Landscape Design &amp; Horticulture Sectors”, Technical
-and Vocational Education and Training (TVET) Conference, Singapore, 4 November
-2015.</p>
-</li>
-<li>
-<p>Chow, K.K., Saiful, A., Kan, S.M., Kueh, J., Rajam, C.T., Rekha, S.P.
-and Thittani, K.N., “Study on local sustainable plant species for sky-rise
-greenery in the tropical climate”, 2008 - 2010.</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Media Interviews:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>One of the panelist in media interview on “Suitable plant species and
-their benefits for indoor gardening”. Good Morning Singapore, Channel 8,
-1 Aug 2014.</p>
-</li>
-<li>
-<p>“Ngee Ann Give Back Day- Bailout 2016, encouraging NP staff and students
-on pledging to do community service work”. Interview by Lian He Zao Bao
-and Capital 95.8FM, 30 May 2016. (as Chairperson for NP’s Community Service
-Committee from Jun 2014 to May 2016)</p>
-</li>
-<li>
-<p>Landscape industry in Singapore evolving. Channel News Asia, Singapore
-Tonight. 10 Jun 2016</p>
+<p>School Teaching Award</p>
 </li>
 </ul>
 </td>
