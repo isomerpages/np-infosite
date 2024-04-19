@@ -8,7 +8,9 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; margin: 5px;" height="auto" width="100%" alt="Wayne_Forday.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Wayne_Forday.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -19,7 +21,7 @@ description: ""
 <p><strong>Name</strong>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​Kan Siew Mun</p>
+<p>​Wayne Lee Forday</p>
 </td>
 </tr>
 <tr>
@@ -44,7 +46,7 @@ description: ""
 <p><strong>Tel</strong>: &nbsp;&nbsp;&nbsp; ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(65) 6460 8668</p>
+<p>(65) 6460 6747</p>
 </td>
 </tr>
 <tr>
@@ -52,7 +54,7 @@ description: ""
 <p><strong>Email</strong>: ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:KAN_Siew_Mun@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">KAN_Siew_Mun@np.edu.sg</a>
+<p><a href="mailto:Wayne_FORDAY@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Wayne_FORDAY@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -64,28 +66,55 @@ description: ""
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>MA (Comm Mgt, UniSA)</p>
+<p>Ph D (University of Queensland)​</p>
 </li>
 <li>
-<p>BSc (Hons) Botany, NUS)</p>
+<p>MSSt (Biotechnology, University of Queensland)</p>
 </li>
 <li>
-<p>​ACTA (IAL)</p>
+<p>​MSc (Environmental Engineering, National University of Singapore)</p>
 </li>
 <li>
-<p>Green Mark for Parks Assessor (NParks, BCA)</p>
+<p>MBA (Technology Management, Association of Professional Engineers/Deakin
+University)</p>
+</li>
+<li>
+<p>Graduate Diploma in Management (Association of Professional Engineers)</p>
+</li>
+<li>
+<p>Advanced Certificate in Training and Assessment (Institute of Adult Learning)</p>
+</li>
+<li>
+<p>Specialist Diploma in Workplace Safety and Health (Singapore Polytechnic)</p>
+</li>
+<li>
+<p>Bsc Hon (Microbiology, University of Queensland)​</p>
+</li>
+<li>
+<p>Associate Member Institute of Chemical Engineers</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>My favourite quote by Mahatma Gandhi:</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>“Man often becomes what he believes himself to be. If I keep on saying to myself that I cannot do a certain thing, it is possible that I may end by really becoming incapable of doing it. On the contrary, if I have the belief that I can do it, I shall surely acquire the capacity to do it even if I may not have it at the beginning.”</em>
-</p>
+<p>I am a microbiologist, biotechnologist, fermentation technologist, lecturer,
+CET trainer, safety trainer and an ACE Certified Fitness Trainer.</p>
+<p>I have more than 33 years of teaching experience combined with skills
+in academic leadership, curriculum development and review and marketing.
+My teaching experience includes training in Microbiology, Biopharmaceutical
+and Pharmaceutical Manufacturing, GMP, Food Safety, , Biochemical Engineering,
+Reaction Engineering, Analytical Instrumentation, Organic Chemistry, Cell
+Culture, Physiology, Contamination Control, Hazardous substances, Biosafety,
+Risk Assessment, Chemical and Fire Safety and Incident investigation.</p>
+<p>I enjoy solving problems and understanding the root cause of complex issues.</p>
+<p>​My research interests are in the development of healthcare analytics,
+probiotic and pre-biotic based products for nutraceutical, health care
+and cosmetic products.</p>
+<p>Check out my <a href="https://www.linkedin.com/in/wayne-forday-3500ab32" rel="noopener noreferrer nofollow" target="_blank">LinkedIn page</a>.</p>
 </td>
 </tr>
 <tr>
@@ -94,8 +123,9 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Horticulture management, parks management, trainer for landscape courses,
-green mark for parks, plant identification​</p>
+<p>Fermentation technology, Microbiology, probiotic culture, lactic Acid
+bacteria, food safety and good manufacturing practices (GMP), management
+of chemical and biological hazards, safety training, fitness training​</p>
 </td>
 </tr>
 <tr>
@@ -106,13 +136,10 @@ green mark for parks, plant identification​</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>​NP Staff Excellence Award - Community Service and Engagement (2016)</p>
+<p>​School/Department Teaching Awards 1992 and 2014</p>
 </li>
 <li>
-<p>Excellent Service Award (Gold) 2013</p>
-</li>
-<li>
-<p>​​School Teaching Award 2012/2013</p>
+<p>Excellent Service Award 2009</p>
 </li>
 </ul>
 </td>
@@ -125,46 +152,20 @@ green mark for parks, plant identification​</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Kan, S.M. 2016 - “Experiential Learning - Strategic Partnerships with
-the Landscape Industry”, Shaping the Future of The Landscape Industry in
-Singapore Seminar, organised by Syngenta Asia Pacific Pte Ltd. and Ngee
-Ann Polytechnic, 7 Apr 2016.</p>
+<p>Lim, M.S., Sze Toh K.M., Forday, W.L. 1997. Development of a mathematical
+model to optimize Autothermal Aerobic Digestion processes. Singapore Microbiologist
+- Microbiology and Biotechnology News. Oct-Dec. 22-23.</p>
 </li>
 <li>
-<p>Kan, S.M. 2015 - “Delivering Experiential Learning through Collaboration
-with Industries in the Landscape Design &amp; Horticulture Sectors”, Technical
-and Vocational Education and Training (TVET) Conference, Singapore, 4 November
-2015.</p>
+<p>Wang D., Wang Y., Fan X., See, S.C, Foong, J., Forday, W. 2002. Preparation
+of nano-ibuprofen by re-crystallization in a rotating packed&nbsp; bed.
+9th APCChE Conference, Christchruch, New Zealand, Sept 29 - Oct 3. 2002.</p>
 </li>
 <li>
-<p>Chow, K.K., Saiful, A., Kan, S.M., Kueh, J., Rajam, C.T., Rekha, S.P.
-and Thittani, K.N., “Study on local sustainable plant species for sky-rise
-greenery in the tropical climate”, 2008 - 2010.</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Media Interviews:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>One of the panelist in media interview on “Suitable plant species and
-their benefits for indoor gardening”. Good Morning Singapore, Channel 8,
-1 Aug 2014.</p>
-</li>
-<li>
-<p>“Ngee Ann Give Back Day- Bailout 2016, encouraging NP staff and students
-on pledging to do community service work”. Interview by Lian He Zao Bao
-and Capital 95.8FM, 30 May 2016. (as Chairperson for NP’s Community Service
-Committee from Jun 2014 to May 2016)</p>
-</li>
-<li>
-<p>Landscape industry in Singapore evolving. Channel News Asia, Singapore
-Tonight. 10 Jun 2016</p>
+<p>Wang D., Wang Y., See, S.C, Fan X., Foong, J., Forday, W.&nbsp; 2002.
+Preparation of nano-drug particles by re-crystallization in a rotating
+packed bed. 9th APCChE Conference, Christchruch, New Zealand, Sept 29 -
+Oct 3. 2002.</p>
 </li>
 </ul>
 </td>
