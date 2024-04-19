@@ -8,7 +8,9 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; margin: 5px;" height="auto" width="100%" alt="Saiful_Anuar.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Saiful_Anuar.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -19,7 +21,7 @@ description: ""
 <p><strong>Name</strong>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​Kan Siew Mun</p>
+<p>​Saiful Anuar bin Mohamad Said</p>
 </td>
 </tr>
 <tr>
@@ -36,7 +38,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>School of Life Sciences and Chemical Technology
-<br>Blk 83, #04-00, Singapore 599489​</p>
+<br>Blk 83, #05-00, Singapore 599489​</p>
 </td>
 </tr>
 <tr>
@@ -44,7 +46,7 @@ description: ""
 <p><strong>Tel</strong>: &nbsp;&nbsp;&nbsp; ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(65) 6460 8668</p>
+<p>(65) 6460 8926​</p>
 </td>
 </tr>
 <tr>
@@ -52,7 +54,7 @@ description: ""
 <p><strong>Email</strong>: ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:KAN_Siew_Mun@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">KAN_Siew_Mun@np.edu.sg</a>
+<p><a href="mailto:Saiful_Anuar_SAID@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Saiful_Anuar_SAID@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -64,27 +66,30 @@ description: ""
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>MA (Comm Mgt, UniSA)</p>
+<p>​MSc (Arboriculture, University of Aberdeen)</p>
 </li>
 <li>
-<p>BSc (Hons) Botany, NUS)</p>
+<p>BSc (Botany, NUS)</p>
 </li>
 <li>
 <p>​ACTA (IAL)</p>
 </li>
 <li>
-<p>Green Mark for Parks Assessor (NParks, BCA)</p>
+<p>Certified Arborist (ISA, USA)</p>
+</li>
+<li>
+<p>Trainer (CUGE, Nparks)</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>My favourite quote by Mahatma Gandhi:</strong>
+<p><strong>My favourite quote by Nelson Henderson:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>“Man often becomes what he believes himself to be. If I keep on saying to myself that I cannot do a certain thing, it is possible that I may end by really becoming incapable of doing it. On the contrary, if I have the belief that I can do it, I shall surely acquire the capacity to do it even if I may not have it at the beginning.”</em>
+<p><em>"The true meaning of life is to plant trees, under whose shade you do not expect to sit."</em>
 </p>
 </td>
 </tr>
@@ -94,8 +99,8 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Horticulture management, parks management, trainer for landscape courses,
-green mark for parks, plant identification​</p>
+<p>Plant Pathology, Plant Propagation, Green Roof, Lightning Protection for
+Trees, Tree preservation.</p>
 </td>
 </tr>
 <tr>
@@ -106,13 +111,7 @@ green mark for parks, plant identification​</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>​NP Staff Excellence Award - Community Service and Engagement (2016)</p>
-</li>
-<li>
-<p>Excellent Service Award (Gold) 2013</p>
-</li>
-<li>
-<p>​​School Teaching Award 2012/2013</p>
+<p>​NP Teaching Award - (2013)</p>
 </li>
 </ul>
 </td>
@@ -123,23 +122,29 @@ green mark for parks, plant identification​</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Projects:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Kan, S.M. 2016 - “Experiential Learning - Strategic Partnerships with
-the Landscape Industry”, Shaping the Future of The Landscape Industry in
-Singapore Seminar, organised by Syngenta Asia Pacific Pte Ltd. and Ngee
-Ann Polytechnic, 7 Apr 2016.</p>
+<p>Study on local sustainable plant species for sky-rise greenery in the
+tropical climate (2008)</p>
 </li>
 <li>
-<p>Kan, S.M. 2015 - “Delivering Experiential Learning through Collaboration
-with Industries in the Landscape Design &amp; Horticulture Sectors”, Technical
-and Vocational Education and Training (TVET) Conference, Singapore, 4 November
-2015.</p>
+<p>Green Area Index of Ornamental Plants. (2009)</p>
+</li>
+</ul>
+<p><strong>Publications:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A Fusarium Wilt (Fusarium oxysporum) of Angsana (Pterocarpus indicus)
+in Singapore. J Arboriculture. (2012)</p>
 </li>
 <li>
-<p>Chow, K.K., Saiful, A., Kan, S.M., Kueh, J., Rajam, C.T., Rekha, S.P.
-and Thittani, K.N., “Study on local sustainable plant species for sky-rise
-greenery in the tropical climate”, 2008 - 2010.</p>
+<p>Protecting our Magnificent Trees. Gardenwise.(2003)​</p>
+</li>
+<li>
+<p>Tropical Gardener’s Guide to Healthy (1992)</p>
 </li>
 </ul>
 </td>
