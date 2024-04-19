@@ -173,7 +173,7 @@ Kyoto (10 – 12 Nov, 2014).</p>
 </li>
 </ul>
 <p></p>
-<p><strong><a href="https://graduation.np.edu.sg/staffdirectory/lsct/Documents/OtherPublications-Greg.pdf" rel="noopener noreferrer nofollow" target="_blank">More...&nbsp;</a></strong>
+<p><strong><a href="/files/LSCT/OtherPublications-Greg.pdf" rel="noopener noreferrer nofollow" target="_blank">More...&nbsp;</a></strong>
 </p>
 </td>
 </tr>
