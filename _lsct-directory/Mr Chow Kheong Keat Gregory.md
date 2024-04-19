@@ -172,6 +172,9 @@ Kyoto (10 – 12 Nov, 2014).</p>
 <a href="http://www.greenroofs.com/projects/pview.php?id=1330" rel="noopener noreferrer nofollow" target="_blank">Greenroofs.com</a>Project of the Week, 17 Oct, 2011, available <strong><a href="http://www.greenroofs.com/projects/pview.php?id=1330" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
 </li>
 </ul>
+<p></p>
+<p><strong><a href="https://graduation.np.edu.sg/staffdirectory/lsct/Documents/OtherPublications-Greg.pdf" rel="noopener noreferrer nofollow" target="_blank">More...&nbsp;</a></strong>
+</p>
 </td>
 </tr>
 </tbody>
