@@ -8,7 +8,9 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; margin: 5px;" height="auto" width="100%" alt="Gregory_Chow.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Gregory_Chow.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -19,7 +21,7 @@ description: ""
 <p><strong>Name</strong>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​Kan Siew Mun</p>
+<p>​Gregory, Chow Kheong Keat</p>
 </td>
 </tr>
 <tr>
@@ -27,7 +29,7 @@ description: ""
 <p>​<strong>Designation</strong>:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​Director</p>
+<p>​Senior lecturer</p>
 </td>
 </tr>
 <tr>
@@ -36,7 +38,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>School of Life Sciences and Chemical Technology
-<br>Blk 83, #04-00, Singapore 599489​</p>
+<br>Blk 83, #05-00, Singapore 599489​</p>
 </td>
 </tr>
 <tr>
@@ -44,7 +46,7 @@ description: ""
 <p><strong>Tel</strong>: &nbsp;&nbsp;&nbsp; ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(65) 6460 8668</p>
+<p>(65) 6460 6347</p>
 </td>
 </tr>
 <tr>
@@ -52,7 +54,7 @@ description: ""
 <p><strong>Email</strong>: ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:KAN_Siew_Mun@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">KAN_Siew_Mun@np.edu.sg</a>
+<p><a href="mailto:Gregory_CHOW@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Gregory_CHOW@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -64,27 +66,27 @@ description: ""
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>MA (Comm Mgt, UniSA)</p>
+<p>M. Phil. (Edu, Univ. Durham)​</p>
 </li>
 <li>
-<p>BSc (Hons) Botany, NUS)</p>
+<p>M. Agric. Sci (La Trobe Univ.)</p>
+</li>
+<li>
+<p>B. Agric. Sci.&nbsp; (La Trobe Univ.)</p>
 </li>
 <li>
 <p>​ACTA (IAL)</p>
-</li>
-<li>
-<p>Green Mark for Parks Assessor (NParks, BCA)</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>My favourite quote by Mahatma Gandhi:</strong>
+<p><strong>My favourite quote by Albert Einstein:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>“Man often becomes what he believes himself to be. If I keep on saying to myself that I cannot do a certain thing, it is possible that I may end by really becoming incapable of doing it. On the contrary, if I have the belief that I can do it, I shall surely acquire the capacity to do it even if I may not have it at the beginning.”</em>
+<p><em>“A ship is always safe at the shore - but that is NOT what it is built for.”</em>
 </p>
 </td>
 </tr>
@@ -94,8 +96,8 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Horticulture management, parks management, trainer for landscape courses,
-green mark for parks, plant identification​</p>
+<p>Greenhouse hydroponics, artificial light crop cultivation, aquaponics,
+plant factory, skyrise greening</p>
 </td>
 </tr>
 <tr>
@@ -106,13 +108,21 @@ green mark for parks, plant identification​</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>​NP Staff Excellence Award - Community Service and Engagement (2016)</p>
+<p>​Distinguished Scientist Award (Agriculture / Plant Nutrition) from Venus
+International Foundation, India (2015)</p>
 </li>
 <li>
-<p>Excellent Service Award (Gold) 2013</p>
+<p>Ngee Ann Staff Excellence Award (Innovation) (2011)</p>
 </li>
 <li>
-<p>​​School Teaching Award 2012/2013</p>
+<p>​​Urban Agriculture Achievement Award from Urban Agriculture&nbsp; Network-Western
+Pacific, Australia (2004)​</p>
+</li>
+<li>
+<p>Ngee Ann Staff Excellence Award (Technology) (2003)</p>
+</li>
+<li>
+<p>Ngee Ann Community Service Award (2000)</p>
 </li>
 </ul>
 </td>
@@ -125,46 +135,41 @@ green mark for parks, plant identification​</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Kan, S.M. 2016 - “Experiential Learning - Strategic Partnerships with
-the Landscape Industry”, Shaping the Future of The Landscape Industry in
-Singapore Seminar, organised by Syngenta Asia Pacific Pte Ltd. and Ngee
-Ann Polytechnic, 7 Apr 2016.</p>
+<p>Chow, K.K. (2022) Cultivating ‘One-L leafy greens’ indoors’ – A new norm
+for indoor farming? Poster presentation at the Singapore-Shizuoka Agri
+Food Forum, organised by Institute of Technical Education, Singapore (10
+Nov)​​.</p>
 </li>
 <li>
-<p>Kan, S.M. 2015 - “Delivering Experiential Learning through Collaboration
-with Industries in the Landscape Design &amp; Horticulture Sectors”, Technical
-and Vocational Education and Training (TVET) Conference, Singapore, 4 November
-2015.</p>
+<p>Chow, K.K. and Suhaime, M.S. (2020) Current development of urban farming
+in Singapore. Invited speaker at the Summer Course: Smart Agro- industry
+4.0 in tropical Countries (6 Nov). International webinar series 16 organised
+by IPB, University, Bogor.</p>
 </li>
 <li>
-<p>Chow, K.K., Saiful, A., Kan, S.M., Kueh, J., Rajam, C.T., Rekha, S.P.
-and Thittani, K.N., “Study on local sustainable plant species for sky-rise
-greenery in the tropical climate”, 2008 - 2010.</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Media Interviews:</strong>
+<p>Chow, K.K. (2020). Preliminary study of green LED on lettuce growth under
+indoor artificial light cultivation. Acta Horticulturae 1271, 107-114 DOI:
+10.17660/ActaHortic.2020.1271.15 <a href="https://doi.org/10.17660/ActaHortic.2020.1271.15" rel="noopener noreferrer nofollow" target="_blank">https://doi.org/10.17660/ActaHortic.2020.1271.15</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>One of the panelist in media interview on “Suitable plant species and
-their benefits for indoor gardening”. Good Morning Singapore, Channel 8,
-1 Aug 2014.</p>
 </li>
 <li>
-<p>“Ngee Ann Give Back Day- Bailout 2016, encouraging NP staff and students
-on pledging to do community service work”. Interview by Lian He Zao Bao
-and Capital 95.8FM, 30 May 2016. (as Chairperson for NP’s Community Service
-Committee from Jun 2014 to May 2016)</p>
+<p>Mainstreaming Aquaponics in Cities: lessons learnt from hydroponics. Keynote
+presentation at the Aquaponics Conference, Hong Kong organized by Kadoorie
+Farm &amp; Botanic Garden Corporation (26-27 Nov, 2016).</p>
 </li>
 <li>
-<p>Landscape industry in Singapore evolving. Channel News Asia, Singapore
-Tonight. 10 Jun 2016</p>
+<p>Development of a cylindrical hydroponics system for vertical farming.
+Journal of Agricultural Science and Technology B 5(2), 93-100 doi: 10.17265/2161-6264/2015.02.003
+(2015).</p>
+</li>
+<li>
+<p>​Preliminary study on the development of a cylindrical hydroponics system
+for vertical farming. Oral presentation at the Plant Factory Conference,
+Kyoto (10 – 12 Nov, 2014).</p>
+</li>
+<li>
+<p>Ngee Ann Polytechnic’s Vertical Extensive Green Wall Testing Facility.
+<a href="http://www.greenroofs.com/projects/pview.php?id=1330" rel="noopener noreferrer nofollow" target="_blank">Greenroofs.com</a>Project of the Week, 17 Oct, 2011, available <strong><a href="http://www.greenroofs.com/projects/pview.php?id=1330" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
 </li>
 </ul>
 </td>
