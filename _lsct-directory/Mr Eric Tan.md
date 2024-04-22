@@ -1,6 +1,6 @@
 ---
-title: Ms Tan Li Hua
-permalink: /ms-tan-li-hua/
+title: Mr Eric Tan
+permalink: /mr-eric-tan/
 variant: tiptap
 description: ""
 ---
@@ -9,7 +9,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tan-Lihua.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Tan-Lihua.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Eric_Tan.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Eric_Tan.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -21,7 +21,7 @@ description: ""
 <p><strong>Name</strong>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​Tan Li Hua</p>
+<p>Tan Poh Tiong Eric</p>
 </td>
 </tr>
 <tr>
@@ -29,7 +29,7 @@ description: ""
 <p>​<strong>Designation</strong>:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​Senior Executive, Admin</p>
+<p>Lead Executive, Technical​​</p>
 </td>
 </tr>
 <tr>
@@ -38,7 +38,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>School of Life Sciences and Chemical Technology
-<br>Blk 83, #08-01A, Singapore 599489​</p>
+<br>Blk 80, #06-01A, Singapore 599489​</p>
 </td>
 </tr>
 <tr>
@@ -46,7 +46,7 @@ description: ""
 <p><strong>Tel</strong>: &nbsp;&nbsp;&nbsp; ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(65) 6460 6428</p>
+<p>(65) 6460 8173</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ description: ""
 <p><strong>Email</strong>: ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:TAN_Li_Hua@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">TAN_Li_Hua@np.edu.sg</a>
+<p><a href="mailto:Eric_PT_TAN@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Eric_PT_TAN@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -66,22 +66,51 @@ description: ""
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>BSc (Biological Sciences, NTU)</p>
+<p>BSc (Molecular Genetics)</p>
 </li>
 <li>
-<p>Dip (Biomedical Science,NP)</p>
+<p>Diploma (Chemical Process Technology)</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Personal quote:</strong>
+<p><strong>My favourite quote by Albert Einstein:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"<em>Everyday is a challenge, you never know what would happen until the day is over. So embrace every day with a smile, you never know when it would brighten someone’s day with it."</em>
+<p><em>“Logic will get you from A to B.</em>
+<br><em>Imagination will take you Everywhere.”</em>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>​<strong>Technical Support​:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Molecular Biology</p>
+</li>
+<li>
+<p>Cell &amp; Molecular Biology</p>
+</li>
+<li>
+<p>Genomics &amp; Proteomics</p>
+</li>
+<li>
+<p>Instrumentation and Analytical Chemistry</p>
+</li>
+<li>
+<p>Advanced Topics in Biomedical Science (ATBMS)</p>
+</li>
+<li>
+<p>Manages the Biosafety Level II Laboratory</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>

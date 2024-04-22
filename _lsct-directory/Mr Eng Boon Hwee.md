@@ -1,6 +1,6 @@
 ---
-title: Mrs Yeo Lim Sor Khim
-permalink: /mrs-yeo-lim-sor-khim/
+title: Mr Eng Boon Hwee
+permalink: /mr-eng-boon-hwee/
 variant: tiptap
 description: ""
 ---
@@ -9,7 +9,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="sor khim" src="/images/Sorkhim.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Boon_Hwee.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Boon_Hwee.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -21,7 +21,7 @@ description: ""
 <p><strong>Name</strong>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​Yeo Lim Sor Khim</p>
+<p>​Eng Boon Hwee</p>
 </td>
 </tr>
 <tr>
@@ -29,7 +29,7 @@ description: ""
 <p>​<strong>Designation</strong>:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​​Sr Executive, Admin (Secretary)</p>
+<p>​Senior Manager ​(Technical​ &amp; Admin Support​)</p>
 </td>
 </tr>
 <tr>
@@ -38,7 +38,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>School of Life Sciences and Chemical Technology
-<br>Blk 83, #04-00, Singapore 599489​</p>
+<br>Blk 83, #05-00, Singapore 599489​</p>
 </td>
 </tr>
 <tr>
@@ -46,7 +46,7 @@ description: ""
 <p><strong>Tel</strong>: &nbsp;&nbsp;&nbsp; ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(65) 6460 8011</p>
+<p>(65) 6460 8548</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ description: ""
 <p><strong>Email</strong>: ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:YEO-LIM_Sor_Khim@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">YEO-LIM_Sor_Khim@np.edu.sg</a>
+<p><a href="mailto:ENG_Boon_Hwee@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ENG_Boon_Hwee@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -66,23 +66,21 @@ description: ""
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Certificate in General Travel Knowledge at Louis Preston Travel &amp;
-Tourism Training Centre, Singapore (1998)</p>
+<p>​BSc (Mathematics with Economics)</p>
 </li>
 <li>
-<p>Certificate in Training Management at NPB Institute for Productivity Training
-(1993)</p>
+<p>Diploma in Civil and Structural Engineering</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>My favourite quote by Steve Jobs:</strong>
+<p><strong>My favourite quote:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>“Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.”</em>
+<p><em>“We cannot afford to waste any more time in saving our planet. Educating our younger generation on the risks of climate change and inculcating good recycling habits need to start now.”</em>
 </p>
 </td>
 </tr>
@@ -92,8 +90,7 @@ Tourism Training Centre, Singapore (1998)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Horticulture management, parks management, trainer for landscape courses,
-green mark for parks, plant identification​​</p>
+<p>Environment Engineering, Event Management​</p>
 </td>
 </tr>
 <tr>
@@ -104,10 +101,16 @@ green mark for parks, plant identification​​</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>​Community Service &amp; Engagement (NP Staff Excellence Award – 2016)</p>
+<p>​Long Service Medal (2021)</p>
 </li>
 <li>
-<p>Go The Extra Mile (GEM) award (2007)</p>
+<p>​NEA EcoFriend Award under the Public Sector Category (2016)</p>
+</li>
+<li>
+<p>​​NP Staff Excellence Award - Community and Service (2016)</p>
+</li>
+<li>
+<p>Efficiency Award (Pingat Berkebolehan) (2016)&nbsp;</p>
 </li>
 </ul>
 </td>

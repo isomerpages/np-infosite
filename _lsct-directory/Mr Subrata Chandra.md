@@ -1,6 +1,6 @@
 ---
 title: Mr Subrata Chandra
-permalink: /staff-directory/lsct/subrata-chanda/
+permalink: /mr-subrata-chanda/
 variant: tiptap
 description: ""
 ---

@@ -1,6 +1,6 @@
 ---
-title: Ms Tan Siew Peng, Sharon
-permalink: /ms-tan-siew-peng-sharon/
+title: Mr Mirko Stoll
+permalink: /mr-mirko-stoll/
 variant: tiptap
 description: ""
 ---
@@ -9,16 +9,11 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sharon_Tan.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Sharon_Tan.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mirko_Stoll.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Mirko_Stoll.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>I've been through multiple unexpected challenges in life which in turn
-transform me into a stronger person who will strive to overcome any obstacle
-along the way.
-<br>I love making new acquaintances - to talk about anything under the sun
-and I believe we can learn new and surprising discovery/knowledge through
-chatting.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -26,7 +21,7 @@ chatting.</p>
 <p><strong>Name</strong>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​Tan Siew Peng Sharon</p>
+<p>​Mirko Stoll</p>
 </td>
 </tr>
 <tr>
@@ -34,7 +29,7 @@ chatting.</p>
 <p>​<strong>Designation</strong>:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​Senior Executive, Admin</p>
+<p>​Assistant Director (Academic Quality)</p>
 </td>
 </tr>
 <tr>
@@ -51,7 +46,7 @@ chatting.</p>
 <p><strong>Tel</strong>: &nbsp;&nbsp;&nbsp; ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(65) 6460 7073</p>
+<p>(65) 6460 8927</p>
 </td>
 </tr>
 <tr>
@@ -59,7 +54,7 @@ chatting.</p>
 <p><strong>Email</strong>: ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Sharon_SP_TAN@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Sharon_TP_TAN@np.edu.sg</a>
+<p><a href="mailto:Mirko_STOLL@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mirko_STOLL@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -71,36 +66,52 @@ chatting.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Diploma in Information Communication Technology</p>
+<p>MEd (Uni Adelaide)</p>
+</li>
+<li>
+<p>Dipl. Ing (Chem Eng, Germany)</p>
+</li>
+<li>
+<p>​ACTA (IAL)</p>
+</li>
+<li>
+<p>European Quality Manager (Germany)</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>My favourite quote by Jack Ma:</strong>
+<p><strong>My favourite quote by Lester Burnham, American Beauty:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>“Never give up. Today is hard, Tomorrow will be worse, but the day after tomorrow will be Sunshine.”</em>
+<p><em>"It's a great thing when you realize you still have the ability to surprise yourself. Makes you wonder what else you can do that you've forgotten about."</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Publications, Patents, Projects, Consultancy:</strong>
+<p><strong>Professional Expertise​:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quality management (ISO 9001), chemical engineering, workplace safety
+and health, education, pedagogy and technology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Awards &amp; Achievements​:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Member of Blockchain team that worked on OpenCerts, a platform for certificates.
-OpenCerts is a blockchain-based platform that enables the issue and verification
-of digital certificates.</p>
+<p>School Teaching Award (2013 and 2010)</p>
 </li>
 <li>
-<p>​Involved in system testing and set-up phases for the successful implementation
-of an online service request system for students.</p>
+<p>​IChemE – Singapore Excellence and Innovation Award - Education (2013)</p>
 </li>
 </ul>
 </td>

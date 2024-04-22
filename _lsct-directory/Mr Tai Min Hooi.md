@@ -1,6 +1,6 @@
 ---
-title: Mrs Yeo Lim Sor Khim
-permalink: /mrs-yeo-lim-sor-khim/
+title: Mr Tai Min Hooi
+permalink: /mr-tai-min-hooi/
 variant: tiptap
 description: ""
 ---
@@ -9,7 +9,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="sor khim" src="/images/Sorkhim.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Min_Hooi.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Min_Hooi.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -21,7 +21,7 @@ description: ""
 <p><strong>Name</strong>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​Yeo Lim Sor Khim</p>
+<p>​Tai Min Hooi</p>
 </td>
 </tr>
 <tr>
@@ -29,7 +29,7 @@ description: ""
 <p>​<strong>Designation</strong>:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​​Sr Executive, Admin (Secretary)</p>
+<p>Course Chair (Pharmaceutical​​ Science)</p>
 </td>
 </tr>
 <tr>
@@ -38,7 +38,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>School of Life Sciences and Chemical Technology
-<br>Blk 83, #04-00, Singapore 599489​</p>
+<br>Blk 83, #05-00, Singapore 599489​</p>
 </td>
 </tr>
 <tr>
@@ -46,7 +46,7 @@ description: ""
 <p><strong>Tel</strong>: &nbsp;&nbsp;&nbsp; ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(65) 6460 8011</p>
+<p>(65) 6460 7802</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ description: ""
 <p><strong>Email</strong>: ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:YEO-LIM_Sor_Khim@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">YEO-LIM_Sor_Khim@np.edu.sg</a>
+<p><a href="mailto:TAI_Min_Hooi@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">TAI_Min_Hooi@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -66,24 +66,34 @@ description: ""
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Certificate in General Travel Knowledge at Louis Preston Travel &amp;
-Tourism Training Centre, Singapore (1998)</p>
+<p>M. Appl. Sc&nbsp; (Mol. Biotech)</p>
 </li>
 <li>
-<p>Certificate in Training Management at NPB Institute for Productivity Training
-(1993)</p>
+<p>B. Biomed. Sc (Medical Laboratory Science)</p>
+</li>
+<li>
+<p>​ASCP<sup>i</sup> (International Medical Laboratory Scientist)</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>My favourite quote by Steve Jobs:</strong>
+<p><strong>My favourite quote by Robert Frost:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>“Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.”</em>
+<p><em>“Education is the ability to listen to almost anything without losing your temper or your self-confidence.”</em>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Professional Associations:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>​American Society of Clinical Pathology (ASCP), Singapore Advisory Board</p>
 </td>
 </tr>
 <tr>
@@ -92,8 +102,8 @@ Tourism Training Centre, Singapore (1998)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Horticulture management, parks management, trainer for landscape courses,
-green mark for parks, plant identification​​</p>
+<p>Medical laboratory science (clinical chemistry, clinical haematology,
+endocrinology), anatomy &amp; histology, chinese calligraphy</p>
 </td>
 </tr>
 <tr>
@@ -104,10 +114,27 @@ green mark for parks, plant identification​​</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>​Community Service &amp; Engagement (NP Staff Excellence Award – 2016)</p>
+<p>International Medical Laboratory Scientist , ASCP<sup>i</sup>
+</p>
 </li>
 <li>
-<p>Go The Extra Mile (GEM) award (2007)</p>
+<p>School Teaching Award (2016)</p>
+</li>
+<li>
+<p>​​Excellence Service Award (Gold Award) (2016)&nbsp;</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Publications, Patents, Projects, Consultancy:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>​Conjugation of antibodies to gold nanoparticles.</p>
 </li>
 </ul>
 </td>

@@ -1,6 +1,6 @@
 ---
-title: Ms Tan Li Hua
-permalink: /ms-tan-li-hua/
+title: Mrs Goh Koh Yin Lian
+permalink: /mrs-goh-koh-yin-lian/
 variant: tiptap
 description: ""
 ---
@@ -9,7 +9,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tan-Lihua.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Tan-Lihua.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Yin_Lian.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Yin_Lian.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -21,7 +21,7 @@ description: ""
 <p><strong>Name</strong>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​Tan Li Hua</p>
+<p>​Goh-Koh Yin Lian</p>
 </td>
 </tr>
 <tr>
@@ -29,7 +29,7 @@ description: ""
 <p>​<strong>Designation</strong>:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​Senior Executive, Admin</p>
+<p>Senior Executive, Technical​​</p>
 </td>
 </tr>
 <tr>
@@ -38,7 +38,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>School of Life Sciences and Chemical Technology
-<br>Blk 83, #08-01A, Singapore 599489​</p>
+<br>Blk 82, #02-06, Singapore 599489​</p>
 </td>
 </tr>
 <tr>
@@ -46,7 +46,7 @@ description: ""
 <p><strong>Tel</strong>: &nbsp;&nbsp;&nbsp; ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(65) 6460 6428</p>
+<p>(65) 6460 6931​</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ description: ""
 <p><strong>Email</strong>: ​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:TAN_Li_Hua@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">TAN_Li_Hua@np.edu.sg</a>
+<p><a href="mailto:GOH-KOH_Yin_Lian@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">GOH-KOH_Yin_Lian@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -66,22 +66,43 @@ description: ""
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>BSc (Biological Sciences, NTU)</p>
-</li>
-<li>
-<p>Dip (Biomedical Science,NP)</p>
+<p>Diploma in Chemical Process Technology</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Personal quote:</strong>
+<p><strong>My favourite quote by William Londen:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>"<em>Everyday is a challenge, you never know what would happen until the day is over. So embrace every day with a smile, you never know when it would brighten someone’s day with it."</em>
+<p><em>"To insure good health: Eat lightly, breathe deeply, live moderately, exercise, cultivate cheerfulness, and maintain an interest in life."</em>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Professional Expertise:</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Instrumentation, Pharmaceutical Analysis, Analytical Chemistry</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Awards &amp; Achievements​:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>​Long Service Award 2008</p>
+</li>
+<li>
+<p>​Long Service Award 2013</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>

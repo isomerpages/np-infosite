@@ -20,14 +20,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/staff-directory/lsct/subrata-chanda/" rel="noopener noreferrer nofollow" target="_blank">​Subrata Chanda, Mr</a>
+<p>​<a href="/ms-kan-siew-mun/" rel="noopener noreferrer nofollow" target="_blank">Kan Siew Mun, Ms&nbsp;</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​64606809​</p>
+<p>64608668</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Subrata_CHANDA@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Subrata_CHANDA@np.edu.sg​</a>
+<p><a href="mailto:KAN_Siew_Mun@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">KAN_Siew_Mun@np.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -44,7 +44,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​​<strong>​​​​​​​​Director (Designate)​</strong>
+<p><strong>Senior Advisor</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -56,14 +56,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="/staff-directory/lsct/kan-siew-mun/" rel="noopener noreferrer nofollow" target="_blank">Kan Siew Mun, Ms&nbsp;</a>
+<p>​<a href="/mr-subrata-chanda/" rel="noopener noreferrer nofollow" target="_blank">​Subrata Chanda, Mr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64608668</p>
+<p>64606809​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:KAN_Siew_Mun@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">KAN_Siew_Mun@np.edu.sg</a>
+<p><a href="mailto:Subrata_CHANDA@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Subrata_CHANDA@np.edu.sg​</a>
 </p>
 </td>
 </tr>
@@ -92,7 +92,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/staff-directory/lsct/yeo-lim-sor-khim/" rel="noopener noreferrer nofollow" target="_blank">​Yeo-Lim Sor Khim, Mrs</a>
+<p><a href="/mrs-yeo-lim-sor-khim/" rel="noopener noreferrer nofollow" target="_blank">​Yeo-Lim Sor Khim, Mrs</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -128,7 +128,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Quek_Choon.aspx" rel="noopener noreferrer nofollow" target="_blank">​Lau Quek Choon, Dr</a>
+<p><a href="/dr-lau-quek-choon/" rel="noopener noreferrer nofollow" target="_blank">​Lau Quek Choon, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -140,7 +140,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Kim-Sung.aspx" rel="noopener noreferrer nofollow" target="_blank">​Lee Kim Sung David, Dr&nbsp;</a>
+<p>​<a href="/dr-lee-kim-sung-david/" rel="noopener noreferrer nofollow" target="_blank">​Lee Kim Sung David, Dr&nbsp;</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -153,7 +153,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Kenneth_Lee.aspx" rel="noopener noreferrer nofollow" target="_blank">​Lee Ming Kei Kenneth, Dr<br></a>
+<p>​<a href="/dr-lee-ming-kei-kenneth/" rel="noopener noreferrer nofollow" target="_blank">​Lee Ming Kei Kenneth, Dr<br></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -189,7 +189,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Scottz_LIP.aspx" rel="noopener noreferrer nofollow" target="_blank">Lip Kuo Ming Scottz, Mr<br></a>
+<p><a href="/mr-lip-kuo-ming-scottz/" rel="noopener noreferrer nofollow" target="_blank">Lip Kuo Ming Scottz, Mr<br></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -202,7 +202,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Mariam_Mathew.aspx" rel="noopener noreferrer nofollow" target="_blank">​Mariam Mathew, Ms<br></a>
+<p><a href="/ms-mariam-mathew/" rel="noopener noreferrer nofollow" target="_blank">​Mariam Mathew, Ms<br></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -215,7 +215,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Mirko_Stoll.aspx" rel="noopener noreferrer nofollow" target="_blank">​Mirko Stoll, Mr<br></a>
+<p><a href="/mr-mirko-stoll/" rel="noopener noreferrer nofollow" target="_blank">​Mirko Stoll, Mr<br></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -228,7 +228,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Kim_Tat.aspx" rel="noopener noreferrer nofollow" target="_blank">​Teoh Kim Tat, Dr</a>
+<p><a href="/dr-teoh-kim-tat/" rel="noopener noreferrer nofollow" target="_blank">​Teoh Kim Tat, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -241,7 +241,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Yew_Loong.aspx" rel="noopener noreferrer nofollow" target="_blank">​Wong Yew Loong, Andy,&nbsp;Mr<br></a>
+<p>​<a href="/mr-wong-yew-loong-andy/" rel="noopener noreferrer nofollow" target="_blank">​Wong Yew Loong, Andy,&nbsp;Mr<br></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -276,7 +276,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Weng_Keong.aspx" rel="noopener noreferrer nofollow" target="_blank">​Choy Weng Keong, Dr<br></a>
+<p><a href="/dr-choy-weng-keong/" rel="noopener noreferrer nofollow" target="_blank">​Choy Weng Keong, Dr<br></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -311,7 +311,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Joanne_Lim.aspx" rel="noopener noreferrer nofollow" target="_blank">Lim Siok Liu Joanne, Dr</a>
+<p>​<a href="/dr-lim-siok-liu-joanne/" rel="noopener noreferrer nofollow" target="_blank">Lim Siok Liu Joanne, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -347,7 +347,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Akasta_Sinaga.aspx" rel="noopener noreferrer nofollow" target="_blank">​Akasta Sinaga, Dr</a>
+<p><a href="/dr-akasta-sinaga/" rel="noopener noreferrer nofollow" target="_blank">​Akasta Sinaga, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -360,7 +360,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Guo_Huiling.aspx" rel="noopener noreferrer nofollow" target="_blank">Guo Huiling, Dr​<br></a>
+<p>​<a href="/dr-guo-huiling/" rel="noopener noreferrer nofollow" target="_blank">Guo Huiling, Dr​<br></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -373,7 +373,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Corliss_Lin.aspx" rel="noopener noreferrer nofollow" target="_blank">​Lin Shuning Corliss, Ms<br></a>
+<p>​<a href="/ms-lin-shuning-corliss/" rel="noopener noreferrer nofollow" target="_blank">​Lin Shuning Corliss, Ms<br></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -386,7 +386,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Sujit_Dutta.aspx" rel="noopener noreferrer nofollow" target="_blank">​Sujit Krishna Dutta, Dr<br></a>
+<p><a href="/dr-sujit-krishna-dutta/" rel="noopener noreferrer nofollow" target="_blank">​Sujit Krishna Dutta, Dr<br></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -399,7 +399,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Min_Hooi.aspx" rel="noopener noreferrer nofollow" target="_blank">​Tai Min Hooi,&nbsp;Mr<br></a>
+<p><a href="/mr-tai-min-hooi/" rel="noopener noreferrer nofollow" target="_blank">​Tai Min Hooi,&nbsp;Mr<br></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -435,7 +435,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Joon_Lin.aspx" rel="noopener noreferrer nofollow" target="_blank">​Chew Joon Lin, Dr</a>
+<p>​<a href="/dr-chew-joon-lin/" rel="noopener noreferrer nofollow" target="_blank">​Chew Joon Lin, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -448,7 +448,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Chris_Chia.aspx" rel="noopener noreferrer nofollow" target="_blank">Chia Wan Ye&nbsp; Chris, Ms</a>
+<p>​<a href="/ms-chia-wan-ye-chris/" rel="noopener noreferrer nofollow" target="_blank">Chia Wan Ye&nbsp; Chris, Ms</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -461,7 +461,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Gregory_Chow.aspx" rel="noopener noreferrer nofollow" target="_blank">​Chow Kheong Keat Gregory, Mr</a>
+<p>​<a href="/mr-chow-kheong-keat-gregory/" rel="noopener noreferrer nofollow" target="_blank">​Chow Kheong Keat Gregory, Mr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -474,7 +474,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Geng_Anli.aspx" rel="noopener noreferrer nofollow" target="_blank">​Geng Anli, Dr</a>
+<p><a href="/dr-geng-anli/" rel="noopener noreferrer nofollow" target="_blank">​Geng Anli, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -487,7 +487,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/She_Poh.aspx" rel="noopener noreferrer nofollow" target="_blank">​Goh She Poh, Mr</a>
+<p><a href="/mr-goh-she-poh/" rel="noopener noreferrer nofollow" target="_blank">​Goh She Poh, Mr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -500,7 +500,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Hamdan_Hamid.aspx" rel="noopener noreferrer nofollow" target="_blank">Hamdan B Abdul Hamid, Mr</a>
+<p>​<a href="/mr-hamdan-b-abdul-hamid/" rel="noopener noreferrer nofollow" target="_blank">Hamdan B Abdul Hamid, Mr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -512,7 +512,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​​<a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Olivia_Ho.aspx" rel="noopener noreferrer nofollow" target="_blank">Ho Huixian Olivia , Ms<br></a>
+<p>​​<a href="/ms-ho-huixian-olivia/" rel="noopener noreferrer nofollow" target="_blank">Ho Huixian Olivia , Ms<br></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -525,7 +525,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​​<a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Tiong_Cheng.aspx" rel="noopener noreferrer nofollow" target="_blank">​Neo Tiong Cheng, Mr</a>
+<p>​​<a href="/mr-neo-tiong-cheng/" rel="noopener noreferrer nofollow" target="_blank">​Neo Tiong Cheng, Mr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -538,7 +538,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​​​<a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Neviliappan_Shanmugam.aspx" rel="noopener noreferrer nofollow" target="_blank">Neviliappan Shanmugam, Dr</a>
+<p>​​​<a href="/dr-neviliappan-shanmugam/" rel="noopener noreferrer nofollow" target="_blank">Neviliappan Shanmugam, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -551,7 +551,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Jen_Yan.aspx" rel="noopener noreferrer nofollow" target="_blank">​New Jen Yan, Dr</a>
+<p><a href="/dr-new-jen-yan/" rel="noopener noreferrer nofollow" target="_blank">​New Jen Yan, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -564,7 +564,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Eddie_Ong.aspx" rel="noopener noreferrer nofollow" target="_blank">​Ong Hon Eddie, Dr</a>
+<p><a href="/dr-ong-hon-eddie/" rel="noopener noreferrer nofollow" target="_blank">​Ong Hon Eddie, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -577,7 +577,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Prity_Subhasish.aspx" rel="noopener noreferrer nofollow" target="_blank">​Preety Mukherjee, Ms</a>
+<p><a href="/ms-prity-subhasish-mukherjee/" rel="noopener noreferrer nofollow" target="_blank">​Preety Mukherjee, Ms</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -590,7 +590,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Saiful_Anuar.aspx" rel="noopener noreferrer nofollow" target="_blank">​Saiful Anuar, Mr</a>
+<p><a href="/mr-saiful-anuar/" rel="noopener noreferrer nofollow" target="_blank">​Saiful Anuar, Mr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -603,7 +603,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Eng_Lam.aspx" rel="noopener noreferrer nofollow" target="_blank">​Soh Eng Lam, Mr</a>
+<p><a href="/mr-soh-eng-lam/" rel="noopener noreferrer nofollow" target="_blank">​Soh Eng Lam, Mr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -616,7 +616,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Song_Shiwei.aspx" rel="noopener noreferrer nofollow" target="_blank">​Song ShiWei, Dr</a>
+<p><a href="/dr-song-shiwei/" rel="noopener noreferrer nofollow" target="_blank">​Song ShiWei, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -629,7 +629,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Surinam_Sumsudin.aspx" rel="noopener noreferrer nofollow" target="_blank">Surinam Sumsudin, Ms<br></a>
+<p>​<a href="/ms-surinam-sumsudin/" rel="noopener noreferrer nofollow" target="_blank">Surinam Sumsudin, Ms<br></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -642,7 +642,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​​<a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Su_Jincai.aspx" rel="noopener noreferrer nofollow" target="_blank">​Su Jincai, Dr</a>
+<p>​​<a href="/dr-su-jincai/" rel="noopener noreferrer nofollow" target="_blank">​Su Jincai, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -655,7 +655,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Sumita_Achuthan.aspx" rel="noopener noreferrer nofollow" target="_blank">​Sumita Achuthan, Ms</a>
+<p><a href="/ms-sumita-achuthan/" rel="noopener noreferrer nofollow" target="_blank">​Sumita Achuthan, Ms</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -668,7 +668,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​​​​<a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Timothy_Tan.aspx" rel="noopener noreferrer nofollow" target="_blank">​Tan Hoe Peng Timothy, Dr</a>
+<p>​​​​<a href="/dr-tan-hoe-peng-timothy/" rel="noopener noreferrer nofollow" target="_blank">​Tan Hoe Peng Timothy, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -681,7 +681,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Wayne_Forday.aspx" rel="noopener noreferrer nofollow" target="_blank">Wayne Lee Forday, Dr</a>
+<p>​<a href="/dr-wayne-lee-forday/" rel="noopener noreferrer nofollow" target="_blank">Wayne Lee Forday, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -694,7 +694,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Noel_Xu.aspx" rel="noopener noreferrer nofollow" target="_blank">Xu QingXing Noel. Dr</a>
+<p>​<a href="/dr-xu-qingxing-noel/" rel="noopener noreferrer nofollow" target="_blank">Xu QingXing Noel. Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -707,7 +707,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Zhou_Xingding.aspx" rel="noopener noreferrer nofollow" target="_blank">​Zhou Xingding, Dr</a>
+<p>​<a href="/dr-zhou-xingding/" rel="noopener noreferrer nofollow" target="_blank">​Zhou Xingding, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -720,7 +720,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/John_Zhu.aspx" rel="noopener noreferrer nofollow" target="_blank">​Zhu Congju John, Dr</a>
+<p><a href="/dr-zhu-congju-john/" rel="noopener noreferrer nofollow" target="_blank">​Zhu Congju John, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -756,7 +756,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Rajam_Chitra.aspx" rel="noopener noreferrer nofollow" target="_blank">Chitra Rajam, Dr</a>
+<p>​<a href="/dr-chitra-rajam/" rel="noopener noreferrer nofollow" target="_blank">Chitra Rajam, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -769,7 +769,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Geeta_Bansal.aspx" rel="noopener noreferrer nofollow" target="_blank">Geeta Bansal, Dr</a>
+<p>​<a href="/dr-geeta-bansal/" rel="noopener noreferrer nofollow" target="_blank">Geeta Bansal, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -782,7 +782,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​​<a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Huang_Yinyi.aspx" rel="noopener noreferrer nofollow" target="_blank">​Huang Yinyi, Dr</a>
+<p>​​<a href="/dr-huang-yinyi/" rel="noopener noreferrer nofollow" target="_blank">​Huang Yinyi, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -795,7 +795,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Li_Cunben.aspx" rel="noopener noreferrer nofollow" target="_blank">​Li Cunben, Dr</a>
+<p><a href="/dr-li-cunben/" rel="noopener noreferrer nofollow" target="_blank">​Li Cunben, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -807,7 +807,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Hui_Li.aspx" rel="noopener noreferrer nofollow" target="_blank">​Ng Hui Li, Dr</a>
+<p>​<a href="/dr-ng-hui-li/" rel="noopener noreferrer nofollow" target="_blank">​Ng Hui Li, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -820,7 +820,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Seahmala_Muniandy.aspx" rel="noopener noreferrer nofollow" target="_blank">Seahmala Muniandy. Ms​</a>
+<p><a href="/ms-seahmala-muniandy/" rel="noopener noreferrer nofollow" target="_blank">Seahmala Muniandy. Ms​</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -833,7 +833,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Chun_Ming.aspx" rel="noopener noreferrer nofollow" target="_blank">Teoh Chun Ming, Dr</a>
+<p>​<a href="/dr-teoh-chun-ming/" rel="noopener noreferrer nofollow" target="_blank">Teoh Chun Ming, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -846,7 +846,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Soo_Ting.aspx" rel="noopener noreferrer nofollow" target="_blank">​Toh Soo Ting, Dr</a>
+<p><a href="/dr-toh-soo-ting/" rel="noopener noreferrer nofollow" target="_blank">​Toh Soo Ting, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -859,7 +859,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Xiong_Junying.aspx" rel="noopener noreferrer nofollow" target="_blank">Xiong Junying, Dr</a>
+<p>​<a href="/dr-xiong-junying/" rel="noopener noreferrer nofollow" target="_blank">Xiong Junying, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -895,7 +895,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Boon_Hwee.aspx" rel="noopener noreferrer nofollow" target="_blank">​Eng Boon Hwee, Mr</a>
+<p><a href="/mr-eng-boon-hwee/" rel="noopener noreferrer nofollow" target="_blank">​Eng Boon Hwee, Mr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -931,7 +931,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Hooi_Huang.aspx" rel="noopener noreferrer nofollow" target="_blank">Chuah Hooi Huang, Ms</a>
+<p>​<a href="/ms-chuah-hooi-huang/" rel="noopener noreferrer nofollow" target="_blank">Chuah Hooi Huang, Ms</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -967,7 +967,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Eric_Tan.aspx" rel="noopener noreferrer nofollow" target="_blank">​Tan Poh Tiong Eric, Mr</a>​​</p>
+<p>​<a href="/mr-tan-poh-tiong-eric/" rel="noopener noreferrer nofollow" target="_blank">​Tan Poh Tiong Eric, Mr</a>​​</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>​64608173</p>
@@ -1002,7 +1002,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​​<a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Brandan_Rodrigues.aspx" rel="noopener noreferrer nofollow" target="_blank">Brandan Rodrigues, Mr</a>
+<p>​​<a href="/mr-brandan-rodrigues/" rel="noopener noreferrer nofollow" target="_blank">Brandan Rodrigues, Mr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1015,7 +1015,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Clara_Chee.aspx" rel="noopener noreferrer nofollow" target="_blank">Chee-Wong Poh Chee Clara, Mrs</a>
+<p>​<a href="/mrs-chee-wong-poh-chee-clara/" rel="noopener noreferrer nofollow" target="_blank">Chee-Wong Poh Chee Clara, Mrs</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1028,7 +1028,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Joshua_Chew.aspx" rel="noopener noreferrer nofollow" target="_blank">​Chew Wei Ren, Joshua, Mr</a>
+<p><a href="/mr-chew-wei-ren-joshua/" rel="noopener noreferrer nofollow" target="_blank">​Chew Wei Ren, Joshua, Mr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1041,7 +1041,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​​<a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Yin_Lian.aspx" rel="noopener noreferrer nofollow" target="_blank">Goh-Koh Yin Lian, Mrs</a>
+<p>​​<a href="/mrs-goh-koh-yin-lian/" rel="noopener noreferrer nofollow" target="_blank">Goh-Koh Yin Lian, Mrs</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1054,7 +1054,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Lay_Pheck.aspx" rel="noopener noreferrer nofollow" target="_blank">​Khoo Lay Pheck, Ms</a>
+<p><a href="/ms-khoo-lay-pheck/" rel="noopener noreferrer nofollow" target="_blank">​Khoo Lay Pheck, Ms</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1067,7 +1067,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Yu_Hua.aspx" rel="noopener noreferrer nofollow" target="_blank">​Lau Yu Hua, Ms</a>
+<p><a href="/ms-lau-yu-hua/" rel="noopener noreferrer nofollow" target="_blank">​Lau Yu Hua, Ms</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1080,7 +1080,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Hui_Nee.aspx" rel="noopener noreferrer nofollow" target="_blank">Loh Hui Nee, Miss</a>
+<p>​<a href="/ms-loh-hui-nee/" rel="noopener noreferrer nofollow" target="_blank">Loh Hui Nee, Miss</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1093,7 +1093,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Mohd_Modhar.aspx" rel="noopener noreferrer nofollow" target="_blank">Mohd Modhar, Mr</a>
+<p>​<a href="/mr-mohd-modhar/" rel="noopener noreferrer nofollow" target="_blank">Mohd Modhar, Mr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1106,7 +1106,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Karuppiah_Narayanan.aspx" rel="noopener noreferrer nofollow" target="_blank">Narayanan Thittani, Mr</a>
+<p>​<a href="/mr-karuppiah-narayanan/" rel="noopener noreferrer nofollow" target="_blank">Narayanan Thittani, Mr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1119,7 +1119,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Peh_See.aspx" rel="noopener noreferrer nofollow" target="_blank">​Neo Peh See, Miss</a>
+<p><a href="/ms-neo-peh-see/" rel="noopener noreferrer nofollow" target="_blank">​Neo Peh See, Miss</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1132,7 +1132,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Sarala_Raju.aspx" rel="noopener noreferrer nofollow" target="_blank">​Sarala Raju, Mrs</a>
+<p><a href="/mrs-sarala-raju/" rel="noopener noreferrer nofollow" target="_blank">​Sarala Raju, Mrs</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1145,7 +1145,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​​​<a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Puay_Peng.aspx" rel="noopener noreferrer nofollow" target="_blank">Tang Puay Peng, Mr</a>
+<p>​​​<a href="/mr-tang-puay-peng/" rel="noopener noreferrer nofollow" target="_blank">Tang Puay Peng, Mr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1158,7 +1158,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Stephanie_Wong.aspx" rel="noopener noreferrer nofollow" target="_blank">Wong Li Xing Stephanie, Ms</a>
+<p>​<a href="/ms-wong-li-xing-stephanie/" rel="noopener noreferrer nofollow" target="_blank">Wong Li Xing Stephanie, Ms</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1171,7 +1171,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Vincent_Yik.aspx" rel="noopener noreferrer nofollow" target="_blank">Yik Wai Kin Vincent​, Mr</a>
+<p><a href="/mr-yik-wai-kin-vincent/" rel="noopener noreferrer nofollow" target="_blank">Yik Wai Kin Vincent​, Mr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1207,7 +1207,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Eva_Chua.aspx" rel="noopener noreferrer nofollow" target="_blank">Chua Pei Shan Eva, Ms</a>
+<p>​<a href="/ms-chua-pei-shan-eva/" rel="noopener noreferrer nofollow" target="_blank">Chua Pei Shan Eva, Ms</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1243,7 +1243,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Christina_Ching.aspx" rel="noopener noreferrer nofollow" target="_blank">Ching Kwee Leng Christina, Ms</a>
+<p><a href="/ms-ching-kwee-leng-christina/" rel="noopener noreferrer nofollow" target="_blank">Ching Kwee Leng Christina, Ms</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1256,7 +1256,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Li_Hua.aspx" rel="noopener noreferrer nofollow" target="_blank">Tan Li Hua, Ms</a>
+<p>​<a href="/ms-tan-li-hua/" rel="noopener noreferrer nofollow" target="_blank">Tan Li Hua, Ms</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1269,7 +1269,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​​<a href="https://www2.np.edu.sg/staffdirectory/lsct/Pages/Sharon_Tan.aspx" rel="noopener noreferrer nofollow" target="_blank">Tan Siew Peng, Sharon Ms</a>
+<p>​​<a href="/ms-tan-siew-peng-sharon/" rel="noopener noreferrer nofollow" target="_blank">Tan Siew Peng, Sharon Ms</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
