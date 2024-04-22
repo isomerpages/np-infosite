@@ -895,7 +895,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/staffdirectory/lsct/mr-eng-boon-hwee/" rel="noopener noreferrer nofollow" target="_blank">​Eng Boon Hwee, Mr</a>
+<p><a href="/mr-eng-boon-hwee/" rel="noopener noreferrer nofollow" target="_blank">​Eng Boon Hwee, Mr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -931,7 +931,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="/staffdirectory/lsct/ms-chuah-hooi-huang/" rel="noopener noreferrer nofollow" target="_blank">Chuah Hooi Huang, Ms</a>
+<p>​<a href="/ms-chuah-hooi-huang/" rel="noopener noreferrer nofollow" target="_blank">Chuah Hooi Huang, Ms</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -967,7 +967,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="/staffdirectory/lsct/mr-tan-poh-tiong-eric/" rel="noopener noreferrer nofollow" target="_blank">​Tan Poh Tiong Eric, Mr</a>​​</p>
+<p>​<a href="/mr-tan-poh-tiong-eric/" rel="noopener noreferrer nofollow" target="_blank">​Tan Poh Tiong Eric, Mr</a>​​</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>​64608173</p>
@@ -1002,7 +1002,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​​<a href="/staffdirectory/lsct/mr-brandan-rodrigues/" rel="noopener noreferrer nofollow" target="_blank">Brandan Rodrigues, Mr</a>
+<p>​​<a href="/mr-brandan-rodrigues/" rel="noopener noreferrer nofollow" target="_blank">Brandan Rodrigues, Mr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1015,7 +1015,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="/staffdirectory/lsct/mrs-chee-wong-poh-chee-clara/" rel="noopener noreferrer nofollow" target="_blank">Chee-Wong Poh Chee Clara, Mrs</a>
+<p>​<a href="/mrs-chee-wong-poh-chee-clara/" rel="noopener noreferrer nofollow" target="_blank">Chee-Wong Poh Chee Clara, Mrs</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1028,7 +1028,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/staffdirectory/lsct/mr-chew-wei-ren-joshua/" rel="noopener noreferrer nofollow" target="_blank">​Chew Wei Ren, Joshua, Mr</a>
+<p><a href="/mr-chew-wei-ren-joshua/" rel="noopener noreferrer nofollow" target="_blank">​Chew Wei Ren, Joshua, Mr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1041,7 +1041,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​​<a href="/staffdirectory/lsct/mrs-goh-koh-yin-lian/" rel="noopener noreferrer nofollow" target="_blank">Goh-Koh Yin Lian, Mrs</a>
+<p>​​<a href="/mrs-goh-koh-yin-lian/" rel="noopener noreferrer nofollow" target="_blank">Goh-Koh Yin Lian, Mrs</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1054,7 +1054,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/staffdirectory/lsct/ms-khoo-lay-pheck/" rel="noopener noreferrer nofollow" target="_blank">​Khoo Lay Pheck, Ms</a>
+<p><a href="/ms-khoo-lay-pheck/" rel="noopener noreferrer nofollow" target="_blank">​Khoo Lay Pheck, Ms</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1067,7 +1067,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/staffdirectory/lsct/ms-lau-yu-hua/" rel="noopener noreferrer nofollow" target="_blank">​Lau Yu Hua, Ms</a>
+<p><a href="/ms-lau-yu-hua/" rel="noopener noreferrer nofollow" target="_blank">​Lau Yu Hua, Ms</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1080,7 +1080,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="/staffdirectory/lsct/ms-loh-hui-nee/" rel="noopener noreferrer nofollow" target="_blank">Loh Hui Nee, Miss</a>
+<p>​<a href="/ms-loh-hui-nee/" rel="noopener noreferrer nofollow" target="_blank">Loh Hui Nee, Miss</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1093,7 +1093,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="/staffdirectory/lsct/mr-mohd-modhar/" rel="noopener noreferrer nofollow" target="_blank">Mohd Modhar, Mr</a>
+<p>​<a href="/mr-mohd-modhar/" rel="noopener noreferrer nofollow" target="_blank">Mohd Modhar, Mr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1106,7 +1106,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="/staffdirectory/lsct/mr-karuppiah-narayanan/" rel="noopener noreferrer nofollow" target="_blank">Narayanan Thittani, Mr</a>
+<p>​<a href="/mr-karuppiah-narayanan/" rel="noopener noreferrer nofollow" target="_blank">Narayanan Thittani, Mr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1119,7 +1119,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/staffdirectory/lsct/ms-neo-peh-see/" rel="noopener noreferrer nofollow" target="_blank">​Neo Peh See, Miss</a>
+<p><a href="/ms-neo-peh-see/" rel="noopener noreferrer nofollow" target="_blank">​Neo Peh See, Miss</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1132,7 +1132,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/staffdirectory/lsct/mrs-sarala-raju/" rel="noopener noreferrer nofollow" target="_blank">​Sarala Raju, Mrs</a>
+<p><a href="/mrs-sarala-raju/" rel="noopener noreferrer nofollow" target="_blank">​Sarala Raju, Mrs</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1145,7 +1145,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​​​<a href="/staffdirectory/lsct/mr-tang-puay-peng/" rel="noopener noreferrer nofollow" target="_blank">Tang Puay Peng, Mr</a>
+<p>​​​<a href="/mr-tang-puay-peng/" rel="noopener noreferrer nofollow" target="_blank">Tang Puay Peng, Mr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1158,7 +1158,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="/staffdirectory/lsct/ms-wong-li-xing-stephanie/" rel="noopener noreferrer nofollow" target="_blank">Wong Li Xing Stephanie, Ms</a>
+<p>​<a href="/ms-wong-li-xing-stephanie/" rel="noopener noreferrer nofollow" target="_blank">Wong Li Xing Stephanie, Ms</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1171,7 +1171,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/staffdirectory/lsct/mr-yik-wai-kin-vincent/" rel="noopener noreferrer nofollow" target="_blank">Yik Wai Kin Vincent​, Mr</a>
+<p><a href="/mr-yik-wai-kin-vincent/" rel="noopener noreferrer nofollow" target="_blank">Yik Wai Kin Vincent​, Mr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1207,7 +1207,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="/staffdirectory/lsct/ms-chua-pei-shan-eva/" rel="noopener noreferrer nofollow" target="_blank">Chua Pei Shan Eva, Ms</a>
+<p>​<a href="/ms-chua-pei-shan-eva/" rel="noopener noreferrer nofollow" target="_blank">Chua Pei Shan Eva, Ms</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1243,7 +1243,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/staffdirectory/lsct/ms-ching-kwee-leng-christina/" rel="noopener noreferrer nofollow" target="_blank">Ching Kwee Leng Christina, Ms</a>
+<p><a href="/ms-ching-kwee-leng-christina/" rel="noopener noreferrer nofollow" target="_blank">Ching Kwee Leng Christina, Ms</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1256,7 +1256,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="/staffdirectory/lsct/ms-tan-li-hua/" rel="noopener noreferrer nofollow" target="_blank">Tan Li Hua, Ms</a>
+<p>​<a href="/ms-tan-li-hua/" rel="noopener noreferrer nofollow" target="_blank">Tan Li Hua, Ms</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1269,7 +1269,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​​<a href="/staffdirectory/lsct/ms-tan-siew-peng-sharon/" rel="noopener noreferrer nofollow" target="_blank">Tan Siew Peng, Sharon Ms</a>
+<p>​​<a href="/ms-tan-siew-peng-sharon/" rel="noopener noreferrer nofollow" target="_blank">Tan Siew Peng, Sharon Ms</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
