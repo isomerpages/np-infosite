@@ -20,7 +20,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="/staffdirectory/lsct/ms-kan-siew-mun/" rel="noopener noreferrer nofollow" target="_blank">Kan Siew Mun, Ms&nbsp;</a>
+<p>​<a href="/ms-kan-siew-mun/" rel="noopener noreferrer nofollow" target="_blank">Kan Siew Mun, Ms&nbsp;</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -56,7 +56,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="/staffdirectory/lsct/mr-subrata-chanda/" rel="noopener noreferrer nofollow" target="_blank">​Subrata Chanda, Mr</a>
+<p>​<a href="/mr-subrata-chanda/" rel="noopener noreferrer nofollow" target="_blank">​Subrata Chanda, Mr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -92,7 +92,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/staffdirectory/lsct/mrs-yeo-lim-sor-khim/" rel="noopener noreferrer nofollow" target="_blank">​Yeo-Lim Sor Khim, Mrs</a>
+<p><a href="/mrs-yeo-lim-sor-khim/" rel="noopener noreferrer nofollow" target="_blank">​Yeo-Lim Sor Khim, Mrs</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -128,7 +128,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/staffdirectory/lsct/dr-lau-quek-choon/" rel="noopener noreferrer nofollow" target="_blank">​Lau Quek Choon, Dr</a>
+<p><a href="/dr-lau-quek-choon/" rel="noopener noreferrer nofollow" target="_blank">​Lau Quek Choon, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -140,7 +140,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="/staffdirectory/lsct/dr-lee-kim-sung-david/" rel="noopener noreferrer nofollow" target="_blank">​Lee Kim Sung David, Dr&nbsp;</a>
+<p>​<a href="/dr-lee-kim-sung-david/" rel="noopener noreferrer nofollow" target="_blank">​Lee Kim Sung David, Dr&nbsp;</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -153,7 +153,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="/staffdirectory/lsct/dr-lee-ming-kei-kenneth/" rel="noopener noreferrer nofollow" target="_blank">​Lee Ming Kei Kenneth, Dr<br></a>
+<p>​<a href="/dr-lee-ming-kei-kenneth/" rel="noopener noreferrer nofollow" target="_blank">​Lee Ming Kei Kenneth, Dr<br></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -189,7 +189,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/staffdirectory/lsct/mr-lip-kuo-ming-scottz/" rel="noopener noreferrer nofollow" target="_blank">Lip Kuo Ming Scottz, Mr<br></a>
+<p><a href="/mr-lip-kuo-ming-scottz/" rel="noopener noreferrer nofollow" target="_blank">Lip Kuo Ming Scottz, Mr<br></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -202,7 +202,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/staffdirectory/lsct/ms-mariam-mathew/" rel="noopener noreferrer nofollow" target="_blank">​Mariam Mathew, Ms<br></a>
+<p><a href="/ms-mariam-mathew/" rel="noopener noreferrer nofollow" target="_blank">​Mariam Mathew, Ms<br></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -215,7 +215,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/staffdirectory/lsct/mr-mirko-stoll/" rel="noopener noreferrer nofollow" target="_blank">​Mirko Stoll, Mr<br></a>
+<p><a href="/mr-mirko-stoll/" rel="noopener noreferrer nofollow" target="_blank">​Mirko Stoll, Mr<br></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -228,7 +228,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/staffdirectory/lsct/dr-teoh-kim/" rel="noopener noreferrer nofollow" target="_blank">​Teoh Kim Tat, Dr</a>
+<p><a href="/dr-teoh-kim-tat/" rel="noopener noreferrer nofollow" target="_blank">​Teoh Kim Tat, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -241,7 +241,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="/staffdirectory/lsct/mr-wong-yew-loong-andy/" rel="noopener noreferrer nofollow" target="_blank">​Wong Yew Loong, Andy,&nbsp;Mr<br></a>
+<p>​<a href="/mr-wong-yew-loong-andy/" rel="noopener noreferrer nofollow" target="_blank">​Wong Yew Loong, Andy,&nbsp;Mr<br></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -276,7 +276,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/staffdirectory/lsct/dr-choy-weng-keong/" rel="noopener noreferrer nofollow" target="_blank">​Choy Weng Keong, Dr<br></a>
+<p><a href="/dr-choy-weng-keong/" rel="noopener noreferrer nofollow" target="_blank">​Choy Weng Keong, Dr<br></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -311,7 +311,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="/staffdirectory/lsct/dr-lim-siok-liu-joanne/" rel="noopener noreferrer nofollow" target="_blank">Lim Siok Liu Joanne, Dr</a>
+<p>​<a href="/dr-lim-siok-liu-joanne/" rel="noopener noreferrer nofollow" target="_blank">Lim Siok Liu Joanne, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -347,7 +347,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/staffdirectory/lsct/dr-akasta-sinaga/" rel="noopener noreferrer nofollow" target="_blank">​Akasta Sinaga, Dr</a>
+<p><a href="/dr-akasta-sinaga/" rel="noopener noreferrer nofollow" target="_blank">​Akasta Sinaga, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -360,7 +360,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="/staffdirectory/lsct/dr-guo-huiling/" rel="noopener noreferrer nofollow" target="_blank">Guo Huiling, Dr​<br></a>
+<p>​<a href="/dr-guo-huiling/" rel="noopener noreferrer nofollow" target="_blank">Guo Huiling, Dr​<br></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -373,7 +373,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="/staffdirectory/lsct/ms-lin-shuning-corliss/" rel="noopener noreferrer nofollow" target="_blank">​Lin Shuning Corliss, Ms<br></a>
+<p>​<a href="/ms-lin-shuning-corliss/" rel="noopener noreferrer nofollow" target="_blank">​Lin Shuning Corliss, Ms<br></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -386,7 +386,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/staffdirectory/lsct/dr-sujit-krishna-dutta/" rel="noopener noreferrer nofollow" target="_blank">​Sujit Krishna Dutta, Dr<br></a>
+<p><a href="/dr-sujit-krishna-dutta/" rel="noopener noreferrer nofollow" target="_blank">​Sujit Krishna Dutta, Dr<br></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -399,7 +399,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/staffdirectory/lsct/mr-tai-min-hooi/" rel="noopener noreferrer nofollow" target="_blank">​Tai Min Hooi,&nbsp;Mr<br></a>
+<p><a href="/mr-tai-min-hooi/" rel="noopener noreferrer nofollow" target="_blank">​Tai Min Hooi,&nbsp;Mr<br></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -435,7 +435,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="/staffdirectory/lsct/dr-chew-joon-lin/" rel="noopener noreferrer nofollow" target="_blank">​Chew Joon Lin, Dr</a>
+<p>​<a href="/dr-chew-joon-lin/" rel="noopener noreferrer nofollow" target="_blank">​Chew Joon Lin, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -448,7 +448,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="/staffdirectory/lsct/ms-chia-wan-ye-chris/" rel="noopener noreferrer nofollow" target="_blank">Chia Wan Ye&nbsp; Chris, Ms</a>
+<p>​<a href="/ms-chia-wan-ye-chris/" rel="noopener noreferrer nofollow" target="_blank">Chia Wan Ye&nbsp; Chris, Ms</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -461,7 +461,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="/staffdirectory/lsct/mr-chow-kheong-keat-gregory/" rel="noopener noreferrer nofollow" target="_blank">​Chow Kheong Keat Gregory, Mr</a>
+<p>​<a href="/mr-chow-kheong-keat-gregory/" rel="noopener noreferrer nofollow" target="_blank">​Chow Kheong Keat Gregory, Mr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -474,7 +474,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/staffdirectory/lsct/dr-geng-anli/" rel="noopener noreferrer nofollow" target="_blank">​Geng Anli, Dr</a>
+<p><a href="/dr-geng-anli/" rel="noopener noreferrer nofollow" target="_blank">​Geng Anli, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -487,7 +487,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/staffdirectory/lsct/mr-goh-she-poh/" rel="noopener noreferrer nofollow" target="_blank">​Goh She Poh, Mr</a>
+<p><a href="/mr-goh-she-poh/" rel="noopener noreferrer nofollow" target="_blank">​Goh She Poh, Mr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -500,7 +500,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="/staffdirectory/lsct/mr-hamdan-b-abdul-hamid/" rel="noopener noreferrer nofollow" target="_blank">Hamdan B Abdul Hamid, Mr</a>
+<p>​<a href="/mr-hamdan-b-abdul-hamid/" rel="noopener noreferrer nofollow" target="_blank">Hamdan B Abdul Hamid, Mr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -512,7 +512,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​​<a href="/staffdirectory/lsct/ms-ho-huixian-olivia/" rel="noopener noreferrer nofollow" target="_blank">Ho Huixian Olivia , Ms<br></a>
+<p>​​<a href="/ms-ho-huixian-olivia/" rel="noopener noreferrer nofollow" target="_blank">Ho Huixian Olivia , Ms<br></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -525,7 +525,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​​<a href="/staffdirectory/lsct/mr-neo-tiong-cheng/" rel="noopener noreferrer nofollow" target="_blank">​Neo Tiong Cheng, Mr</a>
+<p>​​<a href="/mr-neo-tiong-cheng/" rel="noopener noreferrer nofollow" target="_blank">​Neo Tiong Cheng, Mr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -538,7 +538,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​​​<a href="/staffdirectory/lsct/dr-neviliappan-shanmugam/" rel="noopener noreferrer nofollow" target="_blank">Neviliappan Shanmugam, Dr</a>
+<p>​​​<a href="/dr-neviliappan-shanmugam/" rel="noopener noreferrer nofollow" target="_blank">Neviliappan Shanmugam, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -551,7 +551,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/staffdirectory/lsct/dr-new-jen-yan/" rel="noopener noreferrer nofollow" target="_blank">​New Jen Yan, Dr</a>
+<p><a href="/dr-new-jen-yan/" rel="noopener noreferrer nofollow" target="_blank">​New Jen Yan, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -564,7 +564,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/staffdirectory/lsct/dr-ong-hon-eddie/" rel="noopener noreferrer nofollow" target="_blank">​Ong Hon Eddie, Dr</a>
+<p><a href="/dr-ong-hon-eddie/" rel="noopener noreferrer nofollow" target="_blank">​Ong Hon Eddie, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -577,7 +577,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/staffdirectory/lsct/ms-prity-subhasish-mukherjee/" rel="noopener noreferrer nofollow" target="_blank">​Preety Mukherjee, Ms</a>
+<p><a href="/ms-prity-subhasish-mukherjee/" rel="noopener noreferrer nofollow" target="_blank">​Preety Mukherjee, Ms</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -590,7 +590,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/staffdirectory/lsct/mr-saiful-anuar/" rel="noopener noreferrer nofollow" target="_blank">​Saiful Anuar, Mr</a>
+<p><a href="/mr-saiful-anuar/" rel="noopener noreferrer nofollow" target="_blank">​Saiful Anuar, Mr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -603,7 +603,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/staffdirectory/lsct/mr-soh-eng-lam/" rel="noopener noreferrer nofollow" target="_blank">​Soh Eng Lam, Mr</a>
+<p><a href="/mr-soh-eng-lam/" rel="noopener noreferrer nofollow" target="_blank">​Soh Eng Lam, Mr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -616,7 +616,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/staffdirectory/lsct/dr-song-shiwei/" rel="noopener noreferrer nofollow" target="_blank">​Song ShiWei, Dr</a>
+<p><a href="/dr-song-shiwei/" rel="noopener noreferrer nofollow" target="_blank">​Song ShiWei, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -629,7 +629,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="/staffdirectory/lsct/ms-surinam-sumsudin/" rel="noopener noreferrer nofollow" target="_blank">Surinam Sumsudin, Ms<br></a>
+<p>​<a href="/ms-surinam-sumsudin/" rel="noopener noreferrer nofollow" target="_blank">Surinam Sumsudin, Ms<br></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -642,7 +642,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​​<a href="/staffdirectory/lsct/dr-su-jincai/" rel="noopener noreferrer nofollow" target="_blank">​Su Jincai, Dr</a>
+<p>​​<a href="/dr-su-jincai/" rel="noopener noreferrer nofollow" target="_blank">​Su Jincai, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -655,7 +655,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/staffdirectory/lsct/ms-sumita-achuthan/" rel="noopener noreferrer nofollow" target="_blank">​Sumita Achuthan, Ms</a>
+<p><a href="/ms-sumita-achuthan/" rel="noopener noreferrer nofollow" target="_blank">​Sumita Achuthan, Ms</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -668,7 +668,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​​​​<a href="/staffdirectory/lsct/dr-tan-hoe-peng-timothy/" rel="noopener noreferrer nofollow" target="_blank">​Tan Hoe Peng Timothy, Dr</a>
+<p>​​​​<a href="/dr-tan-hoe-peng-timothy/" rel="noopener noreferrer nofollow" target="_blank">​Tan Hoe Peng Timothy, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -681,7 +681,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="/staffdirectory/lsct/dr-wayne-lee-forday/" rel="noopener noreferrer nofollow" target="_blank">Wayne Lee Forday, Dr</a>
+<p>​<a href="/dr-wayne-lee-forday/" rel="noopener noreferrer nofollow" target="_blank">Wayne Lee Forday, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -694,7 +694,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="/staffdirectory/lsct/dr-xu-qingxing-noel/" rel="noopener noreferrer nofollow" target="_blank">Xu QingXing Noel. Dr</a>
+<p>​<a href="/dr-xu-qingxing-noel/" rel="noopener noreferrer nofollow" target="_blank">Xu QingXing Noel. Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -707,7 +707,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="/staffdirectory/lsct/dr-zhou-xingding/" rel="noopener noreferrer nofollow" target="_blank">​Zhou Xingding, Dr</a>
+<p>​<a href="/dr-zhou-xingding/" rel="noopener noreferrer nofollow" target="_blank">​Zhou Xingding, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -720,7 +720,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/staffdirectory/lsct/dr-zhu-congju-john/" rel="noopener noreferrer nofollow" target="_blank">​Zhu Congju John, Dr</a>
+<p><a href="/dr-zhu-congju-john/" rel="noopener noreferrer nofollow" target="_blank">​Zhu Congju John, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -756,7 +756,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="/staffdirectory/lsct/dr-chitra-rajam/" rel="noopener noreferrer nofollow" target="_blank">Chitra Rajam, Dr</a>
+<p>​<a href="/dr-chitra-rajam/" rel="noopener noreferrer nofollow" target="_blank">Chitra Rajam, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -769,7 +769,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="/staffdirectory/lsct/dr-geeta-bansal/" rel="noopener noreferrer nofollow" target="_blank">Geeta Bansal, Dr</a>
+<p>​<a href="/dr-geeta-bansal/" rel="noopener noreferrer nofollow" target="_blank">Geeta Bansal, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -782,7 +782,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​​<a href="/staffdirectory/lsct/dr-huang-yinyi/" rel="noopener noreferrer nofollow" target="_blank">​Huang Yinyi, Dr</a>
+<p>​​<a href="/dr-huang-yinyi/" rel="noopener noreferrer nofollow" target="_blank">​Huang Yinyi, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -795,7 +795,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/staffdirectory/lsct/dr-li-cunben/" rel="noopener noreferrer nofollow" target="_blank">​Li Cunben, Dr</a>
+<p><a href="/dr-li-cunben/" rel="noopener noreferrer nofollow" target="_blank">​Li Cunben, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -807,7 +807,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="/staffdirectory/lsct/dr-ng-hui-li/" rel="noopener noreferrer nofollow" target="_blank">​Ng Hui Li, Dr</a>
+<p>​<a href="/dr-ng-hui-li/" rel="noopener noreferrer nofollow" target="_blank">​Ng Hui Li, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -820,7 +820,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/staffdirectory/lsct/ms-seahmala-muniandy/" rel="noopener noreferrer nofollow" target="_blank">Seahmala Muniandy. Ms​</a>
+<p><a href="/ms-seahmala-muniandy/" rel="noopener noreferrer nofollow" target="_blank">Seahmala Muniandy. Ms​</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -833,7 +833,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="/staffdirectory/lsct/dr-teoh-chun-ming/" rel="noopener noreferrer nofollow" target="_blank">Teoh Chun Ming, Dr</a>
+<p>​<a href="/dr-teoh-chun-ming/" rel="noopener noreferrer nofollow" target="_blank">Teoh Chun Ming, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -846,7 +846,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/staffdirectory/lsct/dr-toh-soo-ting/" rel="noopener noreferrer nofollow" target="_blank">​Toh Soo Ting, Dr</a>
+<p><a href="/dr-toh-soo-ting/" rel="noopener noreferrer nofollow" target="_blank">​Toh Soo Ting, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -859,7 +859,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="/staffdirectory/lsct/dr-xiong-junying/" rel="noopener noreferrer nofollow" target="_blank">Xiong Junying, Dr</a>
+<p>​<a href="/dr-xiong-junying/" rel="noopener noreferrer nofollow" target="_blank">Xiong Junying, Dr</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
