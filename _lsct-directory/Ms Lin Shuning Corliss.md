@@ -88,7 +88,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><em>“You cannot win all the time. To work hard is your job. Success or failure is not in your hands. Victory lies not in realization of the goal, but in a relentless pursuit after it. It’s always well to remember that success is a ladder, not an escalator. Success is the acknowledgement of the efforts done.”</em>
 </p>
-<p>&nbsp;Check out my <a href="https://sg.linkedin.com/in/corliss-lin" rel="noopener noreferrer nofollow" target="_blank">LinkedIn page</a>.</p>
+<p>&nbsp;Check out my <a href="https://sg.linkedin.com/in/corlisslin" rel="noopener noreferrer nofollow" target="_blank">LinkedIn page</a>.</p>
 </td>
 </tr>
 <tr>
