@@ -13,9 +13,7 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>My entire life isn’t long enough. There’s so many knowledge, things and
-stuffs to learn and to share. My curiosity doesn’t just stop here, for
-me this is a long learning path. Keep learning a lifetime goal.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -86,6 +84,16 @@ me this is a long learning path. Keep learning a lifetime goal.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>“Do things for people not because of who they are or what they do in return, but because of who you are.”</em>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>My entire life isn’t long enough. There’s so many knowledge, things and
+stuffs to learn and to share. My curiosity doesn’t just stop here, for
+me this is a long learning path. Keep learning a lifetime goal.</p>
 </td>
 </tr>
 <tr>
