@@ -102,7 +102,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><em>“You cannot get through a single day without having an impact on the world around you. What you do makes a difference, and you have to decide what kind of difference you want to make.”</em>
 </p>
-<p>Check out my LinkedIn page<strong><a href="https://sg.linkedin.com/in/joon-lin-chew-0262516" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
+<p>Check out my LinkedIn page<strong><a href="https://sg.linkedin.com/in/joon-lin-chew-phd-0262516" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
 </td>
 </tr>
 <tr>
