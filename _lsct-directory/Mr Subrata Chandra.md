@@ -165,7 +165,7 @@ Hawaii International Conference on Education.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/OtherPublications_Subrata.pdf" rel="noopener noreferrer nofollow" target="_blank">Document</a>
+<p><a href="/files/LSCT/OtherPublications_Subrata.pdf" rel="noopener noreferrer nofollow" target="_blank">Document</a>
 </p>
 </td>
 </tr>
