@@ -13,13 +13,7 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>I've taken on many roles&nbsp;over the&nbsp;last&nbsp;20 years - curriculum
-developer, leader, researcher, manager, marketer and strategist. I have
-the unique ability to manage multi-disciplinary projects and to navigate
-complex challenges.</p>
-<p>I love making new professional acquaintances. Reach out if you want to
-talk about technology, a new idea or a research project.</p>
-<p>Check out my <a href="https://sg.linkedin.com/in/scottzlip" rel="noopener noreferrer nofollow" target="_blank">LinkedIn page</a>.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -94,6 +88,20 @@ talk about technology, a new idea or a research project.</p>
 <td rowspan="1" colspan="1">
 <p><em>“We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard, because that goal will serve to organise and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win, and the others, too.”</em>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>I've taken on many roles&nbsp;over the&nbsp;last&nbsp;20 years - curriculum
+developer, leader, researcher, manager, marketer and strategist. I have
+the unique ability to manage multi-disciplinary projects and to navigate
+complex challenges.</p>
+<p>I love making new professional acquaintances. Reach out if you want to
+talk about technology, a new idea or a research project.</p>
+<p>Check out my <a href="https://sg.linkedin.com/in/scottzlip" rel="noopener noreferrer nofollow" target="_blank">LinkedIn page</a>.</p>
 </td>
 </tr>
 <tr>
