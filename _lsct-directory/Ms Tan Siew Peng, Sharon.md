@@ -13,12 +13,7 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>I've been through multiple unexpected challenges in life which in turn
-transform me into a stronger person who will strive to overcome any obstacle
-along the way.
-<br>I love making new acquaintances - to talk about anything under the sun
-and I believe we can learn new and surprising discovery/knowledge through
-chatting.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -84,6 +79,19 @@ chatting.</p>
 <td rowspan="1" colspan="1">
 <p><em>“Never give up. Today is hard, Tomorrow will be worse, but the day after tomorrow will be Sunshine.”</em>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>I've been through multiple unexpected challenges in life which in turn
+transform me into a stronger person who will strive to overcome any obstacle
+along the way.
+<br>I love making new acquaintances - to talk about anything under the sun
+and I believe we can learn new and surprising discovery/knowledge through
+chatting.</p>
 </td>
 </tr>
 <tr>
