@@ -88,6 +88,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><em>“Man often becomes what he believes himself to be. If I keep on saying to myself that I cannot do a certain thing, it is possible that I may end by really becoming incapable of doing it. On the contrary, if I have the belief that I can do it, I shall surely acquire the capacity to do it even if I may not have it at the beginning.”</em>
 </p>
+<p>Check out my <a href="https://sg.linkedin.com/in/siew-mun-kan" rel="noopener noreferrer nofollow" target="_blank">LinkedIn page</a>.</p>
 </td>
 </tr>
 <tr>
