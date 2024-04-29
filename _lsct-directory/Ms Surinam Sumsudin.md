@@ -87,16 +87,11 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><em>"There is freedom waiting for you</em>
-</p>
-<p><em>On the breezes of the sky,</em>
-</p>
-<p><em>And you ask, "What if I fall?"</em>
-</p>
-<p><em>Oh, but my darling,</em>
-</p>
-<p><em>What if you fly?"</em>
-</p>
-<p>– <strong>Erin Hanson</strong>
+<br><em>On the breezes of the sky,</em>
+<br><em>And you ask, "What if I fall?"</em>
+<br><em>Oh, but my darling,</em>
+<br><em>What if you fly?"</em>
+<br>– <strong>Erin Hanson</strong>
 </p>
 </td>
 </tr>
