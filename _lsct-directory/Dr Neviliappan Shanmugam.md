@@ -66,18 +66,16 @@ description: ""
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Ph.D (DBS, NUS)</p>
+<p>PhD (DBS, NUS)</p>
 </li>
 <li>
-<p><a href="http://M.Sc" rel="noopener noreferrer nofollow" target="_blank">M.Sc</a> (Zoology,
-Annamalai University)</p>
+<p>MSc (Zoology, Annamalai University)</p>
 </li>
 <li>
-<p>​B.Ed (Annamalai University)</p>
+<p>​BEd (Annamalai University)</p>
 </li>
 <li>
-<p><a href="http://B.Sc" rel="noopener noreferrer nofollow" target="_blank">B.Sc </a>(Zoology,
-Madurai Kamaraj University)</p>
+<p>BSc (Zoology, Madurai Kamaraj University)</p>
 </li>
 <li>
 <p>ACTA (IAL)</p>
