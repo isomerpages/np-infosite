@@ -122,6 +122,16 @@ Method for Separation of Hydrocarbon Mixtures, Patent No. CN1294110</p>
 </ul>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Other Publications and Conference Presentations:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/LSCT/OtherPublications_XiongJunying.pdf" rel="noopener noreferrer nofollow" target="_blank">Document</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
