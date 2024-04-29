@@ -92,8 +92,8 @@ Tourism Training Centre, Singapore (1998)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Horticulture management, parks management, trainer for landscape courses,
-green mark for parks, plant identification​​</p>
+<p>Admin Resource Planning, Event Management, Staff Training &amp; Development,
+Staff Engagement and Stage Management&nbsp;​​</p>
 </td>
 </tr>
 <tr>
