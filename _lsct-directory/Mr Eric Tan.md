@@ -4,12 +4,16 @@ permalink: /mr-eric-tan/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Eric_Tan.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Eric_Tan.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Tan Poh Tiong Eric" src="/images/LSCT/Eric_Tan.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -80,7 +84,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>“Logic will get you from A to B.</em>
+<p><em>“Logic will get you from A to B.</em> 
 <br><em>Imagination will take you Everywhere.”</em>
 </p>
 </td>
