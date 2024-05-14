@@ -4,12 +4,16 @@ permalink: /mr-karuppiah-narayanan/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Karuppiah_Narayanan.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Karuppiah_Narayanan.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="​Thittani Karuppiah Narayanan" src="/images/LSCT/Karuppiah_Narayanan.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -77,11 +81,11 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>“Speak 5 lines to YOURSELF every morning:</em>
-<br><em>1.&nbsp;I am the best</em>
-<br><em>2.&nbsp;I can do it</em>
-<br><em>3.&nbsp;God is always with me</em>
-<br><em>4.&nbsp;I am a winner</em>
+<p><em>“Speak 5 lines to YOURSELF every morning:</em> 
+<br><em>1.&nbsp;I am the best</em> 
+<br><em>2.&nbsp;I can do it</em> 
+<br><em>3.&nbsp;God is always with me</em> 
+<br><em>4.&nbsp;I am a winner</em> 
 <br><em>5.&nbsp;Today is my day”</em>&nbsp;</p>
 </td>
 </tr>
