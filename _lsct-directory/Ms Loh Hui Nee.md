@@ -4,12 +4,16 @@ permalink: /ms-loh-hui-nee/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Hui_Nee.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Hui_Nee.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Loh Hui Nee" src="/images/LSCT/Hui_Nee.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
