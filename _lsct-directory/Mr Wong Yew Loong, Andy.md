@@ -4,12 +4,16 @@ permalink: /mr-wong-yew-loong-andy/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Wong_Yew_Loong.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Wong_Yew_Loong.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Wong Yew Loong" src="/images/LSCT/Wong_Yew_Loong.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
