@@ -4,12 +4,16 @@ permalink: /ms-wong-li-xing-stephanie/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Stephanie-Wong1.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Stephanie-Wong1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Wong Li Xing Stephanie" src="/images/LSCT/Stephanie_Wong1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
