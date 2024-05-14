@@ -4,12 +4,16 @@ permalink: /mrs-goh-koh-yin-lian/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Yin_Lian.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Yin_Lian.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Goh-Koh Yin Lian" src="/images/LSCT/Yin_Lian.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
