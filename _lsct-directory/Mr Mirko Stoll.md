@@ -4,12 +4,16 @@ permalink: /mr-mirko-stoll/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mirko_Stoll.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Mirko_Stoll.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mirko Stoll" src="/images/LSCT/Mirko_Stoll.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
