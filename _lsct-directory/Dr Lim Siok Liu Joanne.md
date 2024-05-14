@@ -4,12 +4,16 @@ permalink: /dr-lim-siok-liu-joanne/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Joanne_Lim.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Joanne_Lim.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Lim Siok Liu Joanne" src="/images/LSCT/Joanne_Lim.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
