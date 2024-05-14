@@ -74,7 +74,7 @@ description: ""
 <br>National University of Singapore, Singapore</p>
 </li>
 <li>
-<p>Environment Planning</p>
+<p>MTech Environment Planning</p>
 </li>
 <li>
 <p>BE Environmental Engineering</p>
@@ -130,7 +130,7 @@ solutions</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Publications, Patents, Projects, Consultancy (Top 3)&nbsp;•&nbsp;Air Emission
+<p>Publications, Patents, Projects, Consultancy&nbsp;•&nbsp;Air Emission
 Inventory and Dispersion Modelling- Research in Collaboration with National
 Environment Agency (NEA) Singapore</p>
 </li>
