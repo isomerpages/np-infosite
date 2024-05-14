@@ -90,9 +90,9 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>“If you fail, never give up because F.A.I.L. means “First Attempt In Learning"</em>
-<br><em>End is not the end, in fact E.N.D. means “Efforts Never Dies”</em>
-<br><em>If you get No as an answer, remember N.O. means “Next Opportunity”</em>
+<p><em>“If you fail, never give up because F.A.I.L. means “First Attempt In Learning"</em> 
+<br><em>End is not the end, in fact E.N.D. means “Efforts Never Dies”</em> 
+<br><em>If you get No as an answer, remember N.O. means “Next Opportunity”</em> 
 <br><em>So let’s be positive.”</em>&nbsp;&nbsp;</p>
 </td>
 </tr>
