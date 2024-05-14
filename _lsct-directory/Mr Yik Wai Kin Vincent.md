@@ -4,12 +4,16 @@ permalink: /mr-yik-wai-kin-vincent/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Vincent_Yik.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Vincent_Yik.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Yik Wai Kin, Vincent" src="/images/LSCT/Vincent_Yik.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
