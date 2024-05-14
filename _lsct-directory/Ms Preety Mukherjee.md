@@ -74,8 +74,7 @@ description: ""
 <br>National University of Singapore, Singapore</p>
 </li>
 <li>
-<p><a href="http://M.Tech" rel="noopener noreferrer nofollow" target="_blank">M.Tech</a> Environment
-Planning</p>
+<p>Environment Planning</p>
 </li>
 <li>
 <p>BE Environmental Engineering</p>
