@@ -577,7 +577,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/ms-prity-subhasish-mukherjee/" rel="noopener noreferrer nofollow" target="_blank">​Preety Mukherjee, Ms</a>
+<p><a href="/ms-preety-mukherjee/" rel="noopener noreferrer nofollow" target="_blank">​Preety Mukherjee, Ms</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -967,7 +967,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="/mr-tan-poh-tiong-eric/" rel="noopener noreferrer nofollow" target="_blank">​Tan Poh Tiong Eric, Mr</a>​​</p>
+<p>​<a href="/mr-eric-tan/" rel="noopener noreferrer nofollow" target="_blank">​Tan Poh Tiong Eric, Mr</a>​​</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>​64608173</p>
@@ -1015,7 +1015,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>​<a href="/mrs-chee-wong-poh-chee-clara/" rel="noopener noreferrer nofollow" target="_blank">Chee-Wong Poh Chee Clara, Mrs</a>
+<p>​<a href="/mrs-clara-chee-wong/" rel="noopener noreferrer nofollow" target="_blank">Chee-Wong Poh Chee Clara, Mrs</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1132,7 +1132,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/mrs-sarala-raju/" rel="noopener noreferrer nofollow" target="_blank">​Sarala Raju, Mrs</a>
+<p><a href="/ms-sarala-raju/" rel="noopener noreferrer nofollow" target="_blank">​Sarala Raju, Mrs</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

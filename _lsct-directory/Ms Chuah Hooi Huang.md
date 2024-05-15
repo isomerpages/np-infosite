@@ -4,12 +4,16 @@ permalink: /ms-chuah-hooi-huang/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Hooi_Huang.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Hooi_Huang.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Chuah Hooi Huang" src="/images/LSCT/Hooi_Huang.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">

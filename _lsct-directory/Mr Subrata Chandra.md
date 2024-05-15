@@ -4,12 +4,16 @@ permalink: /mr-subrata-chanda/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="subrata_chandra" src="/images/Subrata_Chanda.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Subrata Chanda​​" src="/images/LSCT/Subrata_Chanda.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -165,7 +169,7 @@ Hawaii International Conference on Education.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/OtherPublications_Subrata.pdf" rel="noopener noreferrer nofollow" target="_blank">Document</a>
+<p><a href="/files/LSCT/OtherPublications_Subrata.pdf" rel="noopener noreferrer nofollow" target="_blank">Document</a>
 </p>
 </td>
 </tr>

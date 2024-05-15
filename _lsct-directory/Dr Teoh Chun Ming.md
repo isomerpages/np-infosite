@@ -4,12 +4,16 @@ permalink: /dr-teoh-chun-ming/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; margin: 5px;" height="auto" width="100%" alt="ChunMing.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/ChunMing.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Teoh Chun Ming" src="/images/LSCT/ChunMing.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -88,7 +92,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><em>“The best thing for being sad," replied Merlin, beginning to puff and blow, "is to learn something. That's the only thing that never fails. You may grow old and trembling in your anatomies, you may lie awake at night listening to the disorder of your veins, you may miss your only love, you may see the world about you devastated by evil lunatics, or know your honour trampled in the sewers of baser minds. There is only one thing for it then — to learn. Learn why the world wags and what wags it. That is the only thing which the mind can never exhaust, never alienate, never be tortured by, never fear or distrust, and never dream of regretting. Learning is the only thing for you. Look what a lot of things there are to learn.”&nbsp;</em>&nbsp;</p>
-<p>Check out my LinkedIn page <strong><a href="https://www.linkedin.com/in/chun-ming-teoh-19585877/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</strong>
+<p>Check out my LinkedIn page <strong><a href="https://sg.linkedin.com/in/chun-ming-teoh-phd-19585877/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</strong>
 </p>
 </td>
 </tr>

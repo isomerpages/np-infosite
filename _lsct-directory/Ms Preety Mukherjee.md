@@ -4,12 +4,16 @@ permalink: /ms-preety-mukherjee/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; margin: 5px;" height="auto" width="100%" alt="Preety_Subhasish.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Preety_Subhasish.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Preety Mukherjee" src="/images/LSCT/Preety_Subhasish.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -70,8 +74,7 @@ description: ""
 <br>National University of Singapore, Singapore</p>
 </li>
 <li>
-<p><a href="http://M.Tech" rel="noopener noreferrer nofollow" target="_blank">M.Tech</a> Environment
-Planning</p>
+<p>MTech Environment Planning</p>
 </li>
 <li>
 <p>BE Environmental Engineering</p>
@@ -127,7 +130,7 @@ solutions</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Publications, Patents, Projects, Consultancy (Top 3)&nbsp;•&nbsp;Air Emission
+<p>Publications, Patents, Projects, Consultancy&nbsp;•&nbsp;Air Emission
 Inventory and Dispersion Modelling- Research in Collaboration with National
 Environment Agency (NEA) Singapore</p>
 </li>

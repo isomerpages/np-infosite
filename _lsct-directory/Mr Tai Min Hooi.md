@@ -4,12 +4,16 @@ permalink: /mr-tai-min-hooi/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Min_Hooi.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Min_Hooi.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Tai Min Hooi" src="/images/LSCT/Min_Hooi.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">

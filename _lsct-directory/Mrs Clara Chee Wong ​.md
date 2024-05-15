@@ -4,12 +4,16 @@ permalink: /mrs-clara-chee-wong/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Clara_Chee.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Clara_Chee.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="​Clara Chee-Wong" src="/images/LSCT/Clara_Chee.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">

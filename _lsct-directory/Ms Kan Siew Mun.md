@@ -4,12 +4,16 @@ permalink: /ms-kan-siew-mun/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="kan siew mun" src="/images/Kan_siew_mun.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Kan Siew Mun" src="/images/LSCT/Kan_siew_mun.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -88,6 +92,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><em>“Man often becomes what he believes himself to be. If I keep on saying to myself that I cannot do a certain thing, it is possible that I may end by really becoming incapable of doing it. On the contrary, if I have the belief that I can do it, I shall surely acquire the capacity to do it even if I may not have it at the beginning.”</em>
 </p>
+<p>Check out my <a href="https://sg.linkedin.com/in/siew-mun-kan" rel="noopener noreferrer nofollow" target="_blank">LinkedIn page</a>.</p>
 </td>
 </tr>
 <tr>

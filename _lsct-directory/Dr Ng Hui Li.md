@@ -4,12 +4,16 @@ permalink: /dr-ng-hui-li/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; margin: 5px;" height="auto" width="100%" alt="NG_Hui_Li.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/NG_Hui_Li.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Ng Hui Li" src="/images/LSCT/NG_Hui_Li.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">

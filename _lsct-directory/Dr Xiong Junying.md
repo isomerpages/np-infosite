@@ -4,12 +4,16 @@ permalink: /dr-xiong-junying/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; margin: 5px;" height="auto" width="100%" alt="XIONG_Junying.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/XIONG_Junying.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Xiong Junying" src="/images/LSCT/XIONG_Junying.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -120,6 +124,16 @@ by Design of the Nanometer Structure of Fiber Networks, Advanced Materials,
 Method for Separation of Hydrocarbon Mixtures, Patent No. CN1294110</p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Other Publications and Conference Presentations:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/LSCT/OtherPublications_XiongJunying.pdf" rel="noopener noreferrer nofollow" target="_blank">Document</a>
+</p>
 </td>
 </tr>
 </tbody>

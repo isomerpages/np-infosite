@@ -4,12 +4,16 @@ permalink: /dr-sujit-krishna-dutta/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sujit-Dutta.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Sujit-Dutta.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="​Sujit Dutta" src="/images/LSCT/Sujit_Dutta.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">

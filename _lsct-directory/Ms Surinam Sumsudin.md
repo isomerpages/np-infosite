@@ -4,12 +4,16 @@ permalink: /ms-surinam-sumsudin/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; margin: 5px;" height="auto" width="100%" alt="Surinam_Sumsudin.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Surinam_Sumsudin.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="​Surinam binte Sumsudin" src="/images/LSCT/Surinam_Sumsudin.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -86,17 +90,12 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>"There is freedom waiting for you</em>
-</p>
-<p><em>On the breezes of the sky,</em>
-</p>
-<p><em>And you ask, "What if I fall?"</em>
-</p>
-<p><em>Oh, but my darling,</em>
-</p>
-<p><em>What if you fly?"</em>
-</p>
-<p>– <strong>Erin Hanson</strong>
+<p><em>"There is freedom waiting for you</em> 
+<br><em>On the breezes of the sky,</em> 
+<br><em>And you ask, "What if I fall?"</em> 
+<br><em>Oh, but my darling,</em> 
+<br><em>What if you fly?"</em> 
+<br>– <strong>Erin Hanson</strong>
 </p>
 </td>
 </tr>

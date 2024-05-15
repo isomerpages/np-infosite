@@ -4,12 +4,16 @@ permalink: /dr-chew-joon-lin/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; margin: 5px;" height="auto" width="100%" alt="Joon_Lin.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Joon_Lin.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Chew Joon Lin" src="/images/LSCT/Joon_Lin.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -102,7 +106,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><em>“You cannot get through a single day without having an impact on the world around you. What you do makes a difference, and you have to decide what kind of difference you want to make.”</em>
 </p>
-<p>Check out my LinkedIn page<strong><a href="https://sg.linkedin.com/in/joon-lin-chew-0262516" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
+<p>Check out my LinkedIn page<strong><a href="https://sg.linkedin.com/in/joon-lin-chew-phd-0262516" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
 </td>
 </tr>
 <tr>

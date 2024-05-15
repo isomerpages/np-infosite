@@ -4,12 +4,16 @@ permalink: /mr-chew-wei-ren-joshua/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Joshua_Chew.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Joshua_Chew.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="Chew Wei Ren Joshua" src="/images/LSCT/Joshua_Chew.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">

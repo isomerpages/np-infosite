@@ -4,12 +4,16 @@ permalink: /ms-sarala-raju/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sarala_Raju.jpg" src="https://graduation.np.edu.sg/staffdirectory/lsct/PublishingImages/Sarala_Raju.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Sarala Raju" src="/images/LSCT/Sarala_Raju.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -86,13 +90,10 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>“If you fail, never give up because F.A.I.L. means “First Attempt In Learning"</em>
-</p>
-<p><em>End is not the end, in fact E.N.D. means “Efforts Never Dies”</em>
-</p>
-<p><em>If you get No as an answer, remember N.O. means “Next Opportunity”</em>
-</p>
-<p><em>So let’s be positive.”</em>&nbsp;&nbsp;</p>
+<p><em>“If you fail, never give up because F.A.I.L. means “First Attempt In Learning"</em> 
+<br><em>End is not the end, in fact E.N.D. means “Efforts Never Dies”</em> 
+<br><em>If you get No as an answer, remember N.O. means “Next Opportunity”</em> 
+<br><em>So let’s be positive.”</em>&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>

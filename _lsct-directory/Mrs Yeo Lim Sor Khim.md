@@ -4,12 +4,16 @@ permalink: /mrs-yeo-lim-sor-khim/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="sor khim" src="/images/Sorkhim.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Yeo-Lim Sor Khim" src="/images/LSCT/Sorkhim.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -92,8 +96,8 @@ Tourism Training Centre, Singapore (1998)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Horticulture management, parks management, trainer for landscape courses,
-green mark for parks, plant identification​​</p>
+<p>Admin Resource Planning, Event Management, Staff Training &amp; Development,
+Staff Engagement and Stage Management&nbsp;​​</p>
 </td>
 </tr>
 <tr>
