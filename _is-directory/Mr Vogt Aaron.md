@@ -6,12 +6,12 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Image of Mr Vogt Aaron" src="/images/IS/IS_VOGT_AARON_MICAH_7526.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Image of Mr Vogt Aaron" src="/images/IS/IS_VOGT_AARON_MICAH_7526.jpg">
 </div>
-<p><strong>Qualifications :</strong>
+<p><strong>Qualifications :</strong> 
 <br>BA, Psychology, Wittenberg University,​USA
 <br>
-<br><strong>Profile/Areas of Interest :&nbsp;</strong>
+<br><strong>Profile/Areas of Interest :&nbsp;</strong> 
 <br>Growing up in Kentucky and attending university in Ohio, Aaron has spent
 a great deal of his life in the Midwestern region of the United States.
 However, he learned from an early age that it is very important to be part
