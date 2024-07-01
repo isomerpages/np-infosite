@@ -4,7 +4,12 @@ permalink: /quick-links/student/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -61,20 +66,6 @@ campus IT services and network resources.</p>
 <p>​<a href="/guides/wi-fi/" rel="noopener noreferrer nofollow" target="_blank">Guide</a> 
 <br>
 <br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NP Student VPN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NP Student VPN<strong> </strong>is a web-based VPN program for Students
-to access secured student resources&nbsp; and applications (e.g. SPSS,
-UniSim, etc)&nbsp;from home or any remote site.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/guides/student-vpn/" rel="noopener noreferrer nofollow" target="_blank">Guide</a>
 </p>
 </td>
 </tr>
