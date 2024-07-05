@@ -10,7 +10,8 @@ email address (<a rel="noopener noreferrer nofollow" target="_blank">xxx@connect
 to the Alumni email address (<a rel="noopener noreferrer nofollow" target="_blank">xxx@alumni.np.edu.sg</a>).</p>
 </blockquote>
 <p><strong>Note:</strong> To know the migration date, refer to email from
-<a href="mailto:itcare@connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">itcare@connect.np.edu.sg</a>.</p>
+<a href="mailto:itcare@connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">itcare@connect.np.edu.sg</a>titled "Important: Migration and Termination
+of Graduate Accounts".</p>
 <h4><strong>&nbsp;Important Steps</strong></h4>
 <p>1) &nbsp;&nbsp;&nbsp;If you have files stored in BrightSpace, OneDrive,
 NPal Student, Adobe Creative Cloud, etc. remember to <strong>download and save them </strong>to
@@ -33,6 +34,6 @@ libraries, etc. Using them beyond your course of study will violate the
 License Agreement. Your cooperation is greatly appreciated. If you have
 any queries or encounter any issues, please write to <a rel="noopener noreferrer nofollow" target="_blank">itcare@connect.np.edu.sg</a>.</p>
 <p></p>
-<p><strong>Note:</strong> For Part-time (PT) students, please take note that
-your Office 365 access will be removed including email. Your email account
-will <strong><u>not </u></strong>be changed to @<a rel="noopener noreferrer nofollow" target="_blank">alumni.np.edu.sg</a>.</p>
+<p><strong>Note:</strong> For Part-time (PT) students, your Office 365 access
+will be removed including email. Your email account will <strong><u>not </u></strong>be
+changed to @<a rel="noopener noreferrer nofollow" target="_blank">alumni.np.edu.sg</a>.</p>
