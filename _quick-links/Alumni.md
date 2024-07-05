@@ -19,8 +19,8 @@ your personal notebook or portable hard disk <strong>prior to the migration date
 <p>2) &nbsp;&nbsp;&nbsp;&nbsp;<strong><u>From</u> the migration date onwards, </strong>you
 may login to your Alumni account (<a rel="noopener noreferrer nofollow" target="_blank"><u>xxx@alumni.np.edu.sg</u></a>)
 and register for <a href="http://aka.ms/ssprsetup" rel="noopener noreferrer nofollow" target="loopstyle_link"><u>self-service password reset</u></a> by
-following this guide. This will enable you to reset your NP alumni password
-if ever forget it.</p>
+following this <a href="/files/AccessAlumniAccount.pdf" rel="noopener noreferrer nofollow" target="_blank">guide</a>.
+This will enable you to reset your NP alumni password if you forget it.</p>
 <p></p>
 <h4><strong>Software Restrictions</strong></h4>
 <p>As a graduate, you will not be able to access student applications with
