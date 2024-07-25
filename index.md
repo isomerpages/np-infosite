@@ -7,9 +7,7 @@ description: The NP Digital Services portal serves as a central informational
   place for all things related to digital services at Ngee Ann Poly!
 image: /images/Banner and Logo/favicon_isomer.ico
 permalink: /
-notification: Notebook registration starts from 25 Mar 2024 onwards. After
-  enrolment, wait for one business day before registering your notebook and
-  installing software.
+notification: ""
 sections:
   - hero:
       title: Digital Services
