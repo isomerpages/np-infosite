@@ -1,4 +1,5 @@
 collections:
   exams:
     output: true
-    order: []
+    order:
+      - Exam Results Release.md
