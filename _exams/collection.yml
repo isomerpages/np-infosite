@@ -1,0 +1,4 @@
+collections:
+  exams:
+    output: true
+    order: []
