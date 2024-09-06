@@ -2,6 +2,5 @@ collections:
   announcement:
     output: true
     order:
-      - Steps to Enable Cookies in Your Web Browser.md
       - Exam Results Release on 17 Mar.md
       - Exam Release Contingency.md
