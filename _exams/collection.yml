@@ -2,5 +2,4 @@ collections:
   exams:
     output: true
     order:
-      - Exam Results Release.md
       - Steps to Enable Cookies in Your Web Browser.md
