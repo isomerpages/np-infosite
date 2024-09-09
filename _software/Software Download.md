@@ -110,13 +110,13 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Film &amp; Media Studies (FMS)</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>FSV - Film, Sound &amp; Video</p>
+<p>FSV - Film, Sound &amp; Video (<em>Apple MacBook</em>)</p>
 </li>
 <li>
 <p>CMP - Common Media Programme</p>
@@ -129,10 +129,13 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 </li>
 </ul>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="2" colspan="1">
+<p>1) Microsoft Office 365 for Mac (Guide, Download)</p>
+<p>2) Adobe Creative Cloud (Guide, Download)</p>
+<p>Download)</p>
 </td>
 </tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>School of Humanities &amp; Social Sciences (HMS)</p>
