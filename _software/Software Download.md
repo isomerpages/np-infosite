@@ -5,13 +5,9 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
-<p>If your course requires a Windows notebook, you should NOT purchase an
-Apple MacBook. You may be required to use Windows-based software that is
-incompatible with Apple's Mac operating system.</p>
+<p>Please refer to the guides prior to downloading the software. If you require
+further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">itcare@connect.np.edu.sg</a>.</p>
 </blockquote>
-<h4>I already have a notebook. Do I need to purchase another one?</h4>
-<p>As long as your notebook complies with your course minimum specifications,
-you need <u>not</u> buy another one.</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
