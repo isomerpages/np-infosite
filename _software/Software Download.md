@@ -130,7 +130,7 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 </ul>
 </td>
 <td rowspan="2" colspan="1">
-<p>1) Microsoft Office 365 for Mac (Guide, Download)</p>
+<p>1) Microsoft Office 365 (Guide, Download)</p>
 <p>2) Adobe Creative Cloud (Guide, Download)</p>
 <p>Download)</p>
 </td>
@@ -163,7 +163,9 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1) Microsoft Office 365 (Guide, Download)</p>
+<p>2) Adobe Creative Cloud (Guide, Download)</p>
+<p>Download)</p>
 </td>
 </tr>
 <tr>
@@ -181,7 +183,9 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1) Microsoft Office 365 for Mac (Guide, Download)</p>
+<p>2) Adobe Creative Cloud (Guide, Download)</p>
+<p>Download)</p>
 </td>
 </tr>
 <tr>
@@ -193,15 +197,63 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 <li>
 <p>CICTP - Common ICT Programme</p>
 </li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
 <li>
 <p>CSF - CyberSecurity &amp; Digital Forensics</p>
 </li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
 <li>
 <p>DS - Data Science</p>
 </li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
 <li>
 <p>IM - Immersive Media</p>
 </li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
 <li>
 <p>IT - Information Technology</p>
 </li>
