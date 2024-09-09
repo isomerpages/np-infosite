@@ -2,8 +2,8 @@ collections:
   software:
     output: true
     order:
-      - Software Download.md
       - Freshmen.md
       - Year 2 & 3.md
+      - Software Download.md
       - Minimum Specifications.md
       - Frequently Asked Questions.md
