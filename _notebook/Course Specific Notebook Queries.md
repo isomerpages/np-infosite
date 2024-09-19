@@ -4,7 +4,11 @@ permalink: /notebook/notebook-queries/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -22,17 +26,6 @@ description: ""
 <p><strong>Course: ACC, BF, BS, CBP, ITB, TRM</strong>
 </p>
 <ul data-tight="true" class="tight">
-<li>
-<p>Staff-in-Charge: Mr. Zeng Xing</p>
-</li>
-<li>
-<p>Tel: 6460 7010</p>
-</li>
-<li>
-<p>Email: <a href="mailto:Zeng_Xing@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Zeng_Xing@np.edu.sg</a>
-</p>
-<p></p>
-</li>
 <li>
 <p>BA Office</p>
 </li>
