@@ -159,9 +159,10 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 <a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>)</p>
 <p>2) Adobe Creative Cloud (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>)</p>
-<p>3) AutoCAD 2023 (Guide, Download)</p>
-<p>4) SketchUp Make 2017 (Guide, Download)</p>
-<p>5) Rhino 7 (Guide, Download)</p>
+<p>3) AutoCAD 2024 (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2024_guide.pdf?csf=1&amp;web=1&amp;e=a1STHr" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.autodesk.com/education/free-software/autocad" rel="noopener nofollow" target="_blank">Download</a>)</p>
+<p>4) SketchUp 2024 (Guide, <a href="https://download.sketchup.com/SketchUp-2024-0-594-241.exe" rel="noopener nofollow" target="_blank">Download</a>)</p>
+<p>5) Rhino 7 (Guide, <a href="https://www.rhino3d.com/download/archive/rhino/7/latest/" rel="noopener nofollow" target="_blank">Download</a>)</p>
 </td>
 </tr>
 <tr>
