@@ -74,45 +74,6 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 </tbody>
 </table>
 <p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Course</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Software Required</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>FPSCI</strong> - Science</p>
-</li>
-<li>
-<p><strong>FPTEC</strong> - Technology</p>
-</li>
-<li>
-<p></p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p>1) Microsoft Office 365 (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>)</p>
-<p>2) Adobe Creative Cloud (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>)</p>
-<p>3) Python 3.10.2 (Guide, Download)</p>
-<p>4) Visual Studio Code (Guide, Download)</p>
-</td>
-</tr>
-</tbody>
-</table>
 </div>
 </details>
 <details class="isomer-details">
