@@ -78,6 +78,7 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 <details class="isomer-details">
 <summary>School of Business &amp; Accountancy (BA)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -157,8 +158,10 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>1) Microsoft Office 365 (Guide, Download)</p>
-<p>2) Adobe Creative Cloud (Guide, Download)</p>
+<p>1) Microsoft Office 365 (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>)</p>
+<p>2) Adobe Creative Cloud (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>)</p>
 <p>3) AutoCAD 2023 (Guide, Download)</p>
 <p>4) SketchUp Make 2017 (Guide, Download)</p>
 <p>5) Rhino 7 (Guide, Download)</p>
@@ -173,8 +176,10 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>1) Microsoft Office 365 (Guide, Download)</p>
-<p>2) Adobe Creative Cloud (Guide, Download)</p>
+<p>1) Microsoft Office 365 (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>)</p>
+<p>2) Adobe Creative Cloud (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>)</p>
 <p>3) Tableau Reader (Guide, Download)</p>
 <p></p>
 </td>
@@ -188,8 +193,10 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>1) Microsoft Office 365 (Guide, Download)</p>
-<p>2) Adobe Creative Cloud (Guide, Download)</p>
+<p>1) Microsoft Office 365 (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>)</p>
+<p>2) Adobe Creative Cloud (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>)</p>
 <p>3) Tableau Reader (Guide, Download)</p>
 <p>4) Revit 2022 (Guide, Download)</p>
 </td>
@@ -222,6 +229,18 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 <li>
 <p><strong>FSV</strong> - Film, Sound &amp; Video (<em>Apple MacBook</em>)</p>
 </li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>1) Microsoft Office 365 (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>)</p>
+<p>2) Adobe Creative Cloud (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>CMP</strong> - Common Media Programme</p>
 </li>
@@ -234,9 +253,10 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>1) Microsoft Office 365 (Guide, Download)</p>
-<p>2) Adobe Creative Cloud (Guide, Download)</p>
-<p>Download)</p>
+<p>1) Microsoft Office 365 (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>)</p>
+<p>2) Adobe Creative Cloud (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>)</p>
 </td>
 </tr>
 </tbody>
