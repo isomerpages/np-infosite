@@ -73,7 +73,6 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 </tr>
 </tbody>
 </table>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
