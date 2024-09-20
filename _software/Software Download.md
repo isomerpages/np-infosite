@@ -13,7 +13,6 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 <details class="isomer-details">
 <summary>Foundation Programs</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -78,7 +77,6 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 <details class="isomer-details">
 <summary>School of Business &amp; Accountancy (BA)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -134,7 +132,6 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 <details class="isomer-details">
 <summary>School of Design &amp; Environment (DE)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -208,7 +205,6 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 <details class="isomer-details">
 <summary>Film &amp; Media Studies (FMS)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
