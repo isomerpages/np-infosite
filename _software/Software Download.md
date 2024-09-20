@@ -111,7 +111,7 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 <p>3) Python 3.12.6 (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Python3.10.2_Guide.pdf?csf=1&amp;web=1&amp;e=hqOphX" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.python.org/ftp/python/3.10.2/python-3.10.2-amd64.exe" rel="noopener nofollow" target="_blank">Download</a>)</p>
 <p>4) Visual Studio Code (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VSCode_guide.pdf?csf=1&amp;web=1&amp;e=gArBBu" rel="noopener nofollow" target="_blank">Guide</a>,
-Download)</p>
+<a href="https://code.visualstudio.com/sha/download?build=stable&amp;os=win32-x64-user" rel="noopener nofollow" target="_blank">Download</a>)</p>
 </td>
 </tr>
 </tbody>
