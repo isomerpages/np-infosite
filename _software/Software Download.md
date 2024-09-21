@@ -34,8 +34,9 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Microsoft Office 365 (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>)</p>
+<p>Microsoft Office 365 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 </ul>
 </td>
@@ -47,12 +48,14 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Microsoft Office 365 (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>)</p>
+<p>Microsoft Office 365 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 <li>
-<p>Visual Studio Code (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VSCode_guide.pdf?csf=1&amp;web=1&amp;e=gArBBu" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://code.visualstudio.com/sha/download?build=stable&amp;os=win32-x64-user" rel="noopener nofollow" target="_blank">Download</a>)</p>
+<p>Visual Studio Code - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VSCode_guide.pdf?csf=1&amp;web=1&amp;e=gArBBu" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://code.visualstudio.com/sha/download?build=stable&amp;os=win32-x64-user" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 </ul>
 </td>
@@ -64,12 +67,14 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Microsoft Office 365 (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>)</p>
+<p>Microsoft Office 365 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 <li>
-<p>Adobe Creative Cloud (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>)</p>
+<p>Adobe Creative Cloud - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 </ul>
 </td>
@@ -107,20 +112,24 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Microsoft Office 365 (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>)</p>
+<p>Microsoft Office 365 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 <li>
-<p>Adobe Creative Cloud (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>)</p>
+<p>Adobe Creative Cloud - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 <li>
-<p>Python 3.12.6 (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Python3.10.2_Guide.pdf?csf=1&amp;web=1&amp;e=hqOphX" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://www.python.org/ftp/python/3.10.2/python-3.10.2-amd64.exe" rel="noopener nofollow" target="_blank">Download</a>)</p>
+<p>Python 3.12.6 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Python3.10.2_Guide.pdf?csf=1&amp;web=1&amp;e=hqOphX" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.python.org/ftp/python/3.10.2/python-3.10.2-amd64.exe" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 <li>
-<p>Visual Studio Code (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VSCode_guide.pdf?csf=1&amp;web=1&amp;e=gArBBu" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://code.visualstudio.com/sha/download?build=stable&amp;os=win32-x64-user" rel="noopener nofollow" target="_blank">Download</a>)</p>
+<p>Visual Studio Code - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VSCode_guide.pdf?csf=1&amp;web=1&amp;e=gArBBu" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://code.visualstudio.com/sha/download?build=stable&amp;os=win32-x64-user" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 </ul>
 </td>
