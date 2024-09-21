@@ -239,38 +239,38 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>FSV</strong> - Film, Sound &amp; Video (<em>Apple MacBook</em>)</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>1) Microsoft Office 365 (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
+<ul data-tight="true" class="tight">
+<li>
+<p>Microsoft Office 365 (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>)</p>
-<p>2) Adobe Creative Cloud (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCCMac_guide.pdf?csf=1&amp;web=1&amp;e=HrZagy" rel="noopener nofollow" target="_blank">Guide</a>,
+</li>
+<li>
+<p>Adobe Creative Cloud (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCCMac_guide.pdf?csf=1&amp;web=1&amp;e=HrZagy" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>CMP</strong> - Common Media Programme</p>
-</li>
-<li>
 <p><strong>CM</strong> - Mass Communication</p>
-</li>
-<li>
 <p><strong>MPP</strong> - Media Post-Production</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>1) Microsoft Office 365 (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
+<ul data-tight="true" class="tight">
+<li>
+<p>Microsoft Office 365 (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>)</p>
-<p>2) Adobe Creative Cloud (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
+</li>
+<li>
+<p>Adobe Creative Cloud (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>)</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
@@ -296,32 +296,24 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>ABM</strong> - Arts Business Management</p>
-</li>
-<li>
 <p><strong>CDT</strong> - Community Development</p>
-</li>
-<li>
 <p><strong>CHS</strong> - Chinese Studies</p>
-</li>
-<li>
 <p><strong>CMC</strong> - Chinese Media &amp; Communications</p>
-</li>
-<li>
 <p><strong>ECDE</strong> - Early Childhood Development &amp; Education</p>
-</li>
-<li>
 <p><strong>TSE</strong> - Tamil Studies with Early Education</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>1) Microsoft Office 365 (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
+<ul data-tight="true" class="tight">
+<li>
+<p>Microsoft Office 365 (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>)</p>
-<p>2) Adobe Creative Cloud (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
+</li>
+<li>
+<p>Adobe Creative Cloud (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>)</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
@@ -347,20 +339,20 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>NSG</strong> - Nursing</p>
-</li>
-<li>
 <p><strong>OPT</strong> - Optometry</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>1) Microsoft Office 365 (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
+<ul data-tight="true" class="tight">
+<li>
+<p>Microsoft Office 365 (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>)</p>
-<p>2) Adobe Creative Cloud (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
+</li>
+<li>
+<p>Adobe Creative Cloud (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>)</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
