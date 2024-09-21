@@ -378,77 +378,87 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>CICTP</strong> - Common ICT Programme</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>1) Microsoft Office 365 (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
+<ul data-tight="true" class="tight">
+<li>
+<p>Microsoft Office 365 (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>)</p>
-<p>2) Adobe Creative Cloud (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
+</li>
+<li>
+<p>Adobe Creative Cloud (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>CSF</strong> - CyberSecurity &amp; Digital Forensics</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>1) Microsoft Office 365 (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
+<ul data-tight="true" class="tight">
+<li>
+<p>Microsoft Office 365 (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>)</p>
-<p>2) Adobe Creative Cloud (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
+</li>
+<li>
+<p>Adobe Creative Cloud (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>DS</strong> - Data Science</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>1) Microsoft Office 365 (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
+<ul data-tight="true" class="tight">
+<li>
+<p>Microsoft Office 365 (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>)</p>
-<p>2) Adobe Creative Cloud (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
+</li>
+<li>
+<p>Adobe Creative Cloud (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>IM</strong> - Immersive Media</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>1) Microsoft Office 365 (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
+<ul data-tight="true" class="tight">
+<li>
+<p>Microsoft Office 365 (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>)</p>
-<p>2) Adobe Creative Cloud (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
+</li>
+<li>
+<p>Adobe Creative Cloud (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>IT</strong> - Information Technology</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>1) Microsoft Office 365 (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
+<ul data-tight="true" class="tight">
+<li>
+<p>Microsoft Office 365 (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>)</p>
-<p>2) Adobe Creative Cloud (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
+</li>
+<li>
+<p>Adobe Creative Cloud (<a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>)</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
@@ -482,26 +492,12 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>BMS</strong> - Biomedical Science</p>
-</li>
-<li>
 <p><strong>CBE</strong> - Chemical &amp; Biomolecular Engineering</p>
-</li>
-<li>
 <p><strong>CSP</strong> - Common Science Programme</p>
-</li>
-<li>
 <p><strong>EWT</strong> - Environmental &amp; Water Technology</p>
-</li>
-<li>
 <p><strong>LDH</strong> - Landscape Design &amp; Horticulture</p>
-</li>
-<li>
 <p><strong>PHARM</strong> - Pharmaceutical Science</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -554,32 +550,14 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>AEG</strong> - Aerospace Engineering</p>
-</li>
-<li>
 <p><strong>MR</strong> - Mechatronics &amp; Robotics</p>
-</li>
-<li>
 <p><strong>BME</strong> - Biomedical Engineering</p>
-</li>
-<li>
 <p><strong>CEP</strong> - Common Engineering Programme</p>
-</li>
-<li>
 <p><strong>ECE</strong> - Electronic &amp; Computer Engineering</p>
-</li>
-<li>
 <p><strong>EE</strong> - Electrical Engineering</p>
-</li>
-<li>
 <p><strong>ME</strong> - Mechanical Engineering</p>
-</li>
-<li>
 <p><strong>MOT</strong> - Marine &amp; Offshore Technology</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
