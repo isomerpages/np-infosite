@@ -182,7 +182,7 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 </p>
 </li>
 <li>
-<p>Rhino 7 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Rhino7_guide.pdf?csf=1&amp;web=1&amp;e=85Trvi" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>Rhino 7 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Rhino7_guide.pdf?csf=1&amp;web=1&amp;e=KX3sD9" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.rhino3d.com/download/archive/rhino/7/latest/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
