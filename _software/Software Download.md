@@ -177,7 +177,8 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 </p>
 </li>
 <li>
-<p>SketchUp 2024 - Guide, <a href="https://download.sketchup.com/SketchUp-2024-0-594-241.exe" rel="noopener nofollow" target="_blank">Download</a>
+<p>SketchUp 2024 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Sketchup2024_guide.pdf?csf=1&amp;web=1&amp;e=1wU11c" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://download.sketchup.com/SketchUp-2024-0-594-241.exe" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
 <li>
