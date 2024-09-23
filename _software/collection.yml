@@ -2,7 +2,7 @@ collections:
   software:
     output: true
     order:
-      - Software Download (Year 1).md
+      - Software Download.md
       - Freshmen.md
       - Year 2 & 3.md
       - Minimum Specifications.md
