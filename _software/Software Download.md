@@ -547,9 +547,8 @@ Download</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>School of Life Sciences &amp; Chemical Technology (LSCT)</summary>
+<summary>School of Life Sciences &amp; Chemical Technology (LSCT</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -770,7 +769,6 @@ Download</p>
 <details class="isomer-details">
 <summary>School of Engineering (SOE)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
