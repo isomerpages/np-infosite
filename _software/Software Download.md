@@ -566,88 +566,162 @@ Download</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Microsoft Office 365 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>
-</p>
-</li>
-<li>
-<p>Adobe Creative Cloud - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>BMS</strong> - Biomedical Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Microsoft Office 365 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>Adobe Creative Cloud - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>R Sofware v3.6.2 - Guide, Download</p>
+</li>
+<li>
+<p>RStudio Desktop 1.2.5033 - Guide, Download</p>
+</li>
+<li>
+<p>Polymath Edu 2020-21 - Guide, Download</p>
+</li>
+<li>
+<p>Chemsketch 2020 - Guide, Download</p>
+</li>
+<li>
+<p>Hyper32 v1.0 - Guide, Download</p>
+</li>
+<li>
+<p>DA Plus v9.0 - Guide, Download</p>
+</li>
+<li>
+<p>Python 3.10.2 - Guide, Download</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>CBE</strong> - Chemical &amp; Biomolecular Engineering</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Microsoft Office 365 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>AutoCAD 2024 - Guide, Download</p>
+</li>
+<li>
+<p>AspenHysys - Guide, Download</p>
+</li>
+<li>
+<p>Polymath Edu 2020-21 - Guide, Download</p>
+</li>
+<li>
+<p>Chemsketch 2020 - Guide, Download</p>
+</li>
+<li>
+<p>Hyper32 v1.0 - Guide, Download</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>CSP</strong> - Common Science Programme</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Microsoft Office 365 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>R Software v3.6.2 - Guide, Download</p>
+</li>
+<li>
+<p>RStudio Desktop 1.2.5033 - Guide, Download</p>
+</li>
+<li>
+<p>Polymath Edu 2020-21 - Guide, Download</p>
+</li>
+<li>
+<p>Chemsketch 2020 - Guide, Download</p>
+</li>
+<li>
+<p>Hyper32 v1.0 - Guide, Download</p>
+</li>
+<li>
+<p>DA Plus v9.0 - Guide, Download</p>
+</li>
+<li>
+<p>Python 3.10.2 - Guide, Download</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>EWT</strong> - Environmental &amp; Water Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Microsoft Office 365 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>AutoCAD 2024 - Guide, Download</p>
+</li>
+<li>
+<p>Google colab - Guide, Download</p>
+</li>
+<li>
+<p>YoloV8 - Guide, Download</p>
+</li>
+<li>
+<p>Arduino IDE - Guide, Download</p>
+</li>
+<li>
+<p>Pycharm - Guide, Download</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>LDH</strong> - Landscape Design &amp; Horticulture</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Microsoft Office 365 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>Adobe Creative Cloud - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>PHARM</strong> - Pharmaceutical Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Microsoft Office 365 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>
-</p>
-</li>
-<li>
-<p>Adobe Creative Cloud - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Microsoft Office 365 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>
-</p>
-</li>
-<li>
-<p>Adobe Creative Cloud - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Microsoft Office 365 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>
-</p>
-</li>
-<li>
-<p>Adobe Creative Cloud - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
