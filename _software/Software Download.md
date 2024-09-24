@@ -770,6 +770,7 @@ Download</p>
 <details class="isomer-details">
 <summary>School of Engineering (SOE)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -797,9 +798,19 @@ Download</p>
 </p>
 </li>
 <li>
-<p>Adobe Creative Cloud - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>
-</p>
+<p>Creo 4 - Guide, Download</p>
+</li>
+<li>
+<p>Autodesk Fusion 360 - Guide, Download</p>
+</li>
+<li>
+<p>Tina - Guide, Download</p>
+</li>
+<li>
+<p>Arduino IDE - Guide, Download</p>
+</li>
+<li>
+<p>Tinkercad - Guide, Download</p>
 </li>
 </ul>
 </td>
@@ -817,9 +828,7 @@ Download</p>
 </p>
 </li>
 <li>
-<p>Adobe Creative Cloud - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>
-</p>
+<p>Autodesk Fusion 360 - Guide, Download</p>
 </li>
 </ul>
 </td>
@@ -837,9 +846,16 @@ Download</p>
 </p>
 </li>
 <li>
-<p>Adobe Creative Cloud - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>
-</p>
+<p>VS Community 2022 - Guide, Download</p>
+</li>
+<li>
+<p>Tina - Guide, Download</p>
+</li>
+<li>
+<p>Arduino IDE - Guide, Download</p>
+</li>
+<li>
+<p>Tinkercad - Guide, Download</p>
 </li>
 </ul>
 </td>
@@ -857,9 +873,10 @@ Download</p>
 </p>
 </li>
 <li>
-<p>Adobe Creative Cloud - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>
-</p>
+<p>Autodesk Fusion 360 - Guide, Download</p>
+</li>
+<li>
+<p>Arduino IDE - Guide, Download</p>
 </li>
 </ul>
 </td>
@@ -877,9 +894,16 @@ Download</p>
 </p>
 </li>
 <li>
-<p>Adobe Creative Cloud - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>
-</p>
+<p>VS Community 2022 - Guide, Download</p>
+</li>
+<li>
+<p>Tina - Guide, Download</p>
+</li>
+<li>
+<p>Arduino IDE - Guide, Download</p>
+</li>
+<li>
+<p>Tinkercad - Guide, Download</p>
 </li>
 </ul>
 </td>
@@ -898,9 +922,13 @@ Download</p>
 </p>
 </li>
 <li>
-<p>Adobe Creative Cloud - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>
-</p>
+<p>Tina - Guide, Download</p>
+</li>
+<li>
+<p>Arduino IDE - Guide, Download</p>
+</li>
+<li>
+<p>Tinkercad - Guide, Download</p>
 </li>
 </ul>
 </td>
@@ -917,9 +945,7 @@ Download</p>
 </p>
 </li>
 <li>
-<p>Adobe Creative Cloud - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>
-</p>
+<p>Autodesk Fusion 360 - Guide, Download</p>
 </li>
 </ul>
 </td>
@@ -936,9 +962,13 @@ Download</p>
 </p>
 </li>
 <li>
-<p>Adobe Creative Cloud - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>
-</p>
+<p>VS Community 2022 - Guide, Download</p>
+</li>
+<li>
+<p>AutoCAD 2024 - Guide, Download</p>
+</li>
+<li>
+<p>Autodesk Fusion 360 - Guide, Download</p>
 </li>
 </ul>
 </td>
