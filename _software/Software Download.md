@@ -408,6 +408,16 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 <a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
+<li>
+<p>Visio 2021 (web) - Guide</p>
+</li>
+<li>
+<p>VS Community 2022 (with SQL Server Express 2022 LocalDB add-in - Guide,
+Download</p>
+</li>
+<li>
+<p>Python 3.11.1 - Guide, Download</p>
+</li>
 </ul>
 </td>
 </tr>
@@ -426,6 +436,25 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 <p>Adobe Creative Cloud - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>
 </p>
+</li>
+<li>
+<p>Visio 2021 (web) - Guide</p>
+</li>
+<li>
+<p>VS Community 2022 (with SQL Server Express 2022 LocalDB add-in - Guide,
+Download</p>
+</li>
+<li>
+<p>Python 3.11.1 - Guide, Download</p>
+</li>
+<li>
+<p>SAP Client v7.5 - Guide, Download</p>
+</li>
+<li>
+<p>VMWare Workstation Pro 17 / VMWare Workstation Player 17 - Guide, Download</p>
+</li>
+<li>
+<p>Oracle Virtuabox 7 - Guide, Download</p>
 </li>
 </ul>
 </td>
@@ -446,6 +475,19 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 <a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
+<li>
+<p>Visio 2021 (web) - Guide</p>
+</li>
+<li>
+<p>VS Community 2022 (with SQL Server Express 2022 LocalDB add-in - Guide,
+Download</p>
+</li>
+<li>
+<p>Python 3.11.1 - Guide, Download</p>
+</li>
+<li>
+<p>SAP Client v7.5 - Guide, Download</p>
+</li>
 </ul>
 </td>
 </tr>
@@ -465,6 +507,9 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 <a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
+<li>
+<p>Python 3.11.1 - Guide, Download</p>
+</li>
 </ul>
 </td>
 </tr>
@@ -483,6 +528,16 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 <p>Adobe Creative Cloud - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>
 </p>
+</li>
+<li>
+<p>Visio 2021 (web) - Guide</p>
+</li>
+<li>
+<p>VS Community 2022 (with SQL Server Express 2022 LocalDB add-in - Guide,
+Download</p>
+</li>
+<li>
+<p>Python 3.11.1 - Guide, Download</p>
 </li>
 </ul>
 </td>
