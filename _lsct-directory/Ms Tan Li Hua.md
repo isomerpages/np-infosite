@@ -42,7 +42,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>School of Life Sciences and Chemical Technology
-<br>Blk 83, #08-01A, Singapore 599489​</p>
+<br>Blk 83, #04-00, Singapore 599489​</p>
 </td>
 </tr>
 <tr>

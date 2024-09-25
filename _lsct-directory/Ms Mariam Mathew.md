@@ -154,7 +154,7 @@ Marine sector, Park/ Estate Managements).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/LSCT/OtherProjects_Publications_mma.pdf" rel="noopener noreferrer nofollow" target="_blank">Document</a>
+<p><a href="https://cms.isomer.gov.sg/files/LSCT/OtherProjects_Publications_mma.pdf" rel="noopener nofollow" target="_blank">Document</a>
 </p>
 </td>
 </tr>
