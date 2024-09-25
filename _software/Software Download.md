@@ -123,7 +123,7 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 </li>
 <li>
 <p>Python 3.10.2 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Python3.10.2_Guide.pdf?csf=1&amp;web=1&amp;e=hqOphX" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://www.python.org/ftp/python/3.10.2/python-3.10.2-amd64.exe" rel="noopener nofollow" target="_blank">Download</a>
+<a href="https://www.python.org/downloads/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
 <li>
@@ -418,7 +418,8 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 </p>
 </li>
 <li>
-<p>Python 3.11.1 - Guide, <a href="https://www.python.org/downloads/" rel="noopener nofollow" target="_blank">Download</a>
+<p>Python 3.11.1 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Python3.10.2_Guide.pdf?csf=1&amp;web=1&amp;e=hqOphX" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.python.org/downloads/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
 </ul>
@@ -450,7 +451,8 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 </p>
 </li>
 <li>
-<p>Python 3.11.1 - Guide, <a href="https://www.python.org/downloads/" rel="noopener nofollow" target="_blank">Download</a>
+<p>Python 3.11.1 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Python3.10.2_Guide.pdf?csf=1&amp;web=1&amp;e=hqOphX" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.python.org/downloads/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
 <li>
