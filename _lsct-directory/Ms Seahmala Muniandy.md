@@ -73,13 +73,16 @@ description: ""
 <p>BHortSc(<em>Hons</em>), UPM</p>
 </li>
 <li>
+<p>Graduate Certificate in Agronomy (lowa State University)</p>
+</li>
+<li>
 <p>Specialist Diploma in Molecular Biotechnology, NP</p>
 </li>
 <li>
 <p>​Certified Practising of Horticulturist (CUGE)</p>
 </li>
 <li>
-<p>Member of Australian Institute of Horticulture (AIH)</p>
+<p>Certified Practitioner of Human-Centered Design (LUMA))</p>
 </li>
 </ul>
 </td>
@@ -99,8 +102,9 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Greenhouse technology, Soil management, Plant Identification, Plant Nutrition
-and Crop Physiology</p>
+<p>Plant science, soil science, urban farming (greenhouse technology), mushroom
+cultivation using horticultural and food waste and Arduino-based IoT systems
+for Agriculture</p>
 </td>
 </tr>
 <tr>
@@ -131,6 +135,10 @@ Malaysia, 1997.</p>
 <li>
 <p>Comparative analysis on crops development in circulating and non-circulating
 hydroponics methods.</p>
+</li>
+<li>
+<p>Lettuce Cultivation in NFT: A Comparison of Automated Dosing and Manual
+Nutrient Systems.</p>
 </li>
 </ul>
 </td>
