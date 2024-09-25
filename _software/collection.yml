@@ -2,7 +2,7 @@ collections:
   software:
     output: true
     order:
-      - What should I install?.md
+      - What should I Install?.md
       - Minimum Specifications.md
       - Software Download.md
       - Frequently Asked Questions.md
