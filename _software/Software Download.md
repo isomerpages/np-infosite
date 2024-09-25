@@ -1,7 +1,7 @@
 ---
 title: Software Download
 permalink: /software-download/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <blockquote>
