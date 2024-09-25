@@ -43,11 +43,11 @@ downloaded and installed.</p>
 <p></p>
 <h4>9. Is there a deadline for me to download the software?</h4>
 <p>You are strongly encouraged to download and install the software on your
-own before the start of April semester.</p>
+own before the start of Apr / Oct semester.</p>
 <p></p>
 <h4>10. I misplaced the notebook that I initially registered with. How do I install software on my replacement notebook?</h4>
-<p>Refer to this page to download the required software on your new notebook.
-(<em>Pending Update</em>).</p>
+<p>Refer to the Software Download page to download the required software
+on your new notebook. (<em>Pending Update</em>).</p>
 <p></p>
 <h4>11. I wish to drop by at the IT Helpdesk for technical assistance. What are their opening hours?</h4>
 <p>Please refer to the <a href="/contact-us" rel="noopener noreferrer nofollow" target="_blank">Contact Us</a> page.</p>
