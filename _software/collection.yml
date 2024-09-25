@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Software Download.md
-      - Year 1.md
+      - What should I install?.md
       - Minimum Specifications.md
       - Frequently Asked Questions.md
