@@ -456,7 +456,9 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 </p>
 </li>
 <li>
-<p>SAP Client v7.5 - Guide, Download</p>
+<p>SAP Client v7.5 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/SAPClient_guide.pdf?csf=1&amp;web=1&amp;e=1OTRhi" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/SAPClient.zip?csf=1&amp;web=1&amp;e=gOn6eo" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 <li>
 <p>VMWare Workstation Pro 17 / VMWare Workstation Player 17 - Guide, Download</p>
