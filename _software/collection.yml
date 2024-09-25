@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Software Download.md
-      - Freshmen.md
+      - Year 1.md
       - Year 2 & 3.md
       - Minimum Specifications.md
       - Frequently Asked Questions.md
