@@ -461,7 +461,9 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 </p>
 </li>
 <li>
-<p>VMWare Workstation Pro 17 / VMWare Workstation Player 17 - Guide, Download</p>
+<p>VMWare Workstation Pro 17 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VMWare_guide.pdf?csf=1&amp;web=1&amp;e=eaNGIh" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/VMWare_Workstation_Pro_17.exe?csf=1&amp;web=1&amp;e=Lj3aPo" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 <li>
 <p>Oracle Virtuabox 7 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/OracleVirtualBox_guide.pdf?csf=1&amp;web=1&amp;e=uK5dbf" rel="noopener nofollow" target="_blank">Guide</a>,
