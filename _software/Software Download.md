@@ -938,7 +938,7 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 </p>
 </li>
 <li>
-<p>VS Community 2022 (with SQL Server Express 2022 LocalDB add-in - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VS2022_guide.pdf?csf=1&amp;web=1&amp;e=IzbPi7" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>VS Community 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VS2022_guide.pdf?csf=1&amp;web=1&amp;e=IzbPi7" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://visualstudio.microsoft.com/vs/community/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -988,7 +988,7 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 </p>
 </li>
 <li>
-<p>VS Community 2022 (with SQL Server Express 2022 LocalDB add-in - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VS2022_guide.pdf?csf=1&amp;web=1&amp;e=IzbPi7" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>VS Community 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VS2022_guide.pdf?csf=1&amp;web=1&amp;e=IzbPi7" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://visualstudio.microsoft.com/vs/community/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -1058,7 +1058,7 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 </p>
 </li>
 <li>
-<p>VS Community 2022 (with SQL Server Express 2022 LocalDB add-in - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VS2022_guide.pdf?csf=1&amp;web=1&amp;e=IzbPi7" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>VS Community 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VS2022_guide.pdf?csf=1&amp;web=1&amp;e=IzbPi7" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://visualstudio.microsoft.com/vs/community/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
