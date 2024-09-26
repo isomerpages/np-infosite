@@ -696,22 +696,34 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 </p>
 </li>
 <li>
-<p>R Software v3.6.2 - Guide, Download</p>
+<p>R Software v3.6.2 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/RSoftware_guide.pdf?csf=1&amp;web=1&amp;e=2cf1xw" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://cran.asia/bin/windows/base/R-4.4.1-win.exe" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 <li>
-<p>RStudio Desktop 1.2.5033 - Guide, Download</p>
+<p>RStudio Desktop 1.2.5033 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/RStudio_guide.pdf?csf=1&amp;web=1&amp;e=f5Fvea" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://download1.rstudio.org/electron/windows/RStudio-2024.09.0-375.exe" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 <li>
-<p>Polymath Edu 2020-21 - Guide, Download</p>
+<p>Polymath Pro - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/PolymathPro_guide.pdf?csf=1&amp;web=1&amp;e=QbeicB" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/Polymath%20PRO%20Site%206.10.exe?csf=1&amp;web=1&amp;e=ldLBxp" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 <li>
-<p>Chemsketch 2020 - Guide, Download</p>
+<p>Chemsketch 2021 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/ChemSketch_guide.pdf?csf=1&amp;web=1&amp;e=G0kUjt" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/Chemsketch21.zip?csf=1&amp;web=1&amp;e=TQyvCf" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 <li>
-<p>Hyper32 v1.0 - Guide, Download</p>
+<p>Hyper32 v1.0 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Hyper32_guide.pdf?csf=1&amp;web=1&amp;e=WPAz8X" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/hyper32.zip?csf=1&amp;web=1&amp;e=PBq5P2" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 <li>
-<p>DA Plus v9.0 - Guide, Download</p>
+<p>DA Plus v9.0 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/DAPlus_guide.pdf?csf=1&amp;web=1&amp;e=JUcktd" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/DAPlus.zip?csf=1&amp;web=1&amp;e=bSwOoq" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 <li>
 <p>Python 3.11.1 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Python3.10.2_Guide.pdf?csf=1&amp;web=1&amp;e=hqOphX" rel="noopener nofollow" target="_blank">Guide</a>,
@@ -733,7 +745,9 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 </p>
 </li>
 <li>
-<p>AutoCAD 2024 - Guide, Download</p>
+<p>AutoCAD 2024 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2024_guide.pdf?csf=1&amp;web=1&amp;e=a1STHr" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.autodesk.com/education/free-software/autocad" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 <li>
 <p>Google colab - Guide, Download</p>
