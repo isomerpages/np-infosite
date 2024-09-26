@@ -890,7 +890,9 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 </p>
 </li>
 <li>
-<p>Creo 4 - Guide, Download</p>
+<p>Creo 4 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Creo4_guide.pdf?csf=1&amp;web=1&amp;e=iuol0y" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/Creo4.zip?csf=1&amp;web=1&amp;e=FF78Ki" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 <li>
 <p>Fusion 360 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Fusion360_guide.pdf?csf=1&amp;web=1&amp;e=dyUVUi" rel="noopener nofollow" target="_blank">Guide</a>,
