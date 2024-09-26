@@ -655,7 +655,8 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 <p>AutoCAD 2024 - Guide, Download</p>
 </li>
 <li>
-<p>AspenHysys - Guide, Download</p>
+<p>AspenHysys - Guide, <a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/AspenHysys.zip?csf=1&amp;web=1&amp;e=9FmH1Y" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 <li>
 <p>Polymath Edu 2020-21 - Guide, Download</p>
