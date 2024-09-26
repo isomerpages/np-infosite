@@ -893,7 +893,9 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 <p>Creo 4 - Guide, Download</p>
 </li>
 <li>
-<p>Fusion 360 - Guide, Download</p>
+<p>Fusion 360 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Fusion360_guide.pdf?csf=1&amp;web=1&amp;e=dyUVUi" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/AutodeskFusion360.exe?csf=1&amp;web=1&amp;e=7edDUQ" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 <li>
 <p>Tina - Guide, Download</p>
