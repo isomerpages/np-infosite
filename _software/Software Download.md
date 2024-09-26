@@ -893,7 +893,7 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 <p>Creo 4 - Guide, Download</p>
 </li>
 <li>
-<p>Autodesk Fusion 360 - Guide, Download</p>
+<p>Fusion 360 - Guide, Download</p>
 </li>
 <li>
 <p>Tina - Guide, Download</p>
@@ -922,7 +922,7 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 </p>
 </li>
 <li>
-<p>Autodesk Fusion 360 - Guide, Download</p>
+<p>Fusion 360 - Guide, Download</p>
 </li>
 </ul>
 </td>
@@ -969,7 +969,7 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 </p>
 </li>
 <li>
-<p>Autodesk Fusion 360 - Guide, Download</p>
+<p>Fusion 360 - Guide, Download</p>
 </li>
 <li>
 <p>Arduino IDE - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/ArduinoIDE_guide.pdf?csf=1&amp;web=1&amp;e=OxtMg0" rel="noopener nofollow" target="_blank">Guide</a>,
@@ -1049,7 +1049,7 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 </p>
 </li>
 <li>
-<p>Autodesk Fusion 360 - Guide, Download</p>
+<p>Fusion 360 - Guide, Download</p>
 </li>
 </ul>
 </td>
