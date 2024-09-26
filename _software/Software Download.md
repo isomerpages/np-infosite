@@ -908,7 +908,9 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 </p>
 </li>
 <li>
-<p>Tinkercad - Guide, Download</p>
+<p>Tinkercad - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Tinkercad_guide.pdf?csf=1&amp;web=1&amp;e=LBM2aH" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.tinkercad.com" rel="noopener nofollow" target="_blank">Link</a>
+</p>
 </li>
 </ul>
 </td>
