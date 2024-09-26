@@ -606,7 +606,9 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 </p>
 </li>
 <li>
-<p>R Sofware v3.6.2 - Guide, Download</p>
+<p>R Software v3.6.2 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/RSoftware_guide.pdf?csf=1&amp;web=1&amp;e=2cf1xw" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://cran.asia/bin/windows/base/R-4.4.1-win.exe" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 <li>
 <p>RStudio Desktop 1.2.5033 - Guide, Download</p>
