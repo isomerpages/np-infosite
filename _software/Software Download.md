@@ -409,7 +409,7 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 </p>
 </li>
 <li>
-<p>Visio 2021 (web) - <strong><s>Guide</s></strong>
+<p>Visio 2021 (web) - <a href="https://www.microsoft365.com/launch/Visio/" rel="noopener nofollow" target="_blank">Link</a>
 </p>
 </li>
 <li>
@@ -442,7 +442,7 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 </p>
 </li>
 <li>
-<p>Visio 2021 (web) - <strong><s>Guide</s></strong>
+<p>Visio 2021 (web) - <a href="https://www.microsoft365.com/launch/Visio/" rel="noopener nofollow" target="_blank">Link</a>
 </p>
 </li>
 <li>
@@ -490,17 +490,23 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 </p>
 </li>
 <li>
-<p>Visio 2021 (web) - Guide</p>
+<p>Visio 2021 (web) - <a href="https://www.microsoft365.com/launch/Visio/" rel="noopener nofollow" target="_blank">Link</a>
+</p>
 </li>
 <li>
-<p>VS Community 2022 (with SQL Server Express 2022 LocalDB add-in - Guide,
-Download</p>
+<p>VS Community 2022 (with SQL Server Express 2022 LocalDB add-in - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VS2022_guide.pdf?csf=1&amp;web=1&amp;e=IzbPi7" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://visualstudio.microsoft.com/vs/community/" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 <li>
-<p>Python 3.11.1 - Guide, Download</p>
+<p>Python 3.11.1 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Python3.10.2_Guide.pdf?csf=1&amp;web=1&amp;e=hqOphX" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.python.org/downloads/" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 <li>
-<p>SAP Client v7.5 - Guide, Download</p>
+<p>SAP Client v7.5 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/SAPClient_guide.pdf?csf=1&amp;web=1&amp;e=1OTRhi" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/SAPClient.zip?csf=1&amp;web=1&amp;e=gOn6eo" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 </ul>
 </td>
@@ -522,7 +528,9 @@ Download</p>
 </p>
 </li>
 <li>
-<p>Python 3.11.1 - Guide, Download</p>
+<p>Python 3.11.1 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Python3.10.2_Guide.pdf?csf=1&amp;web=1&amp;e=hqOphX" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.python.org/downloads/" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 </ul>
 </td>
@@ -544,14 +552,18 @@ Download</p>
 </p>
 </li>
 <li>
-<p>Visio 2021 (web) - Guide</p>
+<p>Visio 2021 (web) - <a href="https://www.microsoft365.com/launch/Visio/" rel="noopener nofollow" target="_blank">Link</a>
+</p>
 </li>
 <li>
-<p>VS Community 2022 (with SQL Server Express 2022 LocalDB add-in - Guide,
-Download</p>
+<p>VS Community 2022 (with SQL Server Express 2022 LocalDB add-in - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VS2022_guide.pdf?csf=1&amp;web=1&amp;e=IzbPi7" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://visualstudio.microsoft.com/vs/community/" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 <li>
-<p>Python 3.11.1 - Guide, Download</p>
+<p>Python 3.11.1 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Python3.10.2_Guide.pdf?csf=1&amp;web=1&amp;e=hqOphX" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.python.org/downloads/" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 </ul>
 </td>
