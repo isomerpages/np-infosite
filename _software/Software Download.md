@@ -800,7 +800,9 @@ further assistance, you may write to <a href="mailto:itcare@connect.np.edu.sg" r
 </p>
 </li>
 <li>
-<p>Sketchup Pro 2022 - Guide, Download</p>
+<p>Sketchup Pro 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/SketchupPRO2022_Guide.pdf?csf=1&amp;web=1&amp;e=Eey7xB" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/sketchuppro2022.exe?csf=1&amp;web=1&amp;e=oUKOow" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 <li>
 <p>Revit 2021 - Guide, Download</p>
