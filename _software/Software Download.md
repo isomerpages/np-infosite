@@ -901,7 +901,7 @@ and password.</p>
 </li>
 <li>
 <p>Fusion 360 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Fusion360_guide.pdf?csf=1&amp;web=1&amp;e=dyUVUi" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/AutodeskFusion360.exe?csf=1&amp;web=1&amp;e=7edDUQ" rel="noopener nofollow" target="_blank">Download</a>
+<a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
 <li>
@@ -936,7 +936,7 @@ and password.</p>
 </li>
 <li>
 <p>Fusion 360 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Fusion360_guide.pdf?csf=1&amp;web=1&amp;e=dyUVUi" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/AutodeskFusion360.exe?csf=1&amp;web=1&amp;e=7edDUQ" rel="noopener nofollow" target="_blank">Download</a>
+<a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
 </ul>
@@ -991,7 +991,7 @@ and password.</p>
 </li>
 <li>
 <p>Fusion 360 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Fusion360_guide.pdf?csf=1&amp;web=1&amp;e=dyUVUi" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/AutodeskFusion360.exe?csf=1&amp;web=1&amp;e=7edDUQ" rel="noopener nofollow" target="_blank">Download</a>
+<a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
 <li>
@@ -1081,7 +1081,7 @@ and password.</p>
 </li>
 <li>
 <p>Fusion 360 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Fusion360_guide.pdf?csf=1&amp;web=1&amp;e=dyUVUi" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/AutodeskFusion360.exe?csf=1&amp;web=1&amp;e=7edDUQ" rel="noopener nofollow" target="_blank">Download</a>
+<a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
 </ul>
@@ -1105,12 +1105,12 @@ and password.</p>
 </li>
 <li>
 <p>AutoCAD 2024 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2024_guide.pdf?csf=1&amp;web=1&amp;e=a1STHr" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://www.autodesk.com/education/free-software/autocad" rel="noopener nofollow" target="_blank">Download</a>
+<a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
 <li>
 <p>Fusion 360 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Fusion360_guide.pdf?csf=1&amp;web=1&amp;e=dyUVUi" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/AutodeskFusion360.exe?csf=1&amp;web=1&amp;e=7edDUQ" rel="noopener nofollow" target="_blank">Download</a>
+<a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
 </ul>
