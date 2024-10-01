@@ -34,7 +34,7 @@ to download the required software on your new notebook.</p>
 <p></p>
 <h4>7. I have an old notebook and I am not sure if it can be used for my course. Can you advise?</h4>
 <p>You may check if the notebook meets the minimum specifications for your
-course.</p>
+course at this <a href="https://www2.np.edu.sg/notebook/specs/" rel="noopener nofollow" target="_blank">page</a>.</p>
 <p></p>
 <h4>8. I have difficulty with software installation. Where can I get help?</h4>
 <p>You may write to <a href="mailto:itcare@connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">itcare@connect.np.edu.sg</a> for
