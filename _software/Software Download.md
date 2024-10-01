@@ -98,12 +98,19 @@ and password.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Course</p>
+<th rowspan="1" colspan="2">
+<p>Year 1</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Software Required</p>
-</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Course</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Software Required</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -135,6 +142,58 @@ and password.</p>
 <p>Visual Studio Code - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VSCode_guide.pdf?csf=1&amp;web=1&amp;e=gArBBu" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://code.visualstudio.com/sha/download?build=stable&amp;os=win32-x64-user" rel="noopener nofollow" target="_blank">Download</a>
 </p>
+<p></p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Year 2</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Course</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Software Required</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ACC</strong> - Accountancy</p>
+<p><strong>BF</strong> - Banking &amp; Finance</p>
+<p><strong>BS</strong> - Business Studies</p>
+<p><strong>CBP</strong> - Common Business Programme</p>
+<p><strong>ITB</strong> - International Trade &amp; Business</p>
+<p><strong>TRM</strong> - Tourism &amp; Resort Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Microsoft Office 365 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>Adobe Creative Cloud - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>Python 3.10.2 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Python3.10.2_Guide.pdf?csf=1&amp;web=1&amp;e=hqOphX" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.python.org/downloads/" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>Visual Studio Code - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VSCode_guide.pdf?csf=1&amp;web=1&amp;e=gArBBu" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://code.visualstudio.com/sha/download?build=stable&amp;os=win32-x64-user" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+<p></p>
 </li>
 </ul>
 </td>
