@@ -22,11 +22,11 @@ suppliers. Please ensure that the notebook meets the minimum ​​​specificat
 for your course.</p>
 <p></p>
 <h4>5. When I access the guides, it says "You need permission to access this item." What should I do?</h4>
-<p>It could be that your browser is already signed in with your personal
-email address. Please switch to Incognito browser tab on Google Chrome
-browser or Private browser window in Microsoft Edge browser and ensure
-you have signed in using your NP student email address <a href="https://staging.d2uc18hc4h2ycw.amplifyapp.com/guides/email-guide/s12345678@connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>s12345678@connect.np.edu.sg</u></a> and
-password.</p>
+<p>If you encounter an error stating "You need permission to access this
+item," it may be because your browser is signed in with your personal email.
+To resolve this, open an Incognito tab in Google Chrome or a Private window
+in Microsoft Edge. Then, sign in using your NP student email address (e.g.,
+<a href="mailto:s12345678@connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">s12345678@connect.np.edu.sg</a>) and password.</p>
 <p></p>
 <h4>6. I bought my notebook from the authorised supplier. Does it come preloaded with the necessary software for my course?</h4>
 <p>No, refer to the <a href="https://www2.np.edu.sg/software-download/" rel="noopener nofollow" target="_blank">Software Download</a> page
