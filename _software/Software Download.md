@@ -408,13 +408,17 @@ and password.</p>
 <details class="isomer-details">
 <summary>Film &amp; Media Studies (FMS)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
 <th rowspan="1" colspan="1">
 <p>Course</p>
 </th>
@@ -423,6 +427,9 @@ and password.</p>
 </th>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>1, 2, 3</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><strong>FSV</strong> - Film, Sound &amp; Video</p>
 <p><strong>CMP</strong> - Common Media Programme</p>
@@ -451,13 +458,17 @@ and password.</p>
 <details class="isomer-details">
 <summary>School of Humanities &amp; Social Sciences (HMS)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
 <th rowspan="1" colspan="1">
 <p>Course</p>
 </th>
@@ -466,6 +477,9 @@ and password.</p>
 </th>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>1, 2, 3</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><strong>ABM</strong> - Arts Business Management</p>
 <p><strong>CDT</strong> - Community Development</p>
@@ -496,13 +510,17 @@ and password.</p>
 <details class="isomer-details">
 <summary>School of Health Sciences (HS)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
 <th rowspan="1" colspan="1">
 <p>Course</p>
 </th>
@@ -511,6 +529,9 @@ and password.</p>
 </th>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>1, 2, 3</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><strong>NSG</strong> - Nursing</p>
 <p><strong>OPT</strong> - Optometry</p>
@@ -537,13 +558,17 @@ and password.</p>
 <details class="isomer-details">
 <summary>School of InfoComm Technology (ICT)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
 <th rowspan="1" colspan="1">
 <p>Course</p>
 </th>
@@ -552,6 +577,9 @@ and password.</p>
 </th>
 </tr>
 <tr>
+<td rowspan="5" colspan="1">
+<p>1, 2, 3</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><strong>CICTP</strong> - Common ICT Programme</p>
 </td>
@@ -734,13 +762,17 @@ and password.</p>
 <details class="isomer-details">
 <summary>School of Life Sciences &amp; Chemical Technology (LSCT)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
 <th rowspan="1" colspan="1">
 <p>Course</p>
 </th>
@@ -749,6 +781,9 @@ and password.</p>
 </th>
 </tr>
 <tr>
+<td rowspan="6" colspan="1">
+<p>1, 2, 3</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><strong>BMS</strong> - Biomedical Science</p>
 </td>
@@ -1010,6 +1045,36 @@ and password.</p>
 <p>DA Plus v9.0 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/DAPlus_guide.pdf?csf=1&amp;web=1&amp;e=JUcktd" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/DAPlus.zip?csf=1&amp;web=1&amp;e=bSwOoq" rel="noopener nofollow" target="_blank">Download</a>
 </p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>CBE</strong> - Chemical &amp; Biomolecular Engineering</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>UniSim @Design R - Guide, Download</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>CBE</strong> - Chemical &amp; Biomolecular Engineering</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Matlab R2021 - Guide, Download</p>
 </li>
 </ul>
 </td>
