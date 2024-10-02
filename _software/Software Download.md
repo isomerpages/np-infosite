@@ -91,6 +91,7 @@ and password.</p>
 <details class="isomer-details">
 <summary>School of Business &amp; Accountancy (BA)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -178,7 +179,9 @@ and password.</p>
 <p>Power BI - Guide, Download</p>
 </li>
 <li>
-<p>Tableau Desktop - Guide, Download</p>
+<p>Tableau Reader - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/TableauReader_guide.pdf?csf=1&amp;web=1&amp;e=80SAcs" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.tableau.com/products/reader/download" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 <li>
 <p>Anaconda - Guide, Download</p>
@@ -214,13 +217,11 @@ and password.</p>
 <p>CargoWise Cloud Client - Guide, Download</p>
 </li>
 <li>
-<p>MS Project - Guide, Download</p>
-</li>
-<li>
 <p>Power BI - Guide, Download</p>
 </li>
 <li>
-<p>Visio - Guide, Download</p>
+<p>Visio 2021 (web) - <a href="https://www.microsoft365.com/launch/Visio/" rel="noopener nofollow" target="_blank">Link</a>
+</p>
 </li>
 </ul>
 </td>
