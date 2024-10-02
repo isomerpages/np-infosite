@@ -91,13 +91,18 @@ and password.</p>
 <details class="isomer-details">
 <summary>School of Business &amp; Accountancy (BA)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><strong>Course</strong>
 </p>
@@ -108,6 +113,9 @@ and password.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>1, 2, 3</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><strong>ACC</strong> - Accountancy</p>
 <p><strong>BF</strong> - Banking &amp; Finance</p>
@@ -140,6 +148,101 @@ and password.</p>
 <p></p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ACC</strong> - Accountancy</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>UiPath - Guide, Download</p>
+</li>
+<li>
+<p>Power BI - Guide, Download</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>BF</strong> - Banking &amp; Finance</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Power BI - Guide, Download</p>
+</li>
+<li>
+<p>Tableau Desktop - Guide, Download</p>
+</li>
+<li>
+<p>Anaconda - Guide, Download</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>BS</strong> - Business Studies</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Power BI - Guide, Download</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>ITB</strong> - International Trade &amp; Business</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Power BI - Guide, Download</p>
+</li>
+<li>
+<p>SAP S/4HANA with GBI and ERPsim - Guide, Download</p>
+</li>
+<li>
+<p>CargoWise Cloud Client - Guide, Download</p>
+</li>
+<li>
+<p>MS Project - Guide, Download</p>
+</li>
+<li>
+<p>Power BI - Guide, Download</p>
+</li>
+<li>
+<p>Visio - Guide, Download</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
