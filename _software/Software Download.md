@@ -1052,21 +1052,6 @@ and password.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>CBE</strong> - Chemical &amp; Biomolecular Engineering</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>UniSim @Design R - Guide, Download</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1355,7 +1340,9 @@ and password.</p>
 <p>CadSoft EAGLE - Guide, Download</p>
 </li>
 <li>
-<p>Tina Ti - Guide, Download</p>
+<p>Tina - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Tina_guide.pdf?csf=1&amp;web=1&amp;e=uQryj0" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.designsoftware.com/tina14st_registration.php" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 <li>
 <p>FoilSim - Guide, Download</p>
