@@ -151,7 +151,7 @@ and password.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="4" colspan="1">
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -169,9 +169,6 @@ and password.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
 <td rowspan="1" colspan="1">
 <p><strong>BF</strong> - Banking &amp; Finance</p>
 </td>
@@ -191,9 +188,6 @@ and password.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>BS</strong> - Business Studies</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -205,9 +199,6 @@ and password.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
 <td rowspan="1" colspan="1">
 <p><strong>ITB</strong> - International Trade &amp; Business</p>
 </td>
@@ -256,13 +247,17 @@ and password.</p>
 <details class="isomer-details">
 <summary>School of Design &amp; Environment (DE)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
 <th rowspan="1" colspan="1">
 <p>Course</p>
 </th>
@@ -271,6 +266,9 @@ and password.</p>
 </th>
 </tr>
 <tr>
+<td rowspan="3" colspan="1">
+<p>1, 2, 3</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><strong>DES</strong> - Design</p>
 </td>
@@ -347,6 +345,52 @@ and password.</p>
 <li>
 <p>Tableau Reader - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/TableauReader_guide.pdf?csf=1&amp;web=1&amp;e=80SAcs" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.tableau.com/products/reader/download" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>Revit 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Revit2022_guide.pdf?csf=1&amp;web=1&amp;e=cUz6Hk" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>DES</strong> - Design</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Revit 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Revit2022_guide.pdf?csf=1&amp;web=1&amp;e=cUz6Hk" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>Fusion 360 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Fusion360_guide.pdf?csf=1&amp;web=1&amp;e=dyUVUi" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>Tableau Reader - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/TableauReader_guide.pdf?csf=1&amp;web=1&amp;e=80SAcs" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.tableau.com/products/reader/download" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HLFM</strong> - Hotel &amp; Leisure Facilities Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>AutoCAD 2024 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2024_guide.pdf?csf=1&amp;web=1&amp;e=a1STHr" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
 <li>
