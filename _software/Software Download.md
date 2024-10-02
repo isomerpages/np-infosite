@@ -1086,13 +1086,17 @@ and password.</p>
 <details class="isomer-details">
 <summary>School of Engineering (SOE)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
 <th rowspan="1" colspan="1">
 <p>Course</p>
 </th>
@@ -1101,6 +1105,9 @@ and password.</p>
 </th>
 </tr>
 <tr>
+<td rowspan="8" colspan="1">
+<p>1, 2, 3</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><strong>AEG</strong> - Aerospace Engineering</p>
 <p></p>
@@ -1330,6 +1337,156 @@ and password.</p>
 <p>Fusion 360 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Fusion360_guide.pdf?csf=1&amp;web=1&amp;e=dyUVUi" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>AEG</strong> - Aerospace Engineering</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>CadSoft EAGLE - Guide, Download</p>
+</li>
+<li>
+<p>Tina Ti - Guide, Download</p>
+</li>
+<li>
+<p>FoilSim - Guide, Download</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ECE</strong> - Electronic &amp; Computer Engineering</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Power BI - Guide, Download</p>
+</li>
+<li>
+<p>Cisco Packet Tracer - Guide, Download</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>EE</strong> - Electrical Engineering</p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Oracle VirtuaBox - Guide, Download</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ME</strong> - Mechanical Engineering</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Creo 4 - Guide, Download</p>
+</li>
+<li>
+<p>Autodesk Inventor - Guide, Download</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MOT</strong> - Marine &amp; Offshore Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Aspen Hysys v11 - Guide, Download</p>
+</li>
+<li>
+<p>CADMATIC 2020 - Guide, Download</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>AEG</strong> - Aerospace Engineering</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Matlab R2021 - Guide, Download</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ECE</strong> - Electronic &amp; Computer Engineering</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Matlab R2021 (exclude toolbox) - Guide, Download</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>EE</strong> - Electrical Engineering</p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Oracle VirtuaBox - Guide, Download</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ME</strong> - Mechanical Engineering</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Creo 4 - Guide, Download</p>
+</li>
+<li>
+<p>Autodesk Inventor - Guide, Download</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MOT</strong> - Marine &amp; Offshore Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>NAPA - Guide, Download</p>
 </li>
 </ul>
 </td>
