@@ -1418,7 +1418,9 @@ and password.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Aspen Hysys v11 - Guide, Download</p>
+<p>AspenHysys - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AspenHysys_guide.pdf?csf=1&amp;web=1&amp;e=6iouKL" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/AspenHysys.zip?csf=1&amp;web=1&amp;e=9FmH1Y" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 <li>
 <p>CADMATIC 2020 - Guide, Download</p>
