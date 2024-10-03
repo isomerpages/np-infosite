@@ -1366,7 +1366,9 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>Cisco Packet Tracer - Guide, Download</p>
+<p>Cisco Packet Tracer - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/CiscoPacketTracer_guide.pdf?csf=1&amp;web=1&amp;e=uOsxRn" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/CiscoPacketTracer.exe?csf=1&amp;web=1&amp;e=GRUmmi" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 </ul>
 </td>
