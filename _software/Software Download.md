@@ -1413,7 +1413,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>CADMATIC 2020 - Guide, Download</p>
+<p>CADMATIC 2020 (on-prem) - Please consult your lecturer</p>
 </li>
 </ul>
 </td>
@@ -1491,7 +1491,7 @@ Download</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>NAPA - Guide, Download</p>
+<p>NAPA (on-prem) - Please consult your lecturer</p>
 </li>
 </ul>
 </td>
