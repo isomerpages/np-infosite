@@ -1337,7 +1337,9 @@ and password.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>CadSoft EAGLE - Guide, Download</p>
+<p>CadSoft EAGLE - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/CadsoftEAGLE_guide.pdf?csf=1&amp;web=1&amp;e=VBQFRd" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 <li>
 <p>Tina - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Tina_guide.pdf?csf=1&amp;web=1&amp;e=uQryj0" rel="noopener nofollow" target="_blank">Guide</a>,
@@ -1397,7 +1399,9 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>Autodesk Inventor - Guide, Download</p>
+<p>Autodesk Inventor - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Inventor_guide.pdf?csf=1&amp;web=1&amp;e=roaftN" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 </ul>
 </td>
