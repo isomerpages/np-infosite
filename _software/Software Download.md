@@ -222,10 +222,13 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>SAP S/4HANA with GBI and ERPsim - Guide, Download</p>
+<p>SAP S/4HANA with GBI and ERPsim - Guide, <a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/CargoWiseCloudClient.exe?csf=1&amp;web=1&amp;e=U9RRY1" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 <li>
-<p>CargoWise Cloud Client - Guide, Download</p>
+<p>CargoWise Cloud Client - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/CargoWiseCloudClient_guide.pdf?csf=1&amp;web=1&amp;e=dN5yJi" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/CargoWiseCloudClient.exe?csf=1&amp;web=1&amp;e=4xNbZj" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 <li>
 <p>Visio 2021 (web) - <a href="https://www.microsoft365.com/launch/Visio/" rel="noopener nofollow" target="_blank">Link</a>
