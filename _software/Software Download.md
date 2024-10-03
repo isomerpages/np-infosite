@@ -222,7 +222,8 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>SAP S/4HANA with GBI and ERPsim - Guide, <a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/CargoWiseCloudClient.exe?csf=1&amp;web=1&amp;e=U9RRY1" rel="noopener nofollow" target="_blank">Download</a>
+<p>SAP S/4HANA with GBI and ERPsim - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/SAPS4HANA_guide.pdf?csf=1&amp;web=1&amp;e=MOr1ba" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/CargoWiseCloudClient.exe?csf=1&amp;web=1&amp;e=qwS1Mq" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
 <li>
