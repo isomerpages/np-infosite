@@ -238,21 +238,6 @@ and password.</p>
 </ul>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>ACC</strong> - Accountancy</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>CaseWARE - Guide, Download</p>
-</li>
-</ul>
-</td>
-</tr>
 </tbody>
 </table>
 </div>
