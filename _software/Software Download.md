@@ -1480,7 +1480,8 @@ and password.</p>
 </li>
 <li>
 <p>Autodesk Inventor - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Inventor_guide.pdf?csf=1&amp;web=1&amp;e=roaftN" rel="noopener nofollow" target="_blank">Guide</a>,
-Download</p>
+<a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 </ul>
 </td>
