@@ -5,13 +5,14 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
-<p>Please refer to the guides prior to downloading the software.</p>
+<h3>Download software onto your notebook with effect from 4 Oct 2024.</h3>
 </blockquote>
-<p><strong>Note:</strong> If you encounter an error stating "You need permission
-to access this item," it may be because your browser is signed in with
-your personal email. To resolve this, open an Incognito tab in Google Chrome
-or a Private window in Microsoft Edge. Then, sign in using your NP student
-email address (e.g., <a href="mailto:s12345678@connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">s12345678@connect.np.edu.sg</a>)
+<p><strong>Note:</strong> Pease refer to the guides prior to downloading the
+software. If you encounter an error stating "You need permission to access
+this item," it may be because your browser is signed in with your personal
+email. To resolve this, open an Incognito tab in Google Chrome or a Private
+window in Microsoft Edge. Then, sign in using your NP student email address
+(e.g., <a href="mailto:s12345678@connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">s12345678@connect.np.edu.sg</a>)
 and password.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
