@@ -1345,7 +1345,8 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>FoilSim - Guide, Download</p>
+<p>FoilSim - <a href="https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/foilsimstudent/" rel="noopener nofollow" target="_blank">Link</a>
+</p>
 </li>
 </ul>
 </td>
