@@ -1426,7 +1426,9 @@ and password.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Matlab R2021 - Guide, Download</p>
+<p>Matlab R2021 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Matlab_guide.pdf?csf=1&amp;web=1&amp;e=hK0H3V" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/matlab_R2021b_win64.exe?csf=1&amp;web=1&amp;e=viPBaT" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 </ul>
 </td>
@@ -1439,7 +1441,9 @@ and password.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Matlab R2021 (exclude toolbox) - Guide, Download</p>
+<p>Matlab R2021 (exclude toolbox) - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Matlab_guide.pdf?csf=1&amp;web=1&amp;e=hK0H3V" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/matlab_R2021b_win64.exe?csf=1&amp;web=1&amp;e=viPBaT" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 </ul>
 </td>
