@@ -15,7 +15,7 @@ sections:
       variant: center
       key_highlights:
         - title: Software
-          description: Freshmen, Year 2 & 3
+          description: Download Courseware
           url: /software/
         - title: Notebook Ownership
           description: For Mobile eLearning
