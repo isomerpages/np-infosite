@@ -29,7 +29,7 @@ in Microsoft Edge. Then, sign in using your NP student email address (e.g.,
 <a href="mailto:s12345678@connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">s12345678@connect.np.edu.sg</a>) and password.</p>
 <p></p>
 <h4>6. I bought my notebook from the authorised supplier. Does it come preloaded with the necessary software for my course?</h4>
-<p>No, refer to the <a href="https://www2.np.edu.sg/software-download/" rel="noopener nofollow" target="_blank">Software Download</a> page
+<p>No, refer to the <a href="https://www2.np.edu.sg/software/" rel="noopener nofollow" target="_blank">Software Download</a> page
 to download the required software on your new notebook.</p>
 <p></p>
 <h4>7. I have an old notebook and I am not sure if it can be used for my course. Can you advise?</h4>
@@ -53,7 +53,7 @@ downloaded and installed.</p>
 own before the start of Apr / Oct semester.</p>
 <p></p>
 <h4>11. I misplaced the notebook that I initially registered with. How do I install software on my replacement notebook?</h4>
-<p>Refer to the <a href="https://www2.np.edu.sg/software-download/" rel="noopener nofollow" target="_blank">Software Download</a> page
+<p>Refer to the <a href="https://www2.np.edu.sg/software/" rel="noopener nofollow" target="_blank">Software Download</a> page
 to download the required software on your new notebook.</p>
 <p></p>
 <h4>12. I wish to drop by at the IT Helpdesk for technical assistance. What are their opening hours?</h4>
