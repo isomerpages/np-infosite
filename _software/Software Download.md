@@ -943,7 +943,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>Google colab - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/GoogleColab_guide.pdf?csf=1&amp;web=1&amp;e=jSTOln" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>Google Colab - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/GoogleColab_guide.pdf?csf=1&amp;web=1&amp;e=jSTOln" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://colab.google" rel="noopener nofollow" target="_blank">Link</a>
 </p>
 </li>
