@@ -52,9 +52,4 @@ sections:
       url: /quick-links/student/
       image: /images/itservices.png
       alt: list of it services
-  - resources:
-      title: Troubleshooting Steps
-      subtitle: Common issues for software
-      id: resources
-      button: More resources
 ---
