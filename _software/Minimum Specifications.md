@@ -5,15 +5,20 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
-<p>If your course requires a Windows notebook, you should NOT purchase an
-Apple MacBook. You may be required to use Windows-based software that is
-incompatible with Apple's Mac operating system.</p>
+<p>Important: Apple MacBooks with M1/M2 chipset may <u>NOT</u> support Bootcamp,
+Parallels or Oracle's VirtualBox to run Windows operating system. Please
+buy a suitable notebook for your couse of study as you may be using Windows-based
+software that is incompatible with Apple operating system.</p>
 </blockquote>
 <h4>I already have a notebook. Do I need to purchase another one?</h4>
 <p>As long as your notebook complies with your course minimum specifications,
 you need <u>not</u> buy another one.</p>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
