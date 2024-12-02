@@ -27,6 +27,19 @@ description: ""
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p>Staff-in-Charge: Mr Peter Puan</p>
+</li>
+<li>
+<p>Tel: 6460 8959</p>
+</li>
+<li>
+<p>Email:&nbsp; <a href="mailto:peter_puan@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Peter_Puan@np.edu.sg</a>
+</p>
+<p></p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
 <p>BA Office</p>
 </li>
 <li>
