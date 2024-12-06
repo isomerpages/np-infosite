@@ -6,7 +6,7 @@ description: ""
 ---
 <blockquote>
 <p>NPWireless, NPWirelessx and Wireless@SG hotspots are available on campus
-for students to access IT services and network resources.</p>
+for access to IT services and network resources.</p>
 </blockquote>
 <h3>NPWireless</h3>
 <ol data-tight="true" class="tight">
@@ -40,7 +40,10 @@ Once you have successfully setup your notebook to connect to NPWirelessx,
 you will not be prompted for authentication unless you have changed your
 NPNet password or are connecting on a new device.&nbsp;</p>
 <h3>Setup guides for various devices:</h3>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
