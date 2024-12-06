@@ -6,7 +6,7 @@ description: ""
 ---
 <blockquote>
 <p>NPWireless, NPWirelessx and Wireless@SG hotspots are available on campus
-for access to IT services and network resources.</p>
+for your use.</p>
 </blockquote>
 <h3>NPWireless</h3>
 <ol data-tight="true" class="tight">
