@@ -2,6 +2,7 @@ collections:
   guides:
     output: true
     order:
+      - Resource Booking.md
       - NPNet Account.md
       - Connect Email.md
       - mStudent App.md
