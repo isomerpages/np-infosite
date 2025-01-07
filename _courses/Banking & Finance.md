@@ -8,7 +8,11 @@ description: ""
 <p>For your Diploma in Banking &amp; Finance (BF) course, a Windows notebook
 is required.</p>
 </blockquote>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -36,7 +40,7 @@ is required.</p>
 <p>Storage:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>512 GB (SSD)</p>
+<p>512 GB Solid State Drive (SSD)</p>
 </td>
 </tr>
 <tr>
@@ -44,7 +48,7 @@ is required.</p>
 <p>Screen:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14 inch and above with 1280 x 800 resolution</p>
+<p>FHD 1920 x 1080 resolution (14 inch recommended)</p>
 </td>
 </tr>
 <tr>
@@ -52,24 +56,32 @@ is required.</p>
 <p>Graphics:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NVIDIA® GeForce® RTX 3050 (4GB GDDR6 VRAM) and above or equivalent, for
-notebooks with dedicated graphics card</p>
+<p>Dedicated graphics card (NVIDIA® GeForce® RTX 3050, 4GB GDDR6 VRAM and
+above or equivalent)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wi-Fi:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wi-Fi 6 and above</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>OS:</p>
+<p>Operating System:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Microsoft Windows 11</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>I/O Ports (required for your course):</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not applicable</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Peripherals</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not applicable</p>
 </td>
 </tr>
 </tbody>
