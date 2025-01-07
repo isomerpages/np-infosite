@@ -39,7 +39,7 @@ description: ""
 <p>Storage:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>512 GB Solid-State Drive (SSD)</p>
+<p>512 GB Solid State Drive (SSD)</p>
 </td>
 </tr>
 <tr>
