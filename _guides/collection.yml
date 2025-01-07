@@ -2,10 +2,10 @@ collections:
   guides:
     output: true
     order:
-      - Resource Booking.md
       - NPNet Account.md
       - Connect Email.md
       - mStudent App.md
       - NPal Student.md
       - POLITEMall.md
       - Wireless Setup.md
+      - Resource Booking.md
