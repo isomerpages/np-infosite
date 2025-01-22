@@ -4,11 +4,16 @@ permalink: /notebook/authorisednbsuppliers/
 variant: tiptap
 description: ""
 ---
+<p><strong>Notice: Dear Freshmen, the updated authorised notebook supplier information will be released in early Mar 2025. Please return to this page at a later time.</strong>
+</p>
 <p>Prior to purchasing your notebook, please read <a href="/notebook/whobuyswhat" rel="noopener noreferrer nofollow" target="_blank">who buys what</a> and check <a href="/notebook/specs/" rel="noopener noreferrer nofollow" target="_blank">minimum specifications</a> for
 your course. For course-specific notebook related queries, <a href="/notebook/notebook-queries" rel="noopener noreferrer nofollow" target="_blank">click here</a> for
 contact details.</p>
-<h4>Authorised Notebook Suppliers for 2024&nbsp;(Online order&nbsp;starts from 29 Feb 2024)</h4>
-<table>
+<h4>Authorised Notebook Suppliers for 2024</h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
