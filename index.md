@@ -23,8 +23,6 @@ sections:
         - title: Quick links
           description: For Students
           url: /quick-links/student/
-      button: Download Notebook e-Brochure
-      url: /files/NPNotebookRoadshowBrochure2024_v3.pdf
   - infopic:
       title: Purchase notebook from our authorised suppliers to get
       id: infopic

@@ -9,6 +9,8 @@ description: ""
 after-sales hardware-related repairs next-business day either at your residence
 or on campus.</p>
 </blockquote>
+<p><strong>Notice: Dear Freshmen, the updated authorised notebook supplier information will be released in early Mar 2025. Please return to this page at a later time.</strong>
+</p>
 <h4>Asus: AsiaPac Technology Pte. Ltd​</h4>
 <ul data-tight="true" class="tight">
 <li>
