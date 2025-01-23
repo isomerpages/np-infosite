@@ -24,7 +24,7 @@ is required.</p>
 <p>Processor:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Intel Core i7 or equivalent</p>
+<p>Intel Core i7 or AMD Ryzen 7 Series</p>
 </td>
 </tr>
 <tr>
@@ -32,7 +32,7 @@ is required.</p>
 <p>RAM:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16 GB or above</p>
+<p>16 GB</p>
 </td>
 </tr>
 <tr>
@@ -40,7 +40,7 @@ is required.</p>
 <p>Storage:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>512 GB or above</p>
+<p>512 GB Solid State Drive (SSD)</p>
 </td>
 </tr>
 <tr>
@@ -48,24 +48,39 @@ is required.</p>
 <p>Screen:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1920 x 1080 display resolution or above, 2GB VRAM, OpenGL 2.0 capable,
-HDMI to VGA Adapter, Microsoft Direct3D, DirectX12</p>
+<p>FHD 1920 x 1080 resolution (14 inch recommended)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Communication:</p>
+<p>Graphics:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Integrated IEEE 802.11ac</p>
+<p>Integrated graphics card with 4 GB VRAM or equivalent</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>OS:</p>
+<p>Operating System:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Microsoft Windows 10 or above</p>
+<p>Microsoft Windows 11</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>I/O Ports (required for your course):</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not applicable</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Peripherals</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HDMI to VGA Adapter</p>
 </td>
 </tr>
 </tbody>
