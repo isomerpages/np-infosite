@@ -7,7 +7,11 @@ description: ""
 <blockquote>
 <p>For your Diploma in Design (DES) course, a Windows notebook is required.</p>
 </blockquote>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -19,7 +23,7 @@ description: ""
 <p>Processor:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Intel Core i7 13th Gen or above</p>
+<p>Intel Core i7 or AMD Ryzen 7 Series</p>
 </td>
 </tr>
 <tr>
@@ -35,7 +39,7 @@ description: ""
 <p>Storage:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 TB (SSD recommended)</p>
+<p>1 TB Solid State Drive (SSD)</p>
 </td>
 </tr>
 <tr>
@@ -43,7 +47,7 @@ description: ""
 <p>Screen:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14 inch and above with 1920 x 1080 resolution</p>
+<p>FHD 1920 x 1080 resolution (14 inch and above)</p>
 </td>
 </tr>
 <tr>
@@ -51,13 +55,20 @@ description: ""
 <p>Graphics:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dedicated Graphics Card (not integrated) NVIDIA® GeForce® RTX 3060 and
-above</p>
+<p>Dedicated graphics card NVIDIA® GeForce® RTX 3060 and above or equivalent</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ports:</p>
+<p>Operating System:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Microsoft Windows 11</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>I/O Ports (required for your course):</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>At least three USB 3.0 and one USB-C port</p>
@@ -65,18 +76,10 @@ above</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wi-Fi:</p>
+<p>Peripherals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wi-Fi 6 and above</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>OS:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Microsoft Windows 10 or 11 in English language</p>
+<p>Not applicable</p>
 </td>
 </tr>
 </tbody>
