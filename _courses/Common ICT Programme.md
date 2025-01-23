@@ -8,7 +8,11 @@ description: ""
 <p>For your Diploma in Common ICT Programme (CICTP) course, a Windows notebook
 is required.</p>
 </blockquote>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -20,7 +24,7 @@ is required.</p>
 <p>Processor:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Intel Core i7 13th Gen or AMD Ryzen 7 Series or above</p>
+<p>Intel Core i7 or AMD Ryzen 7 Series</p>
 </td>
 </tr>
 <tr>
@@ -28,7 +32,7 @@ is required.</p>
 <p>RAM:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16 GB or above</p>
+<p>16 GB</p>
 </td>
 </tr>
 <tr>
@@ -36,15 +40,7 @@ is required.</p>
 <p>Storage:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>512 GB SSD or above</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Portable SSD:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>512 GB (Recommended)</p>
+<p>512 GB Solid State Drive (SSD) or above</p>
 </td>
 </tr>
 <tr>
@@ -52,7 +48,7 @@ is required.</p>
 <p>Screen:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1280 x 720 display resolution or above, HDMI port or equivalent</p>
+<p>FHD 1920 x 1080 resolution (14 inch recommended)</p>
 </td>
 </tr>
 <tr>
@@ -65,18 +61,26 @@ is required.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Communication:</p>
+<p>Operating System:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Integrated or external IEEE 802.11b or equivalent</p>
+<p>Microsoft Windows 11</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>OS:</p>
+<p>I/O Ports (required for your course):</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Microsoft Windows 11</p>
+<p>HDMI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Peripherals</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Portable Solid State Drive (SSD) 512 GB</p>
 </td>
 </tr>
 </tbody>
