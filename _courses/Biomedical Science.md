@@ -8,7 +8,11 @@ description: ""
 <p>For your Diploma in Biomedical Science (BMS) course, a Windows notebook
 is required.</p>
 </blockquote>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
