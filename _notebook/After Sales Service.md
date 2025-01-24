@@ -4,7 +4,7 @@ permalink: /notebook/after-sales-service/
 variant: tiptap
 description: ""
 ---
-<p><strong>Notice: Dear Freshmen, the updated authorised notebook supplier information will be released in early Mar 2025. Please return to this page at a later time.</strong>
+<p><strong>Notice: Dear Freshmen, the updated authorised notebook supplier information will be released in Mar 2025. Please return to this page at a later time.</strong>
 </p>
 <blockquote>
 <p>If you purchased your notebook from our authorised suppliers, they provide

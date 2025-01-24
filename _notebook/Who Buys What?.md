@@ -4,6 +4,8 @@ permalink: /notebook/whobuyswhat/
 variant: tiptap
 description: ""
 ---
+<p><strong>Notice: Dear Freshmen, the updated instructions will be be released in Mar 2025. Please return to this page at a later time.</strong>
+</p>
 <blockquote>
 <p>Please check&nbsp;<a href="/notebook/specs/" class="cf0" rel="noopener noreferrer nofollow" target="_blank">minimum specifications</a>&nbsp;for
 your course. For course-specific notebook related queries,&nbsp;<a href="/notebook/notebook-queries" class="cf0" rel="noopener noreferrer nofollow" target="_blank">click here</a>&nbsp;for
