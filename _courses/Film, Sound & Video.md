@@ -8,11 +8,15 @@ description: ""
 <p>For your Diploma in Film, Sound &amp; Video (FSV) course, an Apple Macbook
 is required.</p>
 </blockquote>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>Minimum Specifications</p>
+<p>Minimum Specifications (Apple Macbook)</p>
 </th>
 </tr>
 <tr>
@@ -36,15 +40,7 @@ is required.</p>
 <p>Storage:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>256 GB</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Optical Device:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>DVD-ROM Drive (Optional)</p>
+<p>256 GB Solid State Drive (SSD)</p>
 </td>
 </tr>
 <tr>
@@ -52,24 +48,39 @@ is required.</p>
 <p>Screen:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1280 x 900 display (1280 x 1024 recommended) with 16-bit color and 512
-MB VRAM, OpenGL 2.0</p>
+<p>Liquid Retina or above</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Communication:</p>
+<p>Graphics:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Integrated or external IEEE 802.11b or equivalent</p>
+<p>Integrated graphics card or equivalent</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>OS:</p>
+<p>Operating System:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MacOS version 10.13 (High Sierra) or later</p>
+<p>macOS Ventura or later</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>I/O Ports (required for your course)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not applicable</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Peripherals</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not applicable</p>
 </td>
 </tr>
 </tbody>
