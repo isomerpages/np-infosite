@@ -4,7 +4,7 @@ permalink: /download-notebook-ebrochure/
 variant: tiptap
 description: ""
 ---
-<p><strong>Notice: Dear Freshmen, the updated models for purchase will be released in early Mar 2025. Please return to this page at a later time.</strong>
+<p><strong>Notice: Dear Freshmen, the updated models for purchase will be released in Mar 2025. Please return to this page at a later time.</strong>
 </p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
