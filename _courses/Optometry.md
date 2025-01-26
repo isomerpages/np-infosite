@@ -159,7 +159,7 @@ tablet PC as they are NOT compatible for this course.</p>
 <p>Peripherals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Not applicable</p>
+<p>Not applicableT</p>
 </td>
 </tr>
 </tbody>
