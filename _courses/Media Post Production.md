@@ -8,7 +8,11 @@ description: ""
 <p>For your Diploma in Media Post-Production (MPP) course, you may use either
 a Windows notebook or an Apple MacBook.</p>
 </blockquote>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -20,7 +24,7 @@ a Windows notebook or an Apple MacBook.</p>
 <p>Processor:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Intel Core i7</p>
+<p>Intel Core i7 or AMD Ryzen 7 Series</p>
 </td>
 </tr>
 <tr>
@@ -36,7 +40,7 @@ a Windows notebook or an Apple MacBook.</p>
 <p>Storage:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 TB (SSD)</p>
+<p>1 TB Solid State Drive (SSD)</p>
 </td>
 </tr>
 <tr>
@@ -44,13 +48,28 @@ a Windows notebook or an Apple MacBook.</p>
 <p>Screen:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Full HD 1920 x 1080 pixels minimum, Dedicated GPU - NVIDIA GeForce RTX
-Range 3060 to 3080i</p>
+<p>FHD 1920 x 1080 resolution (14 inch recommended)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Essential Ports required for Projection Mapping &amp; Delivery Module:</p>
+<p>Graphics:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dedicated graphics card (NVIDIA GeForce RTX Range 3060 to 3080i or above)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operating System:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Microsoft Windows 11</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>I/O Ports (required for Projection Mapping &amp; Delivery Module:):</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HDMI, USB-C, USB 3.0, SD Card Reader, 3.5mm Headphone Jack</p>
@@ -58,16 +77,20 @@ Range 3060 to 3080i</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>OS:</p>
+<p>Peripherals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Microsoft Windows 10 or later</p>
+<p>Non applicable</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
