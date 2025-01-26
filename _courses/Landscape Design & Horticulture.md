@@ -8,7 +8,11 @@ description: ""
 <p>For your Diploma in Landscape Design &amp; Horticulture (LDH) course,
 a Windows notebook is required.</p>
 </blockquote>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -20,7 +24,7 @@ a Windows notebook is required.</p>
 <p>Processor:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Multi-Core Intel Core i7 or higher (recommended)</p>
+<p>Multi-Core Intel Core i7 or AMD Ryzen 7 Series</p>
 </td>
 </tr>
 <tr>
@@ -36,7 +40,7 @@ a Windows notebook is required.</p>
 <p>Storage:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>512 GB (1 TB recommended)</p>
+<p>512 GB Solid State Drive (SSD) (1 TB recommended)</p>
 </td>
 </tr>
 <tr>
@@ -44,26 +48,39 @@ a Windows notebook is required.</p>
 <p>Screen:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1920 x 1080 display resolution or above at 100%, Dedicated Graphics Card
-with 4 GB VRAM, OpenGL 4.1 capable, HDMI to VGA Adapter, HDMI Output (USB-C
-or Thunderbolt output with HDMI Adapter is acceptable), Microsoft DirectX12
-with Shader Model 5</p>
+<p>FHD 1920 x 1080 resolution (14 inch recommended)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Communication:</p>
+<p>Graphics:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Integrated or external IEEE 802.11ac</p>
+<p>Dedicated graphics card with 4 GB VRAM or equivalent</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>OS:</p>
+<p>Operating System:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Microsoft Windows 10 (64-bit) or above</p>
+<p>Microsoft Windows 11</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>I/O Ports (required for your course):</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HDMI Output (USB-C or Thunderbolt output with HDMI Adapter is acceptable)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Peripherals</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HDMI to VGA Adapter (for notebooks without HDMI port)</p>
 </td>
 </tr>
 </tbody>

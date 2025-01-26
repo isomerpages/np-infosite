@@ -8,11 +8,15 @@ description: ""
 <p>For your Diploma in Mass Communication (MCM) course, you may use either
 a Windows notebook or an Apple Macbook.</p>
 </blockquote>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>Minimum Specifications (Windows notebook)</p>
+<p>Minimum Specifications</p>
 </th>
 </tr>
 <tr>
@@ -20,7 +24,7 @@ a Windows notebook or an Apple Macbook.</p>
 <p>Processor:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Intel Core i5 4xxx or equivalent (Intel i7 recommended)</p>
+<p>Intel Core i5 or AMD Ryzen 5 Series</p>
 </td>
 </tr>
 <tr>
@@ -36,15 +40,7 @@ a Windows notebook or an Apple Macbook.</p>
 <p>Storage:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>256 GB</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Optical Device:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>DVD-ROM Drive (Optional)</p>
+<p>512 GB Solid State Drive (SSD)</p>
 </td>
 </tr>
 <tr>
@@ -52,32 +48,49 @@ a Windows notebook or an Apple Macbook.</p>
 <p>Screen:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1024 x 768 display (1280 x 800 recommended) with 16-bit color and 512
-MB VRAM, OpenGL 2.0, HDMI to VGA Adapter or Display Port to VGA Adapter
-for non VGA notebook, DirectX9 with WDDM 1.0 or higher driver</p>
+<p>FHD 1920 x 1080 resolution (14 inch recommended)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Communication:</p>
+<p>Graphics:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Integrated or external IEEE 802.11b or equivalent</p>
+<p>Integrated graphics card with 4 GB VRAM or equivalent</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>OS:</p>
+<p>Operating System:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Microsoft Windows 10</p>
+<p>Microsoft Windows 11</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>I/O Ports (required for your course):</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not applicable</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Peripherals</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HDMI to VGA Adapter or Display Port to VGA Adapter for non VGA notebook</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -97,7 +110,7 @@ for non VGA notebook, DirectX9 with WDDM 1.0 or higher driver</p>
 <p>RAM:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 GB</p>
+<p>8 GB or above</p>
 </td>
 </tr>
 <tr>
@@ -105,15 +118,7 @@ for non VGA notebook, DirectX9 with WDDM 1.0 or higher driver</p>
 <p>Storage:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>256 GB</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Optical Device:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>DVD-ROM Drive (Optional)</p>
+<p>256 GB Solid State Drive (SSD)</p>
 </td>
 </tr>
 <tr>
@@ -121,24 +126,39 @@ for non VGA notebook, DirectX9 with WDDM 1.0 or higher driver</p>
 <p>Screen:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1280 x 900 display (1280 x 1024 recommended) with 16-bit color and 512
-MB VRAM, OpenGL 2.0</p>
+<p>Liquid Retina or above</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Communication:</p>
+<p>Graphics:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Integrated or external IEEE 802.11b or equivalent</p>
+<p>Integrated graphics card or equivalent</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>OS:</p>
+<p>Operating System:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MacOS version 10.12 (Sierra) or later</p>
+<p>macOS Ventura or later</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>I/O Ports (required for your course)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not applicable</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Peripherals</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not applicable</p>
 </td>
 </tr>
 </tbody>

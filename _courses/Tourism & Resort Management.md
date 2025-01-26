@@ -56,8 +56,8 @@ notebook is required.</p>
 <p>Graphics:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dedicated graphics card (NVIDIA® GeForce® RTX 3050, 4GB GDDR6 VRAM and
-above or equivalent)</p>
+<p>Dedicated graphics card (NVIDIA® GeForce® RTX 3050, 4GB GDDR6 VRAM or
+equivalent)</p>
 </td>
 </tr>
 <tr>
@@ -70,7 +70,7 @@ above or equivalent)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>I/O Ports (required for your course)</p>
+<p>I/O Ports (required for your course):</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Not applicable</p>
@@ -78,7 +78,7 @@ above or equivalent)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Peripherals:</p>
+<p>Peripherals</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Not applicable</p>

@@ -8,7 +8,11 @@ description: ""
 <p>For your Diploma in Real Estate Business (REB) course, a Windows notebook
 is required.</p>
 </blockquote>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -20,7 +24,7 @@ is required.</p>
 <p>Processor:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Intel Core i7 or above</p>
+<p>Intel Core i7 or AMD Ryzen 7 Series</p>
 </td>
 </tr>
 <tr>
@@ -36,7 +40,7 @@ is required.</p>
 <p>Storage:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>512 GB (1 TB recommended)</p>
+<p>512 GB Solid State Drive (SSD) (1TB recommended)</p>
 </td>
 </tr>
 <tr>
@@ -44,25 +48,39 @@ is required.</p>
 <p>Screen:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1024 x 900 display (1280 x 1024 recommended) with 24-bit color and 4GB
-VRAM, Open 2.0 capable, HDMI Output (USB-C or Thunderbolt output with HDMI
-Adapter is acceptable), DirectX9 with WDDM 1.0 or higher</p>
+<p>FHD 1920 x 1080 resolution (14 inch recommended)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Communication:</p>
+<p>Graphics:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Integrated or external IEEE 802.11b or equivalent</p>
+<p>Integrated graphics card with 4 GB VRAM or equivalent</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>OS:</p>
+<p>Operating System:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Microsoft Windows 10 (64-bit)</p>
+<p>Microsoft Windows 11</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>I/O Ports (required for your course):</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HDMI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Peripherals</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HDMI Output (USB-C or Thunderbolt output with HDMI Adapter is acceptable)</p>
 </td>
 </tr>
 </tbody>
