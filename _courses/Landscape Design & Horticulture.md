@@ -80,7 +80,7 @@ a Windows notebook is required.</p>
 <p>Peripherals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HDMI to VGA Adapter (for notebooks without HDMI port)</p>
+<p>HDMI to VGA Adapter or Display Port to VGA Adapter for non VGA notebook</p>
 </td>
 </tr>
 </tbody>
