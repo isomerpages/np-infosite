@@ -205,13 +205,13 @@ description: ""
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Staff-in-Charge: Ms. Michelle Koh</p>
+<p>Staff-in-Charge: Ms. Abirami Ramanathan</p>
 </li>
 <li>
-<p>Tel: 6460 6332</p>
+<p>Tel: 6460 6760</p>
 </li>
 <li>
-<p>Email: <a href="mailto:Michelle_Koh@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Michelle_Koh@np.edu.sg</a>
+<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">Abirami_Ramanathan@np.edu.sg</a>
 </p>
 <p></p>
 </li>
