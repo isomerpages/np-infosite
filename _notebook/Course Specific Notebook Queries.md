@@ -211,7 +211,7 @@ description: ""
 <p>Tel: 6460 6760</p>
 </li>
 <li>
-<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">abirami_ramanathan@np.edu.sg</a>
+<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">Abirami_Ramanathan@np.edu.sg</a>
 </p>
 <p></p>
 </li>
