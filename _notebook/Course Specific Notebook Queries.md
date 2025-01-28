@@ -205,7 +205,7 @@ description: ""
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Staff-in-Charge: Ms. Abirami Ramanathan</p>
+<p>Staff-in-Charge: Dr. Abirami Ramanathan</p>
 </li>
 <li>
 <p>Tel: 6460 6760</p>
