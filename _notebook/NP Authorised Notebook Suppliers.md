@@ -4,8 +4,9 @@ permalink: /notebook/authorisednbsuppliers/
 variant: tiptap
 description: ""
 ---
-<p><strong>Notice: Dear Freshmen, the updated authorised notebook supplier information will be released in Mar 2025. Please return to this page at a later time.</strong>
-</p>
+<p>🎉 <strong>Hey Freshmen (2025)!</strong> Welcome to NP! The new Windows
+notebook models will be revealed starting in late March 2025. Stay tuned
+to this page for exciting updates!&nbsp;</p>
 <p>Prior to purchasing your notebook, please read <a href="/notebook/whobuyswhat" rel="noopener noreferrer nofollow" target="_blank">who buys what</a> and check <a href="/notebook/specs/" rel="noopener noreferrer nofollow" target="_blank">minimum specifications</a> for
 your course. For course-specific notebook related queries, <a href="/notebook/notebook-queries" rel="noopener noreferrer nofollow" target="_blank">click here</a> for
 contact details.</p>
