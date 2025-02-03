@@ -4,8 +4,9 @@ permalink: /download-notebook-ebrochure/
 variant: tiptap
 description: ""
 ---
-<p><strong>Notice: Dear Freshmen, the updated models for purchase will be released in Mar 2025. Please return to this page at a later time.</strong>
-</p>
+<p>🎉 <strong>Hey Freshmen (2025)!</strong> Welcome to NP! The new Windows
+notebook models will be revealed starting in late March 2025. Stay tuned
+to this page for exciting updates!&nbsp;</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -14,7 +15,6 @@ description: ""
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title"></div>
 <div class="isomer-card-description">Please upload screenshot of your Letter of Acceptance/Student ID, when
 placing an online order at the notebook supplier website. The notebooks
 will be available for purchase, subject to stock availability, until end
