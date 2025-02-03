@@ -24,7 +24,7 @@ is required.</p>
 <p>Processor:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Apple M1 Chip</p>
+<p>Apple M4 Chip</p>
 </td>
 </tr>
 <tr>
@@ -40,7 +40,7 @@ is required.</p>
 <p>Storage:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>256 GB Solid State Drive (SSD)</p>
+<p>512 GB Solid State Drive (SSD) or above</p>
 </td>
 </tr>
 <tr>
@@ -64,7 +64,7 @@ is required.</p>
 <p>Operating System:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>macOS Ventura or later</p>
+<p>macOS 15 Sequoia or later</p>
 </td>
 </tr>
 <tr>
