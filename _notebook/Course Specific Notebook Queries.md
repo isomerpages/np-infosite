@@ -332,17 +332,17 @@ description: ""
 </li>
 </ul>
 <p></p>
-<p><strong>Course: AEG, AMS, CEP, MOT, ME</strong>
+<p><strong>Course: AEG, CEP, ME, MR, OSE</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Staff-in-Charge: Mr. Arefin Shamsul</p>
+<p>Staff-in-Charge: Mr. Cheng Chee Yuen</p>
 </li>
 <li>
-<p>Tel: 6460 8990</p>
+<p>Tel: 6460 7570</p>
 </li>
 <li>
-<p>Email: <a href="mailto:Arefin_Shamsul@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Arefin_Shamsul@np.edu.sg</a>
+<p>Email: <a href="mailto:cheng_chee_yuen@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_chee_yuen@np.edu.sg</a>
 </p>
 <p></p>
 </li>

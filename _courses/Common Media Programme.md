@@ -24,7 +24,7 @@ a Windows notebook or an Apple MacBook.</p>
 <p>Processor:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Intel Core i5 or AMD Ryzen 5 Series</p>
+<p>Intel Core i7 or AMD Ryzen 7 Series</p>
 </td>
 </tr>
 <tr>
@@ -32,7 +32,7 @@ a Windows notebook or an Apple MacBook.</p>
 <p>RAM:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 GB (16 GB recommended)</p>
+<p>32 GB</p>
 </td>
 </tr>
 <tr>
@@ -40,7 +40,7 @@ a Windows notebook or an Apple MacBook.</p>
 <p>Storage:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>512 GB Solid State Drive (SSD)</p>
+<p>1 TB Solid State Drive (SSD) (2 TB SSD recommended)</p>
 </td>
 </tr>
 <tr>
@@ -56,7 +56,7 @@ a Windows notebook or an Apple MacBook.</p>
 <p>Graphics:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Integrated graphics card or equivalent</p>
+<p>Dedicated graphics card (NVIDIA GeForce RTX Range 3060 to 3080i or above)</p>
 </td>
 </tr>
 <tr>
@@ -72,7 +72,7 @@ a Windows notebook or an Apple MacBook.</p>
 <p>I/O Ports (required for your course)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Not applicable</p>
+<p>HDMI, USB-C, USB 3.0, SD Card Reader, 3.5mm Headphone Jack</p>
 </td>
 </tr>
 <tr>
@@ -80,7 +80,7 @@ a Windows notebook or an Apple MacBook.</p>
 <p>Peripherals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HDMI to VGA Adapter or Display Port to VGA Adapter for non VGA notebook</p>
+<p>Not applicable</p>
 </td>
 </tr>
 </tbody>
@@ -102,7 +102,7 @@ a Windows notebook or an Apple MacBook.</p>
 <p>Processor:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Apple M1 Chip</p>
+<p>Apple M4 Chip</p>
 </td>
 </tr>
 <tr>
@@ -110,7 +110,7 @@ a Windows notebook or an Apple MacBook.</p>
 <p>RAM:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 GB or above</p>
+<p>16 GB or above</p>
 </td>
 </tr>
 <tr>
@@ -118,7 +118,7 @@ a Windows notebook or an Apple MacBook.</p>
 <p>Storage:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>256 GB Solid State Drive (SSD)</p>
+<p>512 GB Solid State Drive (SSD)</p>
 </td>
 </tr>
 <tr>
@@ -142,7 +142,7 @@ a Windows notebook or an Apple MacBook.</p>
 <p>Operating System:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>macOS Ventura or later</p>
+<p>macOS Sequoia or later</p>
 </td>
 </tr>
 <tr>
@@ -163,5 +163,4 @@ a Windows notebook or an Apple MacBook.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
