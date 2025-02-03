@@ -40,7 +40,7 @@ a Windows notebook or an Apple MacBook.</p>
 <p>Storage:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 TB Solid State Drive (SSD)</p>
+<p>1 TB Solid State Drive (SSD) (2 TB SSD recommended)</p>
 </td>
 </tr>
 <tr>
@@ -102,7 +102,7 @@ a Windows notebook or an Apple MacBook.</p>
 <p>Processor:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Apple M1 Chip</p>
+<p>Apple M3 Chip</p>
 </td>
 </tr>
 <tr>
@@ -110,7 +110,7 @@ a Windows notebook or an Apple MacBook.</p>
 <p>RAM:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16 GB</p>
+<p>32 GB</p>
 </td>
 </tr>
 <tr>
@@ -118,7 +118,7 @@ a Windows notebook or an Apple MacBook.</p>
 <p>Storage:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>512 GB Solid State Drive (SSD)</p>
+<p>1 TB Solid State Drive (SSD) (2 TB SSD recommended)</p>
 </td>
 </tr>
 <tr>
