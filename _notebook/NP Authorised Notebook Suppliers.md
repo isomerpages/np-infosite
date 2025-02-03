@@ -10,7 +10,10 @@ to this page for exciting updates!&nbsp;</p>
 <p>Prior to purchasing your notebook, please read <a href="/notebook/whobuyswhat" rel="noopener noreferrer nofollow" target="_blank">who buys what</a> and check <a href="/notebook/specs/" rel="noopener noreferrer nofollow" target="_blank">minimum specifications</a> for
 your course. For course-specific notebook related queries, <a href="/notebook/notebook-queries" rel="noopener noreferrer nofollow" target="_blank">click here</a> for
 contact details.</p>
-<h4>Authorised Notebook Suppliers for 2024</h4>
+<p>For students who require Apple product (e.g. Macbook, iPad) for your study
+in NP, you can purchase them at education price directly from the Apple
+Education Store. (More info under Apple Education Store below)</p>
+<h4>Authorised Windows Notebook Suppliers for 2025</h4>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -18,89 +21,27 @@ contact details.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Asus: AsiaPac Technology&nbsp;Pte Ltd</strong>
+<p><strong>Coming in Late March 2025.</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Email: <a href="mailto:np@asiapac.com.sg" rel="noopener noreferrer nofollow" target="_blank">np@asiapac.com.sg</a>
-</p>
-</li>
-<li>
-<p>Tel: 6274 2722</p>
-</li>
-<li>
-<p>(Mon - Thur : 9:00am to 5:30pm, Fri: 9:00am to 5:00pm)</p>
-</li>
-<li>
-<p>Place order online @&nbsp;<a href="https://www.asiapac.com.sg/np" rel="noopener noreferrer nofollow" target="_blank">https://www.asiapac.com.sg/np</a>
-</p>
-</li>
-</ul>
 </td>
 </tr>
+</tbody>
+</table>
+<h4>Apple Education Store</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>HP:&nbsp; Challenger Technologies Pte Ltd</strong>
+<th rowspan="1" colspan="3">
+<p>Official Website: <a href="https://www.apple.com/sg-edu/store" rel="noopener noreferrer nofollow" target="_blank">https://www.apple.com/sg-edu/store</a>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Email: <a href="mailto:edu@challenger.sg" rel="noopener noreferrer nofollow" target="_blank">edu@challenger.sg</a>
-</p>
-</li>
-<li>
-<p>Tel: 6318 9845</p>
-</li>
-<li>
-<p>(Mon - Fri : 9:00am to 6:00pm)</p>
-</li>
-<li>
-<p>Place order online @&nbsp;<a href="https://mss.challenger.sg/ihl/np" rel="noopener noreferrer nofollow" target="_blank">https://mss.challenger.sg/ihl/np</a>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Lenovo:&nbsp; NUS Multi-purpose Co-operative Society Ltd</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Email: <a href="mailto:np@nuscoop.com" rel="noopener noreferrer nofollow" target="_blank">np@nuscoop.com</a>
-</p>
-</li>
-<li>
-<p>Tel: 6274 2722</p>
-</li>
-<li>
-<p>(Mon - Thur : 9:00am to 5:30pm, Fri: 9:00am to 5:00pm)</p>
-</li>
-<li>
-<p>Place order online @&nbsp;<a href="https://www.asiapac.com.sg/lenovo-np" rel="noopener noreferrer nofollow" target="_blank">https://www.asiapac.com.sg/lenovo-np</a> 
-<a href="https://www2.np.edu.sg/notebook/contactus/Pages/CourseSpecificQueries.aspx" rel="noopener noreferrer nofollow" target="_blank">​</a>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Apple:&nbsp; JK Technology Pte Ltd</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Email: <a href="mailto:sales_07@jktech.com.sg" rel="noopener noreferrer nofollow" target="_blank">sales_07@jktech.com.sg</a>
-</p>
-</li>
-<li>
-<p>Tel: 6841 6868 (ext. 3041) (Mon - Fri : 9am to 6:30pm)</p>
-</li>
-<li>
-<p>Place order online @ <a href="https://academic.com.sg/collections/np" rel="noopener noreferrer nofollow" target="_blank">https://academic.com.sg/collections/np</a>
-</p>
-</li>
-</ul>
-</td>
+<p>*To qualify for Apple education pricing, you will be prompted by Apple
+to verify your student status with UNiDAYS.</p>
+</th>
 </tr>
 </tbody>
 </table>
