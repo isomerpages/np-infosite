@@ -15,10 +15,10 @@ to this page for exciting updates!&nbsp;</p>
 </div>
 </div>
 <div class="isomer-card-body">
+<div class="isomer-card-title">Models for Purchase rev 1</div>
 <div class="isomer-card-description">Please upload screenshot of your Letter of Acceptance/Student ID, when
-placing an online order at the notebook supplier website. The notebooks
-will be available for purchase, subject to stock availability, until end
-Feb 2026.</div>
+placing an online order at the notebook supplier website. Notebooks will
+be available for purchase, subject to stock availability.</div>
 </div>
 </div>
 </div>
