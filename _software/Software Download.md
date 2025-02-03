@@ -434,7 +434,7 @@ and password.</p>
 <td rowspan="1" colspan="1">
 <p><strong>FSV</strong> - Film, Sound &amp; Video</p>
 <p><strong>CMP</strong> - Common Media Programme</p>
-<p><strong>CM</strong> - Mass Communication</p>
+<p><strong>MCM</strong> - Mass Communication</p>
 <p><strong>MPP</strong> - Media Post-Production</p>
 </td>
 <td rowspan="1" colspan="1">
