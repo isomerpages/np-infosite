@@ -40,7 +40,7 @@ a Windows notebook or an Apple MacBook.</p>
 <p>Storage:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 TB Solid State Drive (SSD) (2 TB recommended)</p>
+<p>1 TB Solid State Drive (SSD) (2 TB SSD recommended)</p>
 </td>
 </tr>
 <tr>
