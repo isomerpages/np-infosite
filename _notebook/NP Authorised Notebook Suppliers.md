@@ -4,15 +4,17 @@ permalink: /notebook/authorisednbsuppliers/
 variant: tiptap
 description: ""
 ---
-<p>🎉 <strong>Hey Freshmen (2025)!</strong> Welcome to NP! The new Windows
-notebook models will be revealed starting in late March 2025. Stay tuned
-to this page for exciting updates!&nbsp;</p>
+<blockquote>
+<p><strong>🎉 Hey Freshmen (2025)! Welcome to NP! The new Windows notebook models will be revealed starting in late March 2025. Stay tuned to this page for exciting updates!&nbsp;</strong>
+</p>
+</blockquote>
 <p>Prior to purchasing your notebook, please read "<a href="/notebook/winormac" rel="noopener noreferrer nofollow" target="_blank">Windows or Mac?</a>" and check <a href="/notebook/specs/" rel="noopener noreferrer nofollow" target="_blank">minimum specifications</a> for
 your course. For course-specific notebook related queries, <a href="/notebook/notebook-queries" rel="noopener noreferrer nofollow" target="_blank">click here</a> for
 contact details.</p>
 <h4>Authorised Windows Notebook Suppliers for 2025</h4>
 <blockquote>
-<p>To Be Announced (Late March 2025)</p>
+<p><strong>To Be Announced (Late March 2025)</strong>
+</p>
 </blockquote>
 <h4>Apple Education Store</h4>
 <p>For students who require Apple products (e.g. Macbook, iPad) for your
@@ -35,6 +37,7 @@ to verify your student status with UNiDAYS.</p>
 </tr>
 </tbody>
 </table>
+<hr>
 <h4>Why should I purchase my notebook from the authorised suppliers?</h4>
 <p>The Polytechnic has identified several approved suppliers who will sell
 notebook computers on the campus at reasonable prices. You are strongly
@@ -42,6 +45,46 @@ encouraged to buy your notebook from these suppliers because you will enjoy
 3 key advantages:
 <br>
 </p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Advantage #1 : Collective Consumer Protection</div>
+<div class="isomer-card-description">The Polytechnic may be able to help arbitrate any genuine complaint that
+could arise during the 3 years of warranty.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Advantage #2 : Notebooks with 3-Year On-Site Warranty</div>
+<div class="isomer-card-description">The Notebooks come with a 3-Year Warranty, inclusive of all parts (including
+AC adapter and cord) and labour cost (except for the battery which normally
+comes with 1-Year Warranty) on-site at your residence or on-campus.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Advantage #3 : Next-Business Day Service</div>
+<div class="isomer-card-description">Our authorized suppliers provide after-sales services on a Next-Business
+Day basis on-site at your residence or on-campus.</div>
+</div>
+</div>
+</div>
 <p><strong>Advantage #1 : Collective Consumer Protection <br></strong>The
 Polytechnic may be able to help arbitrate any genuine complaint that could
 arise during the 3 years of warranty.&nbsp;</p>
