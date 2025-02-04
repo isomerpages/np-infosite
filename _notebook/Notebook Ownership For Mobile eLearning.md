@@ -23,7 +23,7 @@ and collaborate with your classmates &amp; project members, create digital
 content, and much more.</p>
 <p>Depending on the course you are enrolling into, you will need to own either
 a Windows-based notebook computer or a Mac-based Apple notebook computer.</p>
-<p>More details can be found on the "<a href="/notebook/whobuyswhat" rel="noopener noreferrer nofollow" target="_blank">Who Buys What</a>" page.</p>
+<p>More details can be found on the "<a href="/notebook/winormac" rel="noopener noreferrer nofollow" target="_blank">Windows or Mac?</a>" page.</p>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="clte logo" src="/images/CLTE_logo.png">
