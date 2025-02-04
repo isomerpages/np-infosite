@@ -26,6 +26,6 @@ a Windows-based notebook computer or a Mac-based Apple notebook computer.</p>
 <p>More details can be found on the "<a href="/notebook/winormac" rel="noopener noreferrer nofollow" target="_blank">Windows or Mac?</a>" page.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="clte logo" src="/images/CLTE_logo.png">
+<img style="width: 30%;" height="auto" width="100%" alt="clte logo" src="/images/CLTE_logo.png">
 </div>
 <p></p>
