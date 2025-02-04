@@ -6,7 +6,7 @@ description: ""
 ---
 <p>🎉 <strong>Hey Freshmen (2025)!</strong> Welcome to NP! The new Windows
 notebook models will be revealed starting in late March 2025. Stay tuned
-to this page for exciting updates!&nbsp;</p>
+to this page for the new notebook brochures!</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
