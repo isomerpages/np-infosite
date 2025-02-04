@@ -46,16 +46,9 @@ to verify your student status with UNiDAYS.</p>
 <p>The Polytechnic has identified several approved suppliers who will sell
 notebook computers on the campus at reasonable prices. You are strongly
 encouraged to buy your notebook from these suppliers because you will enjoy
-3 key advantages:
-<br>
-</p>
+3 key advantages:</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Advantage #1 : Collective Consumer Protection</div>
 <div class="isomer-card-description">The Polytechnic may be able to help arbitrate any genuine complaint that
@@ -63,11 +56,6 @@ could arise during the 3 years of warranty.</div>
 </div>
 </div>
 <div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Advantage #2 : Notebooks with 3-Year On-Site Warranty</div>
 <div class="isomer-card-description">The Notebooks come with a 3-Year Warranty, inclusive of all parts (including
@@ -76,11 +64,6 @@ comes with 1-Year Warranty) on-site at your residence or on-campus.</div>
 </div>
 </div>
 <div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Advantage #3 : Next-Business Day Service</div>
 <div class="isomer-card-description">Our authorized suppliers provide after-sales services on a Next-Business
@@ -88,6 +71,7 @@ Day basis on-site at your residence or on-campus.</div>
 </div>
 </div>
 </div>
+<p></p>
 <p></p>
 </div>
 </details>
