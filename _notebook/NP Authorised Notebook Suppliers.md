@@ -7,27 +7,17 @@ description: ""
 <p>🎉 <strong>Hey Freshmen (2025)!</strong> Welcome to NP! The new Windows
 notebook models will be revealed starting in late March 2025. Stay tuned
 to this page for exciting updates!&nbsp;</p>
-<p>Prior to purchasing your notebook, please read <a href="/notebook/whobuyswhat" rel="noopener noreferrer nofollow" target="_blank">who buys what</a> and check <a href="/notebook/specs/" rel="noopener noreferrer nofollow" target="_blank">minimum specifications</a> for
+<p>Prior to purchasing your notebook, please read "<a href="/notebook/winormac" rel="noopener noreferrer nofollow" target="_blank">Windows or Mac?</a>" and check <a href="/notebook/specs/" rel="noopener noreferrer nofollow" target="_blank">minimum specifications</a> for
 your course. For course-specific notebook related queries, <a href="/notebook/notebook-queries" rel="noopener noreferrer nofollow" target="_blank">click here</a> for
 contact details.</p>
-<p>For students who require Apple product (e.g. Macbook, iPad) for your study
-in NP, you can purchase them at education price directly from the Apple
-Education Store. (More info under Apple Education Store below)</p>
 <h4>Authorised Windows Notebook Suppliers for 2025</h4>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Coming in Late March 2025.</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<blockquote>
+<p>To Be Announced (Late March 2025)</p>
+</blockquote>
 <h4>Apple Education Store</h4>
+<p>For students who require Apple products (e.g. Macbook, iPad) for your
+study in NP, you can purchase them at education price directly from the
+Apple Education Store.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
