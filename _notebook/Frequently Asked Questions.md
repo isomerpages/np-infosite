@@ -84,6 +84,6 @@ with the Apple Mac Operating System platform.</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="clte" src="/images/CLTE_logo.png">
+<img style="width: 30%;" height="auto" width="100%" alt="clte" src="/images/CLTE_logo.png">
 </div>
 <p></p>
