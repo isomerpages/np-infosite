@@ -4,13 +4,11 @@ permalink: /notebook/after-sales-service/
 variant: tiptap
 description: ""
 ---
-<p><strong>Notice: Dear Freshmen, the updated authorised notebook supplier information will be released in Mar 2025. Please return to this page at a later time.</strong>
-</p>
 <blockquote>
-<p>If you purchased your notebook from our authorised suppliers, they provide
-after-sales hardware-related repairs next-business day either at your residence
-or on campus.</p>
+<p>🎉 <strong>Hey Freshmen (2025)!</strong>  <strong>Welcome to NP! The new Windows notebook models will be revealed starting in late March 2025.</strong>
+</p>
 </blockquote>
+<h4>If you purchased your notebook from our authorised suppliers, they provide after-sales hardware-related repairs next-business day either at your residence or on campus.</h4>
 <h4>Asus: AsiaPac Technology Pte. Ltd​</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -57,6 +55,6 @@ or on campus.</p>
 contact CLTE at <strong>6460 6295</strong> or email to <a href="mailto:itcare@connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">itcare@connect.np.edu.sg</a>.</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="clte" src="/images/CLTE_logo.png">
+<img style="width: 30%;" height="auto" width="100%" alt="clte" src="/images/CLTE_logo.png">
 </div>
 <p></p>

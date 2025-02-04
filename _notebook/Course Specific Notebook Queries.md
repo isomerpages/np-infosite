@@ -362,7 +362,8 @@ description: ""
 </tbody>
 </table>
 <hr>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="clte" src="/images/CLTE_logo.png">
+<img style="width: 30%;" height="auto" width="100%" alt="The Centre for Learning &amp; Teaching Excellence Logo" src="/images/CLTE_logo.png">
 </div>
 <p></p>

@@ -1,18 +1,19 @@
 ---
-title: Who Buys What?
-permalink: /notebook/whobuyswhat/
+title: Windows or Mac?
+permalink: /notebook/winormac/
 variant: tiptap
 description: ""
 ---
-<p><strong>Notice: Dear Freshmen, the updated instructions will be be released in Mar 2025. Please return to this page at a later time.</strong>
-</p>
 <blockquote>
-<p>Please check&nbsp;<a href="/notebook/specs/" class="cf0" rel="noopener noreferrer nofollow" target="_blank">minimum specifications</a>&nbsp;for
-your course. For course-specific notebook related queries,&nbsp;<a href="/notebook/notebook-queries" class="cf0" rel="noopener noreferrer nofollow" target="_blank">click here</a>&nbsp;for
-contact details.</p>
+<p>🎉 <strong>Hey Freshmen (2025)!</strong>  <strong>Welcome to NP! The new Windows notebook models will be revealed starting in late March 2025.</strong>
+</p>
 </blockquote>
+<h4>Please check&nbsp;<a href="/notebook/specs/" class="cf0" rel="noopener noreferrer nofollow" target="_blank">minimum specifications</a>&nbsp;for your course. For course-specific notebook related queries,&nbsp;<a href="/notebook/notebook-queries" class="cf0" rel="noopener noreferrer nofollow" target="_blank">click here</a>&nbsp;for contact details.</h4>
+<p></p>
+<hr>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="courses that require apple notebook" src="/images/18_whoapple.png">
+<img style="width: 50%;" height="auto" width="100%" alt="courses that require apple notebook" src="/images/18_whoapple.png">
 </div>
 <p>ONLY students enrolled in <strong>Film Sound &amp; Video</strong>&nbsp;have&nbsp;to
 own an Apple notebook.​​</p>
@@ -34,22 +35,25 @@ is currently, predominantly a Mac OS environment.</p>
 own&nbsp;<strong>either</strong> an Apple or Windows notebook.</p>
 </li>
 </ul>
+<hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="courses which require windows notebook" src="/images/18_whowin.png">
+<img style="width: 50%;" height="auto" width="100%" alt="courses which require windows notebook" src="/images/18_whowin.png">
 </div>
 <p>Students enrolled in ALL other courses should NOT purchase Apple notebook
 computers, as you may be using Windows-based software that is not compatible
 with the Apple Mac Operating System platform.</p>
 <p></p>
+<hr>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="poly foundation programme" src="/images/18_whoPFP.png">
+<img style="width: 50%;" height="auto" width="100%" alt="poly foundation programme" src="/images/18_whoPFP.png">
 </div>
 <p>PFP students are required to own a notebook computer for their studies
 in Ngee Ann Polytechnic.</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="clte" src="/images/CLTE_logo.png">
+<img style="width: 30%;" height="auto" width="100%" alt="clte" src="/images/CLTE_logo.png">
 </div>
 <p></p>
