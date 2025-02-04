@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p>🎉 <strong>Hey Freshmen (2025)!</strong> Welcome to NP! The new Windows
-notebook models will be revealed starting in late March 2025. Stay tuned
-to this page for exciting updates!&nbsp;</p>
+notebook models will be revealed starting in late March 2025.</p>
 <blockquote>
 <p>Please check&nbsp;<a href="/notebook/specs/" class="cf0" rel="noopener noreferrer nofollow" target="_blank">minimum specifications</a>&nbsp;for
 your course. For course-specific notebook related queries,&nbsp;<a href="/notebook/notebook-queries" class="cf0" rel="noopener noreferrer nofollow" target="_blank">click here</a>&nbsp;for
