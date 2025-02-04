@@ -39,13 +39,16 @@ to verify your student status with UNiDAYS.</p>
 </table>
 <hr>
 <h4>Why should I purchase my notebook from the authorised suppliers?</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>The Polytechnic has identified several approved suppliers who will sell
 notebook computers on the campus at reasonable prices. You are strongly
 encouraged to buy your notebook from these suppliers because you will enjoy
 3 key advantages:
 <br>
 </p>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -85,25 +88,25 @@ Day basis on-site at your residence or on-campus.</div>
 </div>
 </div>
 </div>
-<p><strong>Advantage #1 : Collective Consumer Protection <br></strong>The
-Polytechnic may be able to help arbitrate any genuine complaint that could
-arise during the 3 years of warranty.&nbsp;</p>
 <p></p>
-<p><strong>Advantage #2 : Notebooks with 3-Year On-Site Warranty <br></strong>The
-Notebooks come with a 3-Year Warranty, inclusive of all parts (including
-AC adapter and cord) and labour cost (except for the battery which normally
-comes with 1-Year Warranty) on-site at your residence or on-campus.&nbsp;</p>
-<p></p>
-<p><strong>Advantage #3 : Next-Business Day Service <br></strong>Our authorized
-suppliers provide after-sales services on a Next-Business Day basis on-site
-at your residence or on-campus.</p>
-<h4><br>How many notebooks am I allowed to purchase from the authorised suppliers?</h4>
-<p>Each student is only allowed to purchase ONE notebook regardless of the
-authorised supplier. It is necessary to show your Student Card or Acceptance
-of Offer letter when you place your order and take delivery of your notebook.</p>
+</div>
+</details>
+</div>
+<h4>How many notebooks am I allowed to purchase from the authorised suppliers?</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Each student is only allowed to purchase <strong>ONE</strong> notebook regardless
+of the authorised supplier. It is necessary to show your Student Card or
+Acceptance of Offer letter when you place your order and take delivery
+of your notebook.</p>
+</div>
+</details>
+</div>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="clte" src="/images/CLTE_logo.png">
+<img style="width: 30%;" height="auto" width="100%" alt="clte" src="/images/CLTE_logo.png">
 </div>
 <p></p>
