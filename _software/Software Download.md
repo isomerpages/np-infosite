@@ -851,7 +851,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>AutoCAD 2024 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2024_guide.pdf?csf=1&amp;web=1&amp;e=a1STHr" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>AutoCAD 2025 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2024_guide.pdf?csf=1&amp;web=1&amp;e=a1STHr" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -940,8 +940,13 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>AutoCAD 2024 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2024_guide.pdf?csf=1&amp;web=1&amp;e=a1STHr" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
+<p>Arduino IDE - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/ArduinoIDE_guide.pdf?csf=1&amp;web=1&amp;e=OxtMg0" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.arduino.cc/en/software" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>Tinkercad - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Tinkercad_guide.pdf?csf=1&amp;web=1&amp;e=LBM2aH" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.tinkercad.com" rel="noopener nofollow" target="_blank">Link</a>
 </p>
 </li>
 <li>
@@ -950,17 +955,20 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>YoloV8 - <a href="https://docs.ultralytics.com/quickstart/#install-ultralytics" rel="noopener nofollow" target="_blank">Link</a>
-</p>
-</li>
-<li>
-<p>Arduino IDE - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/ArduinoIDE_guide.pdf?csf=1&amp;web=1&amp;e=OxtMg0" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://www.arduino.cc/en/software" rel="noopener nofollow" target="_blank">Download</a>
+<p>YoloV11 - <a href="https://docs.ultralytics.com/quickstart/#install-ultralytics" rel="noopener nofollow" target="_blank">Link</a>
 </p>
 </li>
 <li>
 <p>Pycharm - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/PyCharm_guide.pdf?csf=1&amp;web=1&amp;e=1R3wir" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/Pycharm.exe?csf=1&amp;web=1&amp;e=FRXaus" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>Roboflow (pending guide and installer)</p>
+</li>
+<li>
+<p>AutoCAD 2025 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2024_guide.pdf?csf=1&amp;web=1&amp;e=a1STHr" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
 </ul>
@@ -979,7 +987,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>AutoCAD 2024 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2024_guide.pdf?csf=1&amp;web=1&amp;e=a1STHr" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>AutoCAD 2025 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2024_guide.pdf?csf=1&amp;web=1&amp;e=a1STHr" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
