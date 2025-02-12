@@ -56,7 +56,7 @@ is required.</p>
 <p>Graphics:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Integrated graphics card with 4 GB VRAM or equivalent</p>
+<p>Dedicated graphics card with 4 GB VRAM or above</p>
 </td>
 </tr>
 <tr>
@@ -72,7 +72,7 @@ is required.</p>
 <p>I/O Ports (required for your course):</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Not applicable</p>
+<p>HDMI Output (USB-C or Thunderbolt output with HDMI Adapter is acceptable)</p>
 </td>
 </tr>
 <tr>
