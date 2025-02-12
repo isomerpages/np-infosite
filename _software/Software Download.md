@@ -1145,26 +1145,6 @@ and password.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MR</strong> - Mechatronics &amp; Robotics</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Microsoft Office 365 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>
-</p>
-</li>
-<li>
-<p>Fusion 360 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Fusion360_guide.pdf?csf=1&amp;web=1&amp;e=dyUVUi" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>BME</strong> - Biomedical Engineering</p>
 <p></p>
 </td>
@@ -1356,7 +1336,27 @@ and password.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MOT</strong> - Marine &amp; Offshore Technology</p>
+<p><strong>MR</strong> - Mechatronics &amp; Robotics</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Microsoft Office 365 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>Fusion 360 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Fusion360_guide.pdf?csf=1&amp;web=1&amp;e=dyUVUi" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>OSE</strong> - Offshore &amp; Sustainable Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -1384,7 +1384,7 @@ and password.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="6" colspan="1">
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1466,7 +1466,35 @@ and password.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MOT</strong> - Marine &amp; Offshore Technology</p>
+<p><strong>MR</strong> - Mechatronics &amp; Robotics</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>VS Community 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VS2022_guide.pdf?csf=1&amp;web=1&amp;e=IzbPi7" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://visualstudio.microsoft.com/vs/community/" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>Oracle Virtuabox 7 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/OracleVirtualBox_guide.pdf?csf=1&amp;web=1&amp;e=uK5dbf" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.oracle.com/virtualization/technologies/vm/downloads/virtualbox-downloads.html" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>Labview 2023 (pending guide and installer)</p>
+</li>
+<li>
+<p>Visual Studio Code - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VSCode_guide.pdf?csf=1&amp;web=1&amp;e=gArBBu" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://code.visualstudio.com/sha/download?build=stable&amp;os=win32-x64-user" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>OSE</strong> - Offshore &amp; Sustainable Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -1482,7 +1510,7 @@ and password.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="6" colspan="1">
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1550,7 +1578,30 @@ and password.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MOT</strong> - Marine &amp; Offshore Technology</p>
+<p><strong>MR</strong> - Mechatronics &amp; Robotics</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>VS Community 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VS2022_guide.pdf?csf=1&amp;web=1&amp;e=IzbPi7" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://visualstudio.microsoft.com/vs/community/" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>Oracle Virtuabox 7 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/OracleVirtualBox_guide.pdf?csf=1&amp;web=1&amp;e=uK5dbf" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.oracle.com/virtualization/technologies/vm/downloads/virtualbox-downloads.html" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>Labview 2023 (pending guide and installer)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>OSE</strong> - Offshore &amp; Sustainable Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
