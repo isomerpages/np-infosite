@@ -258,8 +258,8 @@ Electrical Engineering</p>
 Mechanical Engineering</p>
 </li>
 <li>
-<p><a href="/courses/mot" rel="noopener noreferrer nofollow" target="_blank">MOT</a> OSE
-- Offshore &amp; Sustainable Engineering</p>
+<p><a href="/courses/ose" rel="noopener noreferrer nofollow" target="_blank">OSE</a> -
+Offshore &amp; Sustainable Engineering</p>
 </li>
 </ul>
 </td>
