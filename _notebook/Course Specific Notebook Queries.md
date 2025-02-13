@@ -129,10 +129,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School of Humanities &amp; Social Sciences (HMS)</p>
+<p>School of Humanities &amp; Interdisciplinary Studies (HMIS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Course: ABM, CMC, CHS, CDT, ECDE, TSE</strong>
+<p><strong>Course: ABM, CMC, CHS, ECDE, PCD, TSE</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
