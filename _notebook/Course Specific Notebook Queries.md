@@ -129,10 +129,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School of Humanities &amp; Social Sciences (HMS)</p>
+<p>School of Humanities &amp; Interdisciplinary Studies (HMIS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Course: ABM, CMC, CHS, CDT, ECDE, TSE</strong>
+<p><strong>Course: ABM, CMC, CHS, ECDE, PCD, TSE</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -275,7 +275,7 @@ description: ""
 <p>School of Life Sciences &amp; Chemical Technology (LSCT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Course: BMS, PHARM, LDH, CBE, EWT, CSP</strong>
+<p><strong>Course: BMS, CBE, CSP, EWT, LDH, PHARM</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>

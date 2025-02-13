@@ -1,12 +1,12 @@
 ---
-title: Environmental & Water Technology
-permalink: /courses/ewt/
+title: Engineering Science
+permalink: /courses/es/
 variant: tiptap
 description: ""
 ---
 <blockquote>
-<p>For your Diploma in Environmental &amp; Water Technology (EWT) course,
-a Windows notebook is required.</p>
+<p>For your Diploma in Engineering Science (ES) course, a Windows notebook
+is required.</p>
 </blockquote>
 <table style="minWidth: 50px">
 <colgroup>
@@ -24,7 +24,7 @@ a Windows notebook is required.</p>
 <p>Processor:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Intel Core i7 or AMD Ryzen 7 Series</p>
+<p>Intel Core i5 or AMD Ryzen 5 Series</p>
 </td>
 </tr>
 <tr>
@@ -32,7 +32,7 @@ a Windows notebook is required.</p>
 <p>RAM:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16 GB</p>
+<p>8 GB (16 GB recommended)</p>
 </td>
 </tr>
 <tr>
@@ -72,7 +72,7 @@ a Windows notebook is required.</p>
 <p>I/O Ports (required for your course):</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HDMI Output (USB-C or Thunderbolt output with HDMI Adapter is acceptable)</p>
+<p>Not applicable</p>
 </td>
 </tr>
 <tr>
@@ -80,7 +80,7 @@ a Windows notebook is required.</p>
 <p>Peripherals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Not applicable</p>
+<p>HDMI to VGA Adapter or Display Port to VGA Adapter for non VGA notebook</p>
 </td>
 </tr>
 </tbody>
