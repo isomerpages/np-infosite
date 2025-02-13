@@ -275,7 +275,7 @@ description: ""
 <p>School of Life Sciences &amp; Chemical Technology (LSCT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Course: BMS, PHARM, LDH, CBE, EWT, CSP</strong>
+<p><strong>Course: BMS, CBE, CSP, EWT, LDH, PHARM</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
