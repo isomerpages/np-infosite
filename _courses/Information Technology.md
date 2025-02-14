@@ -24,7 +24,8 @@ is required.</p>
 <p>Processor:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Intel Core i7 or AMD Ryzen 7 Series</p>
+<p>Intel Core i5 or AMD Ryzen 5 Series (Intel Core i7 or AMD Ryzen 7 Series
+recommended)</p>
 </td>
 </tr>
 <tr>
@@ -32,7 +33,7 @@ is required.</p>
 <p>RAM:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16 GB</p>
+<p>16 GB (32 GB recommended)</p>
 </td>
 </tr>
 <tr>
@@ -56,7 +57,7 @@ is required.</p>
 <p>Graphics:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dedicated graphics card with 4 GB VRAM or equivalent</p>
+<p>Integrated graphics card with 4 GB VRAM or equivalent</p>
 </td>
 </tr>
 <tr>
@@ -80,7 +81,7 @@ is required.</p>
 <p>Peripherals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>512 GB Portable SSD</p>
+<p>Not applicable</p>
 </td>
 </tr>
 </tbody>
