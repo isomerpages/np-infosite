@@ -40,7 +40,7 @@ required.</p>
 <p>Storage:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>512 GB Solid State Drive (SSD)</p>
+<p>1 TB Solid State Drive (SSD)</p>
 </td>
 </tr>
 <tr>
@@ -80,7 +80,7 @@ required.</p>
 <p>Peripherals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>512 GB Portable SSD</p>
+<p>Portable Solid-State Drive (SSD) 512 GB</p>
 </td>
 </tr>
 </tbody>
