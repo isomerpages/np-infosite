@@ -851,7 +851,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>AutoCAD 2024 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2024_guide.pdf?csf=1&amp;web=1&amp;e=a1STHr" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>AutoCAD 2025 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2024_guide.pdf?csf=1&amp;web=1&amp;e=a1STHr" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -940,8 +940,13 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>AutoCAD 2024 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2024_guide.pdf?csf=1&amp;web=1&amp;e=a1STHr" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
+<p>Arduino IDE - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/ArduinoIDE_guide.pdf?csf=1&amp;web=1&amp;e=OxtMg0" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.arduino.cc/en/software" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>Tinkercad - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Tinkercad_guide.pdf?csf=1&amp;web=1&amp;e=LBM2aH" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.tinkercad.com" rel="noopener nofollow" target="_blank">Link</a>
 </p>
 </li>
 <li>
@@ -950,17 +955,20 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>YoloV8 - <a href="https://docs.ultralytics.com/quickstart/#install-ultralytics" rel="noopener nofollow" target="_blank">Link</a>
-</p>
-</li>
-<li>
-<p>Arduino IDE - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/ArduinoIDE_guide.pdf?csf=1&amp;web=1&amp;e=OxtMg0" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://www.arduino.cc/en/software" rel="noopener nofollow" target="_blank">Download</a>
+<p>YoloV11 - <a href="https://docs.ultralytics.com/quickstart/#install-ultralytics" rel="noopener nofollow" target="_blank">Link</a>
 </p>
 </li>
 <li>
 <p>Pycharm - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/PyCharm_guide.pdf?csf=1&amp;web=1&amp;e=1R3wir" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/Pycharm.exe?csf=1&amp;web=1&amp;e=FRXaus" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>Roboflow (pending guide and installer)</p>
+</li>
+<li>
+<p>AutoCAD 2025 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2024_guide.pdf?csf=1&amp;web=1&amp;e=a1STHr" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
 </ul>
@@ -979,7 +987,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>AutoCAD 2024 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2024_guide.pdf?csf=1&amp;web=1&amp;e=a1STHr" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>AutoCAD 2025 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2024_guide.pdf?csf=1&amp;web=1&amp;e=a1STHr" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -1093,7 +1101,7 @@ and password.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="8" colspan="1">
+<td rowspan="9" colspan="1">
 <p>1, 2, 3</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1130,26 +1138,6 @@ and password.</p>
 <li>
 <p>Tinkercad - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Tinkercad_guide.pdf?csf=1&amp;web=1&amp;e=LBM2aH" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.tinkercad.com" rel="noopener nofollow" target="_blank">Link</a>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MR</strong> - Mechatronics &amp; Robotics</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Microsoft Office 365 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>
-</p>
-</li>
-<li>
-<p>Fusion 360 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Fusion360_guide.pdf?csf=1&amp;web=1&amp;e=dyUVUi" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
 </ul>
@@ -1283,6 +1271,52 @@ and password.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>ES</strong> - Engineering Science</p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Microsoft Office 365 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>VS Community 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VS2022_guide.pdf?csf=1&amp;web=1&amp;e=IzbPi7" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://visualstudio.microsoft.com/vs/community/" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>Tina - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Tina_guide.pdf?csf=1&amp;web=1&amp;e=uQryj0" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.designsoftware.com/tina14st_registration.php" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>Arduino IDE - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/ArduinoIDE_guide.pdf?csf=1&amp;web=1&amp;e=OxtMg0" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.arduino.cc/en/software" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>Tinkercad - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Tinkercad_guide.pdf?csf=1&amp;web=1&amp;e=LBM2aH" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.tinkercad.com" rel="noopener nofollow" target="_blank">Link</a>
+</p>
+</li>
+<li>
+<p>Fusion 360 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Fusion360_guide.pdf?csf=1&amp;web=1&amp;e=dyUVUi" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>Anaconda - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Anaconda_guide.pdf?csf=1&amp;web=1&amp;e=ms1N04" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://repo.anaconda.com/archive/Anaconda3-2024.06-1-Windows-x86_64.exe" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>ME</strong> - Mechanical Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1302,7 +1336,27 @@ and password.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MOT</strong> - Marine &amp; Offshore Technology</p>
+<p><strong>MR</strong> - Mechatronics &amp; Robotics</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Microsoft Office 365 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>Fusion 360 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Fusion360_guide.pdf?csf=1&amp;web=1&amp;e=dyUVUi" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>OSE</strong> - Offshore &amp; Sustainable Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -1330,7 +1384,7 @@ and password.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="7" colspan="1">
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1393,6 +1447,52 @@ and password.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>ES</strong> - Engineering Science</p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Microsoft Office 365 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>VS Community 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VS2022_guide.pdf?csf=1&amp;web=1&amp;e=IzbPi7" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://visualstudio.microsoft.com/vs/community/" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>Tina - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Tina_guide.pdf?csf=1&amp;web=1&amp;e=uQryj0" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.designsoftware.com/tina14st_registration.php" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>Arduino IDE - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/ArduinoIDE_guide.pdf?csf=1&amp;web=1&amp;e=OxtMg0" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.arduino.cc/en/software" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>Tinkercad - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Tinkercad_guide.pdf?csf=1&amp;web=1&amp;e=LBM2aH" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.tinkercad.com" rel="noopener nofollow" target="_blank">Link</a>
+</p>
+</li>
+<li>
+<p>Fusion 360 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Fusion360_guide.pdf?csf=1&amp;web=1&amp;e=dyUVUi" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>Anaconda - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Anaconda_guide.pdf?csf=1&amp;web=1&amp;e=ms1N04" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://repo.anaconda.com/archive/Anaconda3-2024.06-1-Windows-x86_64.exe" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>ME</strong> - Mechanical Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1412,7 +1512,35 @@ and password.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MOT</strong> - Marine &amp; Offshore Technology</p>
+<p><strong>MR</strong> - Mechatronics &amp; Robotics</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>VS Community 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VS2022_guide.pdf?csf=1&amp;web=1&amp;e=IzbPi7" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://visualstudio.microsoft.com/vs/community/" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>Oracle Virtuabox 7 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/OracleVirtualBox_guide.pdf?csf=1&amp;web=1&amp;e=uK5dbf" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.oracle.com/virtualization/technologies/vm/downloads/virtualbox-downloads.html" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>Labview 2023 (pending guide and installer)</p>
+</li>
+<li>
+<p>Visual Studio Code - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VSCode_guide.pdf?csf=1&amp;web=1&amp;e=gArBBu" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://code.visualstudio.com/sha/download?build=stable&amp;os=win32-x64-user" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>OSE</strong> - Offshore &amp; Sustainable Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -1428,7 +1556,7 @@ and password.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="7" colspan="1">
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1477,6 +1605,52 @@ and password.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>ES</strong> - Engineering Science</p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Microsoft Office 365 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>VS Community 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VS2022_guide.pdf?csf=1&amp;web=1&amp;e=IzbPi7" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://visualstudio.microsoft.com/vs/community/" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>Tina - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Tina_guide.pdf?csf=1&amp;web=1&amp;e=uQryj0" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.designsoftware.com/tina14st_registration.php" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>Arduino IDE - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/ArduinoIDE_guide.pdf?csf=1&amp;web=1&amp;e=OxtMg0" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.arduino.cc/en/software" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>Tinkercad - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Tinkercad_guide.pdf?csf=1&amp;web=1&amp;e=LBM2aH" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.tinkercad.com" rel="noopener nofollow" target="_blank">Link</a>
+</p>
+</li>
+<li>
+<p>Fusion 360 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Fusion360_guide.pdf?csf=1&amp;web=1&amp;e=dyUVUi" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>Anaconda - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Anaconda_guide.pdf?csf=1&amp;web=1&amp;e=ms1N04" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://repo.anaconda.com/archive/Anaconda3-2024.06-1-Windows-x86_64.exe" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>ME</strong> - Mechanical Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1496,7 +1670,30 @@ and password.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MOT</strong> - Marine &amp; Offshore Technology</p>
+<p><strong>MR</strong> - Mechatronics &amp; Robotics</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>VS Community 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VS2022_guide.pdf?csf=1&amp;web=1&amp;e=IzbPi7" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://visualstudio.microsoft.com/vs/community/" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>Oracle Virtuabox 7 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/OracleVirtualBox_guide.pdf?csf=1&amp;web=1&amp;e=uK5dbf" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.oracle.com/virtualization/technologies/vm/downloads/virtualbox-downloads.html" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>Labview 2023 (pending guide and installer)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>OSE</strong> - Offshore &amp; Sustainable Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">

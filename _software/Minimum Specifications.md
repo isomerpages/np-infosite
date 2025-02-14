@@ -251,12 +251,16 @@ Electronic &amp; Computer Engineering</p>
 Electrical Engineering</p>
 </li>
 <li>
+<p><a href="/courses/es" rel="noopener nofollow" target="_blank">ES</a> -
+Engineering Science</p>
+</li>
+<li>
 <p><a href="/courses/me" rel="noopener noreferrer nofollow" target="_blank">ME</a> -
 Mechanical Engineering</p>
 </li>
 <li>
-<p><a href="/courses/mot" rel="noopener noreferrer nofollow" target="_blank">MOT</a> -
-Marine &amp; Offshore Technology</p>
+<p><a href="/courses/ose" rel="noopener noreferrer nofollow" target="_blank">OSE</a> -
+Offshore &amp; Sustainable Engineering</p>
 </li>
 </ul>
 </td>

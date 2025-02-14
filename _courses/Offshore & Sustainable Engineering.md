@@ -1,12 +1,12 @@
 ---
-title: Marine & Offshore Technology
-permalink: /courses/mot/
+title: Offshore & Sustainable Engineering
+permalink: /courses/ose/
 variant: tiptap
 description: ""
 ---
 <blockquote>
-<p>For your Diploma in Marine &amp; Offshore Technology (MOT) course, a Windows
-notebook is required.</p>
+<p>For your Diploma in Offshore &amp; Sustainable Engineering (OSE) course,
+a Windows notebook is required.</p>
 </blockquote>
 <table style="minWidth: 50px">
 <colgroup>

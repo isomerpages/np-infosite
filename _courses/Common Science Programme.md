@@ -72,7 +72,7 @@ is required.</p>
 <p>I/O Ports (required for your course):</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Not applicable</p>
+<p>HDMI Output (USB-C or Thunderbolt output with HDMI Adapter is acceptable)</p>
 </td>
 </tr>
 <tr>
@@ -80,7 +80,7 @@ is required.</p>
 <p>Peripherals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HDMI to VGA Adapter</p>
+<p>Not applicable</p>
 </td>
 </tr>
 </tbody>
