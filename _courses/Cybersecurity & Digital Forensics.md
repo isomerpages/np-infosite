@@ -40,7 +40,7 @@ a Windows notebook is required.</p>
 <p>Storage:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>512 GB Solid State Drive (SSD) or above</p>
+<p>1 TB Solid State Drive (SSD) or above</p>
 </td>
 </tr>
 <tr>
@@ -80,7 +80,7 @@ a Windows notebook is required.</p>
 <p>Peripherals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Not applicable</p>
+<p>Portable Solid-State Drive (SSD) 512 GB</p>
 </td>
 </tr>
 </tbody>
