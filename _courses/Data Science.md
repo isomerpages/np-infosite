@@ -31,7 +31,7 @@ description: ""
 <p>RAM:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16 GB</p>
+<p>16 GB (32 GB recommended)</p>
 </td>
 </tr>
 <tr>
@@ -39,7 +39,7 @@ description: ""
 <p>Storage:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>512 GB Solid State Drive (SSD) or above</p>
+<p>1 TB Solid State Drive (SSD) or above</p>
 </td>
 </tr>
 <tr>
