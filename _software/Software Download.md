@@ -94,6 +94,7 @@ and password.</p>
 <details class="isomer-details">
 <summary>School of Business &amp; Accountancy (BA)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -148,6 +149,11 @@ and password.</p>
 <p>Visual Studio Code - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VSCode_guide.pdf?csf=1&amp;web=1&amp;e=gArBBu" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://code.visualstudio.com/sha/download?build=stable&amp;os=win32-x64-user" rel="noopener nofollow" target="_blank">Download</a>
 </p>
+</li>
+<li>
+<p>MonsoonSim (MAB) (Pending Guide and installer)
+<br>Moodie AI (Pending Guide and installer)
+<br>McGraw Hill (SAPB) (Pending Guide and installer)</p>
 <p></p>
 </li>
 </ul>
@@ -187,9 +193,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>Tableau Reader - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/TableauReader_guide.pdf?csf=1&amp;web=1&amp;e=80SAcs" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://www.tableau.com/products/reader/download" rel="noopener nofollow" target="_blank">Download</a>
-</p>
+<p>Tableau Desktop - (Pending Guide and installer)</p>
 </li>
 <li>
 <p>Anaconda - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Anaconda_guide.pdf?csf=1&amp;web=1&amp;e=ms1N04" rel="noopener nofollow" target="_blank">Guide</a>,
@@ -232,10 +236,6 @@ and password.</p>
 <li>
 <p>CargoWise Cloud Client - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/CargoWiseCloudClient_guide.pdf?csf=1&amp;web=1&amp;e=dN5yJi" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/CargoWiseCloudClient.exe?csf=1&amp;web=1&amp;e=4xNbZj" rel="noopener nofollow" target="_blank">Download</a>
-</p>
-</li>
-<li>
-<p>Visio 2021 (web) - <a href="https://www.microsoft365.com/launch/Visio/" rel="noopener nofollow" target="_blank">Link</a>
 </p>
 </li>
 </ul>
@@ -457,8 +457,9 @@ and password.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>School of Humanities &amp; Social Sciences (HMS)</summary>
+<summary>School of Humanities &amp; Interdisciplinary Studies (HMIS)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -483,10 +484,10 @@ and password.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>ABM</strong> - Arts Business Management</p>
-<p><strong>CDT</strong> - Community Development</p>
 <p><strong>CHS</strong> - Chinese Studies</p>
-<p><strong>CMC</strong> - Chinese Media &amp; Communications</p>
+<p><strong>CMC</strong> - Chinese Media &amp; Communication</p>
 <p><strong>ECDE</strong> - Early Childhood Development &amp; Education</p>
+<p><strong>PCD</strong> - Psychology &amp; Community Development</p>
 <p><strong>TSE</strong> - Tamil Studies with Early Education</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1082,6 +1083,7 @@ and password.</p>
 <details class="isomer-details">
 <summary>School of Engineering (SOE)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1113,11 +1115,6 @@ and password.</p>
 <li>
 <p>Microsoft Office 365 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>
-</p>
-</li>
-<li>
-<p>Creo 4 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Creo4_guide.pdf?csf=1&amp;web=1&amp;e=iuol0y" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/Creo4.zip?csf=1&amp;web=1&amp;e=FF78Ki" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
 <li>
@@ -1498,11 +1495,6 @@ and password.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Creo 4 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Creo4_guide.pdf?csf=1&amp;web=1&amp;e=iuol0y" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/Creo4.zip?csf=1&amp;web=1&amp;e=FF78Ki" rel="noopener nofollow" target="_blank">Download</a>
-</p>
-</li>
-<li>
 <p>Autodesk Inventor - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Inventor_guide.pdf?csf=1&amp;web=1&amp;e=roaftN" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
@@ -1655,11 +1647,6 @@ and password.</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
-<li>
-<p>Creo 4 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Creo4_guide.pdf?csf=1&amp;web=1&amp;e=iuol0y" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/Creo4.zip?csf=1&amp;web=1&amp;e=FF78Ki" rel="noopener nofollow" target="_blank">Download</a>
-</p>
-</li>
 <li>
 <p>Autodesk Inventor - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Inventor_guide.pdf?csf=1&amp;web=1&amp;e=roaftN" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>

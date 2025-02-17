@@ -31,7 +31,7 @@ description: ""
 <p>RAM:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 GB (16 GB recommended)</p>
+<p>16 GB (32GB recommended)</p>
 </td>
 </tr>
 <tr>
@@ -39,7 +39,7 @@ description: ""
 <p>Storage:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>512 GB Solid State Drive (SSD)</p>
+<p>512 GB Solid State Drive (SSD) (1TB recommended)</p>
 </td>
 </tr>
 <tr>
@@ -56,7 +56,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Dedicated graphics card (NVIDIA® GeForce® RTX 3050, 4GB GDDR6 VRAM and
-above or equivalent)</p>
+above or equivalent) (NVIDIA® GeForce® RTX 4060 / AMD Radeon RX 7600M recommended)</p>
 </td>
 </tr>
 <tr>
