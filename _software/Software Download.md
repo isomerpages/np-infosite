@@ -484,7 +484,6 @@ and password.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>ABM</strong> - Arts Business Management</p>
-<p><strong>CDT</strong> - Community Development</p>
 <p><strong>CHS</strong> - Chinese Studies</p>
 <p><strong>CMC</strong> - Chinese Media &amp; Communication</p>
 <p><strong>ECDE</strong> - Early Childhood Development &amp; Education</p>
