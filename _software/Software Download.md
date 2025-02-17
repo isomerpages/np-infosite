@@ -94,6 +94,7 @@ and password.</p>
 <details class="isomer-details">
 <summary>School of Business &amp; Accountancy (BA)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -148,6 +149,11 @@ and password.</p>
 <p>Visual Studio Code - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VSCode_guide.pdf?csf=1&amp;web=1&amp;e=gArBBu" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://code.visualstudio.com/sha/download?build=stable&amp;os=win32-x64-user" rel="noopener nofollow" target="_blank">Download</a>
 </p>
+</li>
+<li>
+<p>MonsoonSim (MAB) (Pending Guide and installer)
+<br>Moodie AI (Pending Guide and installer)
+<br>McGraw Hill (SAPB) (Pending Guide and installer)</p>
 <p></p>
 </li>
 </ul>
@@ -172,6 +178,9 @@ and password.</p>
 <a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/PBIDesktopSetup_x64.exe?csf=1&amp;web=1&amp;e=NSuwar" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
+<li>
+<p>UiPath (Pending Guide and installer)</p>
+</li>
 </ul>
 </td>
 </tr>
@@ -187,9 +196,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>Tableau Reader - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/TableauReader_guide.pdf?csf=1&amp;web=1&amp;e=80SAcs" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://www.tableau.com/products/reader/download" rel="noopener nofollow" target="_blank">Download</a>
-</p>
+<p>Tableau Desktop - (Pending Guide and installer)</p>
 </li>
 <li>
 <p>Anaconda - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Anaconda_guide.pdf?csf=1&amp;web=1&amp;e=ms1N04" rel="noopener nofollow" target="_blank">Guide</a>,
@@ -232,10 +239,6 @@ and password.</p>
 <li>
 <p>CargoWise Cloud Client - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/CargoWiseCloudClient_guide.pdf?csf=1&amp;web=1&amp;e=dN5yJi" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/CargoWiseCloudClient.exe?csf=1&amp;web=1&amp;e=4xNbZj" rel="noopener nofollow" target="_blank">Download</a>
-</p>
-</li>
-<li>
-<p>Visio 2021 (web) - <a href="https://www.microsoft365.com/launch/Visio/" rel="noopener nofollow" target="_blank">Link</a>
 </p>
 </li>
 </ul>
