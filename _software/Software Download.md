@@ -457,8 +457,9 @@ and password.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>School of Humanities &amp; Social Sciences (HMS)</summary>
+<summary>School of Humanities &amp; Interdisciplinary Studies (HMIS)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -485,8 +486,9 @@ and password.</p>
 <p><strong>ABM</strong> - Arts Business Management</p>
 <p><strong>CDT</strong> - Community Development</p>
 <p><strong>CHS</strong> - Chinese Studies</p>
-<p><strong>CMC</strong> - Chinese Media &amp; Communications</p>
+<p><strong>CMC</strong> - Chinese Media &amp; Communication</p>
 <p><strong>ECDE</strong> - Early Childhood Development &amp; Education</p>
+<p><strong>PCD</strong> - Psychology &amp; Community Development</p>
 <p><strong>TSE</strong> - Tamil Studies with Early Education</p>
 </td>
 <td rowspan="1" colspan="1">
