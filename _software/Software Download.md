@@ -1666,6 +1666,9 @@ and password.</p>
 <li>
 <p>Labview 2023 (pending guide and installer)</p>
 </li>
+<li>
+<p>Multisim 14.2 (pending guide and installer)</p>
+</li>
 </ul>
 </td>
 </tr>
