@@ -81,7 +81,7 @@ tablet PC as they are NOT compatible for this course.</p>
 <p>Peripherals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HDMI to VGA Adapter or Display Port to VGA Adapter for non VGA notebook</p>
+<p>Not applicable</p>
 </td>
 </tr>
 </tbody>
