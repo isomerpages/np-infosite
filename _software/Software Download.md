@@ -1511,6 +1511,9 @@ and password.</p>
 <p>Labview 2023 (pending guide and installer)</p>
 </li>
 <li>
+<p>Multisim 14.2 (pending guide and installer)</p>
+</li>
+<li>
 <p>Visual Studio Code - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VSCode_guide.pdf?csf=1&amp;web=1&amp;e=gArBBu" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://code.visualstudio.com/sha/download?build=stable&amp;os=win32-x64-user" rel="noopener nofollow" target="_blank">Download</a>
 </p>
