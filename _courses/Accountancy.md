@@ -56,7 +56,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Dedicated graphics card (NVIDIA® GeForce® RTX 3050, 4GB GDDR6 VRAM and
-above or equivalent) (NVIDIA® GeForce® RTX 4060 / AMD Radeon RX 7600M recommended)</p>
+above or equivalent)</p>
 </td>
 </tr>
 <tr>
