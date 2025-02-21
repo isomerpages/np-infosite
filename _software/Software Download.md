@@ -150,12 +150,6 @@ and password.</p>
 <a href="https://code.visualstudio.com/sha/download?build=stable&amp;os=win32-x64-user" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
-<li>
-<p>MonsoonSim (MAB) (Pending Guide and installer)
-<br>Moodie AI (Pending Guide and installer)
-<br>McGraw Hill (SAPB) (Pending Guide and installer)</p>
-<p></p>
-</li>
 </ul>
 </td>
 </tr>
@@ -286,7 +280,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>AutoCAD 2024 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2024_guide.pdf?csf=1&amp;web=1&amp;e=a1STHr" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>AutoCAD 2025 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2024_guide.pdf?csf=1&amp;web=1&amp;e=a1STHr" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -349,7 +343,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>Revit 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Revit2022_guide.pdf?csf=1&amp;web=1&amp;e=cUz6Hk" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>Revit 2024 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Revit2022_guide.pdf?csf=1&amp;web=1&amp;e=cUz6Hk" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -366,7 +360,7 @@ and password.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Revit 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Revit2022_guide.pdf?csf=1&amp;web=1&amp;e=cUz6Hk" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>Revit 2024 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Revit2022_guide.pdf?csf=1&amp;web=1&amp;e=cUz6Hk" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -390,12 +384,12 @@ and password.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>AutoCAD 2024 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2024_guide.pdf?csf=1&amp;web=1&amp;e=a1STHr" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>AutoCAD 2025 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2024_guide.pdf?csf=1&amp;web=1&amp;e=a1STHr" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
 <li>
-<p>Revit 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Revit2022_guide.pdf?csf=1&amp;web=1&amp;e=cUz6Hk" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>Revit 2024 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Revit2022_guide.pdf?csf=1&amp;web=1&amp;e=cUz6Hk" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -658,6 +652,9 @@ and password.</p>
 <p>Oracle Virtuabox 7 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/OracleVirtualBox_guide.pdf?csf=1&amp;web=1&amp;e=uK5dbf" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.oracle.com/virtualization/technologies/vm/downloads/virtualbox-downloads.html" rel="noopener nofollow" target="_blank">Download</a>
 </p>
+</li>
+<li>
+<p>Wireshark (Pending Guide and Installer)</p>
 </li>
 </ul>
 </td>
@@ -965,7 +962,8 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>Roboflow (pending guide and installer)</p>
+<p>Roboflow - <a href="https://roboflow.com" rel="noopener nofollow" target="_blank">Link</a>
+</p>
 </li>
 <li>
 <p>AutoCAD 2025 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2024_guide.pdf?csf=1&amp;web=1&amp;e=a1STHr" rel="noopener nofollow" target="_blank">Guide</a>,
@@ -1363,17 +1361,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>VS Community 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VS2022_guide.pdf?csf=1&amp;web=1&amp;e=IzbPi7" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://visualstudio.microsoft.com/vs/community/" rel="noopener nofollow" target="_blank">Download</a>
-</p>
-</li>
-<li>
 <p>AutoCAD 2024 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2024_guide.pdf?csf=1&amp;web=1&amp;e=a1STHr" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
-</p>
-</li>
-<li>
-<p>Fusion 360 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Fusion360_guide.pdf?csf=1&amp;web=1&amp;e=dyUVUi" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -1521,6 +1509,9 @@ and password.</p>
 </li>
 <li>
 <p>Labview 2023 (pending guide and installer)</p>
+</li>
+<li>
+<p>Multisim 14.2 (pending guide and installer)</p>
 </li>
 <li>
 <p>Visual Studio Code - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VSCode_guide.pdf?csf=1&amp;web=1&amp;e=gArBBu" rel="noopener nofollow" target="_blank">Guide</a>,
@@ -1674,6 +1665,9 @@ and password.</p>
 </li>
 <li>
 <p>Labview 2023 (pending guide and installer)</p>
+</li>
+<li>
+<p>Multisim 14.2 (pending guide and installer)</p>
 </li>
 </ul>
 </td>
