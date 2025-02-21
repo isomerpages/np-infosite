@@ -32,7 +32,7 @@ notebook is required.</p>
 <p>RAM:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 GB (16 GB recommended)</p>
+<p>16 GB (32 GB recommended)</p>
 </td>
 </tr>
 <tr>
@@ -40,7 +40,7 @@ notebook is required.</p>
 <p>Storage:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>512 GB Solid State Drive (SSD)</p>
+<p>512 GB Solid State Drive (SSD) (1 TB recommended)</p>
 </td>
 </tr>
 <tr>
@@ -56,8 +56,8 @@ notebook is required.</p>
 <p>Graphics:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dedicated graphics card (NVIDIA® GeForce® RTX 3050, 4GB GDDR6 VRAM or
-equivalent)</p>
+<p>Dedicated graphics card (NVIDIA® GeForce® RTX 3050, 4GB GDDR6 VRAM and
+above or equivalent)</p>
 </td>
 </tr>
 <tr>
@@ -70,7 +70,7 @@ equivalent)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>I/O Ports (required for your course):</p>
+<p>I/O Ports (required for your course)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Not applicable</p>
