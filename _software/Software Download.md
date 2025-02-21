@@ -150,12 +150,6 @@ and password.</p>
 <a href="https://code.visualstudio.com/sha/download?build=stable&amp;os=win32-x64-user" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
-<li>
-<p>MonsoonSim (MAB) (Pending Guide and installer)
-<br>Moodie AI (Pending Guide and installer)
-<br>McGraw Hill (SAPB) (Pending Guide and installer)</p>
-<p></p>
-</li>
 </ul>
 </td>
 </tr>
@@ -658,6 +652,9 @@ and password.</p>
 <p>Oracle Virtuabox 7 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/OracleVirtualBox_guide.pdf?csf=1&amp;web=1&amp;e=uK5dbf" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.oracle.com/virtualization/technologies/vm/downloads/virtualbox-downloads.html" rel="noopener nofollow" target="_blank">Download</a>
 </p>
+</li>
+<li>
+<p>Wireshark (Pending Guide and Installer)</p>
 </li>
 </ul>
 </td>
