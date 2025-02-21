@@ -31,7 +31,7 @@ description: ""
 <p>RAM:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16 GB (32GB recommended)</p>
+<p>16 GB (32 GB recommended)</p>
 </td>
 </tr>
 <tr>
@@ -39,7 +39,7 @@ description: ""
 <p>Storage:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>512 GB Solid State Drive (SSD) (1TB recommended)</p>
+<p>512 GB Solid State Drive (SSD) (1 TB recommended)</p>
 </td>
 </tr>
 <tr>
@@ -56,7 +56,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Dedicated graphics card (NVIDIA® GeForce® RTX 3050, 4GB GDDR6 VRAM and
-above or equivalent) (NVIDIA® GeForce® RTX 4060 / AMD Radeon RX 7600M recommended)</p>
+above or equivalent)</p>
 </td>
 </tr>
 <tr>
@@ -69,7 +69,7 @@ above or equivalent) (NVIDIA® GeForce® RTX 4060 / AMD Radeon RX 7600M recommen
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>I/O Ports (required for your course):</p>
+<p>I/O Ports (required for your course)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Not applicable</p>
