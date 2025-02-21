@@ -69,7 +69,7 @@ above or equivalent)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>I/O Ports (required for your course):</p>
+<p>I/O Ports (required for your course)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Not applicable</p>
