@@ -962,7 +962,8 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>Roboflow (pending guide and installer)</p>
+<p>Roboflow - <a href="https://roboflow.com" rel="noopener nofollow" target="_blank">Link</a>
+</p>
 </li>
 <li>
 <p>AutoCAD 2025 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2024_guide.pdf?csf=1&amp;web=1&amp;e=a1STHr" rel="noopener nofollow" target="_blank">Guide</a>,
