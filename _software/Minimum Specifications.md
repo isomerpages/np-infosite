@@ -110,7 +110,7 @@ Media Post-Production</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School of Humanities &amp; Social Sciences (HMS)</p>
+<p>School of Humanities &amp; Interdisciplinary Studies (HMIS)</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
