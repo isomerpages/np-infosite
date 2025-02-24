@@ -654,7 +654,8 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>Wireshark (Pending Guide and Installer)</p>
+<p>Wireshark - <a href="https://www.wireshark.org/download.html" rel="noopener nofollow" target="_blank">Link</a>
+</p>
 </li>
 </ul>
 </td>
