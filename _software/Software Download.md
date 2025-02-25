@@ -220,11 +220,6 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>SAP Client v7.5 (including SAP S/Hana) - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/SAPClient_guide.pdf?csf=1&amp;web=1&amp;e=1OTRhi" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/SAPClient.zip?csf=1&amp;web=1&amp;e=gOn6eo" rel="noopener nofollow" target="_blank">Download</a>
-</p>
-</li>
-<li>
 <p>CargoWise Cloud Client - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/CargoWiseCloudClient_guide.pdf?csf=1&amp;web=1&amp;e=dN5yJi" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/CargoWiseCloudClient.exe?csf=1&amp;web=1&amp;e=4xNbZj" rel="noopener nofollow" target="_blank">Download</a>
 </p>
