@@ -1672,7 +1672,8 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>Multisim 14.2 (pending guide and installer)</p>
+<p>Multisim 14.2 - (pending guide, <a href="https://www.ni.com/en/support/downloads/software-products/download.multisim.html" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 </ul>
 </td>
