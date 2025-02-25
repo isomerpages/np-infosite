@@ -187,9 +187,6 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>Tableau Desktop - (Pending Guide and installer)</p>
-</li>
-<li>
 <p>Anaconda - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Anaconda_guide.pdf?csf=1&amp;web=1&amp;e=ms1N04" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://repo.anaconda.com/archive/Anaconda3-2024.06-1-Windows-x86_64.exe" rel="noopener nofollow" target="_blank">Download</a>
 </p>
@@ -223,7 +220,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>SAP Client v7.5 (including SAP S/Hana and Ariba) - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/SAPClient_guide.pdf?csf=1&amp;web=1&amp;e=1OTRhi" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>SAP Client v7.5 (including SAP S/Hana) - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/SAPClient_guide.pdf?csf=1&amp;web=1&amp;e=1OTRhi" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/SAPClient.zip?csf=1&amp;web=1&amp;e=gOn6eo" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
