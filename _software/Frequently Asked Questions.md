@@ -52,7 +52,7 @@ downloaded and installed.</p>
 <p>You are strongly encouraged to download and install the software on your
 own before the start of Apr / Oct semester.</p>
 <p></p>
-<h4>11. I misplaced the notebook that I initially registered with. How do I install software on my replacement notebook?</h4>
+<h4>11. I misplaced my notebook. How do I install software on my replacement notebook?</h4>
 <p>Refer to the <a href="https://www2.np.edu.sg/software/" rel="noopener nofollow" target="_blank">Software Download</a> page
 to download the required software on your new notebook.</p>
 <p></p>
