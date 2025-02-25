@@ -1667,7 +1667,9 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>Labview 2023 (pending guide and installer)</p>
+<p>Labview 2020 (32-bit) - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Labview_guide.pdf" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.ni.com/en/support/downloads/software-products/download.labview.html" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 <li>
 <p>Multisim 14.2 (pending guide and installer)</p>
