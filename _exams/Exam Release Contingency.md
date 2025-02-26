@@ -13,7 +13,8 @@ description: ""
 results. For other matters, please login to <a href="https://npalstudent.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">NPal Student</a>. The system may be
 slow during the peak period.</p>
 <hr>
-<p><strong><u>Attention</u>:</strong>
-<br>​The system is currently not available for viewing of Exam Results. Please
-try again later.</p>
+<blockquote>
+<p><strong>Attention:<br></strong>​The system is currently not available
+for viewing of Exam Results. Please try again later.</p>
+</blockquote>
 <p></p>
