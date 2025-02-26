@@ -2,6 +2,7 @@ collections:
   guides:
     output: true
     order:
+      - mStudent App.md
       - NPNet Account.md
       - Connect Email.md
       - NPal Student.md
