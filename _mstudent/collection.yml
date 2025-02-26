@@ -2,5 +2,4 @@ collections:
   mstudent:
     output: true
     order:
-      - mStudent App.md
       - mStudent FAQ.md
