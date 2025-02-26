@@ -24,26 +24,3 @@ details for course enrollment.</p>
 <h4>How do I obtain my login details in the app?</h4>
 <p>Tap on ‘Get Started’ in the app and follow the instructions. You’ll need
 to have a registered Singapore mobile number with us to receive an SMS.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/NP Go!/NPGO_QRapple.png">
-</div>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>cg</p>
-<p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>gfg</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
