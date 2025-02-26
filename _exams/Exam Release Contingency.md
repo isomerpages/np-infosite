@@ -15,7 +15,6 @@ slow during the peak period.</p>
 <hr>
 <blockquote>
 <p><strong>Attention:<br></strong>​The system is currently not available
-for viewing of Exam Results.</p>
-<p>Please try again later.</p>
+for viewing of Exam Results. Please try again later.</p>
 </blockquote>
 <p></p>
