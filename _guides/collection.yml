@@ -2,10 +2,10 @@ collections:
   guides:
     output: true
     order:
-      - NP Go! App.md
       - NPNet Account.md
       - Connect Email.md
       - NP Go!.md
+      - NP Go! App.md
       - mStudent App.md
       - NPal Student.md
       - POLITEMall.md
