@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
-<p>Important: Apple MacBooks with M1/M2 chipset may <u>NOT</u> support Bootcamp,
+<p>Important: Apple MacBooks with M1-M4 chipset may <u>not</u> support Bootcamp,
 Parallels or Oracle's VirtualBox to run Windows operating system. Please
 buy a suitable notebook for your couse of study as you may be using Windows-based
 software that is incompatible with Apple operating system.</p>
