@@ -4,13 +4,11 @@ permalink: /notebook/specs/
 variant: tiptap
 description: ""
 ---
-<p><strong>Notice: Dear Freshmen, the updated notebook minimum specifications will be released in Mar 2025. Please return to this page at a later time.</strong>
-</p>
 <blockquote>
-<p>Important: Apple MacBooks with M1/M2 chipset may <u>NOT</u> support Bootcamp,
-Parallels or Oracle's VirtualBox to run Windows operating system. Please
-buy a suitable notebook for your couse of study as you may be using Windows-based
-software that is incompatible with Apple operating system.</p>
+<p>Important: Apple MacBooks with M1 to M4 chipsets may not support Bootcamp,
+Parallels, or Oracle's VirtualBox for running Windows OS properly. Please
+choose a suitable notebook for your studies, as you might need Windows-based
+software that is incompatible with macOS.</p>
 </blockquote>
 <h4>I already have a notebook. Do I need to purchase another one?</h4>
 <p>As long as your notebook complies with your course minimum specifications,
