@@ -4,8 +4,6 @@ permalink: /notebook/specs/
 variant: tiptap
 description: ""
 ---
-<p><strong>Notice: Dear Freshmen, the updated notebook minimum specifications will be released in Mar 2025. Please return to this page at a later time.</strong>
-</p>
 <blockquote>
 <p>Important: Apple MacBooks with M1/M2 chipset may <u>NOT</u> support Bootcamp,
 Parallels or Oracle's VirtualBox to run Windows operating system. Please
