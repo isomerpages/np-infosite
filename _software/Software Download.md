@@ -92,7 +92,6 @@ and password.</p>
 <details class="isomer-details">
 <summary>School of Business &amp; Accountancy (BA)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -270,7 +269,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>AutoCAD 2025 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2025_guide.pdf" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>AutoCAD 2025 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2025_guide.pdf?csf=1&amp;web=1&amp;e=u2yBBM" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -443,7 +442,6 @@ and password.</p>
 <details class="isomer-details">
 <summary>School of Humanities &amp; Interdisciplinary Studies (HMIS)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -840,7 +838,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>AutoCAD 2025 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2025_guide.pdf" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>AutoCAD 2025 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2025_guide.pdf?csf=1&amp;web=1&amp;e=u2yBBM" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -977,7 +975,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>AutoCAD 2025 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2025_guide.pdf" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>AutoCAD 2025 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2025_guide.pdf?csf=1&amp;web=1&amp;e=u2yBBM" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -1072,7 +1070,6 @@ and password.</p>
 <details class="isomer-details">
 <summary>School of Engineering (SOE)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1509,8 +1506,8 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>Multisim 14.3 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/MultiSIM_guide.pdf" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/Multisim-14.3.exe" rel="noopener nofollow" target="_blank">Download</a>
+<p>Multisim 14.3 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/MultiSIM_guide.pdf?csf=1&amp;web=1&amp;e=hGNoVg" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/Multisim-14.3.exe?csf=1&amp;web=1&amp;e=7hRW9t" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
 <li>
@@ -1669,8 +1666,8 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>Multisim 14.3 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/MultiSIM_guide.pdf" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/Multisim-14.3.exe" rel="noopener nofollow" target="_blank">Download</a>
+<p>Multisim 14.3 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/MultiSIM_guide.pdf?csf=1&amp;web=1&amp;e=hGNoVg" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/Multisim-14.3.exe?csf=1&amp;web=1&amp;e=7hRW9t" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
 </ul>
