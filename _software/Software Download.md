@@ -4,8 +4,6 @@ permalink: /software/
 variant: tiptap
 description: ""
 ---
-<p><strong>Notice: Dear Freshmen, the updated software information will be released in Mar 2025. Please return to this page at a later time.</strong>
-</p>
 <blockquote>
 <h3>Download software onto your notebook with effect from 17 Mar 2025.</h3>
 </blockquote>
@@ -272,7 +270,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>AutoCAD 2025 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2024_guide.pdf?csf=1&amp;web=1&amp;e=a1STHr" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>AutoCAD 2025 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2025_guide.pdf" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -376,7 +374,7 @@ and password.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>AutoCAD 2025 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2024_guide.pdf?csf=1&amp;web=1&amp;e=a1STHr" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>AutoCAD 2025 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2025_guide.pdf" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -842,7 +840,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>AutoCAD 2025 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2024_guide.pdf?csf=1&amp;web=1&amp;e=a1STHr" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>AutoCAD 2025 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2025_guide.pdf" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -979,7 +977,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>AutoCAD 2025 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2024_guide.pdf?csf=1&amp;web=1&amp;e=a1STHr" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>AutoCAD 2025 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2025_guide.pdf" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -1511,7 +1509,8 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>Multisim 14.2 - (pending guide, <a href="https://www.ni.com/en/support/downloads/software-products/download.multisim.html" rel="noopener nofollow" target="_blank">Download</a>
+<p>Multisim 14.3 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/MultiSIM_guide.pdf" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/Multisim-14.3.exe" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
 <li>
@@ -1670,7 +1669,8 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>Multisim 14.2 - (pending guide, <a href="https://www.ni.com/en/support/downloads/software-products/download.multisim.html" rel="noopener nofollow" target="_blank">Download</a>
+<p>Multisim 14.3 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/MultiSIM_guide.pdf" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/Multisim-14.3.exe" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
 </ul>
