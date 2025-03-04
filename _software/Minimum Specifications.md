@@ -5,10 +5,10 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
-<p>Important: Apple MacBooks with M1-M4 chipset may <u>not</u> support Bootcamp,
-Parallels or Oracle's VirtualBox to run Windows operating system. Please
-buy a suitable notebook for your couse of study as you may be using Windows-based
-software that is incompatible with Apple operating system.</p>
+<p>Important: Apple MacBooks with M1 to M4 chipsets may <u>not</u> support
+Bootcamp, Parallels or Oracle's VirtualBox to run Windows operating system.
+Please buy a suitable notebook for your couse of study as you may be using
+Windows-based software that is incompatible with Apple operating system.</p>
 </blockquote>
 <h4>I already have a notebook. Do I need to purchase another one?</h4>
 <p>As long as your notebook complies with your course minimum specifications,
