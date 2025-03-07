@@ -117,10 +117,6 @@ Media Post-Production</p>
 Arts Business Management</p>
 </li>
 <li>
-<p><a href="/courses/pcd" rel="noopener noreferrer nofollow" target="_blank">PCD</a> -
-Psychology &amp; Community Development</p>
-</li>
-<li>
 <p><a href="/courses/chs" rel="noopener noreferrer nofollow" target="_blank">CHS</a> -
 Chinese Studies</p>
 </li>
@@ -131,6 +127,10 @@ Chinese Media &amp; Communications</p>
 <li>
 <p><a href="/courses/ecde" rel="noopener noreferrer nofollow" target="_blank">ECDE</a> -
 Early Childhood Development &amp; Education</p>
+</li>
+<li>
+<p><a href="/courses/pcd" rel="noopener noreferrer nofollow" target="_blank">PCD</a> -
+Psychology &amp; Community Development</p>
 </li>
 <li>
 <p><a href="/courses/tse" rel="noopener noreferrer nofollow" target="_blank">TSE</a> -
