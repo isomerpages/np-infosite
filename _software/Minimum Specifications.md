@@ -117,8 +117,8 @@ Media Post-Production</p>
 Arts Business Management</p>
 </li>
 <li>
-<p><a href="/courses/cdt" rel="noopener noreferrer nofollow" target="_blank">CDT</a> -
-Community Development</p>
+<p><a href="/courses/pcd" rel="noopener noreferrer nofollow" target="_blank">PCD</a> -
+Psychology &amp; Community Development</p>
 </li>
 <li>
 <p><a href="/courses/chs" rel="noopener noreferrer nofollow" target="_blank">CHS</a> -
