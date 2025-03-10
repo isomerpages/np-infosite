@@ -1,12 +1,12 @@
 ---
-title: Community Development
-permalink: /courses/cdt/
+title: Psychology & Community Development
+permalink: /courses/pcd/
 variant: tiptap
 description: ""
 ---
 <blockquote>
-<p>For your Diploma in Community Development (CDT) course, a Windows notebook
-is required.</p>
+<p>For your Diploma in Psychology &amp; Community Development (PCD) course,
+a Windows notebook is required.</p>
 </blockquote>
 <table style="minWidth: 50px">
 <colgroup>
