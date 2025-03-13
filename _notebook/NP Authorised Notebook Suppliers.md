@@ -59,8 +59,10 @@ will start from 25 March 2025)</p>
 <li>
 <p>Hotline Hours: TBA</p>
 </li>
-</ul>
+<li>
 <p>Place Order Online @ TBA</p>
+</li>
+</ul>
 <hr>
 <h4>Apple Education Store</h4>
 <p>For students who require Apple products (e.g. Macbook, iPad) for your
