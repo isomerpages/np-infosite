@@ -17,10 +17,12 @@ contact details.</p>
 from 25 March 2025)</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Email: TBA</p>
+<p>Email: <em>TBA</em>
+</p>
 </li>
 <li>
-<p>Tel: TBA</p>
+<p>Tel: <em>TBA</em>
+</p>
 </li>
 <li>
 <p>Hotline Hours: TBA</p>
@@ -80,7 +82,8 @@ Apple Education Store.</p>
 <p>Official Website: <a href="https://www.apple.com/sg-edu/store" rel="noopener noreferrer nofollow" target="_blank">https://www.apple.com/sg-edu/store</a>
 </p>
 <p>*To qualify for Apple education pricing, you will be prompted by Apple
-to verify your student status with UNiDAYS.</p>
+to verify your student status with UNiDAYS. <a href="https://www2.np.edu.sg/files/UNiDAYS_SetupGuide_AppleStoreSG.pdf" rel="noopener nofollow" target="_blank">Download UNiDAYS Guide Here.</a>
+</p>
 </th>
 </tr>
 </tbody>
