@@ -4,6 +4,11 @@ permalink: /download-notebook-ebrochure/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NP Student Notebook Exhibition 2025 Banner" src="/images/2025_notebookbanner.png">
+</div>
+<p></p>
 <blockquote>
 <p>🎉 <strong>Hey Freshmen (2025)!</strong>  <strong>Welcome to NP! The new Windows notebook models will be revealed starting in late March 2025. Stay tuned to this page for the new notebook brochures!</strong>
 </p>
