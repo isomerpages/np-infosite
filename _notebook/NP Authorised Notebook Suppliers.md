@@ -13,8 +13,8 @@ description: ""
 your course. For course-specific notebook related queries, <a href="/notebook/notebook-queries" rel="noopener noreferrer nofollow" target="_blank">click here</a> for
 contact details.</p>
 <h4>Authorised Windows Notebook Suppliers for 2025</h4>
-<p><strong>ACER: AsiaPac Technology Pte Ltd</strong> (Orders will start from
-25 March 2025)</p>
+<p><strong>ACER: Acer Computer (Singapore) Pte Ltd</strong> (Orders will start
+from 25 March 2025)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Email: TBA</p>
