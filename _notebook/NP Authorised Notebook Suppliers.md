@@ -13,10 +13,57 @@ description: ""
 your course. For course-specific notebook related queries, <a href="/notebook/notebook-queries" rel="noopener noreferrer nofollow" target="_blank">click here</a> for
 contact details.</p>
 <h4>Authorised Windows Notebook Suppliers for 2025</h4>
-<blockquote>
-<p><strong>To Be Announced (Late March 2025)</strong>
-</p>
-</blockquote>
+<p><strong>ACER: AsiaPac Technology Pte Ltd</strong> (Orders will start from
+25 March 2025)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Email: TBA</p>
+</li>
+<li>
+<p>Tel: TBA</p>
+</li>
+<li>
+<p>Hotline Hours: TBA</p>
+</li>
+<li>
+<p>Place Order Online @ TBA</p>
+<hr>
+</li>
+</ul>
+<p><strong>HP: AsiaPac Technology Pte Ltd </strong>(Orders will start from
+25 March 2025)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Email: TBA</p>
+</li>
+<li>
+<p>Tel: TBA</p>
+</li>
+<li>
+<p>Hotline Hours: TBA</p>
+</li>
+<li>
+<p>Place Order Online @ TBA</p>
+</li>
+</ul>
+<hr>
+<p><strong>LENOVO: NUS Multi-purpose Co-operative Society Ltd </strong>(Orders
+will start from 25 March 2025)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Email: TBA</p>
+</li>
+<li>
+<p>Tel: TBA</p>
+</li>
+<li>
+<p>Hotline Hours: TBA</p>
+</li>
+<li>
+<p>Place Order Online @ TBA</p>
+</li>
+</ul>
+<p></p>
 <h4>Apple Education Store</h4>
 <p>For students who require Apple products (e.g. Macbook, iPad) for your
 study in NP, you can purchase them at education price directly from the
