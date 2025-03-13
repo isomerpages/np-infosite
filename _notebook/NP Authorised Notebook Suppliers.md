@@ -27,9 +27,9 @@ from 25 March 2025)</p>
 </li>
 <li>
 <p>Place Order Online @ TBA</p>
-<hr>
 </li>
 </ul>
+<hr>
 <p><strong>HP: AsiaPac Technology Pte Ltd </strong>(Orders will start from
 25 March 2025)</p>
 <ul data-tight="true" class="tight">
@@ -59,11 +59,9 @@ will start from 25 March 2025)</p>
 <li>
 <p>Hotline Hours: TBA</p>
 </li>
-<li>
+</ul>
 <p>Place Order Online @ TBA</p>
 <hr>
-</li>
-</ul>
 <h4>Apple Education Store</h4>
 <p>For students who require Apple products (e.g. Macbook, iPad) for your
 study in NP, you can purchase them at education price directly from the
