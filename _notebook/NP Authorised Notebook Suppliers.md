@@ -61,9 +61,9 @@ will start from 25 March 2025)</p>
 </li>
 <li>
 <p>Place Order Online @ TBA</p>
+<hr>
 </li>
 </ul>
-<p></p>
 <h4>Apple Education Store</h4>
 <p>For students who require Apple products (e.g. Macbook, iPad) for your
 study in NP, you can purchase them at education price directly from the
