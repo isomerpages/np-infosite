@@ -4,18 +4,78 @@ permalink: /notebook/authorisednbsuppliers/
 variant: tiptap
 description: ""
 ---
-<blockquote>
-<p><strong>🎉 Hey Freshmen (2025)! Welcome to NP! The new Windows notebook models will be revealed starting in late March 2025. Stay tuned to this page for exciting updates!&nbsp;</strong>
-</p>
-</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NP Student Notebook Roadshow 2025 Banner" src="/images/2025_notebookbanner.png">
+</div>
+<p></p>
 <p>Prior to purchasing your notebook, please read "<a href="/notebook/winormac" rel="noopener noreferrer nofollow" target="_blank">Windows or Mac?</a>" and check <a href="/notebook/specs/" rel="noopener noreferrer nofollow" target="_blank">minimum specifications</a> for
 your course. For course-specific notebook related queries, <a href="/notebook/notebook-queries" rel="noopener noreferrer nofollow" target="_blank">click here</a> for
 contact details.</p>
 <h4>Authorised Windows Notebook Suppliers for 2025</h4>
-<blockquote>
-<p><strong>To Be Announced (Late March 2025)</strong>
+<p><strong>ACER: Acer Computer (Singapore) Pte Ltd</strong> (Orders will start
+from 25 March 2025)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Email: <em>TBA</em>
 </p>
-</blockquote>
+</li>
+<li>
+<p>Tel: <em>TBA</em>
+</p>
+</li>
+<li>
+<p>Hotline Hours: <em>TBA</em>
+</p>
+</li>
+<li>
+<p>Place Order Online @ <em>TBA</em>
+</p>
+</li>
+</ul>
+<hr>
+<p><strong>HP: AsiaPac Technology Pte Ltd </strong>(Orders will start from
+25 March 2025)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Email: <em>TBA</em>
+</p>
+</li>
+<li>
+<p>Tel: <em>TBA</em>
+</p>
+</li>
+<li>
+<p>Hotline Hours: <em>TBA</em>
+</p>
+</li>
+<li>
+<p>Place Order Online @ <em>TBA</em>
+</p>
+</li>
+</ul>
+<hr>
+<p><strong>LENOVO: NUS Multi-purpose Co-operative Society Ltd </strong>(Orders
+will start from 25 March 2025)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Email: <em>TBA</em>
+</p>
+</li>
+<li>
+<p>Tel: <em>TBA</em>
+</p>
+</li>
+<li>
+<p>Hotline Hours: <em>TBA</em>
+</p>
+</li>
+<li>
+<p>Place Order Online @ <em>TBA</em>
+</p>
+</li>
+</ul>
+<hr>
 <h4>Apple Education Store</h4>
 <p>For students who require Apple products (e.g. Macbook, iPad) for your
 study in NP, you can purchase them at education price directly from the
@@ -32,7 +92,8 @@ Apple Education Store.</p>
 <p>Official Website: <a href="https://www.apple.com/sg-edu/store" rel="noopener noreferrer nofollow" target="_blank">https://www.apple.com/sg-edu/store</a>
 </p>
 <p>*To qualify for Apple education pricing, you will be prompted by Apple
-to verify your student status with UNiDAYS.</p>
+to verify your student status with UNiDAYS. <a href="https://www2.np.edu.sg/files/UNiDAYS_Setup_Guide_AppleStoreSG.pdf" rel="noopener nofollow" target="_blank">Download UNiDAYS Guide Here.</a>
+</p>
 </th>
 </tr>
 </tbody>

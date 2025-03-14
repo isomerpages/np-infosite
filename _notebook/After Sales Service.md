@@ -4,10 +4,6 @@ permalink: /notebook/after-sales-service/
 variant: tiptap
 description: ""
 ---
-<blockquote>
-<p>🎉 <strong>Hey Freshmen (2025)!</strong>  <strong>Welcome to NP! The new Windows notebook models will be revealed starting in late March 2025.</strong>
-</p>
-</blockquote>
 <h4>If you purchased your notebook from our authorised suppliers, they provide after-sales hardware-related repairs next-business day either at your residence or on campus.</h4>
 <h4>Asus: AsiaPac Technology Pte. Ltd​</h4>
 <ul data-tight="true" class="tight">

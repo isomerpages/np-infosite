@@ -4,24 +4,12 @@ permalink: /download-notebook-ebrochure/
 variant: tiptap
 description: ""
 ---
-<blockquote>
-<p>🎉 <strong>Hey Freshmen (2025)!</strong>  <strong>Welcome to NP! The new Windows notebook models will be revealed starting in late March 2025. Stay tuned to this page for the new notebook brochures!</strong>
-</p>
-</blockquote>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Pages/mfp_logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="NP Student Notebook Exhibition 2025 Banner" src="/images/2025_notebookbanner.png">
 </div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Models for Purchase</div>
-<div class="isomer-card-description">Please upload screenshot of your Letter of Acceptance/Student ID, when
-placing an online order at the notebook supplier website. Notebooks will
-be available for purchase, subject to stock availability.</div>
-</div>
-</div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/files/ihl_preview_brochure_14_march_2025.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Pages/mfp_logo.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Models for Purchase</div><div class="isomer-card-description">Please upload screenshot of either your Acceptance Letter, Student Status Letter, Course Registration Submission or Student ID when placing an online order at the notebook supplier website. Notebooks will be available for purchase, subject to stock availability.</div><div class="isomer-card-link">Download eBrochure</div></div></a>
 </div>
 <hr>
 <p></p>
