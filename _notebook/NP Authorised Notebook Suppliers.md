@@ -25,10 +25,12 @@ from 25 March 2025)</p>
 </p>
 </li>
 <li>
-<p>Hotline Hours: TBA</p>
+<p>Hotline Hours: <em>TBA</em>
+</p>
 </li>
 <li>
-<p>Place Order Online @ TBA</p>
+<p>Place Order Online @ <em>TBA</em>
+</p>
 </li>
 </ul>
 <hr>
@@ -36,16 +38,20 @@ from 25 March 2025)</p>
 25 March 2025)</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Email: TBA</p>
+<p>Email: <em>TBA</em>
+</p>
 </li>
 <li>
-<p>Tel: TBA</p>
+<p>Tel: <em>TBA</em>
+</p>
 </li>
 <li>
-<p>Hotline Hours: TBA</p>
+<p>Hotline Hours: <em>TBA</em>
+</p>
 </li>
 <li>
-<p>Place Order Online @ TBA</p>
+<p>Place Order Online @ <em>TBA</em>
+</p>
 </li>
 </ul>
 <hr>
@@ -53,16 +59,20 @@ from 25 March 2025)</p>
 will start from 25 March 2025)</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Email: TBA</p>
+<p>Email: <em>TBA</em>
+</p>
 </li>
 <li>
-<p>Tel: TBA</p>
+<p>Tel: <em>TBA</em>
+</p>
 </li>
 <li>
-<p>Hotline Hours: TBA</p>
+<p>Hotline Hours: <em>TBA</em>
+</p>
 </li>
 <li>
-<p>Place Order Online @ TBA</p>
+<p>Place Order Online @ <em>TBA</em>
+</p>
 </li>
 </ul>
 <hr>
