@@ -56,7 +56,7 @@ is required.</p>
 <p>Graphics:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dedicated graphics card with 4GB VRAM or above</p>
+<p>Integrated graphics card with 4GB VRAM or equivalent</p>
 </td>
 </tr>
 <tr>
