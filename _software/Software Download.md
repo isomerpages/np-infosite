@@ -4,9 +4,6 @@ permalink: /software/
 variant: tiptap
 description: ""
 ---
-<blockquote>
-<h3>Download software onto your notebook with effect from 17 Mar 2025.</h3>
-</blockquote>
 <p><strong>Note:</strong> Pease refer to the guides prior to downloading the
 software. If you encounter an error stating "You need permission to access
 this item," it may be because your browser is signed in with your personal
