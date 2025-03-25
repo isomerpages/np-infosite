@@ -32,7 +32,7 @@ contact details.</p>
 </li>
 </ul>
 <hr>
-<p><strong>HP: AsiaPac Technology Pte Ltd </strong>
+<p><strong>HP: AsiaPac Technology Pte Ltd</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
