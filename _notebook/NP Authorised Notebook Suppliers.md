@@ -43,7 +43,7 @@ contact details.</p>
 <p>Tel: 6274 2722</p>
 </li>
 <li>
-<p>Hotline Hours: Weekday 8.30 – 5.30pm (excluding Public Holidays)</p>
+<p>Hotline Hours: Weekdays, 8.30am to 5.30pm (excluding Public Holidays)</p>
 </li>
 <li>
 <p>Place Order Online @ <a href="http://www.asiapac.com.sg/np" rel="noopener noreferrer nofollow" target="_blank">www.asiapac.com.sg/np</a>
@@ -62,7 +62,7 @@ contact details.</p>
 <p>Tel: 6274 2722</p>
 </li>
 <li>
-<p>Hotline Hours: Weekday 8.30 – 5.30pm (excluding Public Holidays)</p>
+<p>Hotline Hours: Weekdays, 8.30am to 5.30pm (excluding Public Holidays)</p>
 </li>
 <li>
 <p>Place Order Online @ <a href="https://www.asiapac.com.sg/lenovo-np" rel="noopener noreferrer nofollow" target="_blank">https://www.asiapac.com.sg/lenovo-np</a>
