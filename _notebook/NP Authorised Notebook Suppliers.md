@@ -27,7 +27,7 @@ contact details.</p>
 <p>Hotline Hours: 8.30am to 5.30pm (Mon to Fri)</p>
 </li>
 <li>
-<p>Place Order Online @ <a href="https://store.acer.com/en-sg/student-poly" rel="noopener noreferrer nofollow" target="_blank">https://store.acer.com/en-sg/student-poly</a>
+<p>Place Order Online @ <em>TBC</em>
 </p>
 </li>
 </ul>
