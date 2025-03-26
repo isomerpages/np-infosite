@@ -13,65 +13,59 @@ description: ""
 your course. For course-specific notebook related queries, <a href="/notebook/notebook-queries" rel="noopener noreferrer nofollow" target="_blank">click here</a> for
 contact details.</p>
 <h4>Authorised Windows Notebook Suppliers for 2025</h4>
-<p><strong>ACER: Acer Computer (Singapore) Pte Ltd</strong> (Orders will start
-from 25 March 2025)</p>
+<p><strong>ACER: Acer Computer (Singapore) Pte Ltd</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Email: <em>TBA</em>
+<p>Email: <a href="mailto:acerstoreedu.sg@acer.com" rel="noopener noreferrer nofollow" target="_blank">acerstoreedu.sg@acer.com</a>
 </p>
 </li>
 <li>
-<p>Tel: <em>TBA</em>
-</p>
+<p>Tel: 6563 6563</p>
 </li>
 <li>
-<p>Hotline Hours: <em>TBA</em>
-</p>
+<p>Hotline Hours: 8.30am to 5.30pm (Mon to Fri)</p>
 </li>
 <li>
-<p>Place Order Online @ <em>TBA</em>
+<p>Place Order Online @ <em>TBC</em>
 </p>
 </li>
 </ul>
 <hr>
-<p><strong>HP: AsiaPac Technology Pte Ltd </strong>(Orders will start from
-25 March 2025)</p>
+<p><strong>HP: AsiaPac Technology Pte Ltd</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Email: <em>TBA</em>
+<p>Email: <a href="mailto:institution.support@asiapac.com.sg" rel="noopener noreferrer nofollow" target="_blank">institution.support@asiapac.com.sg</a>
 </p>
 </li>
 <li>
-<p>Tel: <em>TBA</em>
-</p>
+<p>Tel: 6274 2722</p>
 </li>
 <li>
-<p>Hotline Hours: <em>TBA</em>
-</p>
+<p>Hotline Hours: Weekdays, 8.30am to 5.30pm (excluding Public Holidays)</p>
 </li>
 <li>
-<p>Place Order Online @ <em>TBA</em>
+<p>Place Order Online @ <a href="http://www.asiapac.com.sg/np" rel="noopener noreferrer nofollow" target="_blank">www.asiapac.com.sg/np</a>
 </p>
 </li>
 </ul>
 <hr>
-<p><strong>LENOVO: NUS Multi-purpose Co-operative Society Ltd </strong>(Orders
-will start from 25 March 2025)</p>
+<p><strong>LENOVO: NUS Multi-purpose Co-operative Society Ltd</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Email: <em>TBA</em>
+<p>Email: <a href="mailto:np@nuscoop.sg" rel="noopener noreferrer nofollow" target="_blank">np@nuscoop.sg</a>
 </p>
 </li>
 <li>
-<p>Tel: <em>TBA</em>
-</p>
+<p>Tel: 6274 2722</p>
 </li>
 <li>
-<p>Hotline Hours: <em>TBA</em>
-</p>
+<p>Hotline Hours: Weekdays, 8.30am to 5.30pm (excluding Public Holidays)</p>
 </li>
 <li>
-<p>Place Order Online @ <em>TBA</em>
+<p>Place Order Online @ <a href="https://www.asiapac.com.sg/lenovo-np" rel="noopener noreferrer nofollow" target="_blank">https://www.asiapac.com.sg/lenovo-np</a>
 </p>
 </li>
 </ul>
