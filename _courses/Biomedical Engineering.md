@@ -56,7 +56,7 @@ is required.</p>
 <p>Graphics:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Integrated graphics card and above</p>
+<p>Integrated graphics card or above</p>
 </td>
 </tr>
 <tr>
