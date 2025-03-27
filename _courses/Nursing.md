@@ -57,7 +57,7 @@ tablet PC as they are NOT compatible for this course.</p>
 <p>Graphics:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Integrated graphics card with 4 GB VRAM or equivalent</p>
+<p>Integrated graphics card or above</p>
 </td>
 </tr>
 <tr>
@@ -135,7 +135,7 @@ tablet PC as they are NOT compatible for this course.</p>
 <p>Graphics:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Integrated graphics card or equivalent</p>
+<p>Integrated graphics card or above</p>
 </td>
 </tr>
 <tr>

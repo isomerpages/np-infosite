@@ -56,7 +56,7 @@ a Windows notebook is required.</p>
 <p>Graphics:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Intergrated graphics card 4GB VRAM or equivalent)</p>
+<p>Integrated graphics card or above</p>
 </td>
 </tr>
 <tr>

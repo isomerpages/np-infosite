@@ -27,7 +27,7 @@ contact details.</p>
 <p>Hotline Hours: 8.30am to 5.30pm (Mon to Fri)</p>
 </li>
 <li>
-<p>Place Order Online @ <em>TBC</em>
+<p>Place Order Online @ <em>Coming Soon</em>
 </p>
 </li>
 </ul>
