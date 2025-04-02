@@ -1369,7 +1369,7 @@ and password.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>CadSoft EAGLE - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/CadsoftEAGLE_guide.pdf?csf=1&amp;web=1&amp;e=VBQFRd" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
+<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/EAGLE.exe?csf=1&amp;web=1&amp;e=VHkj31" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
 <li>
