@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
-<p><strong>This&nbsp;Acceptable Use policy (AUP)&nbsp;​is applicable to NP&nbsp;Students, vendors, industrial partners as well as members of the public. For NP&nbsp;Staff, please refer to <a href="https://connectnpedu.sharepoint.com/sites/Helpdesk/SitePages/Acceptable-Use-Policy.aspx" rel="noopener noreferrer nofollow" target="_blank"><u>this link</u></a> (login required).</strong>
+<p><strong>This&nbsp;Acceptable Use policy (AUP)&nbsp;​is applicable to all NP students, alumni, parents, vendors, industry partners and members of the public who use NP’s IT resources. For NP&nbsp;Staff, please refer to <a href="https://connectnpedu.sharepoint.com/sites/Helpdesk/SitePages/Acceptable-Use-Policy.aspx" rel="noopener noreferrer nofollow" target="_blank"><u>this link</u></a> (login required).</strong>
 </p>
 </blockquote>
 <p></p>
@@ -38,18 +38,22 @@ right from NP or IT Resources without NP’s prior written consent.</p>
 <p>1.5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Users shall not use,
 modify or adapt corporate IT resources for any commercial purpose or personal
 financial gains, unless duly authorised by NP in writing.</p>
-<p>1.6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Users shall not attempt
+<p>1.6 Usage of service/system may be monitored, recorded, and subject to
+audit.&nbsp; Unauthorised use of the service/system is prohibited and subject
+to criminal and civil penalties.&nbsp; By accessing the service/system,
+users are deemed to have consented to being monitored and recorded.</p>
+<p>1.7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Users shall not attempt
 to monitor another user’s data communications nor access, read, copy, change
 or delete another person’s files or software without authorisation.</p>
-<p>1.7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Users shall not harass
+<p>1.8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Users shall not harass
 or intentionally deny or degrade another person’s legitimate access to
 IT resources.</p>
-<p>1.8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; User shall not circumvent
+<p>1.9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; User shall not circumvent
 any technological access control or protection measures which have been
 applied to a work or audio-visual item or a performance. Examples of circumvention
 are cracking of passwords, unscrambling of encrypted information or removal
 of digital watermarks.</p>
-<p>1.9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Users shall not install
+<p>1.10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Users shall not install
 or use diagnostic and/or vulnerability scanning tools on NP systems and
 network, unless authorised by NP in writing.</p>
 <h4>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DATA HANDLING</h4>
@@ -62,7 +66,8 @@ without first seeking consent from the individuals. Users shall not pass
 on the data to another organisation without explicit approval from the
 data owner.</p>
 <p>2.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Users shall securely
-delete or destroy the data after it has served its intended purpose.</p>
+delete or destroy the data after it has served its intended purpose or
+the data retention period has expired.</p>
 <h4>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ACCOUNTS IDS AND PASSWORDS</h4>
 <p>3.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Users shall be responsible
 and accountable for all activities conducted via his/her accounts.</p>
