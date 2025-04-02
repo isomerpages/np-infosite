@@ -5,10 +5,9 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
-<p><strong>This&nbsp;Acceptable Use policy (AUP)&nbsp;​is applicable to all NP students, alumni, parents, vendors, industry partners and members of the public who use NP’s IT resources. For NP&nbsp;Staff, please refer to <a href="https://connectnpedu.sharepoint.com/sites/Helpdesk/SitePages/Acceptable-Use-Policy.aspx" rel="noopener noreferrer nofollow" target="_blank"><u>this link</u></a> (login required).</strong>
+<p><strong>This&nbsp;Acceptable Use policy (AUP)&nbsp;​is applicable to all NP students, alumni, parents, vendors, industry partners and members of the public who use NP’s IT resources. </strong>
 </p>
 </blockquote>
-<p></p>
 <h4>A.&nbsp;&nbsp;&nbsp;&nbsp; PURPOSE</h4>
 <p>The Acceptable Use Policy (AUP) outlines rules and guidelines for using
 NP's IT resources, including networks, devices, and software. It defines
