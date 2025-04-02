@@ -329,7 +329,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>Revit 2024 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Revit2022_guide.pdf?csf=1&amp;web=1&amp;e=cUz6Hk" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>Revit 2024 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Revit2024_guide.pdf?csf=1&amp;web=1&amp;e=nHFdDb" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -346,7 +346,7 @@ and password.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Revit 2024 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Revit2022_guide.pdf?csf=1&amp;web=1&amp;e=cUz6Hk" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>Revit 2024 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Revit2024_guide.pdf?csf=1&amp;web=1&amp;e=nHFdDb" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -375,7 +375,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>Revit 2024 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Revit2022_guide.pdf?csf=1&amp;web=1&amp;e=cUz6Hk" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>Revit 2024 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Revit2024_guide.pdf?csf=1&amp;web=1&amp;e=nHFdDb" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -786,7 +786,7 @@ and password.</p>
 </li>
 <li>
 <p>R Software v3.6.2 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/RSoftware_guide.pdf?csf=1&amp;web=1&amp;e=2cf1xw" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://cran.asia/bin/windows/base/R-4.4.1-win.exe" rel="noopener nofollow" target="_blank">Download</a>
+<a href="https://cran.asia/bin/windows/base/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
 <li>
@@ -876,7 +876,7 @@ and password.</p>
 </li>
 <li>
 <p>R Software v3.6.2 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/RSoftware_guide.pdf?csf=1&amp;web=1&amp;e=2cf1xw" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://cran.asia/bin/windows/base/R-4.4.1-win.exe" rel="noopener nofollow" target="_blank">Download</a>
+<a href="https://cran.asia/bin/windows/base/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
 <li>
@@ -992,7 +992,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>Revit 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Revit2022_guide.pdf?csf=1&amp;web=1&amp;e=cUz6Hk" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>Revit 2024 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Revit2024_guide.pdf?csf=1&amp;web=1&amp;e=nHFdDb" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.autodesk.com/education/free-software/autocad" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -1012,7 +1012,7 @@ and password.</p>
 </li>
 <li>
 <p>R Software v3.6.2 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/RSoftware_guide.pdf?csf=1&amp;web=1&amp;e=2cf1xw" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://cran.asia/bin/windows/base/R-4.4.1-win.exe" rel="noopener nofollow" target="_blank">Download</a>
+<a href="https://cran.asia/bin/windows/base/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
 <li>
@@ -1369,7 +1369,7 @@ and password.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>CadSoft EAGLE - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/CadsoftEAGLE_guide.pdf?csf=1&amp;web=1&amp;e=VBQFRd" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
+<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/EAGLE.exe?csf=1&amp;web=1&amp;e=VHkj31" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
 <li>
