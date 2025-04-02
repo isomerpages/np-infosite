@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
-<p><strong>This&nbsp;Acceptable Use policy (AUP)&nbsp;​is applicable to all NP students, alumni, parents, vendors, industry partners and members of the public who use NP’s IT resources. </strong>
+<p><strong>This&nbsp;Acceptable Use policy (AUP)&nbsp;​is applicable to all NP students, alumni, parents, vendors, industry partners and members of the public who use NP’s IT resources.</strong>
 </p>
 </blockquote>
 <h4>A.&nbsp;&nbsp;&nbsp;&nbsp; PURPOSE</h4>
@@ -37,10 +37,11 @@ right from NP or IT Resources without NP’s prior written consent.</p>
 <p>1.5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Users shall not use,
 modify or adapt corporate IT resources for any commercial purpose or personal
 financial gains, unless duly authorised by NP in writing.</p>
-<p>1.6 Usage of service/system may be monitored, recorded, and subject to
-audit.&nbsp; Unauthorised use of the service/system is prohibited and subject
-to criminal and civil penalties.&nbsp; By accessing the service/system,
-users are deemed to have consented to being monitored and recorded.</p>
+<p>1.6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Usage of service/system
+may be monitored, recorded, and subject to audit.&nbsp; Unauthorised use
+of the service/system is prohibited and subject to criminal and civil penalties.&nbsp;
+By accessing the service/system, users are deemed to have consented to
+being monitored and recorded.</p>
 <p>1.7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Users shall not attempt
 to monitor another user’s data communications nor access, read, copy, change
 or delete another person’s files or software without authorisation.</p>
