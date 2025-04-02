@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Students.md
-      - IT Policies & Practices (Acceptable Use Policy).md
-      - Scheduled Maintenance.md
+      - Acceptable Use Policy.md
