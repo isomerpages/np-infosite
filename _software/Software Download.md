@@ -992,7 +992,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>Revit 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Revit2024_guide.pdf?csf=1&amp;web=1&amp;e=nHFdDb" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>Revit 2024 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Revit2024_guide.pdf?csf=1&amp;web=1&amp;e=nHFdDb" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.autodesk.com/education/free-software/autocad" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
