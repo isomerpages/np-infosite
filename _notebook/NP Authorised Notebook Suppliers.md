@@ -4,14 +4,13 @@ permalink: /notebook/authorisednbsuppliers/
 variant: tiptap
 description: ""
 ---
+<h4><strong>📢</strong> <strong>Purchase notebook online at the Authorised Notebook Suppliers’ website.</strong></h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NP Student Notebook Roadshow 2025 Banner" src="/images/2025_notebookbanner.png">
-</div>
-<p></p>
+<blockquote>
 <p>Prior to purchasing your notebook, please read "<a href="/notebook/winormac" rel="noopener noreferrer nofollow" target="_blank">Windows or Mac?</a>" and check <a href="/notebook/specs/" rel="noopener noreferrer nofollow" target="_blank">minimum specifications</a> for
 your course. For course-specific notebook related queries, <a href="/notebook/notebook-queries" rel="noopener noreferrer nofollow" target="_blank">click here</a> for
 contact details.</p>
+</blockquote>
 <h4>Authorised Windows Notebook Suppliers for 2025</h4>
 <p><strong>ACER: Acer Computer (Singapore) Pte Ltd</strong>
 </p>
@@ -24,10 +23,10 @@ contact details.</p>
 <p>Tel: 6563 6563</p>
 </li>
 <li>
-<p>Hotline Hours: 8.30am to 5.30pm (Mon to Fri)</p>
+<p>Hotline Hours: 8.30am to 5.30pm, (Mon to Fri)</p>
 </li>
 <li>
-<p>Place Order Online @ <em>Coming Soon</em>
+<p>To Order Online, email <a href="mailto:acerstoreedu.sg@acer.com" rel="noopener noreferrer nofollow" target="_blank">acerstoreedu.sg@acer.com</a>
 </p>
 </li>
 </ul>
@@ -43,7 +42,7 @@ contact details.</p>
 <p>Tel: 6274 2722</p>
 </li>
 <li>
-<p>Hotline Hours: Weekdays, 8.30am to 5.30pm (excluding Public Holidays)</p>
+<p>Hotline Hours: 8.30am to 5.30pm (Mon to Fri, excluding Public Holidays)</p>
 </li>
 <li>
 <p>Place Order Online @ <a href="http://www.asiapac.com.sg/np" rel="noopener noreferrer nofollow" target="_blank">www.asiapac.com.sg/np</a>
@@ -62,7 +61,7 @@ contact details.</p>
 <p>Tel: 6274 2722</p>
 </li>
 <li>
-<p>Hotline Hours: Weekdays, 8.30am to 5.30pm (excluding Public Holidays)</p>
+<p>Hotline Hours: 8.30am to 5.30pm (Mon to Fri, excluding Public Holidays)</p>
 </li>
 <li>
 <p>Place Order Online @ <a href="https://www.asiapac.com.sg/lenovo-np" rel="noopener noreferrer nofollow" target="_blank">https://www.asiapac.com.sg/lenovo-np</a>

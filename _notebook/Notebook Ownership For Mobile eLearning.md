@@ -4,13 +4,10 @@ permalink: /notebook/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NP Student Notebook Exhibition 2025 Banner" src="/images/2025_notebookbanner.png">
-</div>
+<h4><strong>📢</strong> <strong>Purchase notebook online at the Authorised Notebook Suppliers’ website.</strong></h4>
 <p></p>
 <blockquote>
-<p>You must use own personal notebook computer and other IT device(s) for
+<p>You must use your personal notebook computer and other IT device(s) for
 learning and assessment at NP, as required by your Diploma course.</p>
 </blockquote>
 <p>As part of the vision for mobile e-learning, Ngee Ann Polytechnic introduced

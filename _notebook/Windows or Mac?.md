@@ -4,11 +4,13 @@ permalink: /notebook/winormac/
 variant: tiptap
 description: ""
 ---
+<h4><strong>📢</strong> <strong>Purchase notebook online at the Authorised Notebook Suppliers’ website.</strong></h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Student Notebook Exhibition 2025 Banner" src="/images/2025_notebookbanner.png">
-</div>
-<h4>Please check&nbsp;<a href="/notebook/specs/" class="cf0" rel="noopener noreferrer nofollow" target="_blank">minimum specifications</a>&nbsp;for your course. For course-specific notebook related queries,&nbsp;<a href="/notebook/notebook-queries" class="cf0" rel="noopener noreferrer nofollow" target="_blank">click here</a>&nbsp;for contact details.</h4>
+<blockquote>
+<p>Please check&nbsp;<a href="/notebook/specs/" class="cf0" rel="noopener noreferrer nofollow" target="_blank">minimum specifications</a>&nbsp;for
+your course. For course-specific notebook related queries,&nbsp;<a href="/notebook/notebook-queries" class="cf0" rel="noopener noreferrer nofollow" target="_blank">click here</a>&nbsp;for
+contact details.</p>
+</blockquote>
 <p></p>
 <hr>
 <p></p>
@@ -56,4 +58,7 @@ in Ngee Ann Polytechnic.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="clte" src="/images/CLTE_logo.png">
 </div>
+<blockquote>
+<p></p>
+</blockquote>
 <p></p>
