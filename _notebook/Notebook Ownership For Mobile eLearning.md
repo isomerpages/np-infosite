@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>📢</strong> <strong>Purchase notebook online at the Authorised Notebook Suppliers’ website.</strong></h4>
+<p></p>
 <blockquote>
 <p>You must use own personal notebook computer and other IT device(s) for
 learning and assessment at NP, as required by your Diploma course.</p>
