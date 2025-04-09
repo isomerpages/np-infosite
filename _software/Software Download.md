@@ -785,12 +785,12 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>R Software v3.6.2 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/RSoftware_guide.pdf?csf=1&amp;web=1&amp;e=2cf1xw" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>R Software - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/RSoftware_guide.pdf?csf=1&amp;web=1&amp;e=2cf1xw" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://cran.asia/bin/windows/base/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
 <li>
-<p>RStudio Desktop 1.2.5033 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/RStudio_guide.pdf?csf=1&amp;web=1&amp;e=f5Fvea" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>RStudio Desktop - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/RStudio_guide.pdf?csf=1&amp;web=1&amp;e=f5Fvea" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://download1.rstudio.org/electron/windows/RStudio-2024.09.0-375.exe" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -805,12 +805,12 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>Hyper32 v1.0 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Hyper32_guide.pdf?csf=1&amp;web=1&amp;e=WPAz8X" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>Hyper32 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Hyper32_guide.pdf?csf=1&amp;web=1&amp;e=WPAz8X" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/hyper32.zip?csf=1&amp;web=1&amp;e=PBq5P2" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
 <li>
-<p>DA Plus v9.0 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/DAPlus_guide.pdf?csf=1&amp;web=1&amp;e=JUcktd" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>DA Plus - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/DAPlus_guide.pdf?csf=1&amp;web=1&amp;e=JUcktd" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/DAPlus.zip?csf=1&amp;web=1&amp;e=bSwOoq" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -855,7 +855,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>Hyper32 v1.0 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Hyper32_guide.pdf?csf=1&amp;web=1&amp;e=WPAz8X" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>Hyper32 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Hyper32_guide.pdf?csf=1&amp;web=1&amp;e=WPAz8X" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/hyper32.zip?csf=1&amp;web=1&amp;e=PBq5P2" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -875,7 +875,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>R Software v3.6.2 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/RSoftware_guide.pdf?csf=1&amp;web=1&amp;e=2cf1xw" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>R Software - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/RSoftware_guide.pdf?csf=1&amp;web=1&amp;e=2cf1xw" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://cran.asia/bin/windows/base/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -900,7 +900,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>DA Plus v9.0 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/DAPlus_guide.pdf?csf=1&amp;web=1&amp;e=JUcktd" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>DA Plus - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/DAPlus_guide.pdf?csf=1&amp;web=1&amp;e=JUcktd" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/DAPlus.zip?csf=1&amp;web=1&amp;e=bSwOoq" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -1011,7 +1011,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>R Software v3.6.2 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/RSoftware_guide.pdf?csf=1&amp;web=1&amp;e=2cf1xw" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>R Software - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/RSoftware_guide.pdf?csf=1&amp;web=1&amp;e=2cf1xw" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://cran.asia/bin/windows/base/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -1031,12 +1031,12 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>Hyper32 v1.0 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Hyper32_guide.pdf?csf=1&amp;web=1&amp;e=WPAz8X" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>Hyper32 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Hyper32_guide.pdf?csf=1&amp;web=1&amp;e=WPAz8X" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/hyper32.zip?csf=1&amp;web=1&amp;e=PBq5P2" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
 <li>
-<p>DA Plus v9.0 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/DAPlus_guide.pdf?csf=1&amp;web=1&amp;e=JUcktd" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>DA Plus - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/DAPlus_guide.pdf?csf=1&amp;web=1&amp;e=JUcktd" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/DAPlus.zip?csf=1&amp;web=1&amp;e=bSwOoq" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
