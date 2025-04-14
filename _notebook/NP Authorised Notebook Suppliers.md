@@ -26,7 +26,7 @@ contact details.</p>
 <p>Hotline Hours: 8.30am to 5.30pm, (Mon to Fri)</p>
 </li>
 <li>
-<p>To Order Online, email <a href="mailto:acerstoreedu.sg@acer.com" rel="noopener noreferrer nofollow" target="_blank">acerstoreedu.sg@acer.com</a>
+<p>To Order Online, email <a href="https://store.acer.com/en-sg/np" rel="noopener noreferrer nofollow" target="_blank">https://store.acer.com/en-sg/np</a> 
 </p>
 </li>
 </ul>
