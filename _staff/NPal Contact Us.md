@@ -4,7 +4,11 @@ permalink: /dst/npal/fb8fa13c/staff/pages/npal-contactus/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -37,14 +41,19 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Email us</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://npalhelp.np.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">NPal2_Feedback@np.edu.sg</a>&nbsp;</p>
+<p><a href="mailto:NPal2_Feedback@np.edu.sg" rel="noopener nofollow" target="_blank">NPal2_Feedback@np.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
