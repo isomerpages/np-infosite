@@ -140,7 +140,7 @@ staff self service for attendance and timetabling.​
 </table>
 <h4><strong>Frequently Asked Questions</strong></h4>
 <p>1. How do I login to NPal Campus Solutions (NPal CS)?
-<br><a href="https://npweb.np.edu.sg/np/helpdesk/Documents/ITConNPal/02%20Staff%20Self-Service.pdf" rel="noopener noreferrer nofollow" target="_blank">https://npalcs.np.edu.sg<br></a>
+<br><a href="https://npalcs.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">https://npalcs.np.edu.sg<br></a>
 </p>
 <p>2. Which User ID and Password should I use?
 <br>You should use your NPNET ID and Password.
