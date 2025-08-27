@@ -147,5 +147,6 @@ staff self service for attendance and timetabling.​
 <br>
 </p>
 <p>3. There is an error message when I login. What should I do?
-<br>Try clearing the browser cache&nbsp;or report the issue to <a href="mailto:NPal2_Feedback@np.edu.sg" rel="noopener nofollow" target="_blank">NPal2_Feedback@np.edu.sg</a>.</p>
+<br>Try <a href="https://www2.np.edu.sg/dst/npal/fb8fa13c/staff/pages/npal-clearcache/" rel="noopener nofollow" target="_blank">clearing the browser cache</a>&nbsp;or
+report the issue to <a href="mailto:NPal2_Feedback@np.edu.sg" rel="noopener nofollow" target="_blank">NPal2_Feedback@np.edu.sg</a>.</p>
 <p></p>
