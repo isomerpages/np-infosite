@@ -5,7 +5,13 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Help on Commonly Used Functions<br></strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -44,7 +50,7 @@ information)
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​Click&nbsp;<a href="https://npweb.np.edu.sg/np/helpdesk/Documents/ITConNPal/02%20Staff%20Self-Service.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p>​Click&nbsp;<a href="https://connectnpedu.sharepoint.com/:b:/r/sites/Helpdesk/Shared%20Documents/ITConNPal/02%20Staff%20Self-Service.pdf?csf=1&amp;web=1&amp;e=wKg6e8" rel="noopener noreferrer nofollow" target="_blank">here</a>
 <br>
 </p>
 </td>
@@ -67,7 +73,7 @@ and print the class list.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​Click&nbsp;<a href="https://npweb.np.edu.sg/np/helpdesk/Documents/ITConNPal/03%20NPal%20CS%20Attendance.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p>​Click&nbsp;<a href="https://connectnpedu.sharepoint.com/:b:/r/sites/Helpdesk/Shared%20Documents/ITConNPal/03%20NPal%20CS%20Attendance.pdf?csf=1&amp;web=1&amp;e=5zol2I" rel="noopener noreferrer nofollow" target="_blank">here</a>
 <br>
 </p>
 </td>
@@ -90,7 +96,7 @@ for a module and enter marks.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>​Click&nbsp;<a href="https://npweb.np.edu.sg/np/helpdesk/Documents/ITConNPal/04%20NPal%20CS%20Assessment.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p>​Click&nbsp;<a href="https://connectnpedu.sharepoint.com/:b:/r/sites/Helpdesk/Shared%20Documents/ITConNPal/04%20NPal%20CS%20Assessment.pdf?csf=1&amp;web=1&amp;e=MptSPx" rel="noopener noreferrer nofollow" target="_blank">here</a>
 <br>
 </p>
 </td>
@@ -126,7 +132,7 @@ staff self service for attendance and timetabling.​
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click​&nbsp;<a href="https://npweb.np.edu.sg/np/helpdesk/Documents/ITConNPal/06%20NPal%20MyClass.pdf" rel="noopener noreferrer nofollow" target="_blank">her​e​</a>
+<p>Click​&nbsp;<a href="https://connectnpedu.sharepoint.com/:b:/r/sites/Helpdesk/Shared%20Documents/ITConNPal/05%20NPal%20MyClass.pdf?csf=1&amp;web=1&amp;e=3C4tqZ" rel="noopener noreferrer nofollow" target="_blank">her​e​</a>
 </p>
 </td>
 </tr>
@@ -141,6 +147,6 @@ staff self service for attendance and timetabling.​
 <br>
 </p>
 <p>3. There is an error message when I login. What should I do?
-<br>Try&nbsp;<a href="https://www2.np.edu.sg/dst/npal/fb8fa13c/staff/Pages/NPAL_ClearCache.aspx" rel="noopener noreferrer nofollow" target="_blank">Clear cache</a>&nbsp;first&nbsp;or
-report the issue to NPal2_Feedback.</p>
+<br>Try <a href="https://www2.np.edu.sg/dst/npal/fb8fa13c/staff/pages/npal-clearcache/" rel="noopener nofollow" target="_blank">clearing the browser cache</a>&nbsp;or
+report the issue to <a href="mailto:NPal2_Feedback@np.edu.sg" rel="noopener nofollow" target="_blank">NPal2_Feedback@np.edu.sg</a>.</p>
 <p></p>

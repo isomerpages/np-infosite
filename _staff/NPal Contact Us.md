@@ -4,14 +4,18 @@ permalink: /dst/npal/fb8fa13c/staff/pages/npal-contactus/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><br>Contact Us</strong>
+<p><strong>If you need further assistance, you may contact us through the following ways:</strong>
 </p>
 </td>
 </tr>
@@ -20,31 +24,19 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Need further assistance, you may contact us through the following ways:</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Email us</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://npalhelp.np.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">NPal2_Feedback@np.edu.sg</a>&nbsp;</p>
+<p><a href="mailto:NPal2_Feedback@np.edu.sg" rel="noopener nofollow" target="_blank">NPal2_Feedback@np.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -60,7 +52,7 @@ description: ""
 <p>Visit us</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IT Helpdesk at Blk 27, Level</p>
+<p>IT Helpdesk at Blk 27, Level 1</p>
 <p><strong>Operation hours<br></strong>Mon - Fri : 8.30am - 5.30pm
 <br>Closed on Weekends &amp; Public Holidays</p>
 </td>
