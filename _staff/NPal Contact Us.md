@@ -15,24 +15,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><br>Contact Us</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Need further assistance, you may contact us through the following ways:</strong>
+<p><strong>If you need further assistance, you may contact us through the following ways:</strong>
 </p>
 </td>
 </tr>
