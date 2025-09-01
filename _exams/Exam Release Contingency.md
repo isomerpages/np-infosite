@@ -4,7 +4,7 @@ permalink: /dst/npal/announcement/pages/examrelease-contingency/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Exam Results </strong>Release on&nbsp;<strong>21&nbsp;March 2025, </strong>from <strong>8:00am onwards</strong>.</h4>
+<h4><strong>Exam Results </strong>Release on&nbsp;<strong>19&nbsp;September 2025, </strong>from <strong>8:00am onwards</strong>.</h4>
 <p><strong>Direct login to <a href="https://npalstudent.np.edu.sg/psc/student/EMPLOYEE/SA/c/N_XM_CUR_TRM_RSLT.N_XM_CURTRM_RLT_FL.GBL" rel="noopener noreferrer nofollow" target="_blank">CURRENT EXAM RESULTS</a></strong>
 </p>
 <p>Please close the browser after signing out.</p>
