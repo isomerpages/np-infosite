@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
-<p>The <a href="https://for.edu.sg/reservemyslot" rel="noopener nofollow" target="_blank">resource booking system</a> allows
+<p>The <a href="https://for.edu.sg/reservemyslot" rel="noopener nofollow" target="_blank">Reserve My Slot</a> allows
 you to book sports facilities, POD, learning facilities and more.</p>
 </blockquote>
 <div class="isomer-image-wrapper">
