@@ -6,7 +6,7 @@ agency_name: Digital Services & Technology Office
 locations:
   - address:
       - On-site Service Counter
-      - "Block 1, Level 1, #01-16"
+      - "Block 1 #01-16"
       - Ngee Ann Polytechnic
     operating_hours:
       - days: Mon - Fri
