@@ -16,7 +16,11 @@ content layout will automatically adjust to fit the device you are using​.</p>
 <p>​Select NPal and enter your NPNet ID and password</p>
 </li>
 </ol>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
@@ -29,7 +33,11 @@ content layout will automatically adjust to fit the device you are using​.</p>
 </table>
 <h4>Navigation</h4>
 <p>​</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -76,7 +84,7 @@ content layout will automatically adjust to fit the device you are using​.</p>
 <p>Email: <a href="mailto:itcare@connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">itcare@connect.np.edu.sg</a>​</p>
 </li>
 <li>
-<p>​​IT Helpdesk: Block 27, Level 1</p>
+<p>​​IT Helpdesk: Block 1, Level 1, #01-16</p>
 </li>
 </ul>
 <h4>Frequently Asked Questions</h4>
