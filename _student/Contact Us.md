@@ -10,7 +10,7 @@ description: ""
 <p>Email: <a href="mailto:itcare@connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>itcare@connect.np.edu.sg</u></a>​</p>
 </li>
 <li>
-<p>​​IT Helpdesk: Block 27, Level 1</p>
+<p>​​IT Helpdesk: Block 1, Level 1, #01-16</p>
 </li>
 </ul>
 <p></p>
