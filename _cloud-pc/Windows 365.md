@@ -1,6 +1,6 @@
 ---
 title: Windows 365
-permalink: /windows-365/
+permalink: /windows-365/cpc/
 variant: tiptap
 description: ""
 ---
