@@ -1,4 +1,5 @@
 collections:
   cloud-pc:
     output: true
-    order: []
+    order:
+      - Windows 365.md
