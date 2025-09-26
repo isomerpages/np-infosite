@@ -1,0 +1,5 @@
+collections:
+  cloud-pc:
+    output: true
+    order:
+      - Windows 365.md
