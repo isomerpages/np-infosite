@@ -8,18 +8,18 @@ description: ""
 <h4>Access to Cloud PC is presently available to selected staff only.</h4>
 </blockquote>
 <p>CPC is a virtual PC that enables you to access NP intranet services via
-your personal laptop or mobile devices, instead of using NICE. With this
-solution, you will enjoy increased flexibility and convenience of accessing
-your work remotely. CPC allows access to Outlook email, MS Teams, NPal
-Campus Solutions (CS), Staffhome Intranet, Workday, SharePoint Online and
-OneDrive storage.</p>
-<p>During your first launch of CPC, baseline apps such as MS Office apps,
-Google Chrome, Adobe Acrobat, Azure Information Protection, etc will be
-installing in the background. Please disconnect from CPC to allow all software,
-updates and polices to complete installing in the background. Reconnect
-to CPC the following day to access your Outlook email and NP Intranet services.&nbsp;A
-few restarts may be required to complete the installation process.</p>
-<p></p>
+your personal laptop or mobile devices, instead of using NICE. To access
+CPC, you only need to download the "<strong>Windows App</strong>" from
+the Microsoft store and login from any devices with internet connection.
+Upon your <strong><u>initial login</u></strong> to CPC, the system will automatically
+start installing the baseline software and updates in the background.</p>
+<p>To help you get familiarised with CPC, we have schedule 2 sessions of
+online briefings on <strong><u>9 Oct and 16 Oct from 10am to 11am </u></strong>to
+demo on&nbsp;CPC&nbsp;Onboarding and address any queries you may have.&nbsp;Both
+briefing sessions will cover the same content, so you only need to attend
+either session. Recordings will be shared after the sessions.&nbsp;</p>
+<p>&nbsp;Look out for the invite that will be sent to our NP mailbox around
+1<sup>st</sup>&nbsp;week of Oct.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
