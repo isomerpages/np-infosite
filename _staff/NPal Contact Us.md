@@ -52,7 +52,7 @@ description: ""
 <p>Visit us</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IT Helpdesk at Blk 1, #01-16</p>
+<p>IT Helpdesk at Block 1, Level 1, #01-16</p>
 <p><strong>Operation hours<br></strong>Mon - Fri : 8.30am - 5.30pm
 <br>Closed on Weekends &amp; Public Holidays</p>
 </td>
