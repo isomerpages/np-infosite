@@ -14,7 +14,11 @@ description: ""
 </li>
 <li>
 <p>Contact us if you need assistance</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -30,7 +34,7 @@ description: ""
 <p>IT Helpdesk:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Blk 27 Level 1</p>
+<p>Blk 1, Level 1, #01-16</p>
 </td>
 </tr>
 </tbody>
@@ -38,7 +42,11 @@ description: ""
 </li>
 </ul>
 <h4>Frequently Asked Questions</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
