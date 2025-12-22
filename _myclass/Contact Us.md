@@ -4,7 +4,11 @@ permalink: /dst/npal/tt963q7d/myclass/pages/npal-contactus/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -20,7 +24,11 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -43,7 +51,7 @@ description: ""
 <p>Visit us</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IT Helpdesk at Blk 27, Level 1
+<p>IT Helpdesk at Block 1, Level 1, #01-16
 <br>
 <br><strong>Operation hours<br></strong>Mon - Fri : 8.30am - 5.30pm
 <br>Closed on Weekends &amp; Public Holidays</p>
