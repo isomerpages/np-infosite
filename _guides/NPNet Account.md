@@ -17,7 +17,7 @@ The service will challenge you for your student number, NRIC/FIN number,
 date of birth and personal email address registered in NPal Student.</p>
 <p></p>
 <h4>I need further assistance</h4>
-<p>Alternatively, you may visit the IT Helpdesk at Blk 27 #01-01 or email
-to <a href="mailto:itcare@connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">itcare@connect.np.edu.sg</a> if
+<p>Alternatively, you may visit the IT Helpdesk at Blk 1, Level 1, #01-16
+or email to <a href="mailto:itcare@connect.np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">itcare@connect.np.edu.sg</a> if
 you have not registered your personal email address in NPal Student or
 cannot remember the registered personal ​email address.</p>
