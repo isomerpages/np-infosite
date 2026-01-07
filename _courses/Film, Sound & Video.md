@@ -24,7 +24,7 @@ is required.</p>
 <p>Processor:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Apple M4 Chip</p>
+<p>Apple M5 Chip</p>
 </td>
 </tr>
 <tr>
@@ -64,7 +64,7 @@ is required.</p>
 <p>Operating System:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>macOS 15 Sequoia or later</p>
+<p>MacOS Tahoe or later</p>
 </td>
 </tr>
 <tr>
