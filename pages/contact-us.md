@@ -26,9 +26,14 @@ locations:
     title: ITCare /DST
 contacts:
   - content:
+      - phone: +65 6466 6555
+      - email: askNP@np.edu.sg
+      - other: ""
+    title: General Enquiries & Feedback
+  - content:
       - phone: +65 6460 8111
       - email: itcare@connect.np.edu.sg
       - other: ""
-    title: General Enquiries & Support
+    title: IT Enquiries & Support
 feedback: ""
 ---
