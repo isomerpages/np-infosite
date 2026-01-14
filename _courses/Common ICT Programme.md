@@ -56,7 +56,7 @@ is required.</p>
 <p>Graphics:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dedicated graphics card with 4GB VRAM or above</p>
+<p>Dedicated graphics card (Nvidia recommended) with 8 GB VRAM or above</p>
 </td>
 </tr>
 <tr>
@@ -80,7 +80,7 @@ is required.</p>
 <p>Peripherals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Portable Solid State Drive (SSD) 512 GB</p>
+<p>Portable Solid-State Drive (SSD) 512 GB</p>
 </td>
 </tr>
 </tbody>

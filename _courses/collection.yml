@@ -4,6 +4,7 @@ collections:
     order:
       - Accountancy.md
       - Aerospace Engineering.md
+      - Applied AI & Analytics.md
       - Arts Business Management.md
       - Banking & Finance.md
       - Biomedical Engineering.md
@@ -12,13 +13,13 @@ collections:
       - Chemical & Biomolecular Engineering.md
       - Chinese Media & Communication.md
       - Chinese Studies.md
+      - Computing with Law.md
       - Common Business Programme.md
       - Common Engineering Programme.md
       - Common ICT Programme.md
       - Common Media Programme.md
       - Common Science Programme.md
       - Cybersecurity & Digital Forensics.md
-      - Data Science.md
       - Design.md
       - Early Childhood Development & Education.md
       - Electrical Engineering.md

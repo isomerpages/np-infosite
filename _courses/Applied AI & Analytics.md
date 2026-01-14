@@ -1,12 +1,12 @@
 ---
-title: Information Technology
-permalink: /courses/it/
+title: Applied AI & Analytics
+permalink: /courses/aaa/
 variant: tiptap
 description: ""
 ---
 <blockquote>
-<p>For your Diploma in Information Technology (IT) course, a Windows notebook
-is required.</p>
+<p>For your Diploma in Applied AI &amp; Analytics (AAA) course, a Windows
+notebook is required.</p>
 </blockquote>
 <table style="minWidth: 50px">
 <colgroup>
@@ -24,8 +24,7 @@ is required.</p>
 <p>Processor:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Intel Core i5 or AMD Ryzen 5 Series (Intel Core i7 or AMD Ryzen 7 Series
-recommended)</p>
+<p>Intel Core i7 or AMD Ryzen 7 Series</p>
 </td>
 </tr>
 <tr>
@@ -41,7 +40,7 @@ recommended)</p>
 <p>Storage:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>512 GB Solid State Drive (SSD)</p>
+<p>1 TB Solid State Drive (SSD) or above</p>
 </td>
 </tr>
 <tr>
@@ -57,8 +56,7 @@ recommended)</p>
 <p>Graphics:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Integrated graphics card with 4 GB VRAM or equivalent (Dedicated graphics
-card with 4 GB VRAM or above recomended)</p>
+<p>Dedicated graphics card (Nvidia recommended) with 8 GB VRAM or above</p>
 </td>
 </tr>
 <tr>
@@ -82,7 +80,7 @@ card with 4 GB VRAM or above recomended)</p>
 <p>Peripherals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Not applicable</p>
+<p>Portable Solid-State Drive (SSD) 512 GB</p>
 </td>
 </tr>
 </tbody>

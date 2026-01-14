@@ -1,11 +1,12 @@
 ---
-title: Data Science
-permalink: /courses/ds/
+title: Computing with Law
+permalink: /courses/clw/
 variant: tiptap
 description: ""
 ---
 <blockquote>
-<p>For your Diploma in Data Science (DS) course, a Windows notebook is required.</p>
+<p>For your Diploma in Computing with Law (CLW) course, a Windows notebook
+is required.</p>
 </blockquote>
 <table style="minWidth: 50px">
 <colgroup>
@@ -55,7 +56,7 @@ description: ""
 <p>Graphics:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dedicated graphics card with 4 GB VRAM or above</p>
+<p>Dedicated graphics card (Nvidia recommended) with 8 GB VRAM or above</p>
 </td>
 </tr>
 <tr>
