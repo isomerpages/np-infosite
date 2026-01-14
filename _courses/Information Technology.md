@@ -57,7 +57,8 @@ recommended)</p>
 <p>Graphics:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Integrated graphics card with 4 GB VRAM or equivalent</p>
+<p>Integrated graphics card with 4 GB VRAM or equivalent (Dedicated graphics
+card with 4 GB VRAM or above recomended)</p>
 </td>
 </tr>
 <tr>
