@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
-<p>For your Diploma in Data Science (DS) course, a Windows notebook is required.</p>
+<p>For your Diploma in Applied AI &amp; Analytics (AAA) course, a Windows
+notebook is required.</p>
 </blockquote>
 <table style="minWidth: 50px">
 <colgroup>
