@@ -163,16 +163,20 @@ Optometry</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/courses/aaa" rel="noopener nofollow" target="_blank">AAA</a> -
+Applied AI &amp; Analytics</p>
+</li>
+<li>
+<p><a href="/courses/clw" rel="noopener nofollow" target="_blank">CLW</a> -
+Computing with Law</p>
+</li>
+<li>
 <p><a href="/courses/cictp" rel="noopener noreferrer nofollow" target="_blank">CICTP</a> -
 Common ICT Programme</p>
 </li>
 <li>
 <p><a href="/courses/csf" rel="noopener noreferrer nofollow" target="_blank">CSF</a> -
 CyberSecurity &amp; Digital Forensics</p>
-</li>
-<li>
-<p><a href="/courses/ds" rel="noopener noreferrer nofollow" target="_blank">DS</a> -
-Data Science</p>
 </li>
 <li>
 <p><a href="/courses/im" rel="noopener noreferrer nofollow" target="_blank">IM</a> -
