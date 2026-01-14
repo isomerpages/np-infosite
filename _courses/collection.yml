@@ -2,7 +2,6 @@ collections:
   courses:
     output: true
     order:
-      - Computing with Law.md
       - Accountancy.md
       - Aerospace Engineering.md
       - Applied AI & Analytics.md
@@ -14,6 +13,7 @@ collections:
       - Chemical & Biomolecular Engineering.md
       - Chinese Media & Communication.md
       - Chinese Studies.md
+      - Computing with Law.md
       - Common Business Programme.md
       - Common Engineering Programme.md
       - Common ICT Programme.md
