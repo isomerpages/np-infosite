@@ -32,7 +32,7 @@ required.</p>
 <p>RAM:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16 GB</p>
+<p>16 GB (32 GB recommended)</p>
 </td>
 </tr>
 <tr>
@@ -40,7 +40,7 @@ required.</p>
 <p>Storage:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 TB Solid State Drive (SSD)</p>
+<p>1 TB Solid State Drive (SSD) or above</p>
 </td>
 </tr>
 <tr>
@@ -56,7 +56,7 @@ required.</p>
 <p>Graphics:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dedicated graphics card with 4 GB VRAM or equivalent</p>
+<p>Dedicated graphics card (Nvidia recommended) with 8 GB VRAM or above</p>
 </td>
 </tr>
 <tr>
