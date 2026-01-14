@@ -2,6 +2,7 @@ collections:
   courses:
     output: true
     order:
+      - Computing with Law.md
       - Accountancy.md
       - Aerospace Engineering.md
       - Applied AI & Analytics.md
