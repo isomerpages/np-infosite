@@ -56,7 +56,7 @@ notebook is required.</p>
 <p>Graphics:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dedicated graphics card with 4 GB VRAM or above</p>
+<p>Dedicated graphics card (Nvidia recommended) with 8 GB VRAM or above</p>
 </td>
 </tr>
 <tr>
