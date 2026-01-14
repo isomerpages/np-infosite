@@ -4,6 +4,7 @@ collections:
     order:
       - Accountancy.md
       - Aerospace Engineering.md
+      - Applied AI & Analytics.md
       - Arts Business Management.md
       - Banking & Finance.md
       - Biomedical Engineering.md
@@ -18,7 +19,6 @@ collections:
       - Common Media Programme.md
       - Common Science Programme.md
       - Cybersecurity & Digital Forensics.md
-      - Applied AI & Analytics.md
       - Design.md
       - Early Childhood Development & Education.md
       - Electrical Engineering.md
