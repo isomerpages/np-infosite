@@ -1,11 +1,11 @@
 ---
-title: Environmental & Water Technology
-permalink: /courses/ewt/
+title: Environmental Science & Sustainability
+permalink: /courses/ess/
 variant: tiptap
 description: ""
 ---
 <blockquote>
-<p>For your Diploma in Environmental &amp; Water Technology (EWT) course,
+<p>For your Diploma in Environmental Science &amp; Sustainability (ESS) course,
 a Windows notebook is required.</p>
 </blockquote>
 <table style="minWidth: 50px">
