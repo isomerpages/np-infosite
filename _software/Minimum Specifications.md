@@ -208,8 +208,8 @@ Chemical &amp; Biomolecular Engineering</p>
 Common Science Programme</p>
 </li>
 <li>
-<p><a href="/courses/ewt" rel="noopener noreferrer nofollow" target="_blank">EWT</a> -
-Environmental &amp; Water Technology</p>
+<p><a href="/courses/ess" rel="noopener noreferrer nofollow" target="_blank">ESS</a> -
+Environmental Science &amp; Sustainability</p>
 </li>
 <li>
 <p><a href="/courses/ldh" rel="noopener noreferrer nofollow" target="_blank">LDH</a> -
