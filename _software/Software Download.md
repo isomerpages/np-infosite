@@ -952,7 +952,7 @@ and password.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>EWT</strong> - Environmental &amp; Water Technology</p>
+<p><strong>ESS</strong> - Environmental Science &amp; Sustainability</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
