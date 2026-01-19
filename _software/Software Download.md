@@ -1099,6 +1099,7 @@ and password.</p>
 <details class="isomer-details">
 <summary>School of Engineering (SOE)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1324,11 +1325,6 @@ and password.</p>
 <a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
-<li>
-<p>Anaconda - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Anaconda_guide.pdf?csf=1&amp;web=1&amp;e=ms1N04" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://repo.anaconda.com/archive/Anaconda3-2024.06-1-Windows-x86_64.exe" rel="noopener nofollow" target="_blank">Download</a>
-</p>
-</li>
 </ul>
 </td>
 </tr>
@@ -1383,7 +1379,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>AutoCAD 2024 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2024_guide.pdf?csf=1&amp;web=1&amp;e=a1STHr" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>AutoCAD 2026 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2024_guide.pdf?csf=1&amp;web=1&amp;e=a1STHr" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -1391,7 +1387,7 @@ and password.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="7" colspan="1">
+<td rowspan="8" colspan="1">
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1416,6 +1412,21 @@ and password.</p>
 <li>
 <p>MiniTab - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/MiniTab_guide.pdf?csf=1&amp;web=1&amp;e=UvFKx5" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/Minitab20.2.exe?csf=1&amp;web=1&amp;e=B8Igpb" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>BME</strong> - Biomedical Engineering</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Fusion 360 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Fusion360_guide.pdf?csf=1&amp;web=1&amp;e=dyUVUi" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
 </ul>
@@ -1493,11 +1504,6 @@ and password.</p>
 <li>
 <p>Fusion 360 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Fusion360_guide.pdf?csf=1&amp;web=1&amp;e=dyUVUi" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
-</p>
-</li>
-<li>
-<p>Anaconda - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Anaconda_guide.pdf?csf=1&amp;web=1&amp;e=ms1N04" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://repo.anaconda.com/archive/Anaconda3-2024.06-1-Windows-x86_64.exe" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
 </ul>
