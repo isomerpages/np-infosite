@@ -212,13 +212,6 @@ and password.</p>
 <a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/PBIDesktopSetup_x64.exe?csf=1&amp;web=1&amp;e=NSuwar" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
-<li>
-<p>SAP S/Hana - <a href="https://s36.gb.ucc.cit.tum.de/sap/bc/ui2/flp" rel="noopener nofollow" target="_blank">Link</a>
-</p>
-</li>
-<li>
-<p>SAP Ariba - Guide, Download</p>
-</li>
 </ul>
 </td>
 </tr>
