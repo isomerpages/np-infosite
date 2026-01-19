@@ -23,8 +23,6 @@ sections:
         - title: Quick links
           description: For Students
           url: /quick-links/student/
-      button: download notebook e-brochure
-      url: https://www2.np.edu.sg/files/NP_Online_Brochure_14_April_2025_v3.pdf
   - infopic:
       title: Purchase notebook from our authorised suppliers to get
       id: infopic
