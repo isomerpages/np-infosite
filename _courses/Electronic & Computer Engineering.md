@@ -80,7 +80,7 @@ a Windows notebook is required.</p>
 <p>Peripherals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Not applicable</p>
+<p>2x USB ports, HDMI</p>
 </td>
 </tr>
 </tbody>
