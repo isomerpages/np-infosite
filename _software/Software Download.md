@@ -89,6 +89,7 @@ and password.</p>
 <details class="isomer-details">
 <summary>School of Business &amp; Accountancy (BA)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -130,12 +131,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>Adobe Creative Cloud - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AdobeCC_guide.pdf?csf=1&amp;web=1&amp;e=wk0aOo" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://creativecloud.adobe.com/apps/download/creative-cloud" rel="noopener nofollow" target="_blank">Download</a>
-</p>
-</li>
-<li>
-<p>Python - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Python3.10.2_Guide.pdf?csf=1&amp;web=1&amp;e=hqOphX" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>Python 3.13.2 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Python3.10.2_Guide.pdf?csf=1&amp;web=1&amp;e=hqOphX" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.python.org/downloads/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -143,6 +139,20 @@ and password.</p>
 <p>Visual Studio Code - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VSCode_guide.pdf?csf=1&amp;web=1&amp;e=gArBBu" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://code.visualstudio.com/sha/download?build=stable&amp;os=win32-x64-user" rel="noopener nofollow" target="_blank">Download</a>
 </p>
+</li>
+<li>
+<p>Power BI Desktop - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/PowerBI-Desktop_guide.pdf?csf=1&amp;web=1&amp;e=sYHAzt" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/PBIDesktopSetup_x64.exe?csf=1&amp;web=1&amp;e=NSuwar" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
+<p>MonsoonSim (MAB)</p>
+</li>
+<li>
+<p>Moodie AI</p>
+</li>
+<li>
+<p>McGraw Hill (SAPB)</p>
 </li>
 </ul>
 </td>
@@ -157,13 +167,13 @@ and password.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>UiPath - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/UiPathStudio_guide.pdf?csf=1&amp;web=1&amp;e=vBAcoe" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/UiPathStudio.msi?csf=1&amp;web=1&amp;e=XxasSw" rel="noopener nofollow" target="_blank">Download</a>
+<p>Power BI - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/PowerBI-Desktop_guide.pdf?csf=1&amp;web=1&amp;e=sYHAzt" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/PBIDesktopSetup_x64.exe?csf=1&amp;web=1&amp;e=NSuwar" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
 <li>
-<p>Power BI - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/PowerBI-Desktop_guide.pdf?csf=1&amp;web=1&amp;e=sYHAzt" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/PBIDesktopSetup_x64.exe?csf=1&amp;web=1&amp;e=NSuwar" rel="noopener nofollow" target="_blank">Download</a>
+<p>UiPath - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/UiPathStudio_guide.pdf?csf=1&amp;web=1&amp;e=vBAcoe" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/UiPathStudio.msi?csf=1&amp;web=1&amp;e=XxasSw" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
 </ul>
@@ -176,9 +186,7 @@ and password.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Power BI - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/PowerBI-Desktop_guide.pdf?csf=1&amp;web=1&amp;e=sYHAzt" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/PBIDesktopSetup_x64.exe?csf=1&amp;web=1&amp;e=NSuwar" rel="noopener nofollow" target="_blank">Download</a>
-</p>
+<p>Tableau Desktop - Guide, Download</p>
 </li>
 <li>
 <p>Anaconda - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Anaconda_guide.pdf?csf=1&amp;web=1&amp;e=ms1N04" rel="noopener nofollow" target="_blank">Guide</a>,
@@ -214,9 +222,10 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>CargoWise Cloud Client - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/CargoWiseCloudClient_guide.pdf?csf=1&amp;web=1&amp;e=dN5yJi" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/CargoWiseCloudClient.exe?csf=1&amp;web=1&amp;e=4xNbZj" rel="noopener nofollow" target="_blank">Download</a>
-</p>
+<p>SAP S/Hana - Guide, Download</p>
+</li>
+<li>
+<p>SAP Ariba - Guide, Download</p>
 </li>
 </ul>
 </td>
