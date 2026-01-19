@@ -55,8 +55,7 @@ description: ""
 <p>Graphics:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dedicated graphics card (NVIDIA® GeForce® RTX 3050, 4GB GDDR6 VRAM and
-above or equivalent)</p>
+<p>Integrated Graphics Card</p>
 </td>
 </tr>
 <tr>
