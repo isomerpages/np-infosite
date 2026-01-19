@@ -222,7 +222,8 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>SAP S/Hana - Guide, Download</p>
+<p>SAP S/Hana - <a href="https://s36.gb.ucc.cit.tum.de/sap/bc/ui2/flp" rel="noopener nofollow" target="_blank">Link</a>
+</p>
 </li>
 <li>
 <p>SAP Ariba - Guide, Download</p>
