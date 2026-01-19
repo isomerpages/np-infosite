@@ -145,15 +145,6 @@ and password.</p>
 <a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/PBIDesktopSetup_x64.exe?csf=1&amp;web=1&amp;e=NSuwar" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
-<li>
-<p>MonsoonSim (MAB)</p>
-</li>
-<li>
-<p>Moodie AI</p>
-</li>
-<li>
-<p>McGraw Hill (SAPB)</p>
-</li>
 </ul>
 </td>
 </tr>
