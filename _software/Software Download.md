@@ -131,7 +131,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>Python 3.13.2 - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQBvMXGr7DARTLNzeO0h_RLyAfsyn47ES25p_4vryp56Od8?e=6Vabk4" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>Python 3.14.2 - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQBvMXGr7DARTLNzeO0h_RLyAfsyn47ES25p_4vryp56Od8?e=6Vabk4" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.python.org/downloads/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
