@@ -1099,7 +1099,6 @@ and password.</p>
 <details class="isomer-details">
 <summary>School of Engineering (SOE)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1379,7 +1378,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>AutoCAD 2026 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2024_guide.pdf?csf=1&amp;web=1&amp;e=a1STHr" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>AutoCAD 2026 - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQAayGfXDiidRrVqn2SJ_WVPAU-nWnsxQyVjaJ6pNfaI7Xg?e=takmvg" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
