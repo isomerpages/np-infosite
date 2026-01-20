@@ -177,7 +177,8 @@ and password.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Tableau Desktop - Guide, <a href="https://www.tableau.com/products/public/download" rel="noopener nofollow" target="_blank">Download</a>
+<p>Tableau Desktop - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/TableauReader_guide.pdf?csf=1&amp;web=1&amp;e=80SAcs" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://www.tableau.com/products/reader/download" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
 <li>
