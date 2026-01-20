@@ -1099,7 +1099,6 @@ and password.</p>
 <details class="isomer-details">
 <summary>School of Engineering (SOE)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
