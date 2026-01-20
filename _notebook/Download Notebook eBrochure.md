@@ -13,7 +13,7 @@ description: ""
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">2026 Models for Purchase (Launching Mid-February 2026)</div>
+<div class="isomer-card-title">2026 Models for Purchase (Launching End-February 2026)</div>
 <div class="isomer-card-description">Please upload a screenshot of your Acceptance Letter, Student Status Letter,
 Course Registration Submission, or Student ID when placing an online order
 on the notebook supplier's website. Notebooks will be available for online
