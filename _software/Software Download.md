@@ -158,6 +158,11 @@ and password.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
+<p>Microsoft Office 365 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
 <p>Power BI - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/PowerBI-Desktop_guide.pdf?csf=1&amp;web=1&amp;e=sYHAzt" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/PBIDesktopSetup_x64.exe?csf=1&amp;web=1&amp;e=NSuwar" rel="noopener nofollow" target="_blank">Download</a>
 </p>
@@ -176,6 +181,11 @@ and password.</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
+<li>
+<p>Microsoft Office 365 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
 <li>
 <p>Tableau Desktop - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/TableauReader_guide.pdf?csf=1&amp;web=1&amp;e=80SAcs" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.tableau.com/products/reader/download" rel="noopener nofollow" target="_blank">Download</a>
@@ -196,6 +206,11 @@ and password.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
+<p>Microsoft Office 365 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>
+</p>
+</li>
+<li>
 <p>Power BI - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/PowerBI-Desktop_guide.pdf?csf=1&amp;web=1&amp;e=sYHAzt" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/PBIDesktopSetup_x64.exe?csf=1&amp;web=1&amp;e=NSuwar" rel="noopener nofollow" target="_blank">Download</a>
 </p>
@@ -210,16 +225,14 @@ and password.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Power BI - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/PowerBI-Desktop_guide.pdf?csf=1&amp;web=1&amp;e=sYHAzt" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/PBIDesktopSetup_x64.exe?csf=1&amp;web=1&amp;e=NSuwar" rel="noopener nofollow" target="_blank">Download</a>
+<p>Microsoft Office 365 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Office365_guide.pdf?csf=1&amp;web=1&amp;e=iyxFt6" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://go.microsoft.com/fwlink/?linkid=2264705&amp;clcid=0x409&amp;culture=en-us&amp;country=us" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
 <li>
-<p>SAP Client v7.25 (including SAP S/Hana - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQCsJEMI10MYTopiR5O0aXzSAedGI9LUwpoaFHrup8cEe4E?e=Z0s5PS" rel="noopener nofollow" target="_blank">Guide 1</a>,
-<a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQCsJEMI10MYTopiR5O0aXzSAedGI9LUwpoaFHrup8cEe4E?e=Z0s5PS" rel="noopener nofollow" target="_blank">Guide 2</a>, Download</p>
-</li>
-<li>
-<p>SAP Ariba - Guide, Download</p>
+<p>Power BI - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/PowerBI-Desktop_guide.pdf?csf=1&amp;web=1&amp;e=sYHAzt" rel="noopener nofollow" target="_blank">Guide</a>,
+<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/PBIDesktopSetup_x64.exe?csf=1&amp;web=1&amp;e=NSuwar" rel="noopener nofollow" target="_blank">Download</a>
+</p>
 </li>
 </ul>
 </td>
