@@ -11,7 +11,7 @@ description: ""
 your course. For course-specific notebook related queries, <a href="/notebook/notebook-queries" rel="noopener noreferrer nofollow" target="_blank">click here</a> for
 contact details.</p>
 </blockquote>
-<h4>Authorised Windows Notebook Suppliers for 2025</h4>
+<h4>Authorised Windows Notebook Suppliers for 2026</h4>
 <p><strong>ACER: Acer Computer (Singapore) Pte Ltd</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -23,10 +23,10 @@ contact details.</p>
 <p>Tel: 6563 6563</p>
 </li>
 <li>
-<p>Hotline Hours: 8.30am to 5.30pm, (Mon to Fri)</p>
+<p>Hotline Hours: 8.30am to 5.30pm, (Mon to Fri, excluding Public Holidays)</p>
 </li>
 <li>
-<p>To Order Online, email <a href="https://store.acer.com/en-sg/np" rel="noopener noreferrer nofollow" target="_blank">https://store.acer.com/en-sg/np</a> 
+<p>Place Order Online @ <em><u>Launching End-February 2026</u></em>
 </p>
 </li>
 </ul>
@@ -45,7 +45,7 @@ contact details.</p>
 <p>Hotline Hours: 8.30am to 5.30pm (Mon to Fri, excluding Public Holidays)</p>
 </li>
 <li>
-<p>Place Order Online @ <a href="http://www.asiapac.com.sg/np" rel="noopener noreferrer nofollow" target="_blank">www.asiapac.com.sg/np</a>
+<p>Place Order Online @ <em><u>Launching End-February 2026</u></em>
 </p>
 </li>
 </ul>
@@ -64,7 +64,7 @@ contact details.</p>
 <p>Hotline Hours: 8.30am to 5.30pm (Mon to Fri, excluding Public Holidays)</p>
 </li>
 <li>
-<p>Place Order Online @ <a href="https://www.asiapac.com.sg/lenovo-np" rel="noopener noreferrer nofollow" target="_blank">https://www.asiapac.com.sg/lenovo-np</a>
+<p>Place Order Online @ <em><u>Launching End-February 2026</u></em>
 </p>
 </li>
 </ul>

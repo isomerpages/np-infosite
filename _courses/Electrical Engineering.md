@@ -32,7 +32,7 @@ is required.</p>
 <p>RAM:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 GB (16 GB recommended)</p>
+<p>16 GB</p>
 </td>
 </tr>
 <tr>
