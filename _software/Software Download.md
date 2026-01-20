@@ -214,6 +214,13 @@ and password.</p>
 <a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/PBIDesktopSetup_x64.exe?csf=1&amp;web=1&amp;e=NSuwar" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
+<li>
+<p>SAP Client v7.25 (including SAP S/Hana - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQCsJEMI10MYTopiR5O0aXzSAedGI9LUwpoaFHrup8cEe4E?e=Z0s5PS" rel="noopener nofollow" target="_blank">Guide 1</a>,
+<a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQCsJEMI10MYTopiR5O0aXzSAedGI9LUwpoaFHrup8cEe4E?e=Z0s5PS" rel="noopener nofollow" target="_blank">Guide 2</a>, Download</p>
+</li>
+<li>
+<p>SAP Ariba - Guide, Download</p>
+</li>
 </ul>
 </td>
 </tr>
