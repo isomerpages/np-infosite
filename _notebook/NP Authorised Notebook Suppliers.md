@@ -23,7 +23,7 @@ contact details.</p>
 <p>Tel: 6563 6563</p>
 </li>
 <li>
-<p>Hotline Hours: 8.30am to 5.30pm, (Mon to Fri)</p>
+<p>Hotline Hours: 8.30am to 5.30pm, (Mon to Fri, excluding Public Holidays)</p>
 </li>
 <li>
 <p>Place Order Online @ <em><u>Launching Mid-February 2026</u></em>
