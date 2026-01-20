@@ -11,6 +11,42 @@ description: ""
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p><strong>Acer Computer (Singapore) Pte Ltd</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Service Hotline: 1800 895 6299 (Mon - Fri: 8:30am to 5:30pm)</p>
+</li>
+<li>
+<p>Technical Support email: <a href="mailto:acercare.sg@acer.com" rel="noopener noreferrer nofollow" target="_blank">acercare.sg@acer.com</a>
+</p>
+</li>
+</ul>
+<p></p>
+<p><strong>HP: AsiaPac Technology Pte Ltd</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Service Hotline: 6272 0088
+<br>(Mon - Thurs: 8:30am to 5:30pm; Fri: 8:30am to 5pm)</p>
+</li>
+<li>
+<p>Technical Support email: <a href="mailto:institution.support@asiapac.com.sg" rel="noopener noreferrer nofollow" target="_blank">institution.support@asiapac.com.sg</a>
+</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Lenovo: NUS Multi-purpose Co-operative Society Ltd</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Service Hotline: 800 - 852 8100 (Mon - Fri: 9am to 6pm)</p>
+</li>
+<li>
+<p>Technical Support email: <a href="mailto:Svcctr@servlink.com.sg" rel="noopener noreferrer nofollow" target="_blank">svcctr@servlink.com.sg</a>
+</p>
+</li>
+</ul>
 </div>
 </details>
 </div>
