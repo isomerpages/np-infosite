@@ -26,7 +26,7 @@ contact details.</p>
 <p>Hotline Hours: 8.30am to 5.30pm, (Mon to Fri)</p>
 </li>
 <li>
-<p>Place Order Online @ <em><u>Coming Soon in Mid Feb 2026</u></em>
+<p>Place Order Online @ <em><u>Launching Mid-February 2026</u></em>
 </p>
 </li>
 </ul>
@@ -45,7 +45,7 @@ contact details.</p>
 <p>Hotline Hours: 8.30am to 5.30pm (Mon to Fri, excluding Public Holidays)</p>
 </li>
 <li>
-<p>Place Order Online @ <em><u>Coming Soon in Mid Feb 2026</u></em>
+<p>Place Order Online @ <em><u>Launching Mid-February 2026</u></em>
 </p>
 </li>
 </ul>
@@ -64,7 +64,7 @@ contact details.</p>
 <p>Hotline Hours: 8.30am to 5.30pm (Mon to Fri, excluding Public Holidays)</p>
 </li>
 <li>
-<p>Place Order Online @ <em><u>Coming Soon in Mid Feb 2026</u></em>
+<p>Place Order Online @ <em><u>Launching Mid-February 2026</u></em>
 </p>
 </li>
 </ul>
