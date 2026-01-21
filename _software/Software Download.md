@@ -316,7 +316,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>Tableau Desktop - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/TableauReader_guide.pdf?csf=1&amp;web=1&amp;e=80SAcs" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>Tableau Desktop - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQDbPEAflMQATbDfKe-wooZ0AZVxFZrO4D072A-xfe7keFI?e=ahmysH" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.tableau.com/products/reader/download" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -340,7 +340,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>Tableau Desktop - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/TableauReader_guide.pdf?csf=1&amp;web=1&amp;e=80SAcs" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>Tableau Desktop - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQDbPEAflMQATbDfKe-wooZ0AZVxFZrO4D072A-xfe7keFI?e=ahmysH" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.tableau.com/products/public/download" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
