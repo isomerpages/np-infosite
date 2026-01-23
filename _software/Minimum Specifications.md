@@ -179,10 +179,6 @@ Common ICT Programme</p>
 CyberSecurity &amp; Digital Forensics</p>
 </li>
 <li>
-<p><a href="/courses/im" rel="noopener noreferrer nofollow" target="_blank">IM</a> -
-Immersive Media</p>
-</li>
-<li>
 <p><a href="/courses/it" rel="noopener noreferrer nofollow" target="_blank">IT</a> -
 Information Technology</p>
 </li>
