@@ -179,17 +179,6 @@ description: ""
 <p></p>
 </li>
 <li>
-<p>Staff-in-Charge: Ms. Jessie Tan</p>
-</li>
-<li>
-<p>Tel: 6460 7828</p>
-</li>
-<li>
-<p>Email: <a href="mailto:Jessie_TAN@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Jessie_TAN@np.edu.sg</a>
-</p>
-<p></p>
-</li>
-<li>
 <p>HS Office</p>
 </li>
 <li>
@@ -216,13 +205,10 @@ description: ""
 <p></p>
 </li>
 <li>
-<p>Staff-in-Charge: Ms. Jessie Tan</p>
+<p>Staff-in-Charge: Mr. Gavin Chea</p>
 </li>
 <li>
-<p>Tel: 6460 7828</p>
-</li>
-<li>
-<p>Email: <a href="mailto:Jessie_TAN@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Jessie_TAN@np.edu.sg</a>​</p>
+<p>Email: <a href="mailto:Gavin_CHEAH@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Gavin_CHEAH@np.edu.sg</a>​</p>
 <p></p>
 </li>
 <li>
