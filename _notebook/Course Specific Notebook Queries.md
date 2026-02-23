@@ -205,10 +205,10 @@ description: ""
 <p></p>
 </li>
 <li>
-<p>Staff-in-Charge: Mr. Gavin Chea</p>
+<p>Staff-in-Charge: Mr. Gavin Cheah</p>
 </li>
 <li>
-<p>Email: <a href="mailto:Gavin_CHEAH@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Gavin_CHEAH@np.edu.sg</a>​</p>
+<p>Email: <a href="mailto:Gavin_CHEAH@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Gavin_Cheah@np.edu.sg</a>​</p>
 <p></p>
 </li>
 <li>
