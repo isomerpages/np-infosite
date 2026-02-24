@@ -232,7 +232,7 @@ description: ""
 <p>School of InfoComm Technology (ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Course: CICTP, CSF, DS, IM, IT</strong>
+<p><strong>Course: AAA, CICTP, CLW, CSF, IT</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
