@@ -179,17 +179,6 @@ description: ""
 <p></p>
 </li>
 <li>
-<p>Staff-in-Charge: Ms. Jessie Tan</p>
-</li>
-<li>
-<p>Tel: 6460 7828</p>
-</li>
-<li>
-<p>Email: <a href="mailto:Jessie_TAN@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Jessie_TAN@np.edu.sg</a>
-</p>
-<p></p>
-</li>
-<li>
 <p>HS Office</p>
 </li>
 <li>
@@ -216,13 +205,13 @@ description: ""
 <p></p>
 </li>
 <li>
-<p>Staff-in-Charge: Ms. Jessie Tan</p>
+<p>Staff-in-Charge: Mr. Gavin Cheah</p>
 </li>
 <li>
-<p>Tel: 6460 7828</p>
+<p>Tel: 6460 6338</p>
 </li>
 <li>
-<p>Email: <a href="mailto:Jessie_TAN@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Jessie_TAN@np.edu.sg</a>​</p>
+<p>Email: <a href="mailto:Gavin_CHEAH@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Gavin_Cheah@np.edu.sg</a>​</p>
 <p></p>
 </li>
 <li>
@@ -243,7 +232,7 @@ description: ""
 <p>School of InfoComm Technology (ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Course: CICTP, CSF, DS, IM, IT</strong>
+<p><strong>Course: AAA, CICTP, CLW, CSF, IT</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -275,7 +264,7 @@ description: ""
 <p>School of Life Sciences &amp; Chemical Technology (LSCT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Course: BMS, CBE, CSP, EWT, LDH, PHARM</strong>
+<p><strong>Course: BMS, CBE, CSP, ESS, LDH, PHARM</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>

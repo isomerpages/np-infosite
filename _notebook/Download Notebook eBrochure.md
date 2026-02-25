@@ -5,21 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>📢</strong> <strong>Purchase notebook online at the Authorised Notebook Suppliers’ website.</strong></h4>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Pages/mfp_logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="2026 Student Notebook Roadshow Banner" src="/images/2026_notebookbanner_v2.png">
 </div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">2026 Models for Purchase (Launching End-February 2026)</div>
-<div class="isomer-card-description">Please upload a screenshot of your Acceptance Letter, Student Status Letter,
-Course Registration Submission, or Student ID when placing an online order
-on the notebook supplier's website. Notebooks will be available for online
-purchase throughout the year, subject to stock availability.</div>
-</div>
-</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www2.np.edu.sg/files/np_roadshow_online_brochure_26_march_2026_v1.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Pages/mfp_logo.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2026 Models for Purchase</div><div class="isomer-card-description">Please upload a screenshot of your Acceptance Letter, Student Status Letter, Course Registration Submission, or Student ID when placing an online order on the notebook supplier's website. Notebooks will be available for online purchase throughout the year, subject to stock availability.</div><div class="isomer-card-link">Download 2026 Notebook eBrochure</div></div></a>
 </div>
 <hr>
 <p></p>
