@@ -9,7 +9,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="2026 Notebook Banner vClean" src="/images/2026_notebookbanner_vClean.png">
 </div>
 <p>• Priority for notebook purchases will be given to <strong>2026 Freshmen (Full-time &amp; Poly Foundation Programme)</strong>.</p>
-<p>•	<strong>IMPORTANT</strong>: Year 2, Year 3 and Full-Time CET students,
+<p>• <strong>IMPORTANT</strong>: Year 2, Year 3 and Full-Time CET students,
 as well as staff, should only purchase from May 2026 onwards*, as freshmen
 are given priority to secure a notebook first. Thank you for your understanding.
 <br>*If you require a notebook urgently for your studies (e.g. a faulty notebook),
@@ -80,7 +80,7 @@ contact details.</p>
 </ul>
 <hr>
 <h4>Apple SG Education Store</h4>
-<p>For students who require Apple products (e.g. MacBook) for your study
+<p>For students who require Apple products (e.g. Macbook) for your study
 in NP, you can purchase them at education price directly from the Apple
 SG Education Store.</p>
 <table style="minWidth: 75px">
