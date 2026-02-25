@@ -55,7 +55,7 @@ contact details.</p>
 <p>Hotline Hours: 8.30am to 5.30pm (Mon to Fri, excluding Public Holidays)</p>
 </li>
 <li>
-<p>Place Order Online @ <a href="https://e-shop-lenovo.asiapac.com.sg/shop?school=np" rel="noopener noreferrer nofollow" target="_blank">https://e-shop-lenovo.asiapac.com.sg/shop?school=np</a>
+<p>Place Order Online @ <a href="https://e-shop-hp.asiapac.com.sg/shop?school=np" rel="noopener noreferrer nofollow" target="_blank">https://e-shop-hp.asiapac.com.sg/shop?school=np</a>
 </p>
 </li>
 </ul>
@@ -74,7 +74,7 @@ contact details.</p>
 <p>Hotline Hours: 8.30am to 5.30pm (Mon to Fri, excluding Public Holidays)</p>
 </li>
 <li>
-<p>Place Order Online @ <a href="https://e-shop-hp.asiapac.com.sg/shop?school=np" rel="noopener noreferrer nofollow" target="_blank">https://e-shop-hp.asiapac.com.sg/shop?school=np</a>
+<p>Place Order Online @ <a href="https://e-shop-lenovo.asiapac.com.sg/shop?school=np" rel="noopener noreferrer nofollow" target="_blank">https://e-shop-lenovo.asiapac.com.sg/shop?school=np</a>
 </p>
 </li>
 </ul>
