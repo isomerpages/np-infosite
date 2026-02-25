@@ -16,6 +16,7 @@ are given priority to secure a notebook first. Thank you for your understanding.
 <br>*If you require a notebook urgently for your studies (e.g. a faulty notebook),
 please contact the notebook suppliers directly via email first. Request
 will be subject to review and stock availability.</p>
+<p></p>
 <blockquote>
 <p>You must use your personal notebook computer and other IT device(s) for
 learning and assessment at NP, as required by your Diploma course.</p>
@@ -41,4 +42,5 @@ a Windows-based notebook computer or a Mac-based Apple notebook computer.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="The Centre for Learning &amp; Teaching Excellence Logo" src="/images/CLTE_logo.png">
 </div>
+<p></p>
 <p></p>
