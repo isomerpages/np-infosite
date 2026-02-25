@@ -8,8 +8,15 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2026 Notebook Banner vClean" src="/images/2026_notebookbanner_vClean.png">
 </div>
+<p>• Priority for notebook purchases will be given to <strong>2026 Freshmen (Full-time &amp; Poly Foundation Programme).</strong>
+</p>
+<p>•	<strong>IMPORTANT:</strong> Year 2, Year 3 and Full-Time CET students,
+as well as staff, should only purchase from May 2026 onwards*, as freshmen
+are given priority to secure a notebook first. Thank you for your understanding.
+<br>*If you require a notebook urgently for your studies (e.g. a faulty notebook),
+please contact the notebook suppliers directly via email first. Request
+will be subject to review and stock availability.</p>
 <blockquote>
-<p></p>
 <p>You must use your personal notebook computer and other IT device(s) for
 learning and assessment at NP, as required by your Diploma course.</p>
 </blockquote>
