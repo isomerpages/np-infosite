@@ -10,7 +10,7 @@ description: ""
 </div>
 <p>• Priority for notebook purchases will be given to <strong>2026 Freshmen (Full-time &amp; Poly Foundation Programme).</strong>
 </p>
-<p>•	<strong>IMPORTANT:</strong> Year 2, Year 3 and Full-Time CET students,
+<p>• <strong>IMPORTANT:</strong> Year 2, Year 3 and Full-Time CET students,
 as well as staff, should only purchase from May 2026 onwards*, as freshmen
 are given priority to secure a notebook first. Thank you for your understanding.
 <br>*If you require a notebook urgently for your studies (e.g. a faulty notebook),
