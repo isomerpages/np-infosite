@@ -274,7 +274,7 @@ description: ""
 <p>Tel: 6460 8392</p>
 </li>
 <li>
-<p>Email: ​<a href="mailto:NEO_Tiong_Cheng@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">NEO_Tiong_Cheng@np.edu.sg</a> 
+<p>Email: ​<a href="mailto:NEO_Tiong_Cheng@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">NEO_Tiong_Cheng@np.edu.sg</a>
 </p>
 <p></p>
 </li>
