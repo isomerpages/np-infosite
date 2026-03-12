@@ -268,23 +268,13 @@ description: ""
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Staff-in-Charge: Ms. Stephanie Wong​</p>
+<p>Staff-in-Charge: Mr. Neo Tiong Cheng</p>
 </li>
 <li>
-<p>Tel: 6460 8971​</p>
+<p>Tel: 6460 8392</p>
 </li>
 <li>
-<p>Email: <a href="mailto:Stephanie_Wong@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Stephanie_Wong@np.edu.sg</a>​</p>
-<p></p>
-</li>
-<li>
-<p>Staff-in-Charge: Dr. Wayne Forday</p>
-</li>
-<li>
-<p>Tel: 6460 6747</p>
-</li>
-<li>
-<p>Email: <a href="mailto:Wayne_FORDAY@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Wayne_FORDAY@np.edu.sg</a>
+<p>Email: ​<a href="mailto:NEO_Tiong_Cheng@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">NEO_Tiong_Cheng@np.edu.sg</a>
 </p>
 <p></p>
 </li>
