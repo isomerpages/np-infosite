@@ -24,7 +24,7 @@ and password.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Course</p>
+<p>Cluster</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Software Required</p>
@@ -32,7 +32,7 @@ and password.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>FPSCI</strong> - Science</p>
+<p>Sciences</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -46,7 +46,7 @@ and password.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>FPTEC</strong> - Technology</p>
+<p>Design, Engineering &amp; Technology (DET)</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -65,7 +65,7 @@ and password.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>FPNST</strong> - Non-Science / Technology</p>
+<p>Humanities, Art, Media &amp; Business (HAMB)</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -89,7 +89,6 @@ and password.</p>
 <details class="isomer-details">
 <summary>School of Business &amp; Accountancy (BA)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
