@@ -1,6 +1,0 @@
-collections:
-  staff-directory:
-    output: true
-    order:
-      - Staff Directory.md
-      - Meet LSCT Staff.md
