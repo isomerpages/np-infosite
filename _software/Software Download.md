@@ -1390,7 +1390,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>AutoCAD 2026 - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQAayGfXDiidRrVqn2SJ_WVPAU-nWnsxQyVjaJ6pNfaI7Xg?e=takmvg" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>AutoCAD 2026 - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQAayGfXDiidRrVqn2SJ_WVPAU-nWnsxQyVjaJ6pNfaI7Xg" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -1599,7 +1599,7 @@ and password.</p>
 <p>CADMATIC 2020 (on-prem) - Please consult your lecturer</p>
 </li>
 <li>
-<p>AutoCAD 2026 - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQAayGfXDiidRrVqn2SJ_WVPAU-nWnsxQyVjaJ6pNfaI7Xg?e=takmvg" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>AutoCAD 2026 - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQAayGfXDiidRrVqn2SJ_WVPAU-nWnsxQyVjaJ6pNfaI7Xg" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -1788,7 +1788,7 @@ and password.</p>
 <p>NAPA (on-prem) - Please consult your lecturer</p>
 </li>
 <li>
-<p>AutoCAD 2026 - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQAayGfXDiidRrVqn2SJ_WVPAU-nWnsxQyVjaJ6pNfaI7Xg?e=takmvg" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>AutoCAD 2026 - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQAayGfXDiidRrVqn2SJ_WVPAU-nWnsxQyVjaJ6pNfaI7Xg" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
