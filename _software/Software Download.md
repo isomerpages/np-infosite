@@ -1557,7 +1557,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>Labview 2020 (32-bit) - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Labview_guide.pdf" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>Labview 2020 (32-bit) - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQD8dqcuntY1RpNnneuriK2TAXnYndTYlHjylx2LnIkInOg?e=dvi9uy" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.ni.com/en/support/downloads/software-products/download.labview.html" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -1766,7 +1766,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>Labview 2020 (32-bit) - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Labview_guide.pdf?csf=1&amp;web=1&amp;e=ANfMv5" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>Labview 2020 (32-bit) - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQD8dqcuntY1RpNnneuriK2TAXnYndTYlHjylx2LnIkInOg?e=dvi9uy" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.ni.com/en/support/downloads/software-products/download.labview.html" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
