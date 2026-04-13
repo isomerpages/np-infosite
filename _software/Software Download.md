@@ -829,7 +829,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>R Software - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/RSoftware_guide.pdf?csf=1&amp;web=1&amp;e=2cf1xw" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>R Software - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQC6CeCaFQAsRIYnTC9XmN9OASv_0jthwY3hfVMV1f6JjwA?e=pK7Z7e" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://cran.asia/bin/windows/base/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -919,7 +919,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>R Software - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/RSoftware_guide.pdf?csf=1&amp;web=1&amp;e=2cf1xw" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>R Software - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQC6CeCaFQAsRIYnTC9XmN9OASv_0jthwY3hfVMV1f6JjwA?e=pK7Z7e" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://cran.asia/bin/windows/base/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -1055,7 +1055,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>R Software - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/RSoftware_guide.pdf?csf=1&amp;web=1&amp;e=2cf1xw" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>R Software - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQC6CeCaFQAsRIYnTC9XmN9OASv_0jthwY3hfVMV1f6JjwA?e=pK7Z7e" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://cran.asia/bin/windows/base/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
