@@ -130,7 +130,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>Python 3.14.2 - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQBvMXGr7DARTLNzeO0h_RLyAfsyn47ES25p_4vryp56Od8?e=6Vabk4" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>Python 3.14.2 - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQBvMXGr7DARTLNzeO0h_RLyAfsyn47ES25p_4vryp56Od8?e=oq5ogN" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.python.org/downloads/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -597,7 +597,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>Python - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Python3.10.2_Guide.pdf?csf=1&amp;web=1&amp;e=hqOphX" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>Python - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQBvMXGr7DARTLNzeO0h_RLyAfsyn47ES25p_4vryp56Od8?e=oq5ogN" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.python.org/downloads/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -635,7 +635,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>Python - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Python3.10.2_Guide.pdf?csf=1&amp;web=1&amp;e=hqOphX" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>Python - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQBvMXGr7DARTLNzeO0h_RLyAfsyn47ES25p_4vryp56Od8?e=oq5ogN" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.python.org/downloads/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -668,7 +668,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>Python - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Python3.10.2_Guide.pdf?csf=1&amp;web=1&amp;e=hqOphX" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>Python - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQBvMXGr7DARTLNzeO0h_RLyAfsyn47ES25p_4vryp56Od8?e=oq5ogN" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.python.org/downloads/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -701,7 +701,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>Python - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Python3.10.2_Guide.pdf?csf=1&amp;web=1&amp;e=hqOphX" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>Python - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQBvMXGr7DARTLNzeO0h_RLyAfsyn47ES25p_4vryp56Od8?e=oq5ogN" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.python.org/downloads/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -744,7 +744,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>Python - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Python3.10.2_Guide.pdf?csf=1&amp;web=1&amp;e=hqOphX" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>Python - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQBvMXGr7DARTLNzeO0h_RLyAfsyn47ES25p_4vryp56Od8?e=oq5ogN" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.python.org/downloads/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -777,7 +777,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>Python - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Python3.10.2_Guide.pdf?csf=1&amp;web=1&amp;e=hqOphX" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>Python - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQBvMXGr7DARTLNzeO0h_RLyAfsyn47ES25p_4vryp56Od8?e=oq5ogN" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.python.org/downloads/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -829,7 +829,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>R Software - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/RSoftware_guide.pdf?csf=1&amp;web=1&amp;e=2cf1xw" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>R Software - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQC6CeCaFQAsRIYnTC9XmN9OASv_0jthwY3hfVMV1f6JjwA?e=pK7Z7e" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://cran.asia/bin/windows/base/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -859,7 +859,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>Python - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Python3.10.2_Guide.pdf?csf=1&amp;web=1&amp;e=hqOphX" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>Python - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQBvMXGr7DARTLNzeO0h_RLyAfsyn47ES25p_4vryp56Od8?e=oq5ogN" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.python.org/downloads/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -919,7 +919,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>R Software - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/RSoftware_guide.pdf?csf=1&amp;web=1&amp;e=2cf1xw" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>R Software - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQC6CeCaFQAsRIYnTC9XmN9OASv_0jthwY3hfVMV1f6JjwA?e=pK7Z7e" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://cran.asia/bin/windows/base/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -949,7 +949,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>Python - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Python3.10.2_Guide.pdf?csf=1&amp;web=1&amp;e=hqOphX" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>Python - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQBvMXGr7DARTLNzeO0h_RLyAfsyn47ES25p_4vryp56Od8?e=oq5ogN" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.python.org/downloads/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -1055,7 +1055,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>R Software - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/RSoftware_guide.pdf?csf=1&amp;web=1&amp;e=2cf1xw" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>R Software - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQC6CeCaFQAsRIYnTC9XmN9OASv_0jthwY3hfVMV1f6JjwA?e=pK7Z7e" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://cran.asia/bin/windows/base/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -1180,7 +1180,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>VS Community 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VS2022_guide.pdf?csf=1&amp;web=1&amp;e=IzbPi7" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>VS Community 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQC-6JI0hk3uT4mj6TXlOGfGAZaTjrldSnF10dzXEEcL370?e=2sy0aM" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://visualstudio.microsoft.com/vs/community/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -1245,7 +1245,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>VS Community 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VS2022_guide.pdf?csf=1&amp;web=1&amp;e=IzbPi7" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>VS Community 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQC-6JI0hk3uT4mj6TXlOGfGAZaTjrldSnF10dzXEEcL370?e=2sy0aM" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://visualstudio.microsoft.com/vs/community/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -1312,7 +1312,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>VS Community 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VS2022_guide.pdf?csf=1&amp;web=1&amp;e=IzbPi7" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>VS Community 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQC-6JI0hk3uT4mj6TXlOGfGAZaTjrldSnF10dzXEEcL370?e=2sy0aM" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://visualstudio.microsoft.com/vs/community/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -1390,7 +1390,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>AutoCAD 2026 - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQAayGfXDiidRrVqn2SJ_WVPAU-nWnsxQyVjaJ6pNfaI7Xg?e=takmvg" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>AutoCAD 2026 - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQAayGfXDiidRrVqn2SJ_WVPAU-nWnsxQyVjaJ6pNfaI7Xg" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -1493,7 +1493,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>VS Community 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VS2022_guide.pdf?csf=1&amp;web=1&amp;e=IzbPi7" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>VS Community 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQC-6JI0hk3uT4mj6TXlOGfGAZaTjrldSnF10dzXEEcL370?e=2sy0aM" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://visualstudio.microsoft.com/vs/community/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -1547,7 +1547,7 @@ and password.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>VS Community 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VS2022_guide.pdf?csf=1&amp;web=1&amp;e=IzbPi7" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>VS Community 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQC-6JI0hk3uT4mj6TXlOGfGAZaTjrldSnF10dzXEEcL370?e=2sy0aM" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://visualstudio.microsoft.com/vs/community/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -1557,7 +1557,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>Labview 2020 (32-bit) - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Labview_guide.pdf" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>Labview 2020 (32-bit) - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQD8dqcuntY1RpNnneuriK2TAXnYndTYlHjylx2LnIkInOg?e=dvi9uy" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.ni.com/en/support/downloads/software-products/download.labview.html" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -1599,7 +1599,7 @@ and password.</p>
 <p>CADMATIC 2020 (on-prem) - Please consult your lecturer</p>
 </li>
 <li>
-<p>AutoCAD 2026 - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQAayGfXDiidRrVqn2SJ_WVPAU-nWnsxQyVjaJ6pNfaI7Xg?e=takmvg" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>AutoCAD 2026 - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQAayGfXDiidRrVqn2SJ_WVPAU-nWnsxQyVjaJ6pNfaI7Xg" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -1697,7 +1697,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>VS Community 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VS2022_guide.pdf?csf=1&amp;web=1&amp;e=IzbPi7" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>VS Community 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQC-6JI0hk3uT4mj6TXlOGfGAZaTjrldSnF10dzXEEcL370?e=2sy0aM" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://visualstudio.microsoft.com/vs/community/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -1756,7 +1756,7 @@ and password.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>VS Community 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VS2022_guide.pdf?csf=1&amp;web=1&amp;e=IzbPi7" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>VS Community 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQC-6JI0hk3uT4mj6TXlOGfGAZaTjrldSnF10dzXEEcL370?e=2sy0aM" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://visualstudio.microsoft.com/vs/community/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -1766,7 +1766,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>Labview 2020 (32-bit) - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Labview_guide.pdf?csf=1&amp;web=1&amp;e=ANfMv5" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>Labview 2020 (32-bit) - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQD8dqcuntY1RpNnneuriK2TAXnYndTYlHjylx2LnIkInOg?e=dvi9uy" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.ni.com/en/support/downloads/software-products/download.labview.html" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -1788,7 +1788,7 @@ and password.</p>
 <p>NAPA (on-prem) - Please consult your lecturer</p>
 </li>
 <li>
-<p>AutoCAD 2026 - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQAayGfXDiidRrVqn2SJ_WVPAU-nWnsxQyVjaJ6pNfaI7Xg?e=takmvg" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>AutoCAD 2026 - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQAayGfXDiidRrVqn2SJ_WVPAU-nWnsxQyVjaJ6pNfaI7Xg" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
