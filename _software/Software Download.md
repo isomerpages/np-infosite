@@ -791,6 +791,7 @@ and password.</p>
 <details class="isomer-details">
 <summary>School of Life Sciences &amp; Chemical Technology (LSCT)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -881,11 +882,6 @@ and password.</p>
 <li>
 <p>AutoCAD 2025 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AutoCAD2025_guide.pdf?csf=1&amp;web=1&amp;e=u2yBBM" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://www.autodesk.com/education/edu-software/overview" rel="noopener nofollow" target="_blank">Download</a>
-</p>
-</li>
-<li>
-<p>AspenHysys - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/AspenHysys_guide.pdf?csf=1&amp;web=1&amp;e=6iouKL" rel="noopener nofollow" target="_blank">Guide</a>,
-<a href="https://connectnpedu-my.sharepoint.com/:u:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/Installers/AspenHysys.zip?csf=1&amp;web=1&amp;e=9FmH1Y" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
 <li>
