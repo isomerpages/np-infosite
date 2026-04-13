@@ -1180,7 +1180,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>VS Community 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VS2022_guide.pdf?csf=1&amp;web=1&amp;e=IzbPi7" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>VS Community 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQC-6JI0hk3uT4mj6TXlOGfGAZaTjrldSnF10dzXEEcL370?e=2sy0aM" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://visualstudio.microsoft.com/vs/community/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -1245,7 +1245,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>VS Community 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VS2022_guide.pdf?csf=1&amp;web=1&amp;e=IzbPi7" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>VS Community 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQC-6JI0hk3uT4mj6TXlOGfGAZaTjrldSnF10dzXEEcL370?e=2sy0aM" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://visualstudio.microsoft.com/vs/community/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -1312,7 +1312,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>VS Community 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VS2022_guide.pdf?csf=1&amp;web=1&amp;e=IzbPi7" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>VS Community 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQC-6JI0hk3uT4mj6TXlOGfGAZaTjrldSnF10dzXEEcL370?e=2sy0aM" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://visualstudio.microsoft.com/vs/community/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -1493,7 +1493,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>VS Community 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VS2022_guide.pdf?csf=1&amp;web=1&amp;e=IzbPi7" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>VS Community 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQC-6JI0hk3uT4mj6TXlOGfGAZaTjrldSnF10dzXEEcL370?e=2sy0aM" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://visualstudio.microsoft.com/vs/community/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -1547,7 +1547,7 @@ and password.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>VS Community 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VS2022_guide.pdf?csf=1&amp;web=1&amp;e=IzbPi7" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>VS Community 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQC-6JI0hk3uT4mj6TXlOGfGAZaTjrldSnF10dzXEEcL370?e=2sy0aM" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://visualstudio.microsoft.com/vs/community/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -1697,7 +1697,7 @@ and password.</p>
 </p>
 </li>
 <li>
-<p>VS Community 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VS2022_guide.pdf?csf=1&amp;web=1&amp;e=IzbPi7" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>VS Community 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQC-6JI0hk3uT4mj6TXlOGfGAZaTjrldSnF10dzXEEcL370?e=2sy0aM" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://visualstudio.microsoft.com/vs/community/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
@@ -1756,7 +1756,7 @@ and password.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>VS Community 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/r/personal/itcare_connect_np_edu_sg/Documents/Guides/VS2022_guide.pdf?csf=1&amp;web=1&amp;e=IzbPi7" rel="noopener nofollow" target="_blank">Guide</a>,
+<p>VS Community 2022 - <a href="https://connectnpedu-my.sharepoint.com/:b:/g/personal/itcare_connect_np_edu_sg/IQC-6JI0hk3uT4mj6TXlOGfGAZaTjrldSnF10dzXEEcL370?e=2sy0aM" rel="noopener nofollow" target="_blank">Guide</a>,
 <a href="https://visualstudio.microsoft.com/vs/community/" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 </li>
