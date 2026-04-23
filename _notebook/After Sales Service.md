@@ -23,7 +23,7 @@ description: ""
 </li>
 </ul>
 <p></p>
-<p><strong>HP: AsiaPac Technology Pte Ltd</strong>
+<p><strong>HP: Keppel Technology Solutions Pte. Ltd.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -31,7 +31,7 @@ description: ""
 <br>(Mon - Thurs: 8:30am to 5:30pm; Fri: 8:30am to 5pm)</p>
 </li>
 <li>
-<p>Technical Support email: <a href="mailto:institution.support@asiapac.com.sg" rel="noopener noreferrer nofollow" target="_blank">institution.support@asiapac.com.sg</a>
+<p>Technical Support email: <a href="mailto:institution-support.techsolutions-sg@keppel.com" rel="noopener noreferrer nofollow" target="_blank">institution-support.techsolutions-sg@keppel.com</a>
 </p>
 </li>
 </ul>
