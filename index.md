@@ -32,7 +32,7 @@ sections:
         Warranty |  Next-Business Day Service
       button: Purchase Notebook
       url: /notebook/authorisednbsuppliers/
-      image: /images/notebook.png
+      image: /images/main4.png
       alt: buy from authorised supplier
   - infopic:
       title: Get the right software for your course
@@ -50,6 +50,6 @@ sections:
         resources.
       button: Discover more
       url: /quick-links/student/
-      image: /images/itservices.png
+      image: /images/main3.png
       alt: list of it services
 ---
