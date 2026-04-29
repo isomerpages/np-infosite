@@ -11,7 +11,7 @@ notification: ""
 sections:
   - hero:
       title: Digital Services
-      background: /images/Banner and Logo/main.png
+      background: /images/main0.png
       variant: center
       key_highlights:
         - title: Software
