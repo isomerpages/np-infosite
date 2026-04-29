@@ -11,7 +11,7 @@ notification: ""
 sections:
   - hero:
       title: Digital Services
-      background: /images/Banner and Logo/banner_students.jpg
+      background: /images/Banner and Logo/main.png
       variant: center
       key_highlights:
         - title: Software
@@ -41,7 +41,7 @@ sections:
         free of charge.
       button: Download
       url: /software/
-      image: /images/Banner and Logo/studentswdownload.png
+      image: /images/main1.png
       alt: students using digital devices
   - infopic:
       title: Quick Links
