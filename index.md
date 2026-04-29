@@ -32,7 +32,7 @@ sections:
         Warranty |  Next-Business Day Service
       button: Purchase Notebook
       url: /notebook/authorisednbsuppliers/
-      image: /images/main4.png
+      image: /images/main5.png
       alt: buy from authorised supplier
   - infopic:
       title: Get the right software for your course
