@@ -11,7 +11,7 @@ notification: ""
 sections:
   - hero:
       title: Digital Services
-      background: /images/Banner and Logo/banner_students.jpg
+      background: /images/main0.png
       variant: center
       key_highlights:
         - title: Software
@@ -32,7 +32,7 @@ sections:
         Warranty |  Next-Business Day Service
       button: Purchase Notebook
       url: /notebook/authorisednbsuppliers/
-      image: /images/notebook.png
+      image: /images/main6.png
       alt: buy from authorised supplier
   - infopic:
       title: Get the right software for your course
@@ -41,7 +41,7 @@ sections:
         free of charge.
       button: Download
       url: /software/
-      image: /images/Banner and Logo/studentswdownload.png
+      image: /images/main1.png
       alt: students using digital devices
   - infopic:
       title: Quick Links
@@ -50,6 +50,6 @@ sections:
         resources.
       button: Discover more
       url: /quick-links/student/
-      image: /images/itservices.png
+      image: /images/main3.png
       alt: list of it services
 ---
