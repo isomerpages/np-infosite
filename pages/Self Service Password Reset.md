@@ -4,27 +4,14 @@ permalink: /self-service-password-reset/
 variant: tiptap
 description: ""
 ---
-<blockquote>
-<p>Available 24/7 · Secure · Takes about ~60 seconds</p>
-</blockquote>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
+<p><strong>Available 24/7 · Secure · Takes about ~60 seconds</strong>
+</p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://www1.np.edu.sg/resetpwd/"><img style="width: 100%;" height="auto" width="100%" alt="for staff" src="/images/staff_card__1_.png"></a>
-</th>
-<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="for staff" src="/images/staff_card__1_.png">
+</div>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://www1.np.edu.sg/npnet/StuPwdMgt/Pages/Public/selfservicereset.aspx/pwdforget.aspx"><img style="width: 100%" height="auto" width="100%" alt="for students" src="/images/students_card__1_.png"></a>
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="for students" src="/images/students_card__1_.png">
+</div>
 <p></p>
