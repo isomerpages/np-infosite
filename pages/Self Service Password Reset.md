@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <p style="text-align: center;">
-  <img style="max-width: 400px; width: 100%; height: auto;" alt="Available 24/7 · Secure &amp; verified · Takes ~60 seconds" src="/images/trust_badges.png">
+  <img style="max-width: 600px; width: 100%; height: auto;" alt="Available 24/7 · Secure &amp; verified · Takes ~60 seconds" src="/images/trust_badges.png">
 </p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; max-width: 1080px; margin: 0 auto;">
