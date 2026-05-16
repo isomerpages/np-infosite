@@ -27,5 +27,7 @@ links:
     collection: guides
   - title: Quick Links
     collection: quick-links
+  - title: Reset Password
+    url: /self-service-password-reset/
   - title: Contact Us
     url: /contact-us
