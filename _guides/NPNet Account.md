@@ -13,8 +13,8 @@ to Connect Email, POLITEMall (BrightSpace), NPal Student and other NP systems.</
 <p></p>
 <h4>I forgot my password and need to reset it</h4>
 <p>You can reset your password via the <a href="https://www1.np.edu.sg/cc/std_acct/pwdreset/pwdforget.aspx" rel="noopener noreferrer nofollow" target="_blank">Reset Password</a> link.
-The service will challenge you for your student number, NRIC/FIN number,
-date of birth and personal email address registered in NPal Student.</p>
+The service will challenge you for your student number and personal email
+address registered in NPal Student.</p>
 <p></p>
 <h4>I need further assistance</h4>
 <p>Alternatively, you may visit the IT Helpdesk at Blk 1, Level 1, #01-16
