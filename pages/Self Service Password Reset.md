@@ -4,9 +4,10 @@ permalink: /self-service-password-reset/
 variant: tiptap
 description: ""
 ---
-<p><strong>Available 24/7 · Secure · Takes about ~60 seconds</strong>
-</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="mini card" src="/images/mini_card.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="for students" src="/images/students_card__1_.png">
 </div>
