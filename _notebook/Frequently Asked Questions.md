@@ -41,10 +41,10 @@ computer from NP's authorised suppliers as you will enjoy <strong>3 key advantag
 </li>
 </ol>
 <h4>Is there any financial assistance to help me own a notebook​?</h4>
-<p>Yes. Depending on your household income, you may be eligible for either:</p>
-<p>(i) Interest-free Mobile Computing Loan of up to $2,000 for notebook computers</p>
-<p>(ii) Opportunity Fund Subsidy for notebook</p>
-<p>More information is available on the <a href="https://www.np.edu.sg/admissions-enrolment/guide-for-prospective-students/aid" rel="noopener noreferrer nofollow" target="_blank">Financial Assistance</a> page.</p>
+<p>Yes. Depending on your household income, you may be eligible for:</p>
+<p>(i) Opportunity Fund Subsidy for notebook</p>
+<p>More information is available on NP's <a href="https://www.np.edu.sg/admissions-enrolment/guide-for-prospective-students/aid" rel="noopener noreferrer nofollow" target="_blank">Financial Aid</a> web
+page.</p>
 <h4>I already have a notebook. Do I need to purchase another one?</h4>
 <p>As long as your notebook complies with your course minimum specifications,
 you need not buy another one. To find out about the minimum specifications
