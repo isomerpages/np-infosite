@@ -35,7 +35,7 @@ contact details.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Email: <a href="mailto:np@keppel.com" rel="noopener noreferrer nofollow" target="_blank">np@keppel.com</a>
+<p>Email: <a href="mailto:DL-np@keppeltechsolutions.com" rel="noopener noreferrer nofollow" target="_blank">DL-np@keppeltechsolutions.com</a>
 </p>
 </li>
 <li>
@@ -45,7 +45,7 @@ contact details.</p>
 <p>Hotline Hours: 8.30am to 5.30pm (Mon to Fri, excluding Public Holidays)</p>
 </li>
 <li>
-<p>Place Order Online @ <a href="https://e-shop-hp.asiapac.com.sg/shop?school=np" rel="noopener noreferrer nofollow" target="_blank">https://e-shop-hp.asiapac.com.sg/shop?school=np</a>
+<p>Place Order Online @ <a href="https://e-shop-hp.keppeltechsolutions.com/shop?school=np" rel="noopener noreferrer nofollow" target="_blank">https://e-shop-hp.keppeltechsolutions.com/shop?school=np</a>
 </p>
 </li>
 </ul>
