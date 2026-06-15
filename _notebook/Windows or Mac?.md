@@ -5,9 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>📢</strong> <strong>Purchase notebook online at the Authorised Notebook Suppliers’ website.</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2026 Student Notebook Roadshow Banner" src="/images/2026_notebookbanner_v2.png">
-</div>
 <blockquote>
 <p></p>
 <p>Please check&nbsp;<a href="/notebook/specs/" class="cf0" rel="noopener noreferrer nofollow" target="_blank">minimum specifications</a>&nbsp;for
