@@ -5,16 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>📢</strong> <strong>Purchase notebook online at the Authorised Notebook Suppliers’ website.</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2026 Notebook Banner vClean" src="/images/2026_notebookbanner_vClean.png">
-</div>
-<p>• Priority for notebook purchases will be given to <strong>2026 Freshmen (Full-time &amp; Poly Foundation Programme)</strong>.</p>
-<p>• <strong>IMPORTANT</strong>: Year 2, Year 3 and Full-Time CET students,
-as well as staff, should only purchase from May 2026 onwards*, as freshmen
-are given priority to secure a notebook first. Thank you for your understanding.
-<br>*If you require a notebook urgently for your studies (e.g. a faulty notebook),
-please contact the notebook suppliers directly via email first. Request
-will be subject to review and stock availability.</p>
 <p></p>
 <blockquote>
 <p>Prior to purchasing your notebook, please read "<a href="/notebook/winormac" rel="noopener noreferrer nofollow" target="_blank">Windows or Mac?</a>" and check <a href="/notebook/specs/" rel="noopener noreferrer nofollow" target="_blank">minimum specifications</a> for
@@ -74,7 +64,7 @@ contact details.</p>
 <p>Hotline Hours: 8.30am to 5.30pm (Mon to Fri, excluding Public Holidays)</p>
 </li>
 <li>
-<p>Place Order Online @ <a href="https://e-shop-lenovo.asiapac.com.sg/shop?school=np" rel="noopener noreferrer nofollow" target="_blank">https://e-shop-lenovo.asiapac.com.sg/shop?school=np</a>
+<p>Place Order Online @ <a href="https://e-shop-lenovo.keppeltechsolutions.com/" rel="noopener noreferrer nofollow" target="_blank">https://e-shop-lenovo.keppeltechsolutions.com/</a>
 </p>
 </li>
 </ul>
