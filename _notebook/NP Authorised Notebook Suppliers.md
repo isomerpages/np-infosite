@@ -64,7 +64,7 @@ contact details.</p>
 <p>Hotline Hours: 8.30am to 5.30pm (Mon to Fri, excluding Public Holidays)</p>
 </li>
 <li>
-<p>Place Order Online @ <a href="https://e-shop-lenovo.keppeltechsolutions.com/" rel="noopener noreferrer nofollow" target="_blank">https://e-shop-lenovo.keppeltechsolutions.com/</a>
+<p>Place Order Online @ <a href="https://e-shop-lenovo.keppeltechsolutions.com/shop?school=np" rel="noopener noreferrer nofollow" target="_blank">https://e-shop-lenovo.keppeltechsolutions.com/shop?school=np</a>
 </p>
 </li>
 </ul>
